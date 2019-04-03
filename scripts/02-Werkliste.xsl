@@ -38,7 +38,7 @@
                         
                     <xsl:for-each-group select="$files//Dokumente" group-by="substring(./WerkTitel,1,1)">                        
                         <xsl:sort order="ascending" lang="de"  select="current-grouping-key()"></xsl:sort>
-                        <xsl:text>&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;</xsl:text>
+                        <xsl:text>&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;</xsl:text>
                             <!--
                             &lt;th&gt;Bericht&lt;br/&gt;Beginn&lt;/th&gt;&lt;th&gt;Bericht&lt;br/&gt;Ende&lt;/th&gt;&lt;th&gt;Abfassung&lt;br/&gt;Beginn&lt;/th&gt;&lt;th&gt;Abfassung&lt;br/&gt;Ende&lt;/th&gt;
                             -->
@@ -49,8 +49,10 @@
                             <xsl:text>&lt;tr&gt;</xsl:text>
                            <!-- <xsl:sort select="./WerkTitel/data(.)"></xsl:sort> -->
                                 <!-- Werk -->
-                       <xsl:text>&lt;td&gt;</xsl:text> <xsl:text>[[</xsl:text><xsl:value-of select="./WerkTitel/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./WerkTitel/data(.)"/><xsl:text> - </xsl:text><xsl:value-of select="./WerkId/data(.)"/><xsl:text>]]</xsl:text>   
+                       <xsl:text>&lt;td&gt;</xsl:text> <xsl:text>[[</xsl:text><xsl:value-of select="./WerkTitel/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./WerkTitel/data(.)"/><xsl:text>]]</xsl:text>   
                        <xsl:text>&lt;/td&gt;</xsl:text>
+                            <xsl:text>&lt;td&gt;</xsl:text><xsl:value-of select="./WerkId"/><xsl:text>&lt;/td&gt;</xsl:text>
+                            
                                 <!-- Verfasser -->
                                 <xsl:text>&lt;td&gt;</xsl:text>
                            <xsl:text>([[:Kategorie:</xsl:text><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">

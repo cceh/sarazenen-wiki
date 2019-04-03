@@ -47,7 +47,7 @@
       <revision>
          <id>3</id>
          <parentid>0001</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -184,7 +184,7 @@ Thietmar von Merseburg, Chronicon, ed. Robert Holtzmann (MGH SS rer. Germ. N.S. 
       <revision>
          <id>4</id>
          <parentid>0002</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -325,7 +325,7 @@ Hugo von Farfa, Destructio monasterii Farfensis, ed. Ludwig C. Bethmann, in: MGH
       <revision>
          <id>5</id>
          <parentid>0003</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -459,7 +459,7 @@ Liudprand von Cremona, Antapodosis, in: Die Werke Liudprands von Cremona, ed. Jo
       <revision>
          <id>6</id>
          <parentid>0004</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -575,7 +575,7 @@ Widukind von Corvey, Rerum gestarum Saxonicarum libri tres / Die Sachsengeschich
       <revision>
          <id>7</id>
          <parentid>0005</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -715,7 +715,7 @@ Ekkehard IV. von St. Gallen, Casuum S. Galli Continuatio I, ed. Ildefons von Arx
       <revision>
          <id>8</id>
          <parentid>0006</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -848,7 +848,7 @@ Einhard, Vita Karoli Magni, ed. Georg Waitz (MGH SS rer. Germ. [25]), Hannover 1
       <revision>
          <id>9</id>
          <parentid>0007</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1024,7 +1024,7 @@ Annales Fuldenses sive Annales regni Francorum orientalis, ed. Friedrich Kurze (
       <revision>
          <id>10</id>
          <parentid>0008</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1158,7 +1158,7 @@ Regino von Prüm, Chronicon cum Continuatione Treverensi, ed. Friedrich Kurze (M
       <revision>
          <id>11</id>
          <parentid>0009</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1306,7 +1306,7 @@ Rodulfus Glaber, Historiarum libri quinque, ed. John France (Oxford Medieval Tex
       <revision>
          <id>12</id>
          <parentid>0010</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1487,7 +1487,7 @@ Annales de Saint-Bertin, ed. Felix Grat – Jeanne Vieilliard – Suzanne Cléme
       <revision>
          <id>13</id>
          <parentid>0011</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1633,7 +1633,7 @@ Astronomus, Vita Hludowici imperatoris, hg. und übers. v. Ernst Tremp, in: Theg
       <revision>
          <id>14</id>
          <parentid>0012</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1760,7 +1760,7 @@ Notker der Stammler, Taten Kaiser Karls des Grossen, ed. Hans F. Haefele (MGH SS
       <revision>
          <id>15</id>
          <parentid>0013</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2126,7 +2126,7 @@ Annales Hildesheimenses, ed. Georg Waitz (MGH SS rer. Germ. [8]), Hannover 1878.
       <revision>
          <id>16</id>
          <parentid>0014</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2289,7 +2289,7 @@ Annales regni Francorum inde ab a. 741 usque ad a. 829, qui dicuntur Annales Lau
       <revision>
          <id>18</id>
          <parentid>0016</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2482,7 +2482,7 @@ Annales Altahenses maiores, ed. Wilhelm Giesebrecht – Edmund von Oefele (MGH S
       <revision>
          <id>19</id>
          <parentid>0017</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2598,7 +2598,7 @@ Lamperti monachi Hersfeldensis opera, ed. Oswald Holder-Egger (MGH SS rer. Germ.
       <revision>
          <id>20</id>
          <parentid>0018</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2730,7 +2730,7 @@ Annales regni Francorum inde ab a. 741 usque ad a. 829, qui dicuntur Annales Lau
       <revision>
          <id>21</id>
          <parentid>0019</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2869,7 +2869,7 @@ Thegan, Gesta Hludovici imperatoris, hg. und übers. v. Ernst Tremp, in: Thegan.
       <revision>
          <id>22</id>
          <parentid>0020</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3127,7 +3127,7 @@ Annales Xantenses qui dicuntur, ed. Berhard von Simson, in: MGH SS rer. Germ. [1
       <revision>
          <id>23</id>
          <parentid>0021</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3267,7 +3267,7 @@ Die Chroniken Bertholds von Reichenau und Bernolds von Konstanz 1054-1100, ed. I
       <revision>
          <id>24</id>
          <parentid>0022</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3394,7 +3394,7 @@ Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti, hg. von 
       <revision>
          <id>25</id>
          <parentid>0023</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3517,7 +3517,7 @@ Paulus Diaconus, Historia Langobardorum, ed. Georg Waitz (MGH SS rer. Germ. [48]
       <revision>
          <id>26</id>
          <parentid>0024</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3654,7 +3654,7 @@ Hermanni Augiensis Chronicon, ed. Georg Heinrich Pertz, in: MGH SS 5, Hannover 1
       <revision>
          <id>27</id>
          <parentid>0025</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3775,7 +3775,7 @@ Versus ad pueros, hg. von Ernst Dümmler, in: MGH Poetae 2, Berlin 1884, S. 92f.
       <revision>
          <id>28</id>
          <parentid>0026</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3886,7 +3886,7 @@ Liudprand von Cremona, Historia Ottonis, in: Die Werke Liudprands von Cremona, e
       <revision>
          <id>29</id>
          <parentid>0027</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4006,7 +4006,7 @@ Liudprand von Cremona, Legatio, in: Die Werke Liudprands von Cremona, ed. Joseph
       <revision>
          <id>30</id>
          <parentid>0028</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4170,7 +4170,7 @@ Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, ed. Bernhard Schmeid
       <revision>
          <id>33</id>
          <parentid>0031</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4291,7 +4291,7 @@ Die Annales Quedlinburgenses, ed. Martina Giese (MGH SS rer. Germ. 72), Hannover
       <revision>
          <id>34</id>
          <parentid>0032</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4599,7 +4599,7 @@ Chronicon qui dicuntur Fredegarii Scholastici Libri IV cum continuationibus, ed.
       <revision>
          <id>35</id>
          <parentid>0033</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4760,7 +4760,7 @@ Annales Laureshamenses, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S
       <revision>
          <id>36</id>
          <parentid>0034</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4940,7 +4940,7 @@ Annales Sancti Amandi, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S.
       <revision>
          <id>37</id>
          <parentid>0035</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5079,7 +5079,7 @@ Annales Tiliani, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 6, 8,
       <revision>
          <id>38</id>
          <parentid>0036</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5284,7 +5284,7 @@ Annales Alamannici, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 22
       <revision>
          <id>39</id>
          <parentid>0037</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5441,7 +5441,7 @@ Passio Sancti Pelagii Preciosissimi Martiris, Qui Nostris Temporisbus In Corduba
       <revision>
          <id>40</id>
          <parentid>0038</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5558,7 +5558,7 @@ Nithardi Historiarum libri IIII, ed. Georg Heinrich Pertz (MGH SS rer. Germ. [44
       <revision>
          <id>41</id>
          <parentid>0039</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5681,7 +5681,7 @@ Die Chroniken Bertholds von Reichenau und Bernolds von Konstanz 1054-1100, ed. I
       <revision>
          <id>42</id>
          <parentid>0040</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5798,7 +5798,7 @@ Gesta Dagoberti I. regis Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, 
       <revision>
          <id>43</id>
          <parentid>0041</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5987,7 +5987,7 @@ Annales Sangallenses, ed. Carl Henking, in: Die annalistischen Aufzeichnungen de
       <revision>
          <id>44</id>
          <parentid>0042</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6151,7 +6151,7 @@ Chronique des Abbés de Fontenelle (Saint-Wandrille), ed. Pascal Pradié (Les Cl
       <revision>
          <id>45</id>
          <parentid>0043</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6280,7 +6280,7 @@ De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Cord
       <revision>
          <id>46</id>
          <parentid>0044</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6438,7 +6438,7 @@ S. Adonis Viennesis Chronicon in aetates sex divisum, ed. Jacques Paul Migne (Pa
       <revision>
          <id>47</id>
          <parentid>0045</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6675,7 +6675,7 @@ Annales Lobienses, ed. Georg Waitz, in: MGH SS 13, Hannover 1881, S. 224-235.
       <revision>
          <id>48</id>
          <parentid>0046</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6887,7 +6887,7 @@ Paulus Warnefridus, Liber de episcopis Mettensibus, ed. Georg Heinrich Pertz, in
       <revision>
          <id>49</id>
          <parentid>0047</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7232,7 +7232,7 @@ Annales Besuenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 247
       <revision>
          <id>51</id>
          <parentid>0049</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7346,7 +7346,7 @@ Beda Venerabilis, De temporum ratione liber, ed. Charles William Jones (CCSL 123
       <revision>
          <id>52</id>
          <parentid>0050</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7486,7 +7486,7 @@ Adbreviatio de gestis Langobardorum, ed. Waitz, in: MGH SS rer Lang. [1], Hannov
       <revision>
          <id>53</id>
          <parentid>0051</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7709,7 +7709,7 @@ Annales Barenses, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 51-63.
       <revision>
          <id>54</id>
          <parentid>0052</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7895,7 +7895,7 @@ Mommsen ediert hier mehrere Versionen des Textes parallel. Diese sind die Recens
       <revision>
          <id>55</id>
          <parentid>0053</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8108,7 +8108,7 @@ Cronicae Sancti Benedicti Casinensis, ed. Luigi Andrea Berto (Edizione nazionale
       <revision>
          <id>57</id>
          <parentid>0055</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8282,7 +8282,7 @@ Erchemperto, Piccola Storia dei Longobardi di Benevento, ed. Luigi Andrea Berto 
       <revision>
          <id>58</id>
          <parentid>0056</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8442,7 +8442,7 @@ Chronica Byzantia-Arabica, ed. Juan Gil, in: Corpus Scriptorum Muzarabicorum 1, 
       <revision>
          <id>59</id>
          <parentid>0057</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8596,7 +8596,7 @@ Annales Petaviani, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 7-1
       <revision>
          <id>60</id>
          <parentid>0058</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8741,7 +8741,7 @@ Les Annales de Flodoard, ed. Philippe Lauer (Collection de Textes pour servir a 
       <revision>
          <id>61</id>
          <parentid>0059</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8868,7 +8868,7 @@ Die Geschichte vom Leben des Johannes, Abt des Klosters Gorze / Hystoria de vita
       <revision>
          <id>62</id>
          <parentid>0060</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9011,7 +9011,7 @@ Vita Symeonis Achivi, ed. Theo Küppel – Walter Berschin, in: Die Abtei Reiche
       <revision>
          <id>63</id>
          <parentid>0061</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9141,7 +9141,7 @@ Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX, ed. Wallace M
       <revision>
          <id>64</id>
          <parentid>0062</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9269,7 +9269,7 @@ Gerhard von Augsburg, Vita Sancti Uodalrici. Die älteste Lebensbeschreibung des
       <revision>
          <id>65</id>
          <parentid>0063</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9398,7 +9398,7 @@ Vita sancti Maioli auctore S. Odilo Abbate et S. Maijoli successore, in: Acta Sa
       <revision>
          <id>66</id>
          <parentid>0064</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9529,7 +9529,7 @@ Ex Syri Vita S. Maioli, ed. Georg Waitz, in: MGH SS 4, Hannover 1841, S. 649-655
       <revision>
          <id>67</id>
          <parentid>0065</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9666,7 +9666,7 @@ Vita Willibaldi episcopi Eichstetensis, ed. Oswald Holder-Egger, in: MGH SS 15, 
       <revision>
          <id>68</id>
          <parentid>0066</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9802,7 +9802,7 @@ Vita sancti Maioli ex prolixoribus coaevorum actis a Nalgodo monacho post sequi 
       <revision>
          <id>70</id>
          <parentid>0068</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9918,7 +9918,7 @@ Flodoard von Reims, Die Geschichte der Reimser Kirche, ed. Martina Stratmann (MG
       <revision>
          <id>71</id>
          <parentid>0069</parentid>
-         <timestamp>2019-04-02T12:07:41Z</timestamp>
+         <timestamp>2019-04-03T13:22:48Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
