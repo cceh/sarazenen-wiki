@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0016</WerkId>
+  <WerkTitel>Annales Altahenses</WerkTitel>
+  <Alternativtitel>
+    <Titel>Annales Altahenses maiores</Titel>
+    <Titel>Jahrbücher von Niederaltaich</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>um 1075</Abfassungszeitraum>
+  <Abfassungsort>Niederaltaich</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Annales Altahenses maiores, ed. Wilhelm Giesebrecht – Edmund von Oefele (MGH SS rer. Germ. [4]), Hannover 1891.</Editionshinweise>
+  <Werkinformation>Die Annales Altahenses entstanden im Kloster Niederaltaich (Bayern) im 11. Jahrhundert und berichtet über die Jahre 708 bis 1073 (1. Teil: 708-1032, 2. Teil: 1033-73). Während der erste Teil sehr knappe Notizen enthält und erst ab 899 selbstständiger wird, sind die Berichte im zweiten Teil deutlich länger abgefasst. Die Annales Altahenses gelten als wichtige Quelle für die Reichsgeschichte des 10. und 11. Jahrhunderts.
+Vgl. mit Hinweisen für weiterführende Literatur: Jan Prelog, Art. Annales Altahenses, in: Lexikon des Mittelalters 1, Sp. 661-662 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-26]; Annales Altahenses, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00176.html, 2016-10-26]; Graeme Dunphy, Art. Annales Altahenses, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 53f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales Altaheneses maiores a. 732, ed. Giesebrecht – Oefele 1891, S. 1.</Zitation>
+      <ZeitangabeQuelle>732</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Hausmeier Karl Martell kämpft 732 [bei Tours und Poitiers] gegen die Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carolus [Karl Martell] pugnavit contra Saracenos die sabbati.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="732" From="732-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Tours</Ort>
+        <Ort>Poitiers</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales Altaheneses maiores a. 737, ed. Giesebrecht – Oefele 1891, S. 1.</Zitation>
+      <ZeitangabeQuelle>737</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Hausmeier Karl Martell kämpft 737 in Gothien gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carolus [Karl Martell] pugnavit contra Saracenos in Gothia [Gothien].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="737" From="737-01-01" To="737-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Gothien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Gothia</Suchwort>
+        <Suchwort>Gothien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales Altaheneses maiores a. 778, ed. Giesebrecht – Oefele 1891, S. 3.</Zitation>
+      <ZeitangabeQuelle>778</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große kämpft 778 gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carolus [Karl I. der Große] pugnavit contra Saracenos […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales Altaheneses maiores a.801, ed. Giesebrecht – Oefele 1891, S. 4.</Zitation>
+      <ZeitangabeQuelle>801</ZeitangabeQuelle>
+      <Inhaltsangabe>Kalif Harun al-Rashid von Bagdad schickt 801 einen Elefanten [namens Abul Abaz] an Kaiser Karl I. den Großen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Amarmurmulus rex Persarum [Kalif Harun al-Rashid] elephantum [Abul Abaz] mittit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801" From="801-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Amarmurmulus</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b2d9d73b-44e5-4429-8367-8d199ea9bfd6" Type="Anmerkung">
+          <Name>Kalif Harun al-Rashid</Name>
+        </Entitaet>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Annales Altaheneses maiores a. 827, ed. Giesebrecht – Oefele 1891, S. 5.</Zitation>
+      <ZeitangabeQuelle>827</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Gebiete um Barcelona und Gerona werden 827 von Sarazenen geplündert.</Inhaltsangabe>
+      <VolltextOriginalsprache>Barcinonensium [Barcelona] et Gerundensium [Gerona] fines depopulati a Saracenis.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="827" From="827-01-01" To="827-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Gerona</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcinonensia</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="fe42fe01-c123-4844-af32-cea58acd2c14" Type="Ort">
+          <Name>Gerona</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Annales Altaheneses maiores a. 982, ed. Giesebrecht – Oefele 1891, S. 14.</Zitation>
+      <ZeitangabeQuelle>982</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Otto II. kämpft 982 vor der Küste Siziliens unter großen Verlusten gegen Sarazenen und Mauren, denen er selbst nur durch eine List entkommen kann.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno pugnavit imperator [Otto II.] iuxta mare Sicilicum [Sizilien] cum Sarracenis et Mauris, in quo proelio scrinia cum reliquiis sanctorum, pro dolor! amisit, episcopis, capellanis, tribunis et pene omnibus qui interfuere comitibus interfectis. Cum vero imperator suorum fugam Sarracenorumque conspiceret audaciam, arma proiecit, vestimenta exuit seque in vicinum mare praecipitem dedit, in quo dum incertus sui diu circumnatando laboraret, Dei ordinatione adversariorum quidam navigantes advenerunt eumque iam mergentem in navim levaverunt. Ibi, ut aiunt, simulavit se non esse qui erat, dicens se unum esse de militibus imperatoris. Cumque in hunc modum mutuos cum adversariis sermones conferret, subito mari insiliens ad proximum transnatavit littus, mirabili Dei adiutorio liberatus. Milites autem, qui belli periculum evaserunt, alii fame, alii nimio aestatis fervore perierunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>In diesem Jahre stritt der Kaiser [Otto II.] in der Nähe des sicilischen Meeres [Sizilien] mit den Sarracenen und Mauren. In dieser Schlacht verlor er die Schreine mit den Reliquien der Heiligen, o Schmerz, da die Bischöfe, Kapläne, Tribunen und fast alle Grafen, welche dabei waren, getötet wurden. Als aber der Kaiser der Seinen Flucht und der Sarracenen Kühnheit sah, warf er die Waffen weg, zog die Kleider aus und stürzte sich in das nahe Meer. Als er in demselben für sein Leben fürchtend lange schwimmend sich abmühte, kamen auf Gottes Anordnung einige der Feinde zu Schiff heran und hoben ihn, der schon dem Sinken nahe war, in das Schiff. Dort that er, wie man sagt, als ob er der nicht sei, der er war, indem er sagte, er sei einer der Mannen des Kaisers. Als er auf solche Weise mit den Feinden Zwiesprach führte, sprang er plötzlich ins Meer und schwamm an das nächste Ufer hinüber, und ward durch Gottes wunderbaren Beistand gerettet. Die Krieger aber, welche der Kriegsgefahr entronnen waren, kamen theils durch Hunger, theils durch die übermäßige Hitze des Sommers um.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die größeren Jahrbücher von Altaich a. 982, bearb. von Ludwig Weiland (Die Geschichtsschreiber der deutschen Vorzeit [46]), Leipzig ³1940, S. 10.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="982" From="982-01-01" To="982-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Sizilien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Rückschlag</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Hinterhalt/-list</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Gottesurteil</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sicilica</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0001]-[0004]; [0017]-[0005]; [0021]-[0017]; [0024]-[0020]; [0028]-[0001]; [0029]-[0002]; [0041]-[0008]; [0062]-[0002].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
+          <Name>Otto II.</Name>
+        </Entitaet>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Annales Altaheneses maiores a. 1065, ed. Giesebrecht – Oefele 1891, S. 66-70.</Zitation>
+      <ZeitangabeQuelle>1065</ZeitangabeQuelle>
+      <Inhaltsangabe>Eine große Schar von Pilgern macht sich [im März/April] 1065 mit dem Erzbischof Siegfried von Mainz sowie den Bischöfen Wilhelm von Utrecht, Otto von Regensburg und Gunther von Bamberg auf den Weg nach Jerusalem und wird auf der Reise immer wieder von Arabern angegriffen. In Kfar Saba schließlich, nachdem sie dort drei Tage lang eingeschlossen sind, erhalten sie Hilfe von einem arabischen Fürsten aus Ramleh, gelangen nach Jerusalem und sicher wieder zurück nach Aliquia.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc etenim anno Iherusalem [Jerusalem] pergebat multitudo tanta, ad sepulchrum Domini adoratura, ut quivis credere posset, quia plenitudo gentium intraret, et quoniam multa dicenda forent de eodem itinere, queso, ne cui videatur grave, nos etiam exinde pauca quaedam summatim perstringere. Inter eos igitur, qui pergebant, principes isti erant: Sigifridus archiepiscopus Moguntiacensis [Ebf. Siegfried von Mainz], Wilelmus episcopus Traiectensis [Bf. Wilhelm von Utrecht], Otto episcopus Ratisbonensis [Bf. Otto von Regensburg], Guntherius praesul Babenpergensis [Bf. Gunther von Bamberg]. […] Hos igitur primates sequebatur tanta multitudo comitum et principum, divitum et pauperum, quae videtur excedere numerum duodecim millium. Igitur mox, ut fluvium, qui Marowa dicitur, transierunt, statim pericula latronum et raptorum crebro incidere, quae tamen ipsi prudenter declinantes et caute, tandem urbem Constantinopolitanam [Konstantinopel] adiere. […] Cum ergo in Aliquia [Latakia] morarentur dies paucos, ecce multi redeuntes ex Hierosolimis [Jerusalem] ceperunt occurrere per dies singulos, comitum suorum mortes innumeras nuntiantes, suas autem calamitates recentibus et adhuc cruentis vulneribus demonstrantes; publice protestantur neminem per illam viam posse transire, quoniam sevissima gens Arabitarum, humanum sitiens sanguinem, omnem illam occupasset terram. Quid ergo agerent, quo se verterent? Inito igitur consilio citius complacuit, semet ipsos sibi abnegare, totam spem suam in Domino ponere, scientesque, se sive viventes sive morientes Domini esse, alacri mente per terram paganorum: versus civitatem sanctam ceperunt abire. Mox igitur ad civitatem quandam, quae Tripolis [Tripolis] dicitur, cum pervenissent, et dux ille barbarus tantam multitudinem vidisset, sperans se infinitas pecunias invenire, omnes pariter crudeli ense decrevit trucidare. Sed hoc iniquis meditantibus, divina clementia Domini non defuit in se confidentibus. Confestim ergo de mari, quod civitatem ex una parte inundaba Confestim ergo de mari, quod civitatem ex una parte inundabat, nubes quaedam tenebrosa ascendebat, ex qua fulgura et choruscationes cum tonitru et horrore nimio procedebant. Cumque tempestas haec usque ad sextam alterius diei extenderetur et mons undarum marinarum plus solito elevaretur, ipsi pagani necessitate constricti vociferabant inter se, civitatem ipsam simul cum plebe quantocius in abissum dimergendam fore, Deo christianorum pro suis pugnante. Quo metu mortis dux ille ab intentione animi sui revocatur, moxque maris commotio placatur, christianis abeundi facultas conceditur. Variis ergo tribulationibus et angustiis vexati, per totam paganiam tandem veniunt ad urbem Caesaream [Caesarea] nominatam, ubi et cenam Domini celebrabant, quae illo anno VIIII. Kal. Aprilis occurrebat. Etiam quasi pericula cuncta se evasisse gratulabantur, quoniam hinc usque ad Iherusalem [Jerusalem] non plus quam duum dierum iter computatur. Altera autem die, id est in parazave, hora diei pene secunda, cum egrederentur Capharsala [Kfar Saba; Kesr/Kefr Saba] vicum, subito incidere in manus Arabitarum, qui mox ut lupi esurientes diu desideratam praedam super eos insiliebant et primos quosque dilaniantes miserabiliter trucidabant. Nostri autem primo temptabant resistere, sed citius, ut inermes, compulsi sunt in vicum refugere. Quibus fugientibus quantae ibi fuissent hominum cedes, quam innumerae mortis species, quantae calamitates et miseriae, quis valeat verbis explicare? Ibi ergo episcopus Traiectensis Wilelmus graviter vulneratur, et vestibus cunctis exutus cum aliis multis, miserabili modo caesis, in terra iacens dimittitur. Reliqui autem tres episcopi simul cum diversarum gentium non parva multitudine atrium quoddam muratum duasque turres lapideas occupavere, exinde, quamdiu Deus daret, parati se defendere. Porta autem atrii nimis angusta erat, ac hoste imminente onera equorum deponere non valebant; ideoque perdiderunt ipsos equos et mulos cum omnibus, quae portabant. Quibus hostes divisis inter se, mox ipsos pecuniarum dominos properabant extinguere. Econtra illi arma iudicantes, quaecunque cunque in manum venerant, fortiter resistebant. Quapropter maiori indignatione hostes permoti, acriores insurgebant. Quos nihil omnino contra se ausuros putabant, iam viriliter repugnare videbant. Tribus igitur continuis diebus summa vi praeliatur utrimque, quoniam nostris, quamvis fame et siti vigiliisque laborantibus, tamen pro vita et salute res erat, hostes vero lupina rabie frendebant, quia praedam, quam sibi videbantur inter fauces retinere, nullo modo permittebantur transglutire. Tandem igitur in ipsa dominica sancti pascae hora diei quasi nona, dicta inter eos pace, octo principes paganorum permissi ascendunt in turrim, in qua erant episcopi, velut ibidem cognituri, quanto pecuniarum pondere vitam suam ac abeundi licentiam vellent redimere. Sed mox ut ascendere, is, qui maximus inter eos videbatur esse, ad pontificem Guntherium, quem principem omnium putabat, accessit, lintheum, quo caput suum involutum erat, absolvit, collo episcopi sedentis circumposuit: 'Ecce', inquiens, 'te solo capto omnes hos in mea potestate habeo et iam iamque tecum pariter in arbore suspendam, quantoscunque ex vobis voluero'. Hic, hic agnosci potuit, quia iustus ut leo confidit. Nam cum haec illius facta et dicta per interpretem agnovisset, venerabilis vir ille nequaquam territus est ex innumera et circumfusa hostium multitudine, sed protinus exiliens uno ictu manus suae paganum ad terram deiecit collumque eius pede suo pressit: 'Eia', inquiens, 'mei, insurgite, omnesque istos comprehensos vinculis fortiter constringite, telisque suorum, qui nos impugnant, nudos opponite'. Nec mora, simul cum dicto factum est, quod iussit, et hoc modo impetus inpugnantium paganorum illo die quievit. Sequenti igitur die hora quasi nona dux regis Babyloniorum, qui praeerat in civitate Ramula [Ramleh], auditis his, quae fiebant, quamvis gentilis, tamen ad liberandum nostros cum magna multitudine veniebat. Cogitabat enim, si isti perirent tam miserabili caede, nullum posthac causa orationis per illam terram venire, et exinde se suosque grave damnum incurrere. Cuius adventu cognito, Arabes undique dispersi fugere, et ipse, acceptis his, qui comprehensi erant et ligati, nostris ianuam patefecit exeundi. Qui egredientes ad civitatem Ramulam pervenere, ibique a duce et oppidanis illis retenti duas heptomadas inviti resedere. Tandem igitur dimissi, II. Idus Aprilis civitatem sanctam sunt ingressi. Quantus ergo illic fons lacrimarum sit effusus, quantas et quam puras precum hostias Deo inmolaverint, quam hilari mente iam post multa suspiria decantaverint: Adorabimus in loco, ubi steterunt pedes eius, quis verbis explicare poterit? Ibidem igitur per XIII dies intima devotione vota sua Domino solventes, tandem ad Ramulam regrediuntur ovantes. Arabes autem multo plures undique convenerant, omnesque aditus viarum mente crudelissima insidiantes obsederunt, quoniam extractam sibi de faucibus praedam nimium dolebant. Sed hoc nostri non ignorantes, mox negociatoribus illis naulum dantes ventumque aptum observantes, navem ascenderunt, prosperoque cursu octavo die in portu urbis Aliquiae [Aliquia] applicuerunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>In diesem Jahre nämlich zog eine solche Menge nach Jerusalem [Jerusalem], um am Grabe des Herrn zu beten, daß jeder glauben konnte, die Gesammtheit der Völker zöge ein. Und da viel von dieser Fahrt zu erzählen wäre, so bitte ich, daß es Keinem lästig falle, wenn wir gleichfalls davon einiges wenige zusammenfassend berühren. Unter denen nun, welche mitzogen, waren folgende Fürsten: der Erzbischof Sigifrid von Mainz [Ebf. Siegfried von Mainz], der Bischof Wilhelm von Utrecht [Bf. Wilhelm von Utrecht], der Bischof Otto von Regensburg [Bf. Otto von Regensburg], der Bischof Gunther von Bamberg [Bf. Gunther von Bamberg]. […] Diesen Häuptern nun folgte eine solche Menge von Grafen und Fürsten, von Reich und Arm, daß sie die Zahl von zwölf Tausend augenscheinlich überschritten. Sobald sie nun den Fluß, so man Marowa nennt, überschritten hatten, kamen sie allsogleich häufig in Fährlichkeiten mit Schächern und Räubern, welchen sie aber klug und vorsichtig auswichen; und so gelangten sie endlich in die Stadt Konstantinopel [Konstantinopel]. […] Als sie nun in Aliquia [Latakia] wenige Tage verweilten, siehe da kamen ihnen jeden Tag solche entgegen, welche von Jerusalem [Jerusalem] zurückkehrten, und welche den Tod von unzähligen ihrer Gefährten meldeten und ihre Drangsale an frischen und noch blutenden Wunden zeigten; öffentlich versichern sie, Niemand könne auf jenem Wege durchkommen, da das sehr grausame Volk der Arabiten, nach menschlichem Blut dürstend, jenes ganze Land besetzt habe. Was sollten sie also thun, wohin sollten sie sich wenden? Als sie nun Rathes gepflogen, kamen sie schnell überein, sich selbst ganz zu verläugnen und ihre ganze Hoffnung auf den Herrn zu setzen, und so brachen sie in dem Bewußtsein, daß sie sowohl lebend als todt des Herrn seien, heiteren Muthes durch das Land der Heiden nach der heiligen Stadt auf. Als sie nun halb an einer Stadt, so man Tripolis [Tripolis] nennt, gelangt waren, und der Herzog der Barbaren eine solche Menge gesehen, beschloß er, in der Hoffnung unermeßliches Geld zu finden, allesammt grausamlich mit dem Schwerte umzubringen. Während dieß aber die Bösewichter planten, fehlte die göttliche Milde des Herrn nicht denen, so auf ihn vertrauten. Allfolglich nämlich stieg aus dem Meere, welches die Stadt bespült, eine dunkle Wolke auf, aus welcher leuchtende Blitze mit Donner und gewaltiger Schrecknis hervorbrachen. Und als dieses Unwetter bis zur sechsten Stunde des andern Tages anhielt und der Berg der Meergewässer mehr als gewöhnlich anschwoll, so riefen die Heiden selbst von der Noth bedrängt unter einander, die Stadt müsse zugleich mit dem Volke ohn' Verweilen in den Abgrund sinken, da der Gott der Christen für die seinen kämpfe. Durch diese Todesfurcht wird der Herzog von seinem Vorhaben abgebracht, folglich legt sich die Aufregung des Meeres, den Christen wird die Erlaubniß abzuziehen zugestanden. Von verschiedenen Bedrängnissen und Fährlichkeiten also beunruhigt, kommen sie endlich durch das ganze Heidenland zu der Stadt Caesarea [Caesarea] genannt, wo sie auch den Tag des Mahles des Herrn beginnen, welcher in diesem Jahre auf den 24. März fiel. Auch wünschten sie sich Glück, als wären sei nun aller Gefahr entgangen, da von da bis nach Jerusalem [Jerusalem] nicht mehr als zwei Tagereisen gerechnet ward. Am anderen Tage aber, nämlich am Charfreitage, fielen sie ungefähr in der zweiten Tagesstunde, als sie aus dem Flecken Capharsala [Kfar Saba; Kesr/Kefr Saba] zogen, plötzlich in die Hände der Arabiten, welche sogleich wie Wölfe, die nach der lang entbehrten Beute lechzen, auf sie einstürzten und die ersten elendiglich zerfleischten und niedermetzelten. Die Unseren aber versuchten zuerst Widerstand zu leisten, wurden aber, da sie unbewehrt waren, sehr schnell gezwungen, in den Flecken zurückzufliehen. Wieviele Menschen dabei auf ihrer Flucht getödtet wurden, wie unzählige Todesarten, welches Drangsal und Elend hier vorkom, wer vermag dieß in Worten auszudrücken? Hier also wird der Bischof Wilhelm von Utrecht schwer verwundet und aller seiner Kleider beraubt mit vielen anderen elendiglich Erschlagenen auf dem Erdboden liegen gelassen. Die übrigen drei Bischöfe aber besetzten mitsammen einer bedeutenden Menge verschiedenen Volkes einen Steinbau und zwei steinerne Thürme, bereit, sich von hieraus, so lange es Gott gefalle, zu vertheidigen. Das Thor des Baues war sehr enge, und da der Feind drängte, konnten die Lasten der Pferde nicht heruntergenommen werden: deßhalb verloren sie die Pferde und Maulesel selbst mit allem, was sie trugen. Nachdem die Feinde dieses unter sich vertheilt, eilten sie sogleich die Herren der Güter selbst zu vernichten. Dagegen nahmen jene als Waffe, was ihnen in die Hände kam, und widerstanden kräftig. In Folge dessen wurden die Feinde von noch größerem Unmuth erfaßt und griffen um so ungestümer an. Von welchen sie geglaubt, daß sie nicht das geringste gegen sie unternehmen würden, diese sahen sie jetzt mannlich Widerstand leisten. An drei Tagen also hintereinander wird von beiden Seiten mit aller Anstrengung gekämpft, sintemalen es sich bei den Unseren, obgleich sie durch Hunger, Durst und Wachen erschöpft waren, um Leben und Rettung handelte, die Feinde aber in möglichster Wuth knirschten, daß sie die Beute, welche sie in dem Rachen zu haben wähnten, auf keine Weise herunterschlucken konnten. Endlich ward gerade am heiligen Ostertage, in der neunten Tagesstunde ungefähr, zwischen ihnen Friede angesagt, acht Fürsten der Heiden ward gestattet auf den Thurm zu steigen, auf welchem sich die Bischöfe befanden, um dort in Erfahrung zu bringen, mit welcher Geldsumme sie ihr Leben und die Freiheit abzuziehen erkaufen wollten. Sobald sie aber heraufgestiegen waren, trat derjenige, welcher unter ihnen der Höchste zu sein schien, auf den Bischof Gunther, den er für den Anführer aller hielt, zu, nahm das leinene Band, mit welchem er das Haupt bedeckt hatte, ab, warf es um den Hals des sitzenden Bischofs und sprach: "Siehe, durch Deine Gefangenschaft habe ich diese alle zusammen in meiner Gewalt und werde nun mit Dir zugleich an den Bäumen aufknüpfen, soviel ich Luft habe." Hier, ja hier kann man erkennen, daß der Gerechte getrost ist wie ein Löwe. Denn als der ehrwürdige Mann durch den Dolmetscher erfahren hatte, was seine Handlung und Rede bedeute, wurde er durchaus nicht durch die zahllose Menge Feinde, welche ihn umgab, eingeschüchtert, sondern sofort aufspringend schlug er mit einem Schlage seiner Faust den Heiden zu Boden, setzte den Fuß auf seinen Nacken und sprach: "Hei, ihr Genossen, macht Euch auf, ergreift diese alle, schlagt sie fest in Bande und stellt sie wehrlos den Geschossen der Ihrigen, welche uns bedrängen, entgegen." Ohne Zögerung nach seinen Worten geschah, was er befahl, und auf diese Weise ruhte an diesem Tage der Angriff der heidnischen Bedränger. Am folgenden Tage nun, ungefähr in der neunten Tagesstunde, kam der Herzog des Königs der Babylonier, welcher in der Stadt Ramula [Ramleh] befehligte, obgleich er ein Heide war, auf die Kunde dessen was vorgefallen, zur Befreiung der Unseren mit einer großen Mannschaft heran. Er überlegte nämlich daß, wenn jene durch solch' elenden Tod umkämen, in der Folge Niemand auf der Bittfahrt durch dieses Land kommen, und er und die Seinen daher schweren Verlust erleiden würden. Als die Araber seine Ankunft merkten, flohen sie nach allen Seiten; er selbst nahm diejenigen, welche gegangen und gebunden waren, in Empfang und machte den Unseren den Ausweg frei. Diese gingen heraus und gelangten in die Stadt Rumala, und hier lagen sie, von dem Herzoge und den Städtern zurückgehalten, zwei Wochen gegen ihren Willen. Endlich nun entlassen, betraten sie am 12. April die heilige Stadt. Welcher Strom von Thränen nun da vergossen wurde, wie viele und lautere Bittopfer sie Gott darbrachten, mit welch' heiterem Sinne sie nach so vielen Seufzern sangen: "Wir wollen in seine Wohnung gehen und anbeten vor seinem Fußschemel", wer vermag dieß in Worten auszudrücken? Nachdem sie nun allda 13 Tage hindurch in innigster Demuth dem Herrn ihre Gelübte gelöst, lehrten sie endlich jubelnd nach Ramula zurück. Die Araber aber waren in noch viel größerer Anzahl von allen Seiten zusammengekommen und besetzten alle Zugänge der Straße in blutdürstigen Sinne lauernd, weil sie sich sehr ärgerten, daß ihnen die Beute aus dem Rachen gerissen war. Die Unseren aber, die das wohl wußten, gaben sogleich Kaufleuten Fährgeld, paßten den richtigen Wind ab, bestiegen ein Schiff und landeten nach glücklicher Fahrt am achten Tage in dem Hafen der Stadt Aliquia [Aliquia].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die größeren Jahrbücher von Altaich a. 1065, bearb. von Ludwig Weiland (Die Geschichtsschreiber der deutschen Vorzeit [46]), Leipzig ³1940, S. 78, 80-84.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="März/April 1065" From="1065-01-01" To="1065-12-31" />
+        <Datum Text="März/April 1065" From="-01-01" To="-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Latakia</Ort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Kfar Saba</Ort>
+        <Ort>Ramleh</Ort>
+        <Ort>Umayyadisches Reich (Syrien, Libyen)</Ort>
+        <Ort>Tripolis</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Gottesurteil</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabus</Suchwort>
+        <Suchwort>Araber</Suchwort>
+        <Suchwort>Babylonia</Suchwort>
+        <Suchwort>Babylonien</Suchwort>
+        <Suchwort>Hierosolyma</Suchwort>
+        <Suchwort>Hierosolimia</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>hostis</Suchwort>
+        <Suchwort>Feind</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. zu dieser Quellenstelle ebenfalls [0017]-[0006], [0021]-[0019], [0039]-[0001], [0069]-[0010].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="d1ddb7bf-8560-4c2e-a57e-01f3d5c1f625" Type="Person">
+          <Name>Ebf. Siegfried von Mainz</Name>
+        </Entitaet>
+        <Entitaet Id="95186ac9-532b-4ec4-83aa-0d5a28e8f7db" Type="Person">
+          <Name>Bf. Wilhelm von Utrecht</Name>
+        </Entitaet>
+        <Entitaet Id="88822689-e27f-4362-83a1-ea9ff4e3166b" Type="Person">
+          <Name>Bf. Otto von Regensburg</Name>
+        </Entitaet>
+        <Entitaet Id="e57d8982-2a4e-49ef-8027-3c0becf88e47" Type="Person">
+          <Name>Bf. Gunther von Bamberg</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="643437d8-8faf-4fa3-aae7-38ab77f94584" Type="Ort">
+          <Name>Latakia</Name>
+        </Entitaet>
+        <Entitaet Id="819ef074-66cf-42a7-b408-0a5273c6ce66" Type="Ort">
+          <Name>Tripolis</Name>
+        </Entitaet>
+        <Entitaet Id="0f1b322d-1af2-42fb-ac9e-c0b73ce7b34e" Type="Ort">
+          <Name>Caesarea</Name>
+        </Entitaet>
+        <Entitaet Id="05c6db1e-9a7a-4cba-95e7-2c65ac9bf80d" Type="Anmerkung">
+          <Name>Kfar Saba; Kesr/Kefr Saba</Name>
+        </Entitaet>
+        <Entitaet Id="bd95cbcd-0d19-4cac-bab0-3966cf100c08" Type="Ort">
+          <Name>Ramleh</Name>
+        </Entitaet>
+        <Entitaet Id="4074ed2f-244a-464c-8796-eae72f95ad26" Type="Ort">
+          <Name>Aliquia</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

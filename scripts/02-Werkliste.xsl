@@ -4,8 +4,10 @@
     exclude-result-prefixes="#all" version="2.0">
     <xsl:output method="xml" version="1.1" encoding="UTF-8" indent="yes" omit-xml-declaration="yes"
       exclude-result-prefixes="#all"/>
+    <!--
     <xsl:variable name="files" select="(doc('../files/sarazenen_masterfassung.xml'),doc('../files/Negativquellen_ergaenzt.xml'))"/>
-    <xsl:template match="/">
+    -->
+    <xsl:template match="/" xml:space="default">
         <mediawiki
             xmlns="http://www.mediawiki.org/xml/export-0.10/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -34,44 +36,46 @@
                     <model>wikitext</model>
                     <format>text/x-wiki</format>
                 <text>
-                    <xsl:text>&lt;table&gt;</xsl:text>
-                        
-                    <xsl:for-each-group select="$files//Dokumente" group-by="substring(./WerkTitel,1,1)">                        
-                        <xsl:sort order="ascending" lang="de"  select="current-grouping-key()"></xsl:sort>
-                        <xsl:text>&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;</xsl:text>
-                            <!--
-                            &lt;th&gt;Bericht&lt;br/&gt;Beginn&lt;/th&gt;&lt;th&gt;Bericht&lt;br/&gt;Ende&lt;/th&gt;&lt;th&gt;Abfassung&lt;br/&gt;Beginn&lt;/th&gt;&lt;th&gt;Abfassung&lt;br/&gt;Ende&lt;/th&gt;
-                            -->
-                            <xsl:text>&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;</xsl:text>
-                        <xsl:text>&lt;tr&gt;&lt;td&gt;</xsl:text><xsl:text>===</xsl:text><xsl:value-of select="current-grouping-key()"/><xsl:text>===</xsl:text><xsl:text>&lt;/td&gt;&lt;/tr&gt;</xsl:text>
-                        
-                        <xsl:for-each select="current-group()">               
-                            <xsl:text>&lt;tr&gt;</xsl:text>
-                           <!-- <xsl:sort select="./WerkTitel/data(.)"></xsl:sort> -->
-                                <!-- Werk -->
-                       <xsl:text>&lt;td&gt;</xsl:text> <xsl:text>[[</xsl:text><xsl:value-of select="./WerkTitel/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./WerkTitel/data(.)"/><xsl:text>]]</xsl:text>   
-                       <xsl:text>&lt;/td&gt;</xsl:text>
-                            <xsl:text>&lt;td&gt;</xsl:text><xsl:value-of select="./WerkId"/><xsl:text>&lt;/td&gt;</xsl:text>
+                    {| class="wikitable sortable"
+                    |-
+                    ! Verfasser
+                    ! Werk
+                    ! Sarazenen
+                    ! Nummer
+                    <xsl:for-each select="./Sarazenen/Dokumente">
+                     
+                        <xsl:value-of  xml:space="default">
+                        |-                         
+                        | <xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
+                            <xsl:for-each select="./Autoren/Autor">
+                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
+                                <xsl:text>[[:Kategorie:</xsl:text> <xsl:value-of select="."/> | <xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
+                            </xsl:for-each>
+                        </xsl:when>
+                            <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
+                                <xsl:text>[[:Kategorie: unbekannt | unbekannt]]</xsl:text>
+                            </xsl:when>
+                            <xsl:otherwise> <xsl:text>[[:Kategorie: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
+                        </xsl:choose> </xsl:value-of>
+                            <xsl:value-of  xml:space="default">
                             
-                                <!-- Verfasser -->
-                                <xsl:text>&lt;td&gt;</xsl:text>
-                           <xsl:text>([[:Kategorie:</xsl:text><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
-                                    <xsl:text>Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser</xsl:text>
-                                </xsl:when>
-                                <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
-                                    <xsl:text>Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser</xsl:text>
-                                </xsl:when>
-                                <xsl:otherwise><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/></xsl:otherwise>
-                            </xsl:choose><xsl:text>]])</xsl:text>
-                                <xsl:text>&lt;/td&gt;</xsl:text>
-                                <!-- Bericht Beginn & Ende -->
-                                <!-- Abassung Beginn & Ende -->
-                                <!-- Sarazen, noch unklar -->
-                            <xsl:text>&lt;/tr&gt;</xsl:text>
-                        </xsl:for-each>
+                            | [[<xsl:value-of select="./WerkTitel"/> | <xsl:value-of select="./WerkTitel"/>]]
+                            </xsl:value-of>
+                            <xsl:value-of  xml:space="default">
+                                
+                                <xsl:value-of  xml:space="default">
+                            | <xsl:choose>
+                                <xsl:when test="exists(./Quellen/Quelle)"><xsl:text>ja</xsl:text></xsl:when>
+                                <xsl:otherwise><xsl:text>nein</xsl:text></xsl:otherwise>
+                            </xsl:choose></xsl:value-of>
+                            </xsl:value-of>
+                            <xsl:value-of  xml:space="default">
                             
-                    </xsl:for-each-group>
-                    <xsl:text>&lt;/table&gt;</xsl:text>
+                            | <xsl:value-of select="./WerkId"/>
+                            </xsl:value-of>
+                        
+                    </xsl:for-each>
+                  |}
                 </text>
                     <sha1/>                    
                 </revision>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0034</WerkId>
+  <WerkTitel>Annales S. Amandi</WerkTitel>
+  <Alternativtitel>
+    <Titel>Annales Sancti Amandi</Titel>
+    <Titel>Jahrbücher von St. Amand</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>8.-9. Jahrhundert</Abfassungszeitraum>
+  <Abfassungsort>Saint-Amand-les-Eaux (Kloster St. Amand)</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa</Region>
+  </Regionen>
+  <Editionshinweise>Annales Sancti Amandi, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 6-14.</Editionshinweise>
+  <Werkinformation>Die Annales S. Amandi sind die ältesten Annalen der Karolingerzeit und stammen aus dem Kloster Saint-Amand-les-Eaux. Sie wurden unter Verwendung früherer Quellen von drei Verfassern in drei Teilen für die Jahre 687-810 geschrieben (687-770, 771-791, 792-810).
+Vgl. mit Hinweisen für weiterführende Literatur: Annales S. Amandi, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00385.html, 2016-11-02]; Graeme Dunphy, Art. Annales Sancti Amandi, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 86.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales Sancti Amandi a. 732, ed. Pertz 1826, S. 8.</Zitation>
+      <ZeitangabeQuelle>732</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell führt im Oktober 732 Krieg gegen die Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Karlus [Karl Martell] bellum habuit contra Saracinos in mense Octobri.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="732" From="732-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+        <Datum Text="750-760" From="750-01-01" To="760-12-31" />
+        <Datum Text="760-770" From="760-01-01" To="770-12-31" />
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+        <Datum Text="870-880" From="870-01-01" To="880-12-31" />
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Laut Nonn handelt es sich um die Schlacht bei Poitiers 732, in der Karl Martell die aus Spanien kommenden Sarazenen schlägt, vgl. Ulrich Nonn, Art. Karl Martell, frk. Hausmeier, in: Lexikon des Mittelalters 5, Sp. 954-956 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales Sancti Amandi a. 737, ed. Pertz 1826, S. 8.</Zitation>
+      <ZeitangabeQuelle>737</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell führt 737 Krieg gegen die Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Karlus [Karl Martell] bellum habuit contra Saracinos.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="737" From="737-01-01" To="737-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+        <Datum Text="750-760" From="750-01-01" To="760-12-31" />
+        <Datum Text="760-770" From="760-01-01" To="770-12-31" />
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+        <Datum Text="870-880" From="870-01-01" To="880-12-31" />
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Erneute Kämpfe zwischen dem Hausmeier Karl Martell und den Sarazenen finden wahrscheinlich in Südfrankreich statt (vgl. vorheriger Eintrag, in dem Karl gegen die Söhne des aquitanischen Herzogs Eudo kämpft [0034]-[0001]). Laut Nonn handelt es sich dabei um die Schlachten bei Avignon und am Fluss Berre, vgl. Ulrich Nonn, Art. Karl Martell, frk. Hausmeier, in: Lexikon des Mittelalters 5, Sp. 954-956 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31]; Ders., Die Schlacht bei Poitiers 732. Probleme historischer Urteilsbildung, in: Beiträge zur Geschichte des Regnum Francorum. Referate beim Wissenschaftlichen Colloquium zum 75. Geburtstag von Eugen Ewig, hg. von Rudolf Schieffer (Beiheft der Francia 22), Sigmaringen 1990, S. 37-56, hier S. 40f.; Anne-Marie Hayez, Art. Avignon, I. Geschichte der Stadt und der Seigneurie, in: Lexikon des Mittelalters 1, Sp. 1301-1302 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales Sancti Amandi cont. altera a. 778 (779), ed. Pertz 1826, S. 12.</Zitation>
+      <ZeitangabeQuelle>778 (779)</ZeitangabeQuelle>
+      <Inhaltsangabe>Karl I. der Große zieht 778 (779) [778] nach Saragossa in Spanien.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carlus [I. der Große] rex fuit in Hispania [Spanien] ad Caesaraugusta [Saragossa].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+        <Datum Text="870-880" From="870-01-01" To="880-12-31" />
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Saragossa</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Caesaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Laut Vones handelt es sich bei dem beschriebenen Zug nach Spanien um das militärische Vorgehen Karls gegen die Sarazenen in den Jahren 777-778, vgl. Ludwig Vones, Zwischen Expansion und Kulturkontakt. Karl der Grosse und das muslimische Spanien, in: Ex Orient: Isaak und der weisse Elefant. Bagdad-Jerusalem-Aachen: Eine Reise durch drei Kulturen um 800 und heute. Katalogbuch in drei Bänden zur Ausstellung in Rathaus, Dom und Domschatzkammer Aachen vom 30. Juni bis 28. September 2003, Bd. 3: Aachen. Der Westen, hg. von Wolfgang Dreßen (Geschichte und Gegenwart christlicher, jüdischer und islamischer Kulturen), Mainz 2003, S. 94-99, hier S. 94ff.; Hans-Rudolf Singer, Art. Zaragoza, II. Die Arabische Zeit, 2. Die Obere Mark, in: Lexikon des Mittelalters 9, Sp. 478-479 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Zur Datierung vgl. Annales Sancti Amandi, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 12. Die unterschiedlichen Angaben sind wohl der handschriftlichen Überlieferung geschuldet.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="28485e16-8e10-435c-b3cd-7c1eb4e2cee0" Type="Anmerkung">
+          <Name>I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales Sancti Amandi pars secunda a. 801, ed. Pertz 1826, S. 14.</Zitation>
+      <ZeitangabeQuelle>801</ZeitangabeQuelle>
+      <Inhaltsangabe>801 gelangen Sarazenen ins Frankenreich und werden von fränkischen Truppen getötet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carlus imperator a Roma rediens, ad Aquis palatium revertitur et in ipso anno Saracini exierunt foras, et a Francis interfecti sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801-812" From="801-01-01" To="812-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+        <Datum Text="870-880" From="870-01-01" To="880-12-31" />
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Quellenstelle steht laut Boshof im Zusammenhang mit der Errichtung der Spanischen Mark (801) und dem erneuten Feldzug Karls (bzw. Ludwigs des Frommen) gegen die Sarazenen (801-812), vgl. Egon Boshof, Ludwig der Fromme, Darmstadt 1996, S. 30-36.</Anmerkungen>
+      <Entitaeten />
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

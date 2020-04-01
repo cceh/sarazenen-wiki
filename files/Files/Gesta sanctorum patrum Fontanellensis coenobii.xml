@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0042</WerkId>
+  <WerkTitel>Gesta sanctorum patrum Fontanellensis coenobii</WerkTitel>
+  <Alternativtitel>
+    <Titel>Gesta abbatum Fontanellensium</Titel>
+    <Titel>Taten der heiligen Väter im Kloster St. Wandrille</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>1. Hälfte des 9. Jh.</Abfassungszeitraum>
+  <Abfassungsort>St. Wandrille</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa</Region>
+  </Regionen>
+  <Editionshinweise>Chronique des Abbés de Fontenelle (Saint-Wandrille), ed. Pascal Pradié (Les Classiques de l’Histoire de France au Moyen Age 40), Paris 1999.</Editionshinweise>
+  <Werkinformation>Die Gesta sanctorum patrum Fontanellensis coenobii sind eine Geschichte des Klosters St. Wandrille beginnend mit der Gründung des Klosters im Jahr 649 bis um 840. Das Werk ist in der ersten Hälfte des 9. Jahrhunderts entstanden, hat verschiedene frühere annalistische sowie hagiographische Werke zur Vorlage und ist in unterschiedlichen Versionen überliefert (Überarbeitungen und Erweiterungen).
+Vgl. mit Hinweisen für weiterführende Literatur: Gesta sanctorum patrum Fontanellensis coenobii, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02454.html, 2016-11-02]; Régis Rech, Art. Gesta abbatum Fontanellensium, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 693f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Gesta sanctorum patrum Fontanellensis coenobii 5,3, ed. Padrié 1999, S. 70-72.</Zitation>
+      <ZeitangabeQuelle>732</ZeitangabeQuelle>
+      <Inhaltsangabe>Herzog Eudo von Aquitanien ruft 732 ein sarazenisches Heer unter Abd ar-Rahman gegen den fränkischen Hausmeier Karl Martell zur Hilfe. Nachdem die Sarazenen in mehreren Ortschaften Verwüstungen angerichtet und Menschen getötet haben, gelingt es Karl Martell diese bei Poitiers zu besiegen und Aquitanien seiner Herrschaft zu unterwerfen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Huius anno secundo, id est dominicae Incarnationis D CC XXXII, Eodo dux Aquitaniorum [Herzog Eudo von Aquitanien] cernens se superatum, et ad defendendam patriam suam contra Karolum [Karl Martell] se uiribus esse destitutum, gentem perfidam Sarracenorum ad auxiliandum sibi inuitat. Qui cum rege suo, Abdirama [Statthalter Abd ar-Rahman] nomine, Garonnam [Garonne] fluuium transeunt, Burdigalem [Bordeaux] urbem peruenerunt, ibique aecclesiis Dei igne concrematis pluribusque christianis interfectis, usque ad Pictauem [Poitiers] urbem profecti sunt, basilicamque sancti Hilarii igne concremata ad beatissimi Martini aecclesiam subuertendam summo conamine proficisci contendunt. Contra quos Karolus princeps iuxta urbem Pictauem aciem construxit et super eos inuocato Christi auxilio intrepidus irruit, et eos cum rege eorum usque ad internicionem deleuit. Acceptisque spoliis eorum, nomen Domini glorificans, tota iam Aquitania [Aquitanien] subacta, cum triumpho ad propria reuertitur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="732" From="732-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Poitiers</Ort>
+        <Ort>Bordeaux</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Verrat</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdirama</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>gens perfida</Suchwort>
+        <Suchwort>treuloses Volk</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. [0032]-[0010].
+Zur Datierung vgl. Ulrich Nonn, Art. Karl Martell, in: Lexikon des Mittelalters 5, Sp. 954-956 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-10-05].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ad6a92d3-13ea-4288-9664-80e1809d6a72" Type="Person">
+          <Name>Herzog Eudo von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="5839c7b1-7fbf-49d1-b523-1ef5f087ffed" Type="Person">
+          <Name>Statthalter Abd ar-Rahman</Name>
+        </Entitaet>
+        <Entitaet Id="8208e2e7-0189-4356-a98c-059bfd963a28" Type="Ort">
+          <Name>Garonne</Name>
+        </Entitaet>
+        <Entitaet Id="822e4e50-729d-45e3-b736-49fd7c6efbdb" Type="Ort">
+          <Name>Bordeaux</Name>
+        </Entitaet>
+        <Entitaet Id="85f7b5f5-130c-4d5b-82a6-dc8836f8dca1" Type="Ort">
+          <Name>Poitiers</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Gesta sanctorum patrum Fontanellensis coenobii 6,4, ed. Padrié 1999, S. 84.</Zitation>
+      <ZeitangabeQuelle>737</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem Sarazenen Gotien und Septimanien eingenommen haben, fallen sie 737 in der Provence ein und erobern die Stadt Avignon. Der fränkische Hausmeier Karl Martell zieht daraufhin nach Avignon, belagert die Stadt und besiegt die sarazenischen Besatzer. In der Folge wendet er sich nach Narbonne, wo er ein sarazenisches Heer belagert. Ein zweites sarazenisches Heer unter Omar ibn-Chaled eilt den Eingeschlossenen aus Spanien zur Hilfe. Karl gelingt es, dieses an der Berre vernichtend zu schlagen, wobei auch Omar ibn-Chaled getötet wird. Anschließend kehrt Karl siegreich ins Frankenreich zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Huius anno IIII, qui est dominicae Incarnationis D CC XXXVII nunciatum est inuicto Karolo [Karl Martell] principi, quod saeua gens Sarracenorum, obtenta Septimania [Septimanien] et Gotia [Gotien], in partes iam Prouinciae [Provence] irruissent castrumque munitissimum Auinionem [Avignon] per fraudem quorumdam Prouincilaium comitatum illum obtinuissent. Quapropter exercitum congregans, illuc iter dirigebat [Karl Martell], praemissisque quibusdam exercitus sui principibus, qui castrum obsiderent, ipse prosecutus est praedictamque urbem obsidione circumdat; machinisque compositis urbem munitissimam diruit ipsamque cum habitatoribus suis igne et gladio consumit. Rodanum [Rhône] dehinc fluuium transiit, Gothorum fines penetrauit, Narbonam [Narbonne], urbem celeberrimam, castris circumcinxit, regem Sarracenorum nomine Adthima [Jussuf ibn-Abdéraman, Statthalter der Gallia Narbonensis] cum satellitibus suis ibidem reclusit. Haec audientes maiores natu Sarracenorum, qui morabantur in regione Hispaniae [Spanien], collecto exercitu, cum alio rege nomine Amormacha [Omar ibn-Chaled] aduersus Karolum arma corripiunt. Contra quos inuictus princeps Karolus, ciuitate Narbona sub custodia derelicta, in loco qui uocatur Birra [Berre] septimo ab urbe miliario intrepidus occurrit; ubi, diuina misericordia succurrente, pugna acerrima commissa, Karolus princeps uictor extitit, regem praefatum Sarracenorum interemit, exercitumque eius penitus usque ad internitionem deleuit, spoliis innumerabilibus ditatus, cuncta depopulata Gotia diruptisque ciuitatibus, deuictisque uniuersis hostibus, praeter eos quos in Narbona incluserat, urbe eadem sub custodia derelicta, cum magno triumpho remeauit in Frantiam [Frankenreich].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="737" From="737-01-01" To="737-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Septimanien</Ort>
+        <Ort>Provence</Ort>
+        <Ort>Narbonne</Ort>
+        <Ort>Berre</Ort>
+        <Ort>Avignon</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>ak</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>hostis</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>gens saeva</Suchwort>
+        <Suchwort>grausames Volk</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Gotia</Suchwort>
+        <Suchwort>Gotien</Suchwort>
+        <Suchwort>Septimania</Suchwort>
+        <Suchwort>Septimanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. [0032]-[0012]; [0048]-[0005].
+Die als Könige bezeichneten Sarazenen, Adthima und Amormacha, lassen sich nicht genauer identifizieren. In [0048]-[0004] wird Yussuf Ibn Abd ar-Rahman wenige Jahre zuvor als Statthalter von Narbonne genannt, dieser könnte mit dem hier genannten identisch sein, vgl. auch Roger Collins, The Arab Conquest of Spain. 710-797, Oxford – Cambridge 1989, S. 112. Adthima kann mit Jussuf ibn-Abdéraman, Statthalter der Gallia Narbonensis, und Amormacha mit Omar ibn-Chaled identifiziert werden, vgl. Die vier Bücher der Chroniken des sogenannten Fredegar – Die Fortsetzungen der Chroniken des sogenannten Fredegar, bearb. von Andreas Kusternig – Herbert Haupt, in: Quellen zur Geschichte des 7. und 8. Jahrhunderts (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 4a), Darmstadt ²1994, S. 1-325, S. 290f., Anm. 89-90, vgl. auch [0032]-[0012].
+Zur Datierung vgl. Ulrich Nonn, Art. Karl Martell, in: Lexikon des Mittelalters 5, Sp. 954-956 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-10-05].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="284e074c-13da-4a54-ab5a-0134b64298d4" Type="Ort">
+          <Name>Septimanien</Name>
+        </Entitaet>
+        <Entitaet Id="044a471b-d294-4473-b9d2-9726116346e9" Type="Anmerkung">
+          <Name>Gotien</Name>
+        </Entitaet>
+        <Entitaet Id="334bcc12-dbc5-4fe1-9d9b-af61579b065b" Type="Ort">
+          <Name>Provence</Name>
+        </Entitaet>
+        <Entitaet Id="7f33b217-aa47-40a6-b223-25957d2ed730" Type="Ort">
+          <Name>Avignon</Name>
+        </Entitaet>
+        <Entitaet Id="6c6e4886-2504-46d6-9600-f209c2009452" Type="Ort">
+          <Name>Rhône</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="deec06fb-8035-49ac-8762-198101daf8d3" Type="Anmerkung">
+          <Name>Jussuf ibn-Abdéraman, Statthalter der Gallia Narbonensis</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="3dddfc04-c325-41fe-9690-417363691220" Type="Anmerkung">
+          <Name>Omar ibn-Chaled</Name>
+        </Entitaet>
+        <Entitaet Id="f6a6d002-821b-43be-9a22-b4c869341b4f" Type="Ort">
+          <Name>Berre</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Gesta sanctorum patrum Fontanellensis coenobii 8,1, ed. Padrié 1999, S. 94.</Zitation>
+      <ZeitangabeQuelle>739</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell wendet sich 739 abermals gegen die Provence, nachdem Herzog Maurontus von der Provence Sarazenen zur Unterstützung gerufen hatte. Karl vertreibt den Herzog und unterwirft das Land seiner Herrschaft.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno [739] Karolus [Karl Martell], commoto exercitu uniuersali, partibus Prouintiae [Provence] iter dirigit, Auinionemque [Avignon] iterum coepit, totaque Prouintia usque ad litus maris peragrata, ad Massiliam [Marseille] peruenit; fugatoque duce Moronto [Herzog Maurontus], qui quondam Sarracenos in suae perfidiae praesidium adsciuerat, nullo iam relicto aduersario, totam illam regionem Francorum imperio subiugauit et, cunctis strenue dispositis, ad proprias sedes reuersus est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="739" From="739-01-01" To="739-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Provence</Ort>
+        <Ort>Marseille</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. zur Datierung auch [0024]-[0010].
+Zu Maurontus und seinem Herzogs- bzw. Patricius-Titel vgl. Archibald R. Lewis, The Dukes in the Regnum Francorum. A.D. 550-751, in: Speculum 51 (1976), S. 381-410, hier S. 401-402.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="aaf3a6bb-9b60-4319-ba42-6b00c912f404" Type="Anmerkung">
+          <Name>739</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="334bcc12-dbc5-4fe1-9d9b-af61579b065b" Type="Ort">
+          <Name>Provence</Name>
+        </Entitaet>
+        <Entitaet Id="7f33b217-aa47-40a6-b223-25957d2ed730" Type="Ort">
+          <Name>Avignon</Name>
+        </Entitaet>
+        <Entitaet Id="7f8c8569-b43e-4eb4-a523-5cff9283030a" Type="Ort">
+          <Name>Marseille</Name>
+        </Entitaet>
+        <Entitaet Id="3f1dbc68-b763-4701-8165-7c7cd654d815" Type="Person">
+          <Name>Herzog Maurontus</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Gesta sanctorum patrum Fontanellensis coenobii 13,2, ed. Padrié 1999, S. 152.</Zitation>
+      <ZeitangabeQuelle>816/817</ZeitangabeQuelle>
+      <Inhaltsangabe>Emir Abd ar-Rahman II. von Córdoba sendet 816/817 Gesandte zum fränkischen Kaiser Ludwig I. dem Frommen nach Compiègne. Diese werden weiter nach Aachen geleitet, wo sie drei Monate lang hingehalten und schließlich wieder nach Córdoba entsandt werden.</Inhaltsangabe>
+      <VolltextOriginalsprache>Abdiraman rex Sarracenorum [Abd al-Rahman II.] legatos pro pace Compendium [Compiègne] ad imperatorem [Ludwig I. der Frommen] misit. Qui Compendio auditi et Aquisgrani [Aachen] iterum perrexerunt, tresque menses detenti, regi suo remissi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="816/817" From="816-01-01" To="816-12-31" />
+        <Datum Text="816/817" From="817-01-01" To="817-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Compiègne</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Abdiraman</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die zeitliche Einordnung in der Quelle erfolgt nach Regierungsjahren Ludwigs des Frommen (4. Jahr). Abd ar-Rahman II. ist erst seit 822 Emir von Córdoba, trotzdem identifiziert Ernst Tremp den hier genannten „rex Sarracenorum“ mit diesem, vgl. [0011]-[0012].
+Zur Datierung vgl. ebenfalls [0011]-[0012].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a0424e50-0222-4d82-976f-e9cf63316124" Type="Person">
+          <Name>Abd al-Rahman II.</Name>
+        </Entitaet>
+        <Entitaet Id="1be2725c-6c61-4674-bad9-004cd1424955" Type="Ort">
+          <Name>Compiègne</Name>
+        </Entitaet>
+        <Entitaet Id="c10e9a69-a7ba-469c-bac9-211127dbdec8" Type="Anmerkung">
+          <Name>Ludwig I. der Frommen</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

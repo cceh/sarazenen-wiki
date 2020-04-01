@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0053</WerkId>
+  <WerkTitel>Cronicae Sancti Benedicti Casinensis</WerkTitel>
+  <Alternativtitel>
+    <Titel>Chronik von Montecassino</Titel>
+    <Titel>Chronik vom Heiligen Benedikt</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>10. Jahrhundert</Abfassungszeitraum>
+  <Abfassungsort>Montecassino</Abfassungsort>
+  <Regionen>
+    <Region>Italien</Region>
+  </Regionen>
+  <Editionshinweise>Cronicae Sancti Benedicti Casinensis, ed. Luigi Andrea Berto (Edizione nazionale dei testi mediolatini 15), Florenz 2006.</Editionshinweise>
+  <Werkinformation>Die Cronicae Sancti Benedicti Casinensis wurden in den 860er oder 870er Jahren vermutlich von mehreren Verfassern in drei Teilen geschrieben und umfassen Berichte zum Ende des 6. Jahrhunderts bis in die 870er Jahre (913). Verfasser waren vermutlich Mönche des Klosters Montecassino. Das Werk ist in einem Manuskript erhalten.
+Vgl. mit Hinweisen für weiterführende Literatur: Luigi Andrea Berto, Art. Cronicae Sancti Benedicti Casinensis, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 415; Chronica S. Benedicti Casinensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_01029.html, 2016-11-07].
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis I,5, ed. Berto 2006, S. 4.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Das Fürstentum Benevent wird [im Mai 848/849] zweigeteilt und Sarazenen greifen nach mehrmaligen Kämpfen mit langobardischen Truppen sowohl Tarent [im Jahr 840/841] als auch Bari [im Jahr 847] an und verwüsten für knapp 30 Jahre die gesamte Region.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ob id patrie facta divisio, Beneventanorum [Benevent] principatus duobus equidem partibus efficit divisus. A quibus vicissim Franci Sarracenique unus contra alterum evocati. Post tandem fraus Saracenorum Barim [Bari] noctu capiens. Post demum Tarantum [Tarent] obsidentes introeunt, totumque pene in integrum postmodum regnum igne ferroque vastantes demoliti sunt et ad solum usque perductum circiter per annos ferme triginta.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="840/841" From="840-01-01" To="840-12-31" />
+        <Datum Text="840/841" From="841-01-01" To="841-12-31" />
+        <Datum Text="847" From="847-01-01" To="847-12-31" />
+        <Datum Text="848/849" From="848-01-01" To="848-12-31" />
+        <Datum Text="848/849" From="849-01-01" To="849-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Bari</Ort>
+        <Ort>Tarent</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Herrschaftsteilung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Quellenautor legt nahe, dass die Teilung des Fürstentums Benevent im Vorfeld der sarazenischen Angriffe auf die beiden italienischen Städte stattgefunden hat. Tatsächlich erfolgte der Übergriff auf Tarent aber um 840/841, derjenige auf Bari um 847 und die Zweiteilung Benevents gemäß eines Rechtsdokuments von König Ludwig II. von Italien erst gegen Mitte Mai 848. Die Zweiteilung des Fürstentums ereignete sich somit Jahre nach den Angriffen der Sarazenen, vgl. zu den Angriffen auf Bari und Tarent sowohl Cronicae Sancti Benedicti Casinensis I, c. 5, ed. Berto, S. 4, Anm. 16, als auch Jules Gay, L’Italie méridionale et l’empire Byzantin depuis l’avènement de Basile Ier jsqu’a la prise de Bari par les Normands (867-1071), Paris 1904, S. 50ff. sowie zu dem königlichen Rechtsdokument RI I,3,1, Nr. 55.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="0b8511b3-abc0-4163-9173-922b69520dc3" Type="Ort">
+          <Name>Bari</Name>
+        </Entitaet>
+        <Entitaet Id="54442af7-dc17-4859-aa1b-59a6ba9d343e" Type="Ort">
+          <Name>Tarent</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis I,6, ed. Berto 2006, S. 4ff.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Nach zahlreichen Niederlagen gegen die eingefallenen Sarazenen entsenden Langobarden [866] Boten an Kaiser Ludwig II. und bitten um dessen militärische Unterstützung, woraufhin dieser ein Dekret zur Vorbereitung eines Heereszugs nach Italien erteilt und zu den Hilfesuchenden eilt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Langobardi vero dum nimia suis pro factis pericula sustinerent, ob hoc nimium afflicti necessitatemque compulsi, Franciam [Frankenreich] legatos dirigunt atque gloriosi imperatoris Hludowici [Ludwig II.] implorant augusti clementiam, ut patria sua cum gente veniens eos omnino a Saracenis quantocius eriperet. Qui beniens, hoc decretum sue reliquid patrię.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="866" From="866-01-01" To="866-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Westfrankenreich (Frankenreich)</Ort>
+        <Ort>Italien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesetzentwurf</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Berichterstattung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Das Dekret ist abgedruckt in Cronicae Sancti Benedicti Casinensis I, c. 7, ed. Berto 2006, S. 6-10; vgl. ebenso RI I,3,1, Nr. 249.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+        <Entitaet Id="613fe211-ab76-4dae-9e76-37ed97f8cd89" Type="Person">
+          <Name>Ludwig II.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis I,9-10, ed. Berto 2006, S. 12.</Zitation>
+      <ZeitangabeQuelle>867</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem Kaiser Ludwig II. im Dezember 867 mit einer Streitmacht in Benevent angekommen ist, bekämpft er die eingefallenen Sarazenen und nimmt [vor Februar 871] erfolgreich die besetzten Städte Bari, Tarent und Matera ein.</Inhaltsangabe>
+      <VolltextOriginalsprache>[9.] Mense autem decembrio, Dei omnipotentis opitulante gratia, ingressus est [Ludwig II.] Beneventum [Benevent], anno quidem septimo decimo augustalis imperii sui.
+[10.] Et ecce congreditur cum Saracenis, tropeum primitus bellicans sumpsit ex eis victoriae ac demum omnia illorum capiens castra. Sole tantum illis civitates remanserunt, Barim [Bari] scilicet necnon atque Tarantum [Tarent]. Nam omnium quidem eorum gloria, munitissima capta est urbs Materia [Matera], quaeque igne ferroque ad nichilum redacta est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="867" From="867-01-01" To="867-12-31" />
+        <Datum Text="871" From="871-01-01" To="871-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+        <Datum Text="870-880" From="870-01-01" To="880-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Bari</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Tarent</Ort>
+        <Ort>Matera</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Rückeroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung der städtischen Rückeroberung geht zurück auf eine Anmerkung in Cronicae Sancti Benedicti Casinensis, c. 4, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, hier S. 471, Anm. 5.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9c7ccf41-2f08-4580-9021-1e8a687d7037" Type="Anmerkung">
+          <Name>9.</Name>
+        </Entitaet>
+        <Entitaet Id="613fe211-ab76-4dae-9e76-37ed97f8cd89" Type="Person">
+          <Name>Ludwig II.</Name>
+        </Entitaet>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="5cee1ca1-d7fe-44cc-939c-f5888b40c71e" Type="Anmerkung">
+          <Name>10.</Name>
+        </Entitaet>
+        <Entitaet Id="0b8511b3-abc0-4163-9173-922b69520dc3" Type="Ort">
+          <Name>Bari</Name>
+        </Entitaet>
+        <Entitaet Id="54442af7-dc17-4859-aa1b-59a6ba9d343e" Type="Ort">
+          <Name>Tarent</Name>
+        </Entitaet>
+        <Entitaet Id="d40baa79-1f32-471d-9685-d798baabde3b" Type="Ort">
+          <Name>Matera</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,1-2, ed. Berto 2006, S. 14ff.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Fürst Radelchis von Benevent bittet [841] durch Gastald Landulf I. Sarazenen aus Afrika um ihre militärische Unterstützung im Kampf gegen Fürst Siconulf von Salerno, woraufhin diese nach Bari eilen, die Stadt nebst Capua mithilfe eines Heerführers namens Khalfun einnehmen sowie weitere Regionen unter der Herrschaft von Siconulf verwüsten. Auch in der italienischen Stadt Canne bei Barletta kommt es zu Kämpfen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[1.] Si forte nosse cupis quis lector futurus eris, quam ob causam Beneventanorum [Benevent] regionem Saraceni dominassent, occasio videlicet exstitit talis. […]
+[2.] Nam eo tempore dictus Radelchis princeps [Fürst Radelchis I. von Benevent] per Barensem Pandonem gastaldeum [Gastald Landulf I.] in auxilium sibi transmarinos invitabit Saracenos, qui diu erga Barim [Bari] residentes, in tempesta videlicet noctis hora more solito nominatam rapuerunt civitatem. […] Ab hac gravis vel fortis Saracenorum vastatio ut in nos [Region um Montecassino] utique sic nimium saeviret. Horum iniquorum primus venientum vocabatur Kalfon rex [Khalfun], obsitis siquidem vestimentis et calciamentis, saltem nec tarabere succintis, sed solis harundinibus manu gestantes. Cum his quoque Radelchis totam devastavit Siconolfi [Fürst Siconulf von Salerno] regionem Capuamque [Capua] primariam universam redegit in cinerem. Exinde hinc omnia corruunt pariter in peius. Hoc in tempore bellum inter utrosque factum est in Cannis [Cannae bei Barletta].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="841" From="841-01-01" To="841-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Canne</Ort>
+        <Ort>Barletta</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Iniquus</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>‚Gastald‘ ist eine langobardische Amtsbezeichnung. Gemeint ist der wichtigste Verwalter der Königsgüter und Stellvertreter des Königs im Langobardenreich, vgl. Paolo Delogu, Art. Gastaldi, in: Lexikon des Mittelalters 4, Sp. 1131-1132 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5e594535-9822-47c9-b6d8-e0a560658a44" Type="Anmerkung">
+          <Name>1.</Name>
+        </Entitaet>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="b28473e2-229b-49d5-b046-d52ebe98917a" Type="Anmerkung">
+          <Name>2.</Name>
+        </Entitaet>
+        <Entitaet Id="76826854-c145-4aba-ba27-80568808ceba" Type="Anmerkung">
+          <Name>Fürst Radelchis I. von Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="af91bed3-2fa2-477a-9a81-e988892d48f2" Type="Person">
+          <Name>Gastald Landulf I.</Name>
+        </Entitaet>
+        <Entitaet Id="0b8511b3-abc0-4163-9173-922b69520dc3" Type="Ort">
+          <Name>Bari</Name>
+        </Entitaet>
+        <Entitaet Id="39be0494-5b09-44df-bb29-dc20fd77900a" Type="Anmerkung">
+          <Name>Region um Montecassino</Name>
+        </Entitaet>
+        <Entitaet Id="74ad8a19-569f-494b-b715-3750db1f2ab3" Type="Person">
+          <Name>Khalfun</Name>
+        </Entitaet>
+        <Entitaet Id="c8bf8915-8c97-4a82-bb75-c5a2a968d175" Type="Person">
+          <Name>Fürst Siconulf von Salerno</Name>
+        </Entitaet>
+        <Entitaet Id="1f98a7ea-0e55-4e9c-ac97-0cf9562c61a3" Type="Ort">
+          <Name>Capua</Name>
+        </Entitaet>
+        <Entitaet Id="6aa58bc1-0f08-46d0-8c79-52f16ea15523" Type="Anmerkung">
+          <Name>Cannae bei Barletta</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,3, ed. Berto 2006, S. 16.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen fallen [im August 846] zunächst in Rom ein, zerstören das Grab des Apostels Petrus sowie die Kirche des Heiligen Paulus und töten zahlreiche Einwohner. Daraufhin nehmen sie die italienische Stadt Fondi ein, plündern die benachbarten Ortschaften und schlagen im September [846] ihr Lager bei Gaeta auf. Ein fränkisches Heer Kaiser Lothars I. stellt sich ihnen entgegen, wird am 10. November [Frühjahr/Sommer 847] jedoch in die Flucht geschlagen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[3.] His diebus Saraceni egressi Romam, horatorium totum devastaverunt beatissimorum principis apostolorum Petri beatique ecclesiam Pauli multosque ibidem peremerunt Saxones aliosque quam plurimos utriusque sexus et ętatis. Fundensemque [Fondi] capientes urbem vicinaque depredantes loca, septembrio quoque mense secus Gaietam [Gaeta] castrametati sunt. Contra quos pervenit Francorum exercitus, sed superatus a Saracenis quarto nobemrii idus, iniit fugam. Quos persequentes Saraceni illorumque omnia capientes, tandem ad Sanctum devenerunt Andream, cuiusque cellam igne cremaverunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="846" From="846-01-01" To="846-12-31" />
+        <Datum Text="847" From="847-01-01" To="847-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Fondi</Ort>
+        <Ort>Rom</Ort>
+        <Ort>Gaeta</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Heiligenschändung</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Roma</Suchwort>
+        <Suchwort>Rom</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung des Einfalls der Sarazenen in Rom ist der Cronicae Sancti Benedicti Casinensis II,3, ed. Berto, S. 17, Anm. 67, zu entnehmen.
+Die Datierung der fränkischen Heerfahrt nach Italien wird aus einem Kapitular Kaisers Lothar I. ersichtlich, vgl. RI I,1,3, Nr. 46.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8585928c-27cb-435b-8243-68c1be3aeebf" Type="Anmerkung">
+          <Name>3.</Name>
+        </Entitaet>
+        <Entitaet Id="13240b03-5a5b-4087-ac96-1bfd64a31447" Type="Ort">
+          <Name>Fondi</Name>
+        </Entitaet>
+        <Entitaet Id="49f4cb24-5b13-4ea3-8672-0146ffbfa697" Type="Ort">
+          <Name>Gaeta</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,13, ed. Berto 2006, S. 24.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen nehmen [852] die italienische Stadt Tarent ein.</Inhaltsangabe>
+      <VolltextOriginalsprache>[13.] Hoc videlicet tempore Tarantum [Tarent] fame obsessa a Saracenis capitur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="852" From="852-01-01" To="852-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Tarent</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung der Einnahme Tarents ist überliefert in Cronicae Sancti Benedicti Casinensis 11, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, hier S. 474.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="7f8ff30e-dc76-4c70-8868-9e88ae66bcae" Type="Anmerkung">
+          <Name>13.</Name>
+        </Entitaet>
+        <Entitaet Id="54442af7-dc17-4859-aa1b-59a6ba9d343e" Type="Ort">
+          <Name>Tarent</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,14, ed. Berto 2006, S. 24.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>König Ludwig II. von Italien zieht [im Frühjahr 848] mit einem fränkischen Heer auf Bitten Papst Leos IV. nach Italien, bekämpft erfolgreich die mit Fürst Radelchis von Benevent paktierenden Sarazenen und befreit die Städte Bari und Benevent. Ein Anführer der Sarazenen namens Massar wird [im Mai 848] enthauptet.</Inhaltsangabe>
+      <VolltextOriginalsprache>[14.] Per idem tempus Bassacius abbas [Abt Bassacius von Montecassino], rogatus a primatibus patrię [Papst Leo IV.], adiit Franciam [Frankenreich], qui obsecrans gloriosum imperatorem Hludowicum [Ludwig II.]. Veniens Barim [Bari] et in quantum possibilitas fuit totis viribus cum Saracenis dimicabit. Post complures autem dies venit Beneventum [Benevent]. Igitur sabbato vigilia sanctum pentecosten infra Beneventanam [Benevent] urbem interempti Saraceni, Radelchisi principatum [Fürst Radelchis von Benevent] gerens, Massari [Anführer der Sarazenen] capitur, ad imperatorem adductus capite plectitur. Hludowicus exin repedavit in patriam.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="848" From="848-01-01" To="848-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Bari</Ort>
+        <Ort>Benevent</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Rückeroberung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Papst Leo IV. entsandte einen Boten an Kaiser Lothar I. und bat um dessen militärische Unterstützung gegen die eingefallenen Sarazenen. Daraufhin zog König Ludwig II. von Italien im Auftrag seines Vaters mit einer fränkischen Streitmacht nach Bari und Benevent, um die Städte zurückzuerobern, vgl. RI I,1,3, Nr. 53. Der in der Quellenstelle aufgeführte Kaisertitel von Ludwig ist dementsprechend irreführend.
+Die Enthauptung des Sarazenenanführers wird aufgeführt bei RI I,3,1, Nr. 54.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.
+Zum Bündnis zwischen Fürst Radelchis von Benevent und den Sarazenen vgl. [0053]-[0004].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="bca44a0b-e9fc-4a07-a6f9-50d8f1d43113" Type="Anmerkung">
+          <Name>14.</Name>
+        </Entitaet>
+        <Entitaet Id="0d3f8a97-ae19-40a0-89ce-664d07818a73" Type="Person">
+          <Name>Abt Bassacius von Montecassino</Name>
+        </Entitaet>
+        <Entitaet Id="8dc0fb82-8147-4216-ad80-c6ceacc01b97" Type="Person">
+          <Name>Papst Leo IV.</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+        <Entitaet Id="613fe211-ab76-4dae-9e76-37ed97f8cd89" Type="Person">
+          <Name>Ludwig II.</Name>
+        </Entitaet>
+        <Entitaet Id="0b8511b3-abc0-4163-9173-922b69520dc3" Type="Ort">
+          <Name>Bari</Name>
+        </Entitaet>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="a863141e-d75e-48f0-b1e0-2e1d3bdfe6d2" Type="Anmerkung">
+          <Name>Fürst Radelchis von Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="936806e5-bf4a-46a3-8486-e14d41aca80a" Type="Anmerkung">
+          <Name>Anführer der Sarazenen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,15, ed. Berto 2006, S. 24.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Abt Bertarius von Montecassino lässt [856] das Kloster Montecassino befestigen sowie eine Stadt im Tal [San Germano; später Cassino] errichten, um die eingefallenen Sarazenen abzuwehren.</Inhaltsangabe>
+      <VolltextOriginalsprache>[15.] Huic [Abt Bassacius von Montecassino] successit in regimine Berthari [Abt Bertarius von Montecassino] sacerdos, […]. Castelli sursum monitionem ipse ambiens, calicem ad honorem Dei officium operatus est, civitatem iuso fieri voluit et inchoabit. Et quomodo totis viribus contra Saracenos in Gaietam [Gaeta] dimicabit, nostra plenissime comperit ętas. Quomodo autem suos dilexit commissos et quatenus pro ipsis decertavit, precepta indicant coenobio facta imperatorum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="856" From="856-01-01" To="856-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Gaeta</Ort>
+        <Ort>Montecassino</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu Abt Bertarius von Montecassino und seinen Befestigungsmaßnahmen des Klosters vgl. Hartmut Hoffmann, Art. Bertharius, in: Lexikon des Mittelalters1, Sp. 2024 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="30d161b5-e580-4ab0-99ba-c4e71d854693" Type="Anmerkung">
+          <Name>15.</Name>
+        </Entitaet>
+        <Entitaet Id="0d3f8a97-ae19-40a0-89ce-664d07818a73" Type="Person">
+          <Name>Abt Bassacius von Montecassino</Name>
+        </Entitaet>
+        <Entitaet Id="12f8c5bc-c791-471e-9ce1-8e52457796fe" Type="Person">
+          <Name>Abt Bertarius von Montecassino</Name>
+        </Entitaet>
+        <Entitaet Id="49f4cb24-5b13-4ea3-8672-0146ffbfa697" Type="Ort">
+          <Name>Gaeta</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,26, ed. Berto 2006, S. 30, 32.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Gastalden Wandelbert von Boviano und Maielport von Telese sowie der Graf Garard von Marsi gehen [um 860] mit weiteren Adligen gegen die in Benevent eingefallenen Sarazenen vor, die das italienische Heeresaufgebot jedoch vernichtend schlagen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[26.] Tandem quasi e gravi somno evigilantes, sed gravati atque prepediti nimiis miseriis Wandelpert [Gastald Wandelbert von Boviano] et Maielpotus gastaldius [Gastald Maielport von Telese] et Garard comes [Graf Garard von Marsi] cum plurimis aliis nobilibus properaverunt Beneventum [Benevent], ut communi consilio ulciscerent se de Saracenis. Salubre quidem fuit consilium, sed inutilis ordo. Non uno agmine, non una eademque intentione per cohortes incedebant, sed divisi ab alterutro inhordinate proficiscebant. Igitur propinquaverunt secus Saracenos ad Arium. Quod hi cernentes, se protinus straverunt in terram. Iamque sol ad occasum tendebat. Hi vero qui a Benevento [Benevent] venerunt, sicuti fuerant lassi et nimium equidem fatigati sitientesque valde, continuo in aciem introierunt. Ilico Saraceni subito erecti, ut erant in uno agmine conglobati, repente irruerunt super eos. Hi vero terga vertentes, fugere cęperunt. Plurimi interempti a gladiis, nonnulli cadentes, in alterutrum inpingentes, prefocabantur. Alii in fossatis, sepibus et cavernis terre inlesi a gladiis, sed pre siti mortui, inveniebantur. Saraceni autem victores effecti, cęptum peregerunt iter.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 860" From="855-01-01" To="865-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Boviano</Ort>
+        <Ort>Marsi</Ort>
+        <Ort>Telese</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu Gastald Wandelbert von Boviano, Gastald Maielport von Telese und Graf Garard von Marsi, die während der Schlacht getötet werden, vgl. Cronicae Sancti Benedicti Casinensis II,26, ed. Berto, S. 31, Anm. 145.
+Zur Datierung vgl. RI I,3,1, Nr. 195.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="7df56551-b3d4-4a57-908f-668aca97cbd6" Type="Anmerkung">
+          <Name>26.</Name>
+        </Entitaet>
+        <Entitaet Id="7ab35e97-c102-4061-9bd1-133269b1947a" Type="Person">
+          <Name>Gastald Wandelbert von Boviano</Name>
+        </Entitaet>
+        <Entitaet Id="d751f06b-3c5c-4dbe-b283-611318f7c154" Type="Person">
+          <Name>Gastald Maielport von Telese</Name>
+        </Entitaet>
+        <Entitaet Id="f05b0407-0e50-40e6-8138-2e6ba3173235" Type="Person">
+          <Name>Graf Garard von Marsi</Name>
+        </Entitaet>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,28, ed. Berto 2006, S. 32, 34.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen überfallen [um 860] unter der Führung des Emirs Sawdan von Bari das Kloster San Modesto in Benevent und das Kloster Montecassino, zerstören jegliche Habseligkeiten der Mönche und plündern die klösterlichen Schatzkammern. Anschließend ziehen die Sarazenen weiter nach Capua, wo sie ebenfalls reiche Beute machen sowie Gefangene nehmen, ehe ihnen die Mönche von Montecassino ein Abkommen vorschlagen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[28.] Dum hoc quadam die apud Sanctum Vincentium [San Vincenzo al Volturno] fratres spiritaliter agerent et illuc de Sancto ob hoc Benedicto [Montecassino] fratres adessent, die veneris tamquam pernicitatem volucri repente super eos Seodam rex Saracenorum [Emir Sawdan von Bari] cum suis satellitibus venit. Monachi vero, quamquam nudi, tamen incolumes ad suum confugerunt castellum. […] Saraceni vero omne demolierunt monasterium, confringentes omnia, frumenta et legumina in flumine proicientes. Et dum huc illucque foderent, plurimum absconsum reppererunt thesaurum, coronas videlicet, ministeria sacra et quotquot valuit esse ecclesiasticus honor. Nefandissimus autem Seodan rex in sacris calicibus bibebat et cum turibulis aureis incensum sibi fieri iubebat. Post diem autem tertium veloci cursu properavit cum suis ministris usque ad portas Capuane [Capua] civitatis, plaustra onusta, animalia, homines plurimos capiens; atque eo die rediens, secus Teanum castrametatus est. Verentes autem beatissimi Benedicti monachi et illius vicinum adventum et suorum periculum, per Ragenaldum diaconem [?], ipsius ut mitigari potuissent ferocitatem, prima vice pro pactu contulerunt ei.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 860" From="855-01-01" To="865-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Capua</Ort>
+        <Ort>Montecassino</Ort>
+        <Ort>Teano</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Verhandlungen</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zum Überfall des Emirs Sawdan von Bari auf das Kloster von Montecassino und die Abtei San Vincenzo al Volturno vgl. RI I,3,1, Nr. 195.
+Als Abkommen, welches weitere kriegerische Maßnahmen der Sarazenen auf Montecassino verhindern sollte, wurden den Sarazenen offenbar 300 Goldmünzen angeboten, vgl. Cronicae Sancti Benedicti Casinensis II,28, ed. Berto, S. 35, Anm. 153.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="704f34a3-130d-4846-89a5-08742af48039" Type="Anmerkung">
+          <Name>28.</Name>
+        </Entitaet>
+        <Entitaet Id="64f4aa01-40a9-4197-b718-b5a0604ac628" Type="Anmerkung">
+          <Name>San Vincenzo al Volturno</Name>
+        </Entitaet>
+        <Entitaet Id="d02bb198-16ea-4aa6-b9e2-72ef0e8d7a58" Type="Anmerkung">
+          <Name>Montecassino</Name>
+        </Entitaet>
+        <Entitaet Id="316c28cd-0eae-4256-a245-e6f17f956c04" Type="Person">
+          <Name>Emir Sawdan von Bari</Name>
+        </Entitaet>
+        <Entitaet Id="1f98a7ea-0e55-4e9c-ac97-0cf9562c61a3" Type="Ort">
+          <Name>Capua</Name>
+        </Entitaet>
+        <Entitaet Id="e8f617be-5769-48a1-8077-8d82baa95690" Type="Anmerkung">
+          <Name>?</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,30, ed. Berto 2006, S. 34.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen belagern [862] unter der Führung des Emirs Sawdan von Bari für vierzig Tage die italienische Stadt Conza della Campania, ehe sie sich zurückziehen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[30.] Per haec tempora Seodan [Emir Sawdan von Bari] cum omni suo exercitu per dies quadraginta debellabat Consiam [Conza della Campania] urbem et nimium obsedit eam tempore multo. Quamque Dominus suo presidio eripuit et Seodan cum suis turpiter ab ea recessit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="862" From="862-01-01" To="862-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Conza della Campania</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+        <Schlagwort>Abzug</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>-</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Cronicae Sancti Benedicti Casinensis II,30, ed. Berto, S. 35, Anm. 156.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.
+Die Relevanz dieser Quellenstelle ergibt sich aus der Nennung des Emirs Sawdan von Bari. Dieser ist bereits aus vorheriger Passage als Sarazenenanführer bekannt, vgl. [0053]-[0010].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="06064b96-2c39-48be-819e-4de25b56ea0b" Type="Anmerkung">
+          <Name>30.</Name>
+        </Entitaet>
+        <Entitaet Id="316c28cd-0eae-4256-a245-e6f17f956c04" Type="Person">
+          <Name>Emir Sawdan von Bari</Name>
+        </Entitaet>
+        <Entitaet Id="725c7732-ad52-4fab-9abb-dd71616c1331" Type="Ort">
+          <Name>Conza della Campania</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0012</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis II,32, ed. Berto 2006, S. 34, 36.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem sich Emir Sawdan von Bari [am 09.02.867] in der italienischen Stadt Venafro niedergelassen hat, verwüstet und plündert sein Heer in den darauffolgenden Tagen die benachbarten Regionen sowie [am 12.02.867] das Kloster Montecassino.</Inhaltsangabe>
+      <VolltextOriginalsprache>[32.] Item benefactor noster, id est omnium contrarius hostis, Seodan [Emir Sawdan von Bari] venit in Benafrum [Venafro]. Postquam eorum coeperat civitatem et postquam omnem devastavit villam et in circuitu eius tamquam rex potens in medio resedit terrę. Initium siquidem tunc erat Quadragesimę sanctę. Eo autem die sanctam dominicam more solito Berthari abbas suum exortabat divinis preceptis beatissimum gregem. Cuius vicinitatem cum certo fratres comperissent, concito gresu ad Sanctum conscenderunt Benedictum [Montecassino]. Sequenti die mercoris nefandus ipsius regis exercitus secus Sancti Benedicti pervenit monasterium, haud non longe quasi stadia duo. Hoc est, dum vellent Saraceni per montes descendere Atinen [Atina], hic qui eos deducebat descendit cum eis in vallem Rotundam [Valle Rotonda], dehinc in Rapidum [Rapido]. Cumque in planitiis devenissent, predari ceperunt. In sancti ęcclesiam dum introissent Helię [Kirche von Sant’Elia], parum aliquod damnum ibidem facientes, per Circlarias in Ortum dominicum et per Pascarium in Fontanam Lucii, abhinc Peolem, ibidemque senem ante cancellos interfecerunt, qui eorum fallitus est viam. Cesam Constantii, Olibetum, Matronolam loca perscrutantes, omnes iumentas et vaccas monasterii auferentes, ad socios in Benafrum iam sero reversi sunt. Hic finis in his fuit, Deo propellente partibus beati Benedicti tam Seodan regis [Emir Sawdan von Bari] quamque omnium satellitum eius.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="867" From="867-01-01" To="867-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Fontana di Lucio</Ort>
+        <Ort>Orto</Ort>
+        <Ort>Valle Rotonda</Ort>
+        <Ort>Venafro</Ort>
+        <Ort>Matronola</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Ansiedlung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>hostis</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Cronicae Sancti Benedicti Casinensis 19, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, hier S. 478.
+Die Lage der Ortschaften Cesa Constantii, Oliveto und Matronola ist nicht genau zu bestimmen, vgl. Cronicae Sancti Benedicti Casinensis II,32, ed. Berto, S. 37, Anm. 164.
+Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Waitz, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="67fb0a85-e2ce-4145-8227-f48eecee0ec2" Type="Anmerkung">
+          <Name>32.</Name>
+        </Entitaet>
+        <Entitaet Id="316c28cd-0eae-4256-a245-e6f17f956c04" Type="Person">
+          <Name>Emir Sawdan von Bari</Name>
+        </Entitaet>
+        <Entitaet Id="bd11c87e-66b3-4ed0-8675-91f4a7d13bd8" Type="Ort">
+          <Name>Venafro</Name>
+        </Entitaet>
+        <Entitaet Id="4e2c5fae-12aa-47e2-a5ba-2b02fed4a18d" Type="Anmerkung">
+          <Name>Montecassino</Name>
+        </Entitaet>
+        <Entitaet Id="92191057-bfc4-400d-a083-82a13ffecd6d" Type="Anmerkung">
+          <Name>Atina</Name>
+        </Entitaet>
+        <Entitaet Id="4cad54ab-9ebd-46ca-b5f1-c72ebfaf4c5d" Type="Ort">
+          <Name>Valle Rotonda</Name>
+        </Entitaet>
+        <Entitaet Id="83dcafe9-1527-464d-90cc-0d424844f61c" Type="Ort">
+          <Name>Rapido</Name>
+        </Entitaet>
+        <Entitaet Id="fc5be67b-4e19-4d52-bc12-8b616159b19a" Type="Anmerkung">
+          <Name>Kirche von Sant’Elia</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0013</QuellenId>
+      <Zitation>Cronicae Sancti Benedicti Casinensis III,10, ed. Berto 2006, S. 52, 54.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Aneinanderreihung von Regierungsjahren bedeutender sarazenischer Persönlichkeiten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Reges Saracenorum Calfon de Barim […] V et menses V […]; Ali Saraceni in Aquino II; Aiu, Ferraci […] III et menses VI; Seodan […] XVII; Capiens omnis civitas Saracenorum […] VII; Saraceni.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Regierungsjahre</Schlagwort>
+        <Schlagwort>Herrschaftszeit</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Benedicti Casinensis, ed. Georg Waitz, in: MGH SS rer. Lang. 1, Hannover 1878, S. 467-489, entstanden und stellt überdies eine italienische Übersetzung der Quelle bereit.</Anmerkungen>
+      <Entitaeten />
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

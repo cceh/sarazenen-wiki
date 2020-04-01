@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0014</WerkId>
+  <WerkTitel>Annales regni Francorum</WerkTitel>
+  <Alternativtitel>
+    <Titel>Fränkische Reichsannalen</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>787-829</Abfassungszeitraum>
+  <Abfassungsort>Aachen</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa</Region>
+  </Regionen>
+  <Editionshinweise>Annales regni Francorum inde ab a. 741 usque ad a. 829, qui dicuntur Annales Laurissenses maiores et Einhardi, ed. Friedrich Kurze (MGH Script. rer. Germ. [6]), Hannover 1895, S. 1-178.</Editionshinweise>
+  <Werkinformation>Die Annales regni Francorum, auch Fränkische Reichsannalen, berichten über den Zeitraum von 741 bis 829 und wurden zwischen 787 und 829 von verschiedenen Verfassern aus dem Kreis der karolingischen Hofkapelle verfasst. Namentlich sind sie nicht bekannt.
+Vgl. mit Hinweisen für weiterführende Literatur: Ulrich Nonn, Art. Reichsannalen, in: Lexikon des Mittelalters 7, Sp. 616-617 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; Annales regni Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00265.html, 2016-08-01]; Sören Kaschke, Art. Annales regni Francorum, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 81.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales regni Francorum a. 777, ed. Kurze 1895, S. 48.</Zitation>
+      <ZeitangabeQuelle>777</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große hält 777 einen Reichstag in Paderborn ab, zu welchem u. a. auch der sarazenische Statthalter von Barcelona Sulaiman Ebn al Arabi sowie ein Sohn des Jussef Ben Abd ur Rahman el Fehri kommen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Tunc domnus Carolus rex [Karl I. der Große] synodum publicum habuit ad Paderbrunnen [Paderborn] prima vice. […] Etiam ad eundem placitum venerunt Sarraceni de partibus Hispaniae [Spanien], hi sunt Ibin al Arabi [Sulaiman Ebn al Arabi von Barcelona und Gerona] et filius Deiuzefi [Jussuf ibn-Abdérman al-Fihri], qui et latine Ioseph nominatur, similiter et gener eius.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Damals hielt König Karl [Karl I. der Große] einen allgemeinen Reichstag ab in Paderborn [Paderborn] zum ersten Male. […] Auch kamen zu diesem Reichstag Sarrazenen aus Spanien [Spanien], nämlich Ebn el Arabi [Sulaiman Ebn al Arabi von Barcelona und Gerona] und ein Sohn des Jussef [Jussuf ibn-Abdérman al-Fihri] (lateinisch Josef) sowie sein Eidam.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 777, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 37.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="777" From="777-01-01" To="777-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Paderborn</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>(Reichs-)Versammlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabus</Suchwort>
+        <Suchwort>Araber</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0018]-[0001]; [0044]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="f06ac2ef-f87d-48ae-a74d-0d3b08e9a7cc" Type="Ort">
+          <Name>Paderborn</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="1716ed91-bbfc-4bdf-8140-251d634f3f3b" Type="Person">
+          <Name>Sulaiman Ebn al Arabi von Barcelona und Gerona</Name>
+        </Entitaet>
+        <Entitaet Id="b794d104-aefd-4318-8f99-38370c843b3b" Type="Person">
+          <Name>Jussuf ibn-Abdérman al-Fihri</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales regni Francorum a. 778, ed. Kurze 1895, S. 50.</Zitation>
+      <ZeitangabeQuelle>778</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große zieht 778 nach Saragossa, erhält dort von Jussuf ibn-Abdérman al-Fihri und von Wali Abu Tawr von Huesca sarazenische Geiseln, zerstört Pamplona und unterwirft die Wasconen und Navarrer, bevor er ins Frankenreich zurückkehrt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Tunc domnus Carolus rex [Karl I. der Große] iter peragens partibus Hispaniae [Spanien] per duas vias; una per Pampilonam [Pamplona], per quam ipse supradictus magnus rex perrexit usque Caesaraugustam [Saragossa]. Ibique venientes de partibus Burgundiae [Burgund] et Austriae [Austrien] vel Baioariae [Bayern] seu Provinciae [Provence] et Septimaniae [Septimanien] et pars Langobardorum [Langobardenreich]; et coniungentes se ad supradictam civitatem ex utraque parte exercitus. Ibi obsides receptos de Ibin al Arabi [Jussuf ibn-Abdérman al-Fihri] et de Abutauro [Wali Abu Tawr von Huesca] et de multis Sarracenis, Pampilona [Pamplona] destructa, Hispani Wascones [Wasconen] subiugatos, etiam et Nabarros, reversus in partibus Franciae [Frankenreich].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Damals zog König Karl [Karl I. der Große] nach Spanien [Spanien] auf zwei Wegen: der eine über Pampelona [Pamplona], auf dem der genannte große König selbst bis Saragossa [Saragossa] zog. Dorthin zogen sie aus Burgund [Burgund] und Austrien [Austrien], aus Baiern [Bayern], der Provence [Provence] und Septimanien [Septimanien] und ein Teil der Langobarden [Langobardenreich], und es gelangten die Heere von beiden Seiten zu der genannten Stadt. Nachdem er hier Geiseln erhalten hatte von Ebn el Arabi [Jussuf ibn-Abdérman al-Fihri] und von Abu Taher [Wali Abu Tawr von Huesca] und von vielen Sarrazenen, nachdem er weiter Pampelona [Pamplona] zerstört und die spanischen Basken [Wasconen] unterworfen hatte, auch die Navarrer, kehrte er nach Francien [Frankenreich] zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 778, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 37.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Burgund (Frankreich)</Ort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Pamplona</Ort>
+        <Ort>Saragossa</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Austrien</Ort>
+        <Ort>Baiern</Ort>
+        <Ort>Franzien</Ort>
+        <Ort>Gothien</Ort>
+        <Ort>Provence</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Caesaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Ibin</Suchwort>
+        <Suchwort>Arabus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0018]-[0002] und [0044]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="8c6acf1b-8f06-4af6-9398-9f7f2bc2833f" Type="Ort">
+          <Name>Pamplona</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+        <Entitaet Id="8c2eff1a-3769-4cd9-82c6-4057a83aa806" Type="Ort">
+          <Name>Burgund</Name>
+        </Entitaet>
+        <Entitaet Id="e2a25ee2-6dfa-46f0-a771-43f63eec998a" Type="Ort">
+          <Name>Austrien</Name>
+        </Entitaet>
+        <Entitaet Id="53fa29da-086f-4845-9a4c-e600d2eaf720" Type="Ort">
+          <Name>Bayern</Name>
+        </Entitaet>
+        <Entitaet Id="334bcc12-dbc5-4fe1-9d9b-af61579b065b" Type="Ort">
+          <Name>Provence</Name>
+        </Entitaet>
+        <Entitaet Id="284e074c-13da-4a54-ab5a-0134b64298d4" Type="Ort">
+          <Name>Septimanien</Name>
+        </Entitaet>
+        <Entitaet Id="c4c232e5-dc81-4c24-b86d-00b1978dfba8" Type="Ort">
+          <Name>Langobardenreich</Name>
+        </Entitaet>
+        <Entitaet Id="b794d104-aefd-4318-8f99-38370c843b3b" Type="Person">
+          <Name>Jussuf ibn-Abdérman al-Fihri</Name>
+        </Entitaet>
+        <Entitaet Id="a09e20d5-0ab2-470b-9890-8a40b9d3d040" Type="Person">
+          <Name>Wali Abu Tawr von Huesca</Name>
+        </Entitaet>
+        <Entitaet Id="8a6e701a-63fe-4d3f-9c38-28c19db82261" Type="Anmerkung">
+          <Name>Wasconen</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales regni Francorum a. 797, ed. Kurze 1895, S. 100.</Zitation>
+      <ZeitangabeQuelle>797</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große empfängt 797 den sarazenischen Statthalter Sa’dun al-Ru’aini, der ihm die spanische Stadt Barcelona überlässt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Barcinona [Barcelona] civitas Hispaniae [Spanien], quae iam pridem a nobis desciverat, per Zatun praefectum [Sa’dun al-Ru’aini] ipsius nobis est reddita. Nam ipse ad palatium veniens domno regi [Karl I. der Große] semetipsum cum civitate commendavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die spanische Stadt Barcelona [Barcelona], die schon früher von uns abgefallen war, wurde durch ihren Befehlshaber Zatun [Sa’dun al-Ru’aini] uns wieder übergeben. Denn persönlich zur Pfalz kommend unterwarf er sich samt der Stadt dem König [Karl I. der Große].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 797, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 67.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="797" From="797-01-01" To="797-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Stadtübergabe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. zu diesem Bericht auch [0008]-[0013]; [0018]-[0004]; [0020]-[0001]; [0035]-[0004]; [0044]-[0004].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="08940327-0bb7-4b38-bbf6-3965d86ee28e" Type="Person">
+          <Name>Sa’dun al-Ru’aini</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales regni Francorum a. 797, ed. Kurze 1895, S. 100.</Zitation>
+      <ZeitangabeQuelle>797</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Sarazene Abdellah [Sohn des Emirs Abd ar-Rahmans I. von Cordoba] ersucht 797 König Karl I. den Großen persönlich um Schutz.</Inhaltsangabe>
+      <VolltextOriginalsprache>Et in Aquis [Aachen] palatio Abdellam Sarracenum filium Ibin-Mauge regis [Emir Abd ar-Rahman I.], qui a fratre regno pulsus in Mauritania [Mauretanien] exulabat, ipso semetipsum commendante suscepit [Karl I. der Große]. […] Inde Abdellam Sarracenum [Abdellah] cum filio suo Hludowico [Ludwig I. der Fromme] in Hispanias [Spanien] reverti fecit […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Und in der Pfalz zu Aachen [Aachen] empfing er [Karl I. der Große] den Sarrazenen Abdellah den Sohn des Emirs Ibn Muawijah [Emir Abd ar-Rahman I.], der von seinem Bruder vom Thron gestoßen in Mauretanien [Mauretanien] lebte und ihn jetzt persönlich um Schutz anging. […] Von hier ließ er den Sarrazenen Abdellah [Abdellah] mit seinem Sohn Ludwig [Ludwig I. der Fromme] nach Spanien [Spanien] zurückkehren […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 797, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 67</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="797" From="797-01-01" To="797-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Mauretanien (Algerien?, Tunesien?, Marokko?)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>Würdigung</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdella</Suchwort>
+        <Suchwort>Abdellah</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Mauritania</Suchwort>
+        <Suchwort>Mauretanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0045]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="f679dac4-68f1-4faa-af66-b3ceb1c21623" Type="Person">
+          <Name>Emir Abd ar-Rahman I.</Name>
+        </Entitaet>
+        <Entitaet Id="7bd20aba-ffc4-403e-b1d8-d2256a7a8fcb" Type="Ort">
+          <Name>Mauretanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="b2fe319d-877e-49ea-9581-9bd883df6373" Type="Person">
+          <Name>Abdellah</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Annales regni Francorum a. 798, ed. Kurze 1895, S. 104.</Zitation>
+      <ZeitangabeQuelle>798</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Balearen werden 798 von Mauren und Sarazenen geplündert.</Inhaltsangabe>
+      <VolltextOriginalsprache>Insulae Baleares [Balearen] a Mauris et Sarracenis depraedatae sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die Balearen [Balearen] wurden von Mauren und Sarrazenen geplündert.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 798, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 69.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="798" From="798-01-01" To="798-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Balearen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b22b21a8-00f8-4a6f-ba99-d2d1055e5d64" Type="Ort">
+          <Name>Balearen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Annales regni Francorum a. 798, ed. Kurze 1895, S. 104.</Zitation>
+      <ZeitangabeQuelle>798</ZeitangabeQuelle>
+      <Inhaltsangabe>Der König von Asturien, Alfons II. der Keusche, schickt 798 maurische Geiseln an König Karl I. den Großen, nachdem er Lissabon geplündert hat.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hadefonsus rex Galleciae et Asturiae [Alfons II.] praedata Olisipona [Lissabon] ultima Hispaniae [Spanien] civitate insignia victoriae suae loricas, mulos captivosque Mauros domno regi [Karl I. der Große] per legatos suos Froiam et Basiliscum hiemis tempore misit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>König Alfons von Gallicien und Asturien [Alfons II.], der Lissabon [Lissabon] die fernste Stadt Spaniens [Spanien] geplündert hat, schickt als Zeichen seines Sieges Panzer, Maulesel und maurische Gefangene dem König Karl [Karl I. der Große] im Winter durch seine Gesandten Froia und Basiliscus.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 798, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 69.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="798" From="798-01-01" To="798-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Portugal)</Ort>
+        <Ort>Lissabon</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0044]-[0005]; [0045]-[0004].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ca2a6f99-57bd-489d-abc6-d69aa30d7094" Type="Person">
+          <Name>Alfons II.</Name>
+        </Entitaet>
+        <Entitaet Id="1981f381-2e6b-47b2-b8dd-09f8af6c1f68" Type="Ort">
+          <Name>Lissabon</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Annales regni Francorum a. 799, ed. Kurze 1895, S. 108.</Zitation>
+      <ZeitangabeQuelle>799</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Balearen werden [im Herbst] 799 mit fränkischer Hilfe von Mauren und Sarazenen befreit. Anschließend erhält König Karl I. der Große die gewonnenen Feldzeichen der Mauren.</Inhaltsangabe>
+      <VolltextOriginalsprache>Insulae Baleares [Balearen], quae a Mauris et Sarracenis anno priore depraedatae sunt, postulato atque accepto a nostris auxilio nobis se dediderunt et cum Dei auxilio a nostris a praedonum incursione defensi sunt. Signa quoque Maurorum in pugna sublata et domno regi [Karl I. der Große] praesentata sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die Balearen [Balearen], die im Vorjahr von Mauren und Sarrazenen geplündert wurden, unterwarfen sich uns, nachdem sie von den Unseren Hilfe gefordert und erhalten hatten, und wurden mit Gottes Hilfe von den Unsern gegen den Überfall der Seeräuber geschützt. Es wurden auch Feldzeichen der Mauren in der Schlacht gewonnen und dem König [Karl I. der Große] überreicht.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 799, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 71.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Herbst 799" From="799-01-01" To="799-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Balearen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Gottesurteil</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>praedo</Suchwort>
+        <Suchwort>Seeräuber</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b22b21a8-00f8-4a6f-ba99-d2d1055e5d64" Type="Ort">
+          <Name>Balearen</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Annales regni Francorum a. 801, ed. Kurze 1895, S. 114, 116.</Zitation>
+      <ZeitangabeQuelle>801</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem Kaiser Karl I. der Große [im Mai-Juni] 801 nach Pavia gezogen ist, erhält er von zwei Gesandten des Kalifen Harun al-Raschid und des Emirs Ibrahim ibn al- Aghlab von Ifriqiya die Nachricht, dass sich sein Gesandter, der Jude Isaak, mit Geschenken an den Kaiser, wie einem Elefanten, auf der Rückreise befindet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Imperator [Karl I. der Große] de Spoletio [Spoleto] Ravennam [Ravenna] veniens aliquot dies ibi moratus Papiam [Pavia] perrexit. Ibi nuntiatur ei, legatos Aaron Amir al Mumminin regis Persarum [Kalif Harun al-Raschid] portum Pisas [Pisa] intrasse. Quibus obviam mittens inter Vercellis [Vercelli] et Eporeiam [Ivrea] eos sibi fecit praesentari; unus enim ex eis erat Persa de Oriente [Persien], legatus regis Persarum, – nam duo fuerant – alter Sarracenus de Africa [Afrika], legatus amirati Abraham [Emir Ibrahim ibn al-Aghlab], qui in confinio Africae in Fossato [Fostat] praesidebat. Qui Isaac Iudeum, quem imperator ante quadriennium ad regem Persarum cum Lantfrido et Sigimundo miserat, reversum cum magnis muneribus nuntiaverunt; nam Lantfridus ac Sigimundus ambo defuncti erant. Tum ille misit Ercanbaldum notarium in Liguriam [Ligurien] ad classem parandam, qua elefans et ea, quae cum eo deferebantur, subveherentur. […] Ipsius anni mense Octobrio Isaac Iudeus de Africa [Afrika] cum elefanto [Abul Abaz] regressus Portum Veneris [Porto Venere] intravit; et quia propter nives Alpes [Alpen] transire non potuit, in Vercellis [Vercelli] hiemavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der Kaiser [Karl I. der Große] zog von Spoleto [Spoleto] nach Ravenna [Ravenna] und nachdem er hier einige Tage zugebracht hatte, weiter nach Pavia [Pavia]. Hier erhielt er die Nachricht, daß Gesandte des Perserkönigs Harun [Kalif Harun al-Raschid] des Beherrschers der Gläubigen von Pisa [Pisa] angekommen seien; er schickte ihnen entgegen und ließ sie sich zwischen Vercelli [Vercelli] und Ivrea [Ivrea] vorstellen. Einer von ihnen war ein Perser aus dem Morgenland [Persien] und der Gesandte des genannten Königs, der andere, zwei nämlich waren es, war ein Sarrazene aus Afrika [Afrika] und der Gesandte des Emirs Abraham [Emir Ibrahim ibn al-Aghlab], welcher auf der Grenze Afrikas in Fostat [Fostat] herrschte. Sie berichteten, daß der Jude Isaak, den der Kaiser vor vier Jahren mit seinen Gesandten Lantfrid und Sigismund an den König der Perser abgeschickt hatte, mit großen Geschenken auf der Rückreise begriffen sei. Lantfrid und Sigismund waren beide unterwegs gestorben. Hierauf schickte er den Notar Erkanbald nach Ligurien [Ligurien], um eine Flotte zu rüsten, auf welcher der Elefant und was noch mit ihm gebracht wurde, befördert werden könnte. […] Im Oktober dieses Jahres kam der Jude Isaak mit dem Elefanten [Abul Abaz] aus Afrika [Afrika] zurück und lief in Porto Venere [Porto Venere] ein; weil er jedoch des Schnees wegen nicht mehr über die Alpen [Alpen] reisen konnte, blieb er den Winter über in Vercelli [Vercelli].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 801, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 77.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Mai-Juni, Oktober 801" From="801-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Österreich, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Afrika</Ort>
+        <Ort>Fostat</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Ivrea</Ort>
+        <Ort>Pavia</Ort>
+        <Ort>Pisa</Ort>
+        <Ort>Porto Venere</Ort>
+        <Ort>Ravenna</Ort>
+        <Ort>Spoleto</Ort>
+        <Ort>Vercelli</Ort>
+        <Ort>Umayyadisches Reich (Syrien)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Amir</Suchwort>
+        <Suchwort>Emir</Suchwort>
+        <Suchwort>Persa</Suchwort>
+        <Suchwort>Persien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die örtliche Zuordnung von Fostat ist beschrieben bei: Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 801, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 76, Anm. 1.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="341998e5-30c3-4a86-8bb8-80a38ce1df0c" Type="Ort">
+          <Name>Spoleto</Name>
+        </Entitaet>
+        <Entitaet Id="e1504d41-9556-48de-8949-8ce4f72a5118" Type="Ort">
+          <Name>Ravenna</Name>
+        </Entitaet>
+        <Entitaet Id="d6f0652d-06e6-4da5-bf1b-e2865ff812b0" Type="Ort">
+          <Name>Pavia</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="c69e1840-0bc0-4cff-8084-4702fa128a15" Type="Ort">
+          <Name>Pisa</Name>
+        </Entitaet>
+        <Entitaet Id="fde96c5c-f2ea-4699-a5b3-814f92e2bb6f" Type="Ort">
+          <Name>Vercelli</Name>
+        </Entitaet>
+        <Entitaet Id="9eaf22f9-fc67-4ec7-a09d-ff1a4c04a63e" Type="Ort">
+          <Name>Ivrea</Name>
+        </Entitaet>
+        <Entitaet Id="b432c41c-fdf5-4107-8cdb-b9939e8c8cf8" Type="Ort">
+          <Name>Persien</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="78f5c000-252d-41df-9715-8c52c1f6ae5d" Type="Person">
+          <Name>Emir Ibrahim ibn al-Aghlab</Name>
+        </Entitaet>
+        <Entitaet Id="18577fea-d3f7-4a1c-a482-54b7e9bf58f4" Type="Ort">
+          <Name>Fostat</Name>
+        </Entitaet>
+        <Entitaet Id="a6b761a5-7ab7-4cc0-b7a9-589bc133e18d" Type="Ort">
+          <Name>Ligurien</Name>
+        </Entitaet>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+        <Entitaet Id="87c75a5a-642d-4a6a-ba1e-3f3bd350e03f" Type="Ort">
+          <Name>Porto Venere</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Annales regni Francorum a. 801, ed. Kurze 1895, S. 116.</Zitation>
+      <ZeitangabeQuelle>801 (Sommer)</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Sommer 801 werden Barcelona und Chieti erfolgreich erobert, die Befehlshaber Sa’dun al-Ru’aini und Roselmus mit vielen anderen Sarazenen gefangen genommen und vor Kaiser Karl I. den Großen geführt, der sie in die Verbannung schickt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ipsa aestate capta est Barcinona [Barcelona] civitas in Hispania [Spanien] iam biennio obsessa; Zatun praefectus [Sa’dun al-Ru’aini] eius et alii conplures Sarraceni conprehensi. Et in Italia [Italien] Teate [Chieti] civitas similiter capta et incensa est eiusque praefectus Roselmus conprehensus; […] Zatun et Roselmus una die ad praesentiam imperatoris [Karl I. der Große] deducti et exilio dampnati sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>In diesem Sommer wurde die spanische [Spanien] Stadt Barcelona [Barcelona] nach zweijähriger Belagerung erobert. Ihr Befehlshaber Zatun [Sa’dun al-Ru’aini] wurde mit vielen anderen Sarrazenen gefangen genommen. Gleicherweise wurde in Italien [Italien] die Stadt Chieti [Chieti] erobert und angezündet und ihr Befehlshaber Roselmus gefangen genommen. […] Zatun und Roselmus wurden an einem Tage vor den Kaiser [Karl I. der Große] gebracht und mit Verbannung bestraft.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 801, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 77.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801 (Sommer)" From="801-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Chieti</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Verbannung</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="08940327-0bb7-4b38-bbf6-3965d86ee28e" Type="Person">
+          <Name>Sa’dun al-Ru’aini</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="abfb9a3b-1810-4309-9683-be45f7e2ad8f" Type="Ort">
+          <Name>Chieti</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Annales regni Francorum a. 802, ed. Kurze 1895, S. 117.</Zitation>
+      <ZeitangabeQuelle>20.07.802</ZeitangabeQuelle>
+      <Inhaltsangabe>Am 20.07.802 erreicht der Gesandte Isaak Aachen und überreicht Kaiser Karl I. dem Großen einen Elefanten namens Abul Abaz sowie weitere Geschenke des Kalifen Harun al-Raschid.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ipsius anni mense Iulio, XIII. Kal. Aug., venit Isaac cum elefanto et ceteris muneribus, quae a rege Persarum [Kalif Harun al-Raschid] missa sunt, et Aquisgrani [Aachen] omnia imperatori [Karl I. der Große] detulit; nomen elefanti erat Abul Abaz [Abul Abaz].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Am 20. Juli dieses Jahres kam Isaak mit dem Elefanten und den übrigen Geschenken des Königs der Perser [Kalif Harun al-Raschid] an und übergab sie in Aachen [Aachen] dem Kaiser [Karl I. der Große]. Der Elefant führte den Namen Abulabaz [Abul Abaz].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 802, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 79.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="20.07.802" From="802-01-01" To="802-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abul Abaz</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. hierzu [0014]-[0008]; [0012]-[0001]; [0006]-[0002].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Annales regni Francorum a. 806, ed. Kurze 1895, S. 122.</Zitation>
+      <ZeitangabeQuelle>806</ZeitangabeQuelle>
+      <Inhaltsangabe>König Pippin I. von Italien entsendet 806 zur Vertreibung der Mauren eine Flotte nach Korsika. Zuvor war Graf Hadumar von Genua einem Kampf gegen sie zum Opfer gefallen. In Spanien werden Navarrer und Pampilonenser, die zu den Sarazenen abgefallen waren, zurückgewonnen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno in Corsicam [Korsika] insulam contra Mauros, qui eam vastabant, classis de Italia [Italien] a Pippino [Pippin I.] missa est, cuius adventum Mauri non expectantes abscesserunt; unus tamen nostrorum, Hadumarus comes civitatis Genuae, inprudenter contra eos dimicans occisus est. In Hispania [Spanien] vero Navarri et Pampilonenses, qui superioribus annis ad Sarracenos defecerant, in fidem recepti sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>In demselben Jahre wurde nach Korsika [Korsika] gegen die Mauren, welche diese Insel verwüsteten, von Pippin [Pippin I.] eine Flotte aus Italien [Italien] abgeschickt; die Mauren aber machten sich, ohne die Ankunft derselben abzuwarten, davon. Einer von den Unsrigen jedoch, der Graf Hadumar von Genua, fiel in einem Kampf, in den er sich unvorsichtig mit ihnen eingelassen hatte. In Spanien [Spanien] wurden die Navarrer und die Pampilonenser, welche in den letzten Jahren zu den Sarrazenen abgefallen waren, wieder zum Gehorsam gebracht.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 806, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 83ff.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="806" From="806-01-01" To="806-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Navarra</Ort>
+        <Ort>Pamplona</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0012</QuellenId>
+      <Zitation>Annales regni Francorum a. 806, ed. Kurze 1895, S. 122.</Zitation>
+      <ZeitangabeQuelle>802; 806</ZeitangabeQuelle>
+      <Inhaltsangabe>Der byzantinische Kaiser Nikephoros I. entsendet 806 ein Heer zur Einnahme Dalmatiens. Zu dieser Zeit treffen auch Gesandte am italienischen Hafen von Treviso ein, die 802 [von Kaiser Karl I. dem Großen?] zum Kalifen Harun al-Raschid geschickt worden waren.</Inhaltsangabe>
+      <VolltextOriginalsprache>Classis a Niciforo imperatore [Nikephoros I.], cui Niceta patricius praeerat, ad reciperandam Dalmatiam [Dalmatien] mittitur; et legati, qui dudum ante quattuor fere annos ad regem Persarum [Kalif Harun al-Raschid] missi sunt, per ipsas Grecarum navium stationes transvecti ad Tarvisiani [Treviso] portus receptaculum nullo adversariorum sentiente regressi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Von dem Kaiser Niciforus [Nikephoros I.] wurde eine Flotte unter dem Oberbefehl des Patricius Nicetas zur Wiedereroberung Dalmatiens [Dalmatien] ausgeschickt und die Gesandten, welche vor ungefähr vier Jahren zu dem König der Perser [Kalif Harun al-Raschid] abgegangen waren, fuhren mitten durch die Ankerplätze der griechischen Schiffe hindurch und kehrten, ohne daß es von den Feinden jemand bemerkte, sicher in den Hafen von Treviso [Treviso] zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 806, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 85.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="802" From="802-01-01" To="802-12-31" />
+        <Datum Text="806" From="806-01-01" To="806-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Dalmatien</Ort>
+        <Ort>Treviso</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="90eae9c1-60f7-4b90-9559-047e12b6d40b" Type="Person">
+          <Name>Nikephoros I.</Name>
+        </Entitaet>
+        <Entitaet Id="33aa56be-0f92-4117-ad45-df6300418ea3" Type="Ort">
+          <Name>Dalmatien</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="5eafded5-deb8-4008-9229-b14257e4f6e4" Type="Ort">
+          <Name>Treviso</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0013</QuellenId>
+      <Zitation>Annales regni Francorum a. 807, ed. Kurze 1895, S. 123f.</Zitation>
+      <ZeitangabeQuelle>807</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem der kaiserliche Gesandte Radbert auf seiner Rückreise verstorben ist, kommt [ab September] 807 ein Gesandter des Kalifen Harun al-Raschid namens Abdella in Begleitung zweier Mönche aus Jerusalem zu Kaiser Karl I. dem Großen und überbringt ihm kostbare Geschenke.</Inhaltsangabe>
+      <VolltextOriginalsprache>Radbertus missus imperatoris [Karl I. der Große], qui de Oriente [Orient] revertebatur, defunctus est; et legatus regis Persarum [Kalif Harun al-Raschid] nomine Abdella cum monachis de Hierusalem [Jerusalem], qui legatione Thomae patriarchae fungebantur, quorum nomina fuere Georgius et Felix,– hic Georgius est abba in monte Oliveti [Ölberg], et cui patria Germania est, qui etiam proprio vocatur nomine Egilbaldus, – ad imperatorem pervenerunt munera deferentes, quae praedictus rex imperatori miserat, id est papilionem et tentoria atrii vario colore facta mirae magnitudinis et pulchritudinis. Erant enim omnia bissina, tam tentoria quam et funes eorum, diversis tincta coloribus. Fuerunt praeterea munera praefati regis pallia sirica multa et preciosa et odores atque unguenta et balsamum; necnon et horologium ex auricalco arte mechanica mirifice conpositum, in quo duodecim horarum cursus ad clepsidram vertebatur, cum totidem aereis pilulis, quae ad completionem horarum decidebant et casu suo subiectum sibi cimbalum tinnire faciebant, additis in eodem eiusdem numeri equitibus, qui per duodecim fenestras completis horis exiebant et inpulsu egressionis suae totidem fenestras, quae prius erant apertae, claudebant; necnon et alia inulta erant in ipso horologio, quae nunc enumerare longum est. Fuerunt praeterea inter praedicta munera candelabra duo ex auricalco mirae magnitudinis et proceritatis. Quae omnia Aquis [Aachen] palatio ad imperatorem delata sunt. Imperator legatum et monachos per aliquantum tempus secum retinens in Italiam [Italien] direxit atque ibi eos tempus navigationis expectare iussit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der [sic] Kaisers [Karl I. der Große] Gesandter Radbert starb auf der Rückreise aus dem Morgenlande [Orient]; der Gesandte des Perserkönigs [Kalif Harun al-Raschid] mit Namen Abdella erschien mit den Mönchen Georg und Felix aus Jerusalem [Jerusalem], die im Auftrag des Patriarchen Thomas kamen – dieser Georg ist Abt auf dem Ölberg, von Geburt ein Deutscher und heißt eigentlich Egibald, – vor dem Kaiser und überbrachte die Geschenke, die der obengenannte König dem Kaiser geschickt hatte, nämlich ein Zelt und verschiedenfarbige Vorhänge für den Vorhof von ungemeiner Größe und Schönheit; es war nämlich alles aus feinstem Leinen, die Vorhänge sowohl als die Schnüre dazu, bunt gefärbt. Außerdem bestanden die Geschenke des Königs in vielen und kostbaren seidenen Gewändern, in Wohlgerüchen, Salben und Balsam. Auch ein höchst kunstvoll aus Messing gearbeitetes Uhrwerk war dabei, in dem der Lauf der zwölf Stunden nach einer Wasseruhr sich bewegte mit ebensoviel ehernen Kügelchen, die nach Ablauf der Stunden herunterfielen und dadurch ein darunter liegendes Becken erklingen ließen, ferner waren darin zwölf Reiter, die am Ende der Stunden aus zwölf Fenstern herauskamen und durch ihre Bewegung ebensoviele zuvor offenstehende Fenster schlossen; noch vieles andere befand sich an dieser Uhr, was jetzt aufzuzählen zu weitläufig wäre. Außerdem befanden sich unter den Geschenken zwei Messing-Leuchter von ausgezeichneter Größe und Form. Das alles wurde in der Pfalz zu Aachen [Aachen] vor den Kaiser gebracht. Der Kaiser hielt den Gesandten und die Mönche eine Zeit lang bei sich und ließ sie dann nach Italien [Italien] abreisen, wo sie die Zeit zur Überfahrt abwarten wollten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 807, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 85.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="ab September 807" From="807-01-01" To="807-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Ölberg</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdella</Suchwort>
+        <Suchwort>Hierosolyma</Suchwort>
+        <Suchwort>Hierusalem</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="fb9451b3-a2ce-4883-bf6b-c514f8054d1c" Type="Ort">
+          <Name>Orient</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="45c69df6-b9f2-4582-9fdb-e3cac1ce3c41" Type="Ort">
+          <Name>Ölberg</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="e221c34f-de83-458c-b3b5-2bde922945c4" Type="Anmerkung">
+          <Name>sic</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0014</QuellenId>
+      <Zitation>Annales regni Francorum a. 807, ed. Kurze 1895, S. 124.</Zitation>
+      <ZeitangabeQuelle>807</ZeitangabeQuelle>
+      <Inhaltsangabe>Eine Flotte Karls I. des Großen kämpft unter dem Oberbefehl des Marschalls Burchard 807 bei Korsika erfolgreich gegen die aus Spanien kommenden Mauren und bringt viele von ihnen um.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodemque anno Burchardum comitem stabuli sui cum classe misit [Karl I. der Große] in Corsicam [Korsika], ut eam a Mauris, qui superioribus annis illuc praedatum venire consueverant, defenderet. Qui iuxta consuetudinem suam de Hispania [Spanien] egressi primo Sardiniam [Sardinien] adpulsi sunt ibique cum Sardis proelio commisso et multis suorum amissis – nam tria milia ibi cecidisse perhibentur – in Corsicam recto cursu pervenerunt. Ibi iterum in quodam portu eiusdem insulae cum classe, cui Burchardus praeerat, proelio decertaverunt victique ac fugati sunt, amissis tredecim navibus et plurimis suorum interfectis. Adeo illo anno in omnibus locis adversa fortuna fatigati sunt, ut ipsi sibi hoc accidisse testati sint, eo quod anno superiore contra omnem iustitiam de Patalaria [Pantellaria] insula sexaginta monachos asportatos in Hispania vendiderunt; quorum aliqui per liberalitatem imperatoris iterum in sua loca reversi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>In demselben Jahre schickte er [Karl I. der Große] seinen Marschall Burchard mit einer Flotte nach Korsika [Korsika], um die Insel vor den Mauren zu schützen, die in den letzten Jahren immer Raubzüge dahin gemacht hatten. Sie fuhren wie gewöhnlich von Spanien [Spanien] aus, landeten zuerst in Sardinien [Sardinien], wo sie in einem Treffen mit den Sarden viele Leute verloren – dreitausend sollen daselbst gefallen sein – und dann gerades Wegs auf Korsika zusteuerten. Hier gerieten sie in einen Kampf mit der Flotte des Burchard in einem Hafen dieser Insel, wurden abermals besiegt und verjagt, wobei dreizehn Schiffe verloren und von ihren Leuten sehr viele ums Leben kamen. So sehr wurden sie in diesem Jahre allenthalben vom Unglück verfolgt, daß sie selbst erklärten, es sei ihnen darum so ergangen, weil sie im vorigen Jahre gegen alles Recht sechzig Mönche von der Insel Pantellaria [Pantellaria] weggeschleppt und in Spanien verkauft hatten, von welchen dann durch die Freigebigkeit des Kaisers etliche wieder in ihre Heimat zurückgelangten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 807, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 87.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="807" From="807-01-01" To="807-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Sardinien</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Freilassung</Schlagwort>
+        <Schlagwort>Sklaven</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Sardinia</Suchwort>
+        <Suchwort>Sardinien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. zu diesem Bericht [0044]-[0007].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+        <Entitaet Id="da76ba20-ccc4-4aec-aafa-2c110ebea808" Type="Ort">
+          <Name>Pantellaria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0015</QuellenId>
+      <Zitation>Annales regni Francorum a. 809, ed. Kurze 1895, S. 128.</Zitation>
+      <ZeitangabeQuelle>809</ZeitangabeQuelle>
+      <Inhaltsangabe>Aus Spanien kommende Mauren plündern [am 07.04.] 809 eine korsische Stadt und töten viele Einwohner.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mauri quoque de Hispania [Spanien] Corsicam [Korsika] ingressi in ipso sancto paschali sabbato civitatem quandam diripuerunt et praeter episcopum ac paucos senes atque infirmos nihil in ea reliquerunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Auch die Mauren kamen von Spanien [Spanien] nach Korsika [Korsika] herüber, plünderten am heiligen Ostersabbat eine Stadt und ließen nichts in ihr zurück, als den Bischof und einige Alte und Kranke.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 809, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 91.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="07.04.809" From="809-01-01" To="809-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0016</QuellenId>
+      <Zitation>Annales regni Francorum a. 810, ed. Kurze 1895, S. 130.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Aus Spanien kommende Mauren bringen 810 Korsika in ihre Gewalt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mauri de tota Hispania [Spanien] maxima classe conparata primo Sardiniam [Sardinien], deinde Corsicam [Korsika] appulerunt; nulloque in ea invento praesidio insulam pene totam subigerunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die Mauren landeten mit einer ungemein großen Flotte, die sie aus ganz Spanien [Spanien] zusammengebracht hatten, zuerst in Sardinien [Sardinien], hierauf in Korsika [Korsika] und brachten, da sie keine Besatzung darauf fanden, die ganze Insel in ihre Gewalt.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 810, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 95.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Sardinien</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0017</QuellenId>
+      <Zitation>Annales regni Francorum a. 810, ed. Kurze 1895, S. 131.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Elefant Abul Abaz, welchen Kalif Harun al-Raschid Kaiser Karl I. dem Großen 802 geschenkt hatte, verstirbt 810 plötzlich.</Inhaltsangabe>
+      <VolltextOriginalsprache>[U]bi [Lippeheim am Rhein] dum aliquot dies moraretur [Karl I. der Große], elefans [Abul Abaz] ille, quem ei Aaron rex Sarracenorum [Kalif Harun al-Raschid] miserat, subita morte periit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Während er [Karl I. der Große] hier [Lippeheim am Rhein] etliche Tage verweilte, starb plötzlich jener Elefant [Abul Abaz], den ihm der Sarrazenenkönig Harun [Kalif Harun al-Raschid] geschickt hatte.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 810, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 95.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Lippeheim am Rhein</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="4e71bf57-0fb1-43ba-be97-0c9b2290cda6" Type="Anmerkung">
+          <Name>U</Name>
+        </Entitaet>
+        <Entitaet Id="6f998de4-27d5-42dc-bf2e-c00667948840" Type="Ort">
+          <Name>Lippeheim am Rhein</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0018</QuellenId>
+      <Zitation>Annales regni Francorum a. 810, ed. Kurze 1895, S. 133.</Zitation>
+      <ZeitangabeQuelle>Oktober 810</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große empfängt Gesandtschaften aus Byzanz und Cordoba und schließt im Oktober 810 Frieden mit dem byzantinischen Kaiser Nikephoros I. und dem Emir al Hakam I. von Cordoba, welcher als Gegenleistung den gefangenen Grafen Haimrich ausliefert.</Inhaltsangabe>
+      <VolltextOriginalsprache>Imperator [Karl I. der Große] Aquasgrani [Aachen] veniens mense Octimbrio memoratas legationes audivit pacemque cum Niciforo imperatore [Nikephoros I.] et cum Abulaz rege Hispaniae [al-Hakam I.] fecit. Nam Niciforo Venetiam [Venedig] reddidit et Haimricum comitem [Graf Haimrich] olim a Sarracenis captum Abulaz remittente recepit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der Kaiser [Karl I. der Große] traf im Oktober zu Aachen [Aachen] ein, empfing die schon erwähnten Gesandtschaften und schloß mit dem Kaiser Niciforus [Nikephoros I.] und mit Abulaz, dem König von Spanien [al-Hakam I.], Frieden. Dem Niciforus gab er dabei Venedig [Venedig] zurück, Abulaz aber lieferte den früher von den Sarrazenen gefangenen Grafen Haimrich [Graf Haimrich] aus.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 810, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 97.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Oktober 810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Venedig</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Freilassung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al Hakam</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="90eae9c1-60f7-4b90-9559-047e12b6d40b" Type="Person">
+          <Name>Nikephoros I.</Name>
+        </Entitaet>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+        <Entitaet Id="72fc7b2b-04bb-4fe9-ae51-bf07b287891f" Type="Ort">
+          <Name>Venedig</Name>
+        </Entitaet>
+        <Entitaet Id="39fc4ebe-803e-4d7f-bf6f-e3bd8c149df6" Type="Person">
+          <Name>Graf Haimrich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0019</QuellenId>
+      <Zitation>Annales regni Francorum a. 810, ed. Kurze 1895, S. 133.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Mauren verwüsten 810 erneut Korsika.</Inhaltsangabe>
+      <VolltextOriginalsprache>Corsica [Korsika] insula iterum a Mauris vastata est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die Insel Korsika [Korsika] wurde abermals von den Mauren verwüstet.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 810, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 97.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0020</QuellenId>
+      <Zitation>Annales regni Francorum a. 812, ed. Kurze 1895, S. 137.</Zitation>
+      <ZeitangabeQuelle>812</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große schließt 812 Frieden mit Emir al Hakam I. von Cordoba.</Inhaltsangabe>
+      <VolltextOriginalsprache>Pax cum Abulaz rege Sarracenorum [al-Hakam I.] facta; […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Mit dem Sarrazenenkönig Abulaz [al-Hakam I.] wurde Frieden geschlossen, […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 812, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 101.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="812" From="812-01-01" To="812-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Cordoba</Ort>
+        <Ort>Frankenreich (Deutschland</Ort>
+        <Ort>Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al Hakam</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0021</QuellenId>
+      <Zitation>Annales regni Francorum a. 813, ed. Kurze 1895, S. 139.</Zitation>
+      <ZeitangabeQuelle>813</ZeitangabeQuelle>
+      <Inhaltsangabe>Mauren verlieren 813 auf dem Rückweg nach Spanien durch einen Hinterhalt des Grafen Irmingar von Ampurias viele Gefangene, verwüsten daraufhin Civitavecchia, Nizza und Sardinien und verlassen die Insel mit großen Verlusten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mauris de Corsica [Korsika] ad Hispaniam [Spanien] cum multa praeda redeuntibus Irmingarius comes Emporitanus [Graf Irmingar von Ampurias] in Maiorica [Mallorca] insidias posuit et octo naves eorum cepit, in quibus quingentos et eo amplius Corsos captivos invenit. Hoc Mauri vindicare volentes Centumcellas [Civitavecchia] Tusciae [Tuszien] civitatem et Niceam [Nizza] provinciae Narbonensis [Narbonne] vastaverunt. Sardiniam [Sardinien] quoque adgressi commissoque cum Sardis proelio pulsi ac victi et multis suorum amissis recesserunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Als die Mauren mit großer Beute von Korsika [Korsika] nach Spanien [Spanien] zurückfuhren, legte ihnen der Graf Irmingar von Ampurias [Graf Irmingar von Ampurias] einen Hinterhalt bei Mallorca [Mallorca] und nahm ihnen acht Schiffe ab, in denen er über fünfhundert gefangene Korsen fand. Dafür wollten die Mauren Rache nehmen und verwüsteten Civitavecchia [Civitavecchia] in Tuscien [Tuszien] und Nizza [Nizza] in der Narbonensischen Provinz [Narbonne]. Auch Sardinien [Sardinien] fielen sie an, wurden aber in einer Schlacht mit den Sarden besiegt und zum Weichen gebracht, worauf sie mit großen Verlusten wieder heimfuhren.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 813, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 103ff.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="813" From="813-01-01" To="813-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Mallorca</Ort>
+        <Ort>Sardinien</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Civitavecchia</Ort>
+        <Ort>Tuszien</Ort>
+        <Ort>Korsika</Ort>
+        <Ort>Narbonne</Ort>
+        <Ort>Nizza</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Hinterhalt/-list</Schlagwort>
+        <Schlagwort>Vergeltung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="8967e086-92a2-4941-84e2-42a8fb3da4f0" Type="Person">
+          <Name>Graf Irmingar von Ampurias</Name>
+        </Entitaet>
+        <Entitaet Id="0826ef95-088e-43a3-a042-d2001d7efa76" Type="Ort">
+          <Name>Mallorca</Name>
+        </Entitaet>
+        <Entitaet Id="0b6695e6-2837-439f-b729-e36325105f50" Type="Ort">
+          <Name>Civitavecchia</Name>
+        </Entitaet>
+        <Entitaet Id="1fd4615c-cd8e-4240-b710-bbc7a2d6d8f2" Type="Ort">
+          <Name>Tuszien</Name>
+        </Entitaet>
+        <Entitaet Id="c0c63000-90eb-49e7-abdb-cf0a2546eb1a" Type="Ort">
+          <Name>Nizza</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0022</QuellenId>
+      <Zitation>Annales regni Francorum a. 815, ed. Kurze 1895, S. 143.</Zitation>
+      <ZeitangabeQuelle>815</ZeitangabeQuelle>
+      <Inhaltsangabe>Der 812 zwischen Kaiser Karl I. dem Großen und Emir al Hakam I. von Cordoba vereinbarte Frieden wird 815 gebrochen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Pax, quae cum Abulaz rege Sarracenorum [al-Hakam I.] facta et per triennium servata erat, velut inutilis rupta et contra eum iterum bellum susceptum est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der Friede, welcher mit dem Sarrazenenkönig Abulaz [al-Hakam I.] geschlossen und drei Jahre lang gehalten worden war, wurde als nachteilig gebrochen und der Krieg aufs neue wieder begonnen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 815, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 109.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="815" From="815-01-01" To="815-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Friedensbruch</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al Hakam</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0023</QuellenId>
+      <Zitation>Annales regni Francorum a. 816, ed. Kurze 1895, S. 144.</Zitation>
+      <ZeitangabeQuelle>816</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große empfängt [im November] 816 Gesandte der Abodriten und des späteren Emirs von Cordoba, Abd al-Rahman II., Sohn al Hakams I.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ibi [Compiègne] commoratus legatos Abodritorum et de Hispania [Spanien] legatos Abdirahman [Abd al-Rahman II.] filii Abulaz regis [al-Hakam I.] ad se missos suscepit [Karl I. der Große] […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Hier [Compiègne] empfing er [Karl I. der Große] die Gesandten der Abodriten und aus Spanien [Spanien] die Gesandten Abdirahmans [Abd al-Rahman II.], des Sohnes des Königs Abulaz [al-Hakam I.].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 816, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 111.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="November 816" From="816-01-01" To="816-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Compiègne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdirahman</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al Hakam</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1be2725c-6c61-4674-bad9-004cd1424955" Type="Ort">
+          <Name>Compiègne</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="a0424e50-0222-4d82-976f-e9cf63316124" Type="Person">
+          <Name>Abd al-Rahman II.</Name>
+        </Entitaet>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0024</QuellenId>
+      <Zitation>Annales regni Francorum a. 817, ed. Kurze 1895, S. 145.</Zitation>
+      <ZeitangabeQuelle>817</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große empfängt 817 [816] Gesandte des Emirs Abd ar-Rahman II. von Cordoba in Aachen, die gekommen waren, um Frieden zu schließen, und entlässt sie [im Februar 817] wieder.</Inhaltsangabe>
+      <VolltextOriginalsprache>Legati Abdirahman [Abd al-Rahman II.], filii Abulaz regis Sarracenorum [al-Hakam I.], de Caesaraugusta [Saragossa] missi pacis petendae gratia venerunt, et Compendio [Compiègne] ab imperatore [Karl I. der Große] auditi Aquasgrani [Aachen] eum praecedere iussi sunt. […] Legati etiam Abdirahman, cum tribus mensibus detenti essent et iam de reditu desperare coepissent, remissi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die Gesandten Abdirahmans [Abd al-Rahman II.], des Sohnes des Sarrazenenkönigs Abulaz [al-Hakam I.], waren von Saragossa [Saragossa] gekommen, um über einen Frieden zu verhandeln; der Kaiser [Karl I. der Große] hatte sie in Compiègne [Compiègne] empfangen und dann ihm voraus nach Aachen [Aachen] sich zu begeben geheißen. […] Auch die Gesandten Abdirahmans, die bereits an ihrer Rückkehr verzweifeln wollten, erhielten ihren Abschied, nachdem sie drei Monate hingehalten worden waren.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 817, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 111.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Ankunft 816" From="816-01-01" To="816-12-31" />
+        <Datum Text="Rückkehr Februar 817" From="817-01-01" To="817-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Saragossa</Ort>
+        <Ort>Frankenreich (Deutschland</Ort>
+        <Ort>Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+        <Ort>Compiègne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>Verhandlungen</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdirahman</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al Hakam</Suchwort>
+        <Suchwort>Ceasaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a0424e50-0222-4d82-976f-e9cf63316124" Type="Person">
+          <Name>Abd al-Rahman II.</Name>
+        </Entitaet>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+        <Entitaet Id="1be2725c-6c61-4674-bad9-004cd1424955" Type="Ort">
+          <Name>Compiègne</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0025</QuellenId>
+      <Zitation>Annales regni Francorum a. 826, ed. Kurze 1895, S. 169.</Zitation>
+      <ZeitangabeQuelle>Anfang Februar 826</ZeitangabeQuelle>
+      <Inhaltsangabe>König Pippin von Aquitanien trifft um den 01.02.826 in Aachen ein, um mit Kaiser Ludwig I. dem Frommen und den anwesenden Großen des Reichs über die Abwehr der Sarazenen im Westen zu beratschlagen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Interea Pippinus rex [Pippin I. von Aquitanien], filius imperatoris [Ludwig I. der Fromme], ut iussus erat, cum suis optimatibus et Hispanici [Spanien] limitis custodibus circa Kal. Febr. Aquasgrani [Aachen] - nam ibi tunc imperator hiemaverat - venit; cum quibus cum de tuendis contra Sarracenos occidentalium partium finibus esset tractatum atque dispositum, Pippinus in Aquitaniam [Aquitanien] regressus […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Unterdessen kam König Pippin [Pippin I. von Aquitanien], des Kaisers [Ludwig I. der Fromme] Sohn, dem an ihn ergangenen Befehle gemäß mit seinen Großen und den Hütern des spanischen Grenzbezirks [Spanien] um den 1. Februar nach Aachen [Aachen], wo der Kaiser den Winter zugebracht hatte: nachdem mit ihnen über den Schutz des Westens gegen die Sarrazenen verhandelt und Anordnungen deshalb getroffen waren, kehrte Pippin nach Aquitanien [Aquitanien] zurück […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 826, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 145.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um den 01.02.826" From="826-01-01" To="826-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+        <Ort>Aquitanien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Verhandlungen</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="61d8bd7c-31c9-41e5-b632-67aa35f0976e" Type="Person">
+          <Name>Pippin I. von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0026</QuellenId>
+      <Zitation>Annales regni Francorum a. 826, ed. Kurze 1895, S. 170f.</Zitation>
+      <ZeitangabeQuelle>826</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig I. der Fromme erhält 826 auf dem Hofgut Salz die Nachricht, dass der Westgote Aizo die Stadt Roda bei Vich zerstört und Burgen besetzt hat sowie mit dem Emir von Cordoba, Abd ar-Rahman II., verbündet ist.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ibi [Salz] ad eius [Ludwig I. der Fromme] notitiam perlatum est de fuga ac perfidia Aizonis [Aizo], quomodo fraudulenter Ausonam [Vich] ingressus et a populo illo, quem dolo deceperat, receptus Rotam [Roda] civitatem destruxit, castella eiusdem regionis, quae firmiora videbantur, communivit missoque ad Abdiraman regem Sarracenorum [Abd ar-Rahman II.] fratre suo auxilium, quod petebat iussu eiusdem regis contra nostros accepit. Sed imperator licet huius rei nuntium graviter ferret, nihil tamen inconsulte gerendum iudicans consiliariorum suorum adventum statuit operiri […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Hier [Salz] erhielt er [Ludwig I. der Fromme] auch die Nachricht von der Flucht und dem Treubruch des Aizo, wie er hinterlistig in Vich [Vich] eingerückt und von den hintergangenen Bewohnern aufgenommen worden sei, die Stadt Roda [Roda] zerstört, die festeren Burgen der Gegend in Verteidigungszustand gesetzt, seinen Bruder an den Sarrazenenkönig Abdiraman [Abd ar-Rahman II.] abgeschickt und von diesem die erbetene Hilfe gegen uns erhalten habe. So sehr dem Kaiser nun diese Nachricht zu Herzen ging, so glaubte er doch nichts ohne reifliche Überlegung tun zu dürfen und beschloß die Ankunft seiner Räte abzuwarten […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 826, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 147.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="826" From="826-01-01" To="826-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Roda</Ort>
+        <Ort>Vich</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Hofgut Salz</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Friedensbruch</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Verrat</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdiraman</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f86ffeb9-65c1-4801-87df-c55539df3774" Type="Ort">
+          <Name>Salz</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="a80cd6e8-db47-4e75-a136-c8444742dc5c" Type="Anmerkung">
+          <Name>Aizo</Name>
+        </Entitaet>
+        <Entitaet Id="244a99a7-485d-4d07-a9e9-3dcb31cd0ead" Type="Ort">
+          <Name>Vich</Name>
+        </Entitaet>
+        <Entitaet Id="39c1efb4-c3a3-4e35-ac70-3ca4513ef1c8" Type="Ort">
+          <Name>Roda</Name>
+        </Entitaet>
+        <Entitaet Id="909280e8-e1b7-4266-a33a-138664535970" Type="Anmerkung">
+          <Name>Abd ar-Rahman II.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0027</QuellenId>
+      <Zitation>Annales regni Francorum a. 827, ed. Kurze 1895, S. 172f.</Zitation>
+      <ZeitangabeQuelle>827</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig I. der Fromme entsendet 827 Abt Helisachar [808-819 Kanzler des Kaisers] sowie die Grafen Hildebrand und Donatus in die Spanische Mark, um dem Westgoten Aizo, der mit Abgefallenen sowie Sarazenen und Mauren die Gegend verwüstet, Einhalt zu gebieten. Ein Heer des Emirs von Cordoba, Abd ar-Rahman II., welches Aizo zu Hilfe eilt, kommt dem fränkischen Heer unter der Führung König Pippins I. von Aquitanien zuvor und verheert das Gebiet um Barcelona und Gerona.</Inhaltsangabe>
+      <VolltextOriginalsprache>Imperator [Ludwig I. der Fromme] Helisachar presbyterum et abbatem [Abt Helisachar] et cum eo Hildibrandum [Graf Hildebrand] atque Donatum comites [Graf Donatus] ad motus Hispanicae marcae [Spanien] componendos misit. Ante quorum adventum Aizo [Graf Aizo] Sarracenorum auxilio fretus multa eiusdem limitis custodibus adversa intulit eosque assiduis incursionibus in tantum fatigavit, ut quidam illorum relictis, quae tueri debebant, castellis recederent. Defecit ad eum et filius Berani nomine Willemundus necnon et alii conplures novarum rerum gentilicia levitate cupidi; iunctique Sarracenis ac Mauris Ceritaniam [Cerdana] et Vallensem [Valles] rapinis atque incendiis cotidie infestabant. Cumque ad sedandos ac mitigandos Gothorum atque Hispanorum in illis finibus habitantium animos Helisachar abbas cum aliis ab imperatore missus multa et propria industria et sociorum consilio prudenter administrasset, Bernhardus quoque Barcinonae comes Aizonis insidiis et eorum, qui ad eum defecerant, calliditati ac fraudulentis machinationibus pertinacissime resisteret atque eorum temerarios conatus irritos efficeret, exercitus a rege Sarracenorum Abdiraman [Abd ar-Rahman II.] ad auxilium Aizoni ferendum missus Caesaraugustam [Saragossa] venisse nuntiatur, supra quem Abumarvan regis propinquus dux constitutus ex persuasionibus Aizonis haud dubiam sibi victoriam pollicebatur. Contra quem imperator filium suum Pippinum Aquitaniae regem cum inmodicis Francorum copiis mittens regni sui terminos tueri praecepit. Quod ita factum esset, ni ducum desidia, quos Francorum exercitui praefecerat, tardius, quam rerum necessitas postulabat, is, quem ducebant, ad marcam venisset exercitus. Quae tarditas in tantum noxia fuit, ut Abumarvan vastatis Barcinonensium [Barcelona] ac Gerundensium [Gerona] agris villisque incensis, cunctis etiam, quae extra urbes invenerat, direptis cum incolomi exercitu Caesaraugustam [Saragossa] se prius reciperet, quam a nostro exercitu vel videri potuisset. Huius cladis praesagia credita sunt visae multoties in caelo acies et ille terribilis nocturnae coruscationis in aere discursus.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der Kaiser [Ludwig I. der Fromme] schickte den Priester und Abt Helisachar [Abt Helisachar] und mit ihm die Grafen Hildebrand [Graf Hildebrand] und Donatus [Graf Donatus] zur Dämpfung des Aufruhrs in der spanischen Mark [Spanien] ab. Vor ihrer Ankunft hatte Aizo [Graf Aizo] im Vertrauen auf die Hilfe der Sarrazenen den dortigen Grenzhütern viel Schaden angetan und sie durch unaufhörliche Einfälle so ermüdet, daß einige von ihnen die ihrem Schutz anvertrauten Burgen im Stich ließen und sich zurückzogen. Auch Willemund, der Sohn des Beranus, fiel zu ihm ab und noch viele andere, die mit dem leichten Sinn ihres Volks Neuerungen liebten: sie schlössen sich den Sarrazenen und Mauren an und suchten Tag für Tag Cerdana [Cerdana] und Valles [Valles] mit Rauben und Brennen heim. Als nun der mit andern zur Beruhigung der Goten und Spanier in die Mark vom Kaiser abgeschickte Abt Helisachar aus eigenem Antrieb sowohl als nach dem Rat seiner Gefährten viele kluge Maßregeln getroffen hatte, auch der Graf Bernhard von Barcelona den Anschlägen des Aizo und den schlauen und hinterlistigen Machenschaften derer, die zu ihm abgefallen waren, hartnäckigen Widerstand entgegensetzte und ihre vermessenen Absichten vereitelte, kam die Nachricht, ein vom Sarrazenenkönig Abdiraman [Abd ar-Rahman II.] dem Aizo zu Hilfe gesandtes Heer sei schon in Saragossa [Saragossa] angelangt. Sein Anführer Abumarvan, ein Anverwandter des Königs, versprach sich, den Versicherungen des Aizo Glauben schenkend, einen unzweifelhaften Sieg. Gegen ihn schickte der Kaiser seinen Sohn Pippin, den König von Aquitanien, mit zahllosen fränkischen Truppen aus und befahl ihm, die Grenzen seines Reichs zu schirmen. Das wäre auch geschehen, wenn nicht das Heer der Franken durch die Lässigkeit derer, die er an die Spitze gestellt hatte, unnötig spät nach der Mark gekommen wäre. Diese Lässigkeit erwies sich höchst verderblich, denn Abumarvan verheerte das Gebiet um Barcelona [Barcelona] und Gerona [Gerona], steckte die Dörfer in Brand, plünderte alles, was er außerhalb der Städte finden konnte, und zog sich mit seinem Heer wohlbehalten nach Saragossa [Saragossa] zurück, ehe ihn unser Heer auch nur zu Gesicht bekam. Als Vorzeichen dieser Niederlage nahm man die Schlachtreihen, die vielfach am Himmel gesehen wurden, und jene schrecklichen mit nächtlichem Leuchten verbundenen Bewegungen in der Luft.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 827, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 149.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="827" From="827-01-01" To="827-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Spanische Mark</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Cerdana</Ort>
+        <Ort>Gerona</Ort>
+        <Ort>Saragossa</Ort>
+        <Ort>Valles</Ort>
+        <Ort>Gothien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Friedensbruch</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Verrat</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+        <Schlagwort>Vorzeichen</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdirahman</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Caesaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Zu dem Westgoten Aizo vgl.[0014]-[0025].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="f3c8facc-8d5d-4ab0-b63f-18b8aa86f639" Type="Person">
+          <Name>Abt Helisachar</Name>
+        </Entitaet>
+        <Entitaet Id="68ac33d3-c8a8-418e-97a3-d7144af29b21" Type="Person">
+          <Name>Graf Hildebrand</Name>
+        </Entitaet>
+        <Entitaet Id="eaf05777-4b29-4eae-bbfd-6cd398d127e9" Type="Person">
+          <Name>Graf Donatus</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="6bdde2de-339a-479b-a0e9-6cd5a7d30acd" Type="Person">
+          <Name>Graf Aizo</Name>
+        </Entitaet>
+        <Entitaet Id="34893141-9d6f-44af-95cd-2ed6664e4e42" Type="Ort">
+          <Name>Cerdana</Name>
+        </Entitaet>
+        <Entitaet Id="422ec00a-77eb-4ef5-807f-9dac4e709f84" Type="Ort">
+          <Name>Valles</Name>
+        </Entitaet>
+        <Entitaet Id="cfc6c807-27e0-4e6d-8100-951af5d41599" Type="Anmerkung">
+          <Name>Abd ar-Rahman II.</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="fe42fe01-c123-4844-af32-cea58acd2c14" Type="Ort">
+          <Name>Gerona</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0028</QuellenId>
+      <Zitation>Annales regni Francorum a. 828, ed. Kurze 1895, S. 175.</Zitation>
+      <ZeitangabeQuelle>828</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig I. der Fromme entsendet 828 ein fränkisches Heer unter der Führung seines Sohnes, Lothar I., in die Spanische Mark, welches aber unverrichteter Dinge wieder abzieht, nachdem sich die Sarazenen zurückgezogen haben.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…]; de quo loco [Diedenhofen] Hlotharium filium suum [Ludwig I. der Fromme] cum magnis Francorum copiis ad Hispanicam marcam [Spanien] direxit. Qui cum Lugdunum [Lyon] venisset, consedit nuntium opperiens, qui se de Sarracenorum adventu faceret certiorem; in qua expectatione cum Pippino fratre [Pippin I. von Aquitanien] conloquitur et comperto, quod Sarraceni ad marcam venire aut timerent aut nollent, redeunte in Aquitaniam [Aquitanien] fratre ipse ad patrem Aquasgrani [Aachen] revertitur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Von da [Diedenhofen] aus schickte er [Ludwig I. der Fromme] seinen Sohn Lothar mit einem zahlreichen fränkischen Heere in die spanische Mark [Spanien] ab. Als dieser bis Lyon [Lyon] gekommen war, blieb er liegen, um eine sichere Kunde über den Anzug der Sarrazenen abzuwarten. Während dieses Wartens hatte er eine Zusammenkunft mit seinem Bruder Pippin [Pippin I. von Aquitanien]; als er nun erfuhr, daß die Sarrazenen sich fürchteten oder sonst keine Lust hätten, in die Mark zu rücken, kehrte er zu seinem Vater nach Aachen [Aachen] zurück, während sein Bruder wieder nach Aquitanien [Aquitanien] ging.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 828, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 153.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="828" From="828-01-01" To="828-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+        <Ort>Diedenhofen</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Spanische Mark</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Lyon</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Erkundigung</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8081ff0d-914d-4266-b611-649c5d36271e" Type="Ort">
+          <Name>Diedenhofen</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="c745bfde-c7b7-4970-97d9-eb4ef5412fd5" Type="Ort">
+          <Name>Lyon</Name>
+        </Entitaet>
+        <Entitaet Id="61d8bd7c-31c9-41e5-b632-67aa35f0976e" Type="Person">
+          <Name>Pippin I. von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0029</QuellenId>
+      <Zitation>Annales regni Francorum a. 828, ed. Kurze 1895, S. 176.</Zitation>
+      <ZeitangabeQuelle>828</ZeitangabeQuelle>
+      <Inhaltsangabe>Graf Bonifatius II. setzt 828, ohne auf Seeräuber zu stoßen, nach Afrika über, tötet viele afrikanische Einwohner zwischen Utica und Karthago und kehrt anschließend mit hohen Verlusten auf sein Schiff zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Bonefacius [Graf Bonifaz II. von Lucca und Tuszien] comes, cui tutela Corsicae [Korsika] insulae tunc erat commissa, adsumpto secum fratre Berehario necnon et aliis quibusdam comitibus de Tuscia Corsicam atque Sardiniam [Sardinien] parva classe circumvectus, cum nullum in mari piratam invenisset, in Africam [Afrika] traiecit et inter Uticam [Utica] atque Kartaginem [Kathago] egressus, innumeram incolarum multitudinem subito congregatam offendit; cum qua et proelium conseruit et quinquies vel eo amplius fusam fugatamque profligavit magnaque Afrorum multitudine prostrata, aliquantis etiam sociorum suorum per temeritatem amissis in naves suas se recepit atque hoc facto ingentem Afris timorem incussit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der Graf Bonifacius [Graf Bonifaz II. von Lucca und Tuszien], dem damals der Schutz der Insel Korsika [Korsika] anvertraut war, fuhr in Verbindung mit seinem Bruder Berehar und noch einigen andern tuskischen Grafen mit einer kleinen Flotte um Korsika und Sardinien [Sardinien] herum und setzte dann, da er nirgends auf einen Seeräuber gestoßen war, nach Afrika [Afrika] über, wo er zwischen Utika [Utica] und Karthago [Karthago] landete. Hier traf er auf die Eingeborenen, die sich sogleich in ungeheurer Menge versammelt hatten, lieferte ihnen ein Treffen, schlug sie fünfmal oder noch öfter in die Flucht und machte eine große Menge Afrikaner nieder, wobei er aber auch eine beträchtliche Zahl seiner eigenen Leute, die zu verwegen waren, verlor. Dann zog er sich auf seine Schiffe zurück, den Afrikanern aber jagte er durch diese Tat große Furcht ein.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 828, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 1955, S. 10-155, S. 153.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="828" From="828-01-01" To="828-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika (Tunesien)</Ort>
+        <Ort>Karthago</Ort>
+        <Ort>Utika</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Sardinien</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Africanus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>piratus</Suchwort>
+        <Suchwort>Seeräuber</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vermutlich sind hier sarazenische Seeräuber gemeint.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1bccbc8e-30b0-4dec-9c0c-748a550ce032" Type="Person">
+          <Name>Graf Bonifaz II. von Lucca und Tuszien</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="bad5b331-b4f8-425b-bfac-1618f3406f22" Type="Ort">
+          <Name>Utica</Name>
+        </Entitaet>
+        <Entitaet Id="9e2c17cc-1894-4ad3-b786-4032b986fa9b" Type="Anmerkung">
+          <Name>Kathago</Name>
+        </Entitaet>
+        <Entitaet Id="ae583192-f7c7-4ff3-933a-4ae8a8ce1c43" Type="Ort">
+          <Name>Karthago</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

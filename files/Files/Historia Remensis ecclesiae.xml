@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0068</WerkId>
+  <WerkTitel>Historia Remensis ecclesiae</WerkTitel>
+  <Alternativtitel>
+    <Titel>Historia ecclesiae Remensis</Titel>
+    <Titel>Geschichte der Reimser Kirche</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Flodoard von Reims</Autor>
+    <Autor>Flodoardus canonicus Remensis</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>893/894 - 28. März 966</LebensdatenVerfasser>
+  <Abfassungszeitraum>948-952</Abfassungszeitraum>
+  <Abfassungsort>Reims</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Westfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Flodoard von Reims, Die Geschichte der Reimser Kirche, ed. Martina Stratmann (MGH SS 36), Hannover 1998.</Editionshinweise>
+  <Werkinformation>Die Historia ecclesiae Remensis ist eine Geschichte des Bistums Reims, die zwischen 948 und 952 von Flodoard von Reims (geb. wohl 894, gest. 966) in vier Büchern verfasst wurde. Flodoard berichtet hier über die Zeit der Gründung der Stadt bis zum Jahr 948. Gewidmet ist das Buch einem gewissen ‚R‘ (in dem Erzbischof Robert von Trier vermutet wird). Neben klassichen Werken, Heiligenleben etc. griff Flodoard bei der Niederschirft auch auf das Archiv des Bistums zurück.
+Vgl. mit Hinweisen für weiterführende Literatur: P. Chr. Jacobsen, Art. Flodoard v. Reims, in: Lexikon des Mittelalters 4, Sp. 549-550 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Flodoardus canonicus Remensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118534009.html, 2016-11-07]; Historia ecclesiae Remensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02240.html, 2016-11-07]; Régis Rech, Art. Flodoard of Reims, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 623f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Flodoard von Reims, Die Geschichte der Reimser Kirche I, 6, ed. Stratmann 1998, S. 77.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Zur Zeit des römischen Feldherrn Jovin [um 350] fallen verschiedene Völker in Gallien ein, unter ihnen auch Assyrer.</Inhaltsangabe>
+      <VolltextOriginalsprache>Innumerabiles et ferocissime nationes universas Gallias [Gallien] occuparunt. Quicquid inter Alpes [Alpen] et Pireneum, quod Occeano et Reno includitur, Quadus, Wandalus, Sarmata, Alani, Gipedes, Herucli, Saxones, Burgundiones, Alamanni et – o lugenda res publica – hostes Pannonii vastaverunt. Etenim Assur venit cum illis. Mogontiacus nobilis quondam civitas capta atque subversa est, et in ecclesia multa milia hominum trucidata. Wangiones longa obsidione deleti. Remorum [Reims] urbs prepotens, Ambiani, Atrabates extremique hominum Morini, Tornacus, Nemetes, Argentoracus translate in Germaniam [Germanien]. Aquitanie [Aquitanien] Novemquepopulorum, Lugdunensis [Lyon] et Narbonensis [Narbonne] prouincie preter paucas urbes cuncta populata sunt. Quas et ipsas foris gladius, intus nastat fames, et cetera.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 350" From="345-01-01" To="355-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="340-350" From="340-01-01" To="350-12-31" />
+        <Datum Text="350-360" From="350-01-01" To="360-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Gallien</Ort>
+        <Ort>Reims</Ort>
+        <Ort>Tournay</Ort>
+        <Ort>Lyon</Ort>
+        <Ort>Narbonne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Assur</Suchwort>
+        <Suchwort>Assyrius</Suchwort>
+        <Suchwort>Assyrer</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung: M. Lejeune gibt in seiner Edition zu Jovin an, dass dieser in den 340er Jahren die Kirche Saint Agricole erbaut habe, Histoire de l’église de Reims par Flodoard, ed. M. Lejeune (Oeuvres de Flodoard 1), Reims 1854,. S. 43, Anm. 1.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+        <Entitaet Id="da88e8da-c824-43ce-a903-23f6edff3699" Type="Ort">
+          <Name>Reims</Name>
+        </Entitaet>
+        <Entitaet Id="805bc4c5-5ac6-437b-9b21-087b8b0e13a3" Type="Ort">
+          <Name>Germanien</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="c745bfde-c7b7-4970-97d9-eb4ef5412fd5" Type="Ort">
+          <Name>Lyon</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Flodoard von Reims, Die Geschichte der Reimser Kirche IV, 1, ed. Stratmann 1998, S. 365.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Erzbischof Fulco von Reims erinnert seinen Verwandten Herzog Wido II. von Spoleto daran, dass er Papst Stefan V., der ihn als Sohn adoptiert hatte, Ehrfurcht schulde.</Inhaltsangabe>
+      <VolltextOriginalsprache>Pro Widone [Herzog Wido II. (der Jüngere) von Spoleto] quoque, affine suo [Ebf. Fulco von Reims], quem idem papa [Papst Stephan V.] in filium adoptaverat, memorat tam se quam ceteros consanguineos suos, quibus id notificaverat, debitam exhibituros eidem papae reverentiam.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="886" From="886-01-01" To="886-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland)</Ort>
+        <Ort>Italien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Ermahnung</Schlagwort>
+        <Schlagwort>Würdigung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Editorin zufolge erfolgte die Adoption des späteren Kaisers Wido von Spoleto 886 durch Papst Stephan V., nachdem dieser erfolglos Byzanz und Kaiser Karl III. den Dicken um Hilfe gegen die Sarazenen gebeten hatte, vgl. Flodoard von Reims, Die Geschichte der Reimser Kirche, IV, c. 1, ed. Stratmann, S. 365, Anm. 26. Zum erfolglosen Hilferuf Stephans V. und der Bedrohung Roms durch die Sarazenen vgl. auch Gerhard Schneider, Erzbischof Fulco von Reims (883-900) und das Frankenreich (Münchener Beiträge zur Mediävistik und Renaissance 14), München 1973, S. 44 mit Anm. 18; Sebastian Scholz, Politik – Selbstverständnis – Selbstdarstellung. Die Päpste in karolingischer und ottonischer Zeit (Historische Forschungen 26), Stuttgart 2006, S. 241; Eduard Eichmann, Die Adoption des deutschen Königs durch den Papst, in: Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Germanistische Abteilung 37(1916), S. 291-312, hier S. 304; Georg Schwaiger, Art. Stephan V., Papst, in: Lexikon des Mittelalters 8, Sp. 117-118 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31]; Eugen Ewig, Kaiser Lothars Urenkel, Ludwig von Vienne, der Präsumtive Nachfolger Kaiser Karls III., in: Das erste Jahrtausend. Kultur und Kunst im werdenden Abendland an Rhein und Ruhr. Textband 1, hg. von Victor H. Elbern, Düsseldorf 1962, S. 336-343, hier S. 341f., Anm. 26. Dabei beziehen sich die meisten Autoren auf einen Brief Stephans V. an Karl III. den Dicken aus dem Jahr 886, der jedoch nicht explizit von Sarazenen spricht, vgl. Regesta Pontificium Romanorum ab condita ecclesia ad annum post Christum natum MCXCVIII, Nr. 3412, ed. P. Jaffé – W. Wattenbach – S. Löwenfeld – F. Kaltenbrenner – P. Ewald, Bd. 1, Leipzig ²1885, S. 429; Paul Ewald, Die Papstbriefe der Britischen Sammlung, in: Neues Archiv der Gesellschaft für ältere deutsche Geschichtskunde 5 (1880), S. 274-414, 505-596, hier S. 401 (Nr. 5); und die Edition bei Georg Waitz, Handschriften in Englischen Bibliotheken, in: Neues Archiv der Gesellschaft für ältere deutsche Geschichtskunde 4 (1879), S. 323-393, 626-632, hier S. 338. Hlawitschka zufolge war Wido in der Folgezeit in Kämpfe mit den Sarazenen verwickelt, vgl. Eduard Hlawitschka, Art. Wido II., Hzg. von Spoleto, Kg. von Italien, in: Lexikon des Mittelalters 9, Sp. 68-69 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="63dcf36d-c959-4852-9ea6-fdc2eddd6c2c" Type="Person">
+          <Name>Herzog Wido II. (der Jüngere) von Spoleto</Name>
+        </Entitaet>
+        <Entitaet Id="14ff964b-13fe-48ec-9459-541d3e9cf01a" Type="Person">
+          <Name>Ebf. Fulco von Reims</Name>
+        </Entitaet>
+        <Entitaet Id="43efd56d-20c5-45a9-8b98-9a8f06ab73bd" Type="Person">
+          <Name>Papst Stephan V.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Flodoard von Reims, Die Geschichte der Reimser Kirche IV, 2, ed. Stratmann 1998, S. 372.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Papst Formosus berichtet 892 Erzbischof Fulko von Reims, dass Gesandte aus dem Orient und Afrika zu ihm geschickt wurden, um ein Schisma unter den Bischöfen dieser Provinzen zu beseitigen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Dicitque [Papst Formosus; Ebf. Fulco von Reims] longo retroacto tempore perniciosas hereses Orientem confundere et Constantinopolitanam [Konstantinopel] ecclesiam nociva scismata perturbare, simul etiam regionis Affricane [Afrika] legatos insistere, responsa petentes pro dudum exorto inter episcopos ipsarum provinciarum scismate; […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="892" From="892-01-01" To="892-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Orient</Ort>
+        <Ort>Afrika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Thronstreit</Schlagwort>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Aufforderung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Affricanus</Suchwort>
+        <Suchwort>Africanus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Mit diesem Bericht liefert Flodoard den einzigen Beleg für die Existenz afrikanischer Bischöfe unter sarazenischer Herrschaft im 9. Jahrhundert, vgl. hierzu Flodoard von Reims, Die Geschichte der Reimser Kirche, IV, c. 2, ed. Stratmann, S. 372, Anm. 3; Anette Hettinger, Die Beziehungen des Papsttums zu Afrika von der Mitte des 11. bis zum Ende des 12. Jahrhunderts (Beihefte zum Archiv für Kulturgeschichte 36), Köln – Weimar – Wien 1993, S. 42f. mit Anm. 100.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a5ed3c58-2b85-4846-bf02-5ff0dc822291" Type="Anmerkung">
+          <Name>Papst Formosus; Ebf. Fulco von Reims</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Flodoard von Reims, Die Geschichte der Reimser Kirche IV, 22, ed. Stratmann 1998, S. 414.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Bischof Odelrich von Aix-en-Provence, der durch Sarazenen von seinem Bischofsstuhl vertrieben wurde, wird in der Reimser Kirche aufgenommen. Dort übernimmt er das Amt des Stellvertreters für Erzbischof Hugo, der noch ein Kind ist.</Inhaltsangabe>
+      <VolltextOriginalsprache>Per idem fere tempus Odalricus, Aquensis episcopus [Bf. Odelrich von Aix-en-Provence], qui ob persecutionem Sarracenorum a sede sua recesserat, in ecclesia Remensi recipitur ab Heriberto comite [Graf Heribert II. von Vermandois] ad celebrandum episcopale dumtaxat ministerium vice Hugonis [Ebf. Hugo von Reims], ipsius comitis filii tunc adhuc parvuli, concessa eidem praesuli abbatia sancti Timotei cum unius tantum prebenda clerici.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="925" From="925-01-01" To="925-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>Aix-en-Provence</Ort>
+        <Ort>Reims</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Stellvertretung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. hierzu Richer von Saint Remi: [0029]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="345cdcb5-9b99-4fc0-a4ef-f5805cf91416" Type="Person">
+          <Name>Bf. Odelrich von Aix-en-Provence</Name>
+        </Entitaet>
+        <Entitaet Id="418bf73a-ece8-4e1b-bed4-f3eaabcce123" Type="Person">
+          <Name>Graf Heribert II. von Vermandois</Name>
+        </Entitaet>
+        <Entitaet Id="0633db17-3340-4418-86fd-5240cc4b2879" Type="Person">
+          <Name>Ebf. Hugo von Reims</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

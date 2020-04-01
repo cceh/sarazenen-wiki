@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0002</WerkId>
+  <WerkTitel>Destructio monasterii Farfensis</WerkTitel>
+  <Alternativtitel>
+    <Titel>Die Zerstörung des Klosters Farfa</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Hugo von Farfa</Autor>
+    <Autor>Ugo Farfensis</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>April 973-1036/1039</LebensdatenVerfasser>
+  <Abfassungszeitraum>998-1036/1039</Abfassungszeitraum>
+  <Abfassungsort>Farfa</Abfassungsort>
+  <Regionen>
+    <Region>Italien</Region>
+  </Regionen>
+  <Editionshinweise>Hugo von Farfa, Destructio monasterii Farfensis, ed. Ludwig C. Bethmann, in: MGH SS 11, Hannover 1854, S. 532-539.</Editionshinweise>
+  <Werkinformation>Das Werk Destructio monasterii Farfensis (Die Zerstörung des Klosters Farfa) wurde von 998 bis zu dessen Tod 1036/1039 von Hugo von Farfa verfasst. Der Abt des Klosters von Farfa berichtet hier über die Geschichte des Klosters sowie dessen Belagerung und Zerstörung durch sarazenische Angreifer, in dessen Folge das Kloster 898 verlassen werden musste. Um 933 kehrten die Mönche zurück.
+Vgl. auch mit Hinweisen für weiterführende Literatur Susan Boynton, Art. Hugh of Farfa, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 815f.; Hugo Farfensis, Destructio monasterii Farfensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02871.html, 2016-08-01]. Zum Kloster Farfa vgl. etwa Herbert Zielinski, Art. Farfa, in: Lexikon des Mittelalters 4, Sp. 295-297 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01].
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Hugo von Farfa, Destructio monasterii Farfensis, ed. Bethmann 1854, S. 532-539.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>In Italien eingefallene Sarazenen greifen [ab 897/898] mehrmals das Kloster Farfa an, verwüsten die Umgebung und dringen [919] schließlich in die Klostermauern ein. Von diesem Zeitpunkt an beginnt laut Hugo von Farfa der stetige Verfall des Klosters, der erst mit dem Beginn seiner Amtszeit als Abt [998] und der benediktinischen Reform [999/1000] aufgehalten worden sei.</Inhaltsangabe>
+      <VolltextOriginalsprache>[1.] […] Denique ipsis recedentibus, culpis christianorum cooperantibus, paganorum multitudo, id est Agarenorum gens Italiam [Italien] intravit. […]
+[3.] In tali namque statu illo permanente, ut supra dictum est supervenerunt Saraceni, qui cuncta circumquaque iam occupaverant. […] et videret, quod Deus christianum populum sua malitia faciente omnino oblivioni traderet et potestati paganorum […]. […] Agareni intrantes invaserunt locum. […] His ita peractis, coeperunt prelibati Sarraceni infra terminos comitatus Firmani [Fermo] ad depredandum introire. […] per quadraginta octo annos iugiter permanserunt infra terminos Italiae [Italien] predicti Sarraceni. […]
+[5.] […], postquam ipsa civitas a Sarracenis capta est, […] presertim pro vastatione supradictorum paganorum; […] radix ipse prima malorum omnium praedicti monasterii vastatorum fuit post paganos. […]
+[7.] […], quam amiserant in vastatione predicta paganorum, […] quod in vastatione supradictorum Agarenorum omnino destructum fuerat, […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="897/898" From="897-01-01" To="897-12-31" />
+        <Datum Text="897/898" From="898-01-01" To="898-12-31" />
+        <Datum Text="919" From="919-01-01" To="919-12-31" />
+        <Datum Text="998" From="998-01-01" To="998-12-31" />
+        <Datum Text="999/1000" From="999-01-01" To="999-12-31" />
+        <Datum Text="999/1000" From="1000-01-01" To="1000-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+        <Datum Text="1000-1010" From="1000-01-01" To="1010-12-31" />
+        <Datum Text="1010-1020" From="1010-01-01" To="1020-12-31" />
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Farfa</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Zerfall</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Agarenus</Suchwort>
+        <Suchwort>Agarene</Suchwort>
+        <Suchwort>Paganus</Suchwort>
+        <Suchwort>Heide</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Eine jüngere Edition, die sich marginal von der hier zitierten MGH-Edition unterscheidet, ist unter folgendem Titel erschienen: Hugo von Farfa, Destructio monasterii Farfensis, ed. Ugo Balzani, in: Il Chronicon Farfense di Gregorio di Catino (Fonti per la Storia d’Italia 33, 1), Rom 1903, S. 25-51.
+Zur Datierung vgl. Jean-Marie Sansterre, “Destructio” et “diminution” d’une grande abbaye royale. La perception et la mémoire des crises à Farfa au Xe et dans les premières décennies du XIe siècle, in: Les élites au Haut Moyen Âge, hg. von François Bougard – Laurent Feller – Régine Le Jan (Collection Haut Moyen Âge 1), Turnhout 2006, S. 469-485.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="3d20784a-a55c-4961-9fb6-16c02badef1e" Type="Anmerkung">
+          <Name>1.</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="6284472a-766c-4aaf-b8c1-634c1a856b5f" Type="Anmerkung">
+          <Name>3.</Name>
+        </Entitaet>
+        <Entitaet Id="9a80d560-8f2d-4592-b36b-d490d8dba58e" Type="Ort">
+          <Name>Fermo</Name>
+        </Entitaet>
+        <Entitaet Id="1b0c97ef-9201-4b62-b933-fc3b6c8ac2d1" Type="Anmerkung">
+          <Name>5.</Name>
+        </Entitaet>
+        <Entitaet Id="eaed7454-5f93-4f98-9e25-712b0c4f33d5" Type="Anmerkung">
+          <Name>7.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

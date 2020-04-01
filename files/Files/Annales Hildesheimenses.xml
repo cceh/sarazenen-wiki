@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0013</WerkId>
+  <WerkTitel>Annales Hildesheimenses</WerkTitel>
+  <Alternativtitel>
+    <Titel>Annalen aus Hildesheim</Titel>
+    <Titel>Jahrbücher von Hildesheim</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>Unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>1030-1137</Abfassungszeitraum>
+  <Abfassungsort>Hildesheim</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa</Region>
+    <Region>Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Annales Hildesheimenses, ed. Georg Waitz (MGH SS rer. Germ. [8]), Hannover 1878.</Editionshinweise>
+  <Werkinformation>Die Annales Hildesheimenses sind eine Weltchronik, die im Hildesheimer Michaeliskloster bis 1137 in drei Teilen abgefasst wurde. Während die Berichte bis 1040 aus den verlorenen Annales Hildesheimenses maiores stammen, sind jene für die Jahre 1041 bis 1109 aus den Annales S. Albani entnommen. Die Fortsetzung, die bis ins Jahr 1137 reicht, hängt von den Annales Patherbrunnenses ab.
+Vgl. auch mit Hinweisen für weiterführende Literatur Annales Hildesheimenses, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02057.html, 2016-10-20]. Außerdem vgl. Erich Plümer, Art. Hildesheim, in Lexikon des Mittelalters 5, Sp. 17-19 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-20]; Thomas Schauerte, Art. Annales Hildesheimenses, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 68.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales Hildesheimenses a. 606, ed. Waitz 1878, S. 8.</Zitation>
+      <ZeitangabeQuelle>nach 596</ZeitangabeQuelle>
+      <Inhaltsangabe>Perser entfernen nach 596 [606] das Heilige Kreuz.</Inhaltsangabe>
+      <VolltextOriginalsprache>Crux sancta a Persis aufertur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="606" From="606-01-01" To="606-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Heiligenschändung</Schlagwort>
+        <Schlagwort>Reliquien</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten />
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales Hildesheimenses 11, ed. Waitz 1878, S. 9.</Zitation>
+      <ZeitangabeQuelle>714-741</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Sarazenen verwüsten zwischen 714-741 [732] unter der Führung des maurischen Anführers Abd ar-Rahman ibn Abdallah al-Ghafiqi und mit der Hilfe des Herzogs Eudo von Aquitanien die Stadt Bordeaux und verbrennen viele Kirchen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eudo [Herzog Eudo von Aquitanien] Sarracenos in auxilium sui asciscit. Qui venientes cum rege suo Abdirama [Abd ar-Rahman ibn Abdallah al-Ghafiqi] transeunt Garunnam, [Garonne] Burdigalam [Bordeaux] usque perveniunt, cuncta vastantes, ecclesias igne cremantes. Pictavis basilicam sancti Hilarii incendunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="732" From="732-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Bordeaux</Ort>
+        <Ort>Garonne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ad6a92d3-13ea-4288-9664-80e1809d6a72" Type="Person">
+          <Name>Herzog Eudo von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="0a1b36bc-dc5a-4bed-a11b-ba9764d99ad4" Type="Anmerkung">
+          <Name>Abd ar-Rahman ibn Abdallah al-Ghafiqi</Name>
+        </Entitaet>
+        <Entitaet Id="8208e2e7-0189-4356-a98c-059bfd963a28" Type="Ort">
+          <Name>Garonne</Name>
+        </Entitaet>
+        <Entitaet Id="822e4e50-729d-45e3-b736-49fd7c6efbdb" Type="Ort">
+          <Name>Bordeaux</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales Hildesheimenses 12, ed. Waitz 1878, S. 10.</Zitation>
+      <ZeitangabeQuelle>714-741</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell besiegt 714-741 [732] die eingefallenen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Contra quos Karolus [Karl Martell] auxilio Dei fretus, Sarracenorum infinitam multitudinem simul cum rege eorum prostravit, devictisque hostibus, cum triumpho regreditur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="732" From="732-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Rückschlag</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. zur Datierung [0013]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales Hildesheimenses 15, ed. Waitz 1878, S. 10.</Zitation>
+      <ZeitangabeQuelle>730-741</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem Sarazenen Avignon um 730-741 [741] eingenommen haben, werden sie von dem fränkischen Hausmeier Karl Martell besiegt und viele von ihnen gefangengenommen. Anschließend belagert er die Stadt Narbonne, in der sich der sarazenische Statthalter Athima [Jussuf ibn-Abdérman] befindet. Sarazenen aus Spanien kommen den Eingeschlossenen zu Hilfe, werden aber von dem fränkischen Heer geschlagen und vertrieben. Herzog Maurontus, der die Sarazenen einst eingeladen hatte, flieht, als Karl Martell in die Provence kommt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Sarraceni, collecta manu valida, Avinnionem [Avignon] urbem capiunt, regiones circumquaque vastantes. Adversus quos Carolus [Karl Martell] arma arripiens, ad predictam urbem occurrit. Civitas obsidione vallata, machinis instructis, capitur, magnaque strages hostium efficitur. Karolus Gothorum [Gothien] fines penetravit, Narbonam [Narbonne] obsedit, rege Sarracenorum Athima [Jussuf ibn-Abdérman] intus incluso. Sarraceni in Hispania [Spanien] qui commorabantur in vicinia haec audientes, armati cum rege suo occurrunt. Contra quos Karolus dimicans, regem cum populo suo interficit; qui gladium evadere poterant, ascensis navibus, in mare dimersi sunt, Francis super eos cum navibus et iaculis infestantibus; sicque Franci de hostibus triumphantes, predam magnam et captivorum multitudinem capiunt. […] Karolus in regionem Provintiae [Provence] ingreditur, fugato duce Mauronto, qui Sarracenos per dolum iam dudum invitaverat, cunctam Provintiam et maritima illa loca suae ditioni subegit, et Frexones. Karolus, Gothis superatis, Saxonibus subactis, Sarracenis expulsis, Provintiis receptis, regnum Francorum feliciter possidens, moritur in villa publica Wrembria, anno 741. incarnationis dominice; post quem duo liberi eius regnant ann. 27.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="741" From="741-01-01" To="741-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Gothien</Ort>
+        <Ort>Provence</Ort>
+        <Ort>Avignon</Ort>
+        <Ort>Narbonne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Hostis</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="7f33b217-aa47-40a6-b223-25957d2ed730" Type="Ort">
+          <Name>Avignon</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="b1cb525a-f672-41ec-9ce2-b2e00cfe2da0" Type="Anmerkung">
+          <Name>Jussuf ibn-Abdérman</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="334bcc12-dbc5-4fe1-9d9b-af61579b065b" Type="Ort">
+          <Name>Provence</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Annales Hildesheimenses 11, ed. Waitz 1878, S. 13.</Zitation>
+      <ZeitangabeQuelle>768-814</ZeitangabeQuelle>
+      <Inhaltsangabe>König/Kaiser Karl I. der Große nimmt zwischen 768-814 Pamplona ein und erhält Stadt sowie Geiseln vom Emir Abu Tawr von Huesca. Anschließend zieht Karl I. der Große weiter nach Saragossa zu dem Statthalter von Saragossa Ibin al Arabi.</Inhaltsangabe>
+      <VolltextOriginalsprache>Karolus [Karl I. der Große] contra Saracenos Pampalonam [Pamplona] civitatem capit. Abitaurus Saracenorum rex [Emir Abu Tawr von Huesca, s. Anm.] dedit obsides fratrem suum et filium, reddit civitates, quas tenebat. Inde proficiscitur ad Caesaraugustam [Saragossa], adducit secum Ibiinlarbi [Statthalter Ibin al Arabi von Saragossa] regem Saracenorum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Pamplona</Ort>
+        <Ort>Saragossa</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Caesaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Laut Paul Kunitzsch, Namenkundliche Anmerkungen zu P. Bancourt, Les Musulmans..., in: Zeitschrift für romanische Philologie 103 (1987), S. 257-270, hier S. 361, handelt es sich bei Abitaurus um Emir Abu Tawr von Huesca.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="8c6acf1b-8f06-4af6-9398-9f7f2bc2833f" Type="Ort">
+          <Name>Pamplona</Name>
+        </Entitaet>
+        <Entitaet Id="3f185968-7fc8-4cf2-88a0-9d1f80b11421" Type="Anmerkung">
+          <Name>Emir Abu Tawr von Huesca, s. Anm.</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+        <Entitaet Id="b5fc4597-34f1-47f5-a06c-94ea3f05e525" Type="Anmerkung">
+          <Name>Statthalter Ibin al Arabi von Saragossa</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Annales Hildesheimenses 34, ed. Waitz 1878, S. 14.</Zitation>
+      <ZeitangabeQuelle>768-814</ZeitangabeQuelle>
+      <Inhaltsangabe>Kalif Harun al-Raschid versendet zwischen 768-814 [801/802] einen Elefanten [namens Abul Abaz] und andere Geschenke [an Kaiser Karl I. den Großen].</Inhaltsangabe>
+      <VolltextOriginalsprache>Amurmumulus Saracenorum [Kalif Harun al-Raschid] elefantum unum cum aliis muneribus preciosis dirigit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801/802" From="801-01-01" To="801-12-31" />
+        <Datum Text="801/802" From="802-01-01" To="802-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. [0006]-[0002]; [0007]-[0016], [0007]-[0021], [0008]-[0014], [0008]-[0021], [0014]-[0008], [0014]-[0010], [0014]-[0017], [0016]-[0004], [0017]-[0004], [0021]-[0008], [0024]-[0013], [0024]-[0016], [0031]-[0005], [0044]-[0006], [0045]-[0006], [0069]-[0009], [0012]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Annales Hildesheimenses 56, ed. Waitz 1878, S. 15.</Zitation>
+      <ZeitangabeQuelle>814</ZeitangabeQuelle>
+      <Inhaltsangabe>Perser zerstören 814 Jerusalem und verfolgen viele Christen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eo tempore Hierosolima [Jerusalem] vastata est a Persis, et persecutionem magnam in orientalibus partibus christiani habebant.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="814" From="814-01-01" To="814-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Christenverfolgung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hierosolyma</Suchwort>
+        <Suchwort>Hierosolima</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Annales Hildesheimenses a. 827, ed. Waitz 1878, S. 16.</Zitation>
+      <ZeitangabeQuelle>827</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen verwüsten 827 die Regionen um Barcelona und Girona.</Inhaltsangabe>
+      <VolltextOriginalsprache>Imperatoris anno 15. et incarnationis dominicae 827. Sarraceni fines Barcinonensium [Barcelona] et Gerundensium [Gerona] vastant.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im fünfzehnten Jahre des Kaisers und 827 nach des Herrn Fleischwerdung verwüsten die Sarrazenen das Gebiet der Barcinonenser und Gerundenser.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Jahrbücher von Hildesheim a. 827, bearb. von Eduard Winkelmann (Die Geschichtschreiber der deutschen Vorzeit [53]), Leipzig ²1941, S. 4.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="827" From="827-01-01" To="827-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Girona</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="fe42fe01-c123-4844-af32-cea58acd2c14" Type="Ort">
+          <Name>Gerona</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Annales Hildesheimenses a. 982, ed. Waitz 1878, S. 24.</Zitation>
+      <ZeitangabeQuelle>982</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Otto II. führt 982 in Kalabrien verlustreiche Kämpfe gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Otto [Otto II.] imperator pugnavit periculosissime contra Sarracenos in Calabrorum [Kalabrien] partibus, ibique non pauci de optimatibus occubuerunt; […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Kaiser Otto [Otto II.] hatte einen sehr gefährlichen Kampf mit den Sarrazenen im Gebiet der Kalabrer und dabei kamen nicht wenige von den Vornehmen um.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Jahrbücher von Hildesheim a. 982, bearb. von Eduard Winkelmann (Die Geschichtschreiber der deutschen Vorzeit [53]), Leipzig ²1941, S. 17.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="982" From="982-01-01" To="982-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Kalabrien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Rückschlag</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
+          <Name>Otto II.</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Annales Hildesheimenses a. 1099, ed. Waitz 1878, S. 50.</Zitation>
+      <ZeitangabeQuelle>1099</ZeitangabeQuelle>
+      <Inhaltsangabe>Christen nehmen unter der Führung des Herzogs Gottfried von Bouillon 1099 erfolgreich Jerusalem ein.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hierosolima [Jerusalem] a christianis capitur, […] Godefrido duce [Herzog Gottfried von Bouillon] exercitum regente.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Jerusalem wird von den Christen eingenommen, indem Herzog Godefrid [von Bouillon] das Heer leitete (und in [!] haben sie Tausende der Mauren getötet und die Schätze des Königs von Babylon gewonnen).</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Jahrbücher von Hildesheim a. 1099, bearb. von Eduard Winkelmann (Die Geschichtschreiber der deutschen Vorzeit [53]), Leipzig ²1941, S. 70.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="1099" From="1099-01-01" To="1099-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="1090-1100" From="1090-01-01" To="1100-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1100-1110" From="1100-01-01" To="1110-12-31" />
+        <Datum Text="1110-1120" From="1110-01-01" To="1120-12-31" />
+        <Datum Text="1120-1130" From="1120-01-01" To="1130-12-31" />
+        <Datum Text="1130-1140" From="1130-01-01" To="1140-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hierosolyma</Suchwort>
+        <Suchwort>Hierosolima</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="3ec00c59-9ba4-44cb-8999-02a1d84e353e" Type="Person">
+          <Name>Herzog Gottfried von Bouillon</Name>
+        </Entitaet>
+        <Entitaet Id="70d89408-6267-4eb3-93ec-e9c0e8367417" Type="Anmerkung">
+          <Name>von Bouillon</Name>
+        </Entitaet>
+        <Entitaet Id="1158bace-4f2a-49c3-ad20-e55baf517c35" Type="Anmerkung">
+          <Name>!</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

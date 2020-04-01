@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0033</WerkId>
+  <WerkTitel>Annales Laureshamenses</WerkTitel>
+  <Alternativtitel>
+    <Titel>Jahrbücher von Lorsch</Titel>
+    <Titel>Lorscher Annalen</Titel>
+    <Titel>Fragmentum Chesnianum (nach A. Duchesne)</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Richbod von Lorsch</Autor>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>vor 784-1.10.804</LebensdatenVerfasser>
+  <Abfassungszeitraum>704-803/818</Abfassungszeitraum>
+  <Abfassungsort>Lorsch; Mainz</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa</Region>
+  </Regionen>
+  <Editionshinweise>Annales Laureshamenses, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 22-39.</Editionshinweise>
+  <Werkinformation>Die ab 785/786 in mehreren Klöstern (wohl Péronne, Gorze, Lorsch, Trier) entstandenen Annales Laureshamenses berichten über die Jahre 703 bis 803 (818). Als ein Verfasser wurde – nicht ohne Zweifel – Abt Richbod von Lorsch, Bischof von Trier, benannt.
+Vgl. mit Hinweisen für weiterführende Literatur: Hubertus Seibert, Art. Lorsch, in: Lexikon des Mittelalters 5, Sp. 2118 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-02]; Annales Laureshamenses, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00308.html, 2016-11-02]. Heinrich Fichtenau, Karl der Große und das Kaisertum, in: Mitteilungen des Instituts für Österreichische Geschichtsforschung 61 (1953), S. 257-334; Sören Kaschke, Art. Annales Laureshamenses, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 69f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales Laureshamenses a. 721, ed. Pertz 1826, S. 24.</Zitation>
+      <ZeitangabeQuelle>721</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen werden 721 durch Fürst Eudo von Aquitanien aus Aquitanien vertrieben.</Inhaltsangabe>
+      <VolltextOriginalsprache>[E]iecit Heudo [Herzog Eudo von Aquitanien] Saracinos de Aquitania [Aquitanien].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="721" From="721-01-01" To="721-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+        <Datum Text="760-770" From="760-01-01" To="770-12-31" />
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Saracinus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Gemeint ist die Schlacht von Toulouse, vgl. Dietrich Claude, Art. Eudo, Fs. v. Aquitanien, in: Lexikon des Mittelalters 4, Sp. 73 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="cfe0fd51-cfae-420e-8dee-a83d0dc0b9ba" Type="Anmerkung">
+          <Name>E</Name>
+        </Entitaet>
+        <Entitaet Id="ad6a92d3-13ea-4288-9664-80e1809d6a72" Type="Person">
+          <Name>Herzog Eudo von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales Laureshamenses a. 725, ed. Pertz 1826, S. 24.</Zitation>
+      <ZeitangabeQuelle>725</ZeitangabeQuelle>
+      <Inhaltsangabe>725 rücken Sarazenen an.</Inhaltsangabe>
+      <VolltextOriginalsprache>Saracini venerunt primitus.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="725" From="725-01-01" To="725-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+        <Datum Text="760-770" From="760-01-01" To="770-12-31" />
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Saracinus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Aus der Quellenstelle wird nicht explizit ersichtlich, gegen wen die Sarazenen anrücken. Eine geographische Eingrenzung findet ebenfalls nicht statt.</Anmerkungen>
+      <Entitaeten />
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales Laureshamenses a. 732, ed. Pertz 1826, S. 24.</Zitation>
+      <ZeitangabeQuelle>732</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell kämpft 732 bei Poitiers gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carolus [Karl Martell] pugnavit contra Saracinos die sabbati ad Pectavis [Poitiers].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="732" From="732-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+        <Datum Text="760-770" From="760-01-01" To="770-12-31" />
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Poitiers</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Saracinus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="85f7b5f5-130c-4d5b-82a6-dc8836f8dca1" Type="Ort">
+          <Name>Poitiers</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales Laureshamenses a. 737, ed. Pertz 1826, S. 26.</Zitation>
+      <ZeitangabeQuelle>737</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell kämpft 737 in Gothien gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carolus [Karl Martell] pugnavit contra Sarcinos in Gutia [Gothien], in dominica die.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="737" From="737-01-01" To="737-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+        <Datum Text="760-770" From="760-01-01" To="770-12-31" />
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Septimanien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Gutia</Suchwort>
+        <Suchwort>Gotia</Suchwort>
+        <Suchwort>Gothien</Suchwort>
+        <Suchwort>Septimanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarcinus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Annales Laureshamenses a. 778, ed. Pertz 1826, S. 31.</Zitation>
+      <ZeitangabeQuelle>778</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große zieht 778 mit einem Heer nach Spanien, erobert Pamplona und erhält von Habitaurus [Statthalter Sulaiman Ebn al Arabi von Barcelona?] Städte, die dieser einst gehalten hat, sowie dessen Bruder und Sohn als Geiseln. Anschließend zieht Karl I. der Große weiter nach Saragossa und empfängt den sarazenischen Statthalter Ibin al Arabi, bevor er ins Frankenreich zurückkehrt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Fuit rex Carlus [Karl I. der Große] in Spania [Spanien] cum exercitu, et conquesivit civitatem Pampalonam [Pamplona]; et Habitaurus Saracinorum rex [Sulaiman Ebn al Arabi von Barcelona und Gerona] venit ad eum, et tradidit civitates quas habuit, et dedit ei obsides fratrem suum et filium. Et inde perrexit domnus rex usque ad Cesaris–Augusta [Saragossa], et ibi venit ad eum Abinlarbi [Ibin al Arabi] alter rex Saracenorum, quem et fecit adducere in Francia [Frankenreich].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Spanische Mark</Ort>
+        <Ort>Saragossa</Ort>
+        <Ort>Pamplona</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Caesaraugusta</Suchwort>
+        <Suchwort>Caesar-Augusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Ibin al Arabi</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Saracinus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Spania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="8c6acf1b-8f06-4af6-9398-9f7f2bc2833f" Type="Ort">
+          <Name>Pamplona</Name>
+        </Entitaet>
+        <Entitaet Id="1716ed91-bbfc-4bdf-8140-251d634f3f3b" Type="Person">
+          <Name>Sulaiman Ebn al Arabi von Barcelona und Gerona</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+        <Entitaet Id="4b8f6440-a20c-4870-98a7-b19e10e563ca" Type="Person">
+          <Name>Ibin al Arabi</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Annales Laureshamenses a. 793, ed. Pertz 1826, S. 35.</Zitation>
+      <ZeitangabeQuelle>793</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem König Karl I. der Große 793 befiehlt, Verteidigungsanlagen zwischen den Flüssen Altmühl [Nebenfluss der Donau] und Rednitz-Regnitz [Nebenfluss des Main] zu errichten, wird er von Sarazenen aus Spanien angegriffen, die er aber erfolgreich nach Septimanien zurückdrängen kann.</Inhaltsangabe>
+      <VolltextOriginalsprache>Et domnus rex [Karl I. der Große] […] in estivo tempore voluisset cum navibus venire in Franciam [Frankenreich], et aliquem fossatum iussisset facere inter duo flumina, id est inter Alcmona [Altmühl; Nebenfluss der Donau] et Ratanza [Rednitz, Regnitz; Nebenfluss des Main], et ibi multum demorasset, Sarracini qui in Spaniis [Spanien] erant, exestimantes quod Avari contra regem [Karl I. der Große] fortiter dimicassent, et ob hanc causam in Francia [Frankenreich] eum venire non licuisset, egressi sunt de finibus suis in aliquam partem Gotiae [Gothien], et coniungentes se ibi ad nostros; et ceciderunt ibi multitudo eorum, sed et de parte nostra ibi multi interfecti sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="793" From="793-01-01" To="793-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Septimanien</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+        <Schlagwort>Rückschlag</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Spania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Gotia</Suchwort>
+        <Suchwort>Gothien</Suchwort>
+        <Suchwort>Septimanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+        <Entitaet Id="9dc3220f-059f-447b-af9a-0048c16bdd4a" Type="Anmerkung">
+          <Name>Altmühl; Nebenfluss der Donau</Name>
+        </Entitaet>
+        <Entitaet Id="870a152d-8c70-44ec-879f-3280d7e30634" Type="Anmerkung">
+          <Name>Rednitz, Regnitz; Nebenfluss des Main</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Annales Laureshamenses a. 796, ed. Pertz 1826, S. 37.</Zitation>
+      <ZeitangabeQuelle>796</ZeitangabeQuelle>
+      <Inhaltsangabe>Neben Heerzügen gegen Awaren und Sachsen entsendet der fränkische König Karl I. der Große 796 ein Heer zusammen mit Gesandten nach Spanien in das Gebiet der Sarazenen. Nachdem das fränkische Heer dort schwere Verwüstungen angerichtet hat, kehren die Gesandten mit einem Friedensschluss zu Karl nach Aachen zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>796. In ipso aestate transmisit rex Carolus [Karl I. der Große] Pippinum [Pippin I.] filium suum cum suis quos in Italia [Italien] secum habebat, et Paioarios cum aliqua parte Alamaniae [Alamannien] in finibus Avarorum […]. Et ipso anno ipse rex Carolus demoratus est in Saxonia cum duobus filiis suis, id est Carolo [Karl der Jüngere] et Clodoveo [Ludwig I. der Fromme], circuivit terram Saxanorum [Sachsen] […]. Et tercium exercitum suum Carlus rex in eadem aestate transmisit in fines Saracinorum cum missis suis, qui et ipsi ibi fecerunt similiter; vastaverunt terram illam, et redierunt cum pace ad regem Carolum ad Aquis [Aachen] palacium.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="796" From="796-01-01" To="796-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Auch das Chronicon Moissicanese berichtet von den drei Kriegszügen zum Jahr 796. Vgl. [0048]-[0010].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="002088ba-31a0-41bd-9b3a-8c041e8a94cd" Type="Ort">
+          <Name>Alamannien</Name>
+        </Entitaet>
+        <Entitaet Id="7ff9efbd-0dd1-4567-845f-d952f92c8e73" Type="Person">
+          <Name>Karl der Jüngere</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="6d0b0371-5933-4533-9e88-60e64a2371b2" Type="Ort">
+          <Name>Sachsen</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

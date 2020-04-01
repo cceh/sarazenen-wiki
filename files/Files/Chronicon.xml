@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0069</WerkId>
+  <WerkTitel>Chronicon</WerkTitel>
+  <Alternativtitel>
+    <Titel>Chronik</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Marianus Scottus</Autor>
+    <Autor>Moél Brigte</Autor>
+    <Autor>Calvus Brigitae</Autor>
+    <Autor>Máel Brigte</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>1028-1082</LebensdatenVerfasser>
+  <Abfassungszeitraum>1072-1082</Abfassungszeitraum>
+  <Abfassungsort>Mainz</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Mariani Scotti Chronicon, ed. Georg Waitz, in: MGH SS 5, Hannover 1844, S. 481-564.</Editionshinweise>
+  <Werkinformation>Das Chronicon des Marianus Scottus (geb. 1028, gest. 1082) wurde zwischen 1072 und 1082 in drei Büchern von dem Mönch und Inklusen verfasst. Das erste Buch behandelt die Zeit von der Schöpfung bis zur Geburt Christi, das zweite Buch behandelt das Leben Christi auf Erden, das dritte Buch reicht bis in die Zeit Marianus‘ selbst (bis 1073/1082). Auffallend ist die Jahreszählung des Werkes. Aus Irland stammend war Marianus zunächst Mönch im Kloster Magh Bhille, ab 1056 im Kloster Groß St. Martin in Mainz. Zeitweilig lebte er als Inkluse in Fulda, ab 1069 wieder in Mainz.
+Vgl. mit Hinweisen für weiterführende Literatur: D. Ó Cróinín, Art. Marianus Scot(t)us, in: Lexikon des Mittelalters 6, Sp. 285-286 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Marianus Scottus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100952984.html, 2016-11-07]; Chronicon (Marianus Scottus), in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03350.html?pers_PND=PND100952984, 2016-11-07]; Peter Verbist, Art. Marianus Scotus (Máel Brigte), in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1079.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 633, ed. Waitz 1844, S. 542.</Zitation>
+      <ZeitangabeQuelle>633</ZeitangabeQuelle>
+      <Inhaltsangabe>633 [604] greifen die Perser das byzantinische Reich an und erobern mehrere Provinzen sowie Jerusalem. Im Verlauf des Konflikts wird der oströmische Kaiser Phokas von seinem Nachfolger Herakleios getötet.</Inhaltsangabe>
+      <VolltextOriginalsprache>633. Persae contra rem publicam gravissima bella gerentes, multas Romanorum provincias, et ipsam Hierosolimam [Jerusalem] auferunt, et destruentes ecclesias, sancta quoque profanantes, inter ornamenta sanctorum vel communium locorum etiam vexillum dominicae crucis abducunt. Heraclius [Herakleios ], qui Africam [Afrika] regebat, Focam [Phokas] vita privavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="604" From="604-01-01" To="604-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Afrika</Ort>
+        <Ort>Byzantinisches Reich (Türkei, Libanon, Syrien, Jordanien)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Entmachtung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persa</Suchwort>
+        <Suchwort>Persien</Suchwort>
+        <Suchwort>Hierosolima</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>R.-J. Lilien zufolge gelang den Persern (des Sassanidenreiches) die Eroberung der Provinzen nicht unter Phokas, sondern erst unter seinem Nachfolger Herakleios, vgl. Ralph-Johannes Lilie, Byzanz. Das zweite Rom, Berlin 2003, S. 79, 81f.
+Zur Datierung vgl. The Byzantine-Arab Chronicle of 741 and its Eastern Source, ed. Robert G. Hoyland, in: Seeing Islam as Others Saw It. A Survey and Evaluation of Christian, Jewish and Zoroastrian Writings on Early Islam, hg. von dems. (Studies in Late Antiquity and Early Islam 13), S. 611-630, hier S. 612.
+Vgl. [0056]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="dc8d4ebe-fcf6-4389-a244-87e09ea986c6" Type="Anmerkung">
+          <Name>Herakleios </Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="85425cef-4c88-43d1-9ecd-60b0db6c9488" Type="Person">
+          <Name>Phokas</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 692, ed. Waitz 1844, S. 544.</Zitation>
+      <ZeitangabeQuelle>692</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen plündern 692 Sizilien und kehren anschließend nach Alexandria zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>692. Sarraceni Siciliam [Sizilien] invadunt; qui, preda nimia secum ablata, mox Alexandriam [Alexandria] redeunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="660er/670er Jahre" From="660-01-01" To="669-12-31" />
+        <Datum Text="660er/670er Jahre" From="670-01-01" To="670-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="660-670" From="660-01-01" To="670-12-31" />
+        <Datum Text="670-680" From="670-01-01" To="680-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Sizilien</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0008]-[0001]; [0021]-[0007]; [0023]-[0005]; [0024]-[0005]; [0049]-[0002]</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 711, ed. Waitz 1844, S. 545.</Zitation>
+      <ZeitangabeQuelle>711</ZeitangabeQuelle>
+      <Inhaltsangabe>Der byzantinische Kaiser Justinian II. schließt 711 [685/688] einen zehnjährigen Frieden mit den Sarazenen. Trotzdem wird die Provinz Afrika vom byzantinischen Reich unterworfen.</Inhaltsangabe>
+      <VolltextOriginalsprache>711. Iustinianus [Justinian II.] constituit pacem cum Sarracenis decennio terra marique; sed et provincia Affrica [Afrika] subiugata est Romano imperio [Römisches Reich], quae erat detenta a Sarracenis, ipsa quoque Cartagine [Karthago] ab eis capta et destructa.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="685/688" From="685-01-01" To="685-12-31" />
+        <Datum Text="685/688" From="688-01-01" To="688-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="680-690" From="680-01-01" To="690-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika (Tunesien)</Ort>
+        <Ort>Karthago</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Affrica</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Cartago</Suchwort>
+        <Suchwort>Carthago</Suchwort>
+        <Suchwort>Karthago</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0008]-[0003]; [0023]-[0006]; [0024]-[0006]; [0049]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="757ff4ec-5737-47da-8812-aa5694b245b8" Type="Person">
+          <Name>Justinian II.</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="311c92b8-d0ad-4634-97c7-c167be437b6e" Type="Ort">
+          <Name>Römisches Reich</Name>
+        </Entitaet>
+        <Entitaet Id="ae583192-f7c7-4ff3-933a-4ae8a8ce1c43" Type="Ort">
+          <Name>Karthago</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Marianus Scottus, Chronik, ad a. 739, ed. Waitz 1844, S. 546.</Zitation>
+      <ZeitangabeQuelle>739</ZeitangabeQuelle>
+      <Inhaltsangabe>Während der byzantinische Kaiser Anastasios II. 739 [715] mit einer Flotte gegen Sarazenen in Alexandria aufbricht, wird Theodosius III. vom Heer zum römischen Kaiser ausgerufen. In einer Schlacht bei Nicea kann Theodosius Anastasios besiegen und gefangen nehmen und damit seine Herrschaft durchsetzen.</Inhaltsangabe>
+      <VolltextOriginalsprache>739. Anastasius augustus [Anastasios II.] cum clasem in Alexandriam [Alexandria] contra Sarracenos direxit, exercitus dimidio itinere revertitur, et Theodosium [Theodosius III.] imperatorem facit, coactumque eum in solio imperii confirmavit. Qui deinde apud Nicenam civitatem [Nicea] gravi prelio vicit Anastasium, in quo septem milia de exercitu ceciderunt. Capto autem Anastasio, datoque sibi sacramento, clericum fieri ac presbeterum fieri fecit ordinari. Theodosius vero, ut regnavit, cum esset catholicus, mox in regia urbe imaginem illam venerandam, in qua sanctae sex synodi erant depictae, et a Philippico [Philippicus] fuerat deiecta, pristino in loco erexit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="715" From="715-01-01" To="715-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Nicea</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Entmachtung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Thronbesteigung</Schlagwort>
+        <Schlagwort>Thronfolge</Schlagwort>
+        <Schlagwort>Herrschererhebung</Schlagwort>
+        <Schlagwort>Herrschaftswechsel</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Graham V. Summer, Philippicus, Anastasius II and Theodosius III, in: Greek, Roman and Byzantine studies 17 (1976), S. 287-294, hier S. 291.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b79a56d5-e019-44d8-a040-d5232e72d4de" Type="Person">
+          <Name>Anastasios II.</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+        <Entitaet Id="580dbae7-c9de-4968-b8a4-42446c72da78" Type="Anmerkung">
+          <Name>Theodosius III.</Name>
+        </Entitaet>
+        <Entitaet Id="c012a5fb-9570-409a-a6c8-ad21e32dce1e" Type="Anmerkung">
+          <Name>Nicea</Name>
+        </Entitaet>
+        <Entitaet Id="d83ba426-599a-4345-b9ac-78077fb956d0" Type="Anmerkung">
+          <Name>Philippicus</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 741, ed. Waitz 1844, S. 546.</Zitation>
+      <ZeitangabeQuelle>741</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen belagern 741 [717/718] drei Jahre lang Konstantinopel, müssen die Belagerung aber schließlich abbrechen, da das Heer von Hunger und Krankheiten geplagt wird. Auf dem Rückzug werden sie von den Bulgaren angegriffen und besiegt und müssen zu ihren Schiffen fliehen.</Inhaltsangabe>
+      <VolltextOriginalsprache>741. Sarraceni cum imenso exercitu Constantinopolim [civitatem] [Konstantinopel] triennio obsident, donec civibus multa instantia orationum ad Deum clamaverunt. Tunc plurimi Sarracenorum fame, frigore et pestilentia perierunt. Saraceni vero pertaesi obsidionis abscedunt. Qui inde regressi, Vulgarorum gentem, quae est super Danubium [Donau], bello adgrediuntur. Ab hac quoque victi refugiunt, ac naves repetunt suas.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="717/718" From="717-01-01" To="717-12-31" />
+        <Datum Text="717/718" From="718-01-01" To="718-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Donau (Bulgarien)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Krankheit</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0008]-[0005]; [0021]-[0008]; [0023]-[0008]; [0024]-[0007]; [0044]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="7ed487f3-d123-491f-9dc4-d98ea7ea345d" Type="Anmerkung">
+          <Name>civitatem</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="134fdc48-27e8-402b-b6ef-ca79beb942b5" Type="Ort">
+          <Name>Donau</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 755, ed. Waitz 1844, S. 546.</Zitation>
+      <ZeitangabeQuelle>755</ZeitangabeQuelle>
+      <Inhaltsangabe>755 greifen Sarazenen an, wobei viele von ihnen getötet und viele Schiffe versenkt werden.</Inhaltsangabe>
+      <VolltextOriginalsprache>755. Sarraceni vero predicti cum altum peterent, ingruente subita tempestate, plurimi etiam mersi sunt ex ipsis et necati. Plurimae enim naves eorum merse et confractae erant per litora.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="718-755" From="718-01-01" To="755-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+        <Datum Text="750-760" From="750-01-01" To="760-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung: Da Marianus die vorangegangenen Ereignisse durchgehend zu spät datiert, ist anzunehmen, dass der hier beschriebene Angriff der Sarazenen vor 755 stattfand, allerdings wohl erst nach der Belagerung von Konstantinopel um das Jahr 717, die Marianus auf 741 datiert.</Anmerkungen>
+      <Entitaeten />
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 757, ed. Waitz 1844, S. 546.</Zitation>
+      <ZeitangabeQuelle>757</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Langobardenkönig Liutprand hört 757 [717/718] davon, dass Sarazenen Sardinien verwüstet haben. Daher kauft er die dort aufbewahrten Gebeine des heiligen Augustinus und überführt sie nach Pavia.</Inhaltsangabe>
+      <VolltextOriginalsprache>757. Liutbrandus vero rex Langobardorum [Liutprand] audivit, quod Sarraceni loca sancta corrumperent. Audivit, quod, depopulata Sardinia [Sardinien], etiam loca illa fedarent, ubi ossa sancti Augustini episcopi [Bf. Augustinus von Hippo] propter vastationem barbarorum olim translata et honorifice fuerant recondita. Misit ergo, et dato magno pretio accepit, et transtulit ea in Ticinis [Pavia], ibique cum debito tanti patris honore recondidit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="717/718" From="717-01-01" To="717-12-31" />
+        <Datum Text="717/718" From="718-01-01" To="718-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Sardinien</Ort>
+        <Ort>Lombardei</Ort>
+        <Ort>Pavia</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Reliquie</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Barbarus</Suchwort>
+        <Suchwort>Barbar</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0023]-[0009]; [0044]-[0001]; [0049]-[0004].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ec42155e-7efe-452a-9493-b864d62c58f6" Type="Person">
+          <Name>Liutprand</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+        <Entitaet Id="c111f765-5a2b-4be4-85e9-7e92fbaaa916" Type="Person">
+          <Name>Bf. Augustinus von Hippo</Name>
+        </Entitaet>
+        <Entitaet Id="d6f0652d-06e6-4da5-bf1b-e2865ff812b0" Type="Ort">
+          <Name>Pavia</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 799, ed. Waitz 1844, S. 548.</Zitation>
+      <ZeitangabeQuelle>799</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl der Große unterwirft 799 [um 800] Spanien und führt sein Heer unversehrt zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>799. Karolus [Karl I. der Große] Hispaniam [Spanien] subiecit, et incolumi exercitu revertitur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 800" From="795-01-01" To="805-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Karl der Große führte um die Wende vom 8. zum 9. Jahrhundert mehrfach militärische Aktionen gegen die Sarazenen in Spanien durch, bei der unter anderem im Jahr 801 die Eroberung Barcelonas gelang. Da Marianus schon zuvor die beschriebenen Ereignisse fälschlich datiert, bleibt es aufgrund der Kürze des Berichts unklar, auf welchen Kriegszug er sich genau bezieht.
+Vgl. hierzu [0007]-[0012]; [0007]-[0015]; [0008]-[0013]; [0011]-[0004]; [0014]-[0006]; [0014]-[0009]; [0020]-[0001]; [0024]-[0012]; [0045]-[0003]; [0045]-[0004]; [0048]-[0010]; [0048]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 824, ed. Waitz 1844, S. 549.</Zitation>
+      <ZeitangabeQuelle>824</ZeitangabeQuelle>
+      <Inhaltsangabe>Der abbasidische Kalif Harun al-Raschid schickt Kaiser Karl dem Großen 824 [802] einen Elefanten und weitere Geschenke.</Inhaltsangabe>
+      <VolltextOriginalsprache>824. Amarmurmulus rex Persarum [Kalif Harun al-Raschid] elefantem [Abul Abaz] et alia munera misit regi Karolo [Karl I. der Große].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="802" From="802-01-01" To="802-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Irak)</Ort>
+        <Ort>Bagdad</Ort>
+        <Ort>Frankenreich (Deutschland</Ort>
+        <Ort>Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Amarmurmulus</Suchwort>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. hierzu [0006]-[0002]; [0007]-[0016]; [0008]-[0015]; [0012]-[0001]; [0013]-[0006]; [0014]-[0010]; [0016]-[0004]; [0017]-[0004]; [0021]-[0015]; [0024]-[0013]; [0031]-[0005]; [0044]-[0006]; [0045]-[0006].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Marianus Scottus, Chronik ad a. 1087, ed. Waitz 1844, S. 559.</Zitation>
+      <ZeitangabeQuelle>1087</ZeitangabeQuelle>
+      <Inhaltsangabe>Eine Gruppe von 7000 christlichen Pilgern, zu denen der Mainzer Erzbischof Siegfried sowie die Bischöfe Gunther von Bamberg und Otto von Regensburg gehören, wird im Jahr 1087 [1064/1065] von Arabern in Palästina in der Burg Kfar Saba festgesetzt und in Kämpfe verwickelt. Kaum 2000 der Pilger gelingt es schließlich mit der Hilfe eines Fürsten aus Ramleh aus ihrer Notlage zu entkommen und zunächst nach Jerusalem und dann in die Heimat zu gelangen.</Inhaltsangabe>
+      <VolltextOriginalsprache>1087. Arabitae vero fama pecuniae congregati, multosque predictorum in parasceue occidentes, cum non sustinuerunt, in quoddam castellum vacuum Carvasalim [Kfar Saba] nomine nostri fugerunt; quod claudentes, lapidibus et fustibus deffenderunt se contra iacula Arabitarum querentium cuntam peccuniam eorum vel vitam pariter et peccuniam. Tunc unus bonus miles nullo modo prohibitus a sepulchro Domini, nudus foris exivit. Arabitae vero eum statim extendentes in modum crucis sopinum, manibus ipsi et pedibus transfixis in terram clavibus supertectum ventris intra duo latera, et cooperta viscerum ab imo ventris usque gutur super faciem eius proiecientes, scrutaverunt, qualiter humana viscera habentur; deinde eum membratim dividentes, dux ipsorum primum lapidem super eum et unusquisque post illum proiecit. Tunc nostris omnibus de castello intuentibus, dixerunt: Vos ita eritis, si totam peccuniam nobis non traderitis. Cum autem nostri promiserunt dare totam suam peccuniam nisi victum usque ad christianos, ducem Arabitarum cum viris 16 totidemque gladiis intromiserunt. Qui cum vidisset episcopos gloriosos cum multis militibus, et dorsalia, pallia pendentia et cetera, sicut consuetudinis est paganorum reos tenere, extendit corrigiam circa collum Bambergensis episcopi [Bf. Gunther von Bamberg], quasi domini nostrorum magnitudine et pulchritudine corporis eius, et ait: Tu et ista tua omnia mea erunt. Episcopus vero per interpretem ait: Quid mihi facies? Et ille dixit: Istum pulchrum sanguinem gutturis tui sugam, et suspendam te sicut unum canem ante castellum. Tunc episcopus, prehenso capite eius, uno colapho percutiens ducem in terram; omnes alii ligati sunt. Qui vero foras erant audientes ista, irruerunt supra castellum. Sed isti ligati supra murum sub gladiis suis contra iacula suorum suppositi, rogaverunt filios et amicos suos, qui ceteros prohibuerunt. Inde bellum inter latrones actum est, cum multi eorum elegerunt peccuniam, multi patres et amicos suos. Feria vero 2. post pascha rogantes eum alii qui evaserunt, venit dux de Ramula [Ramleh] cum multa manu, et fugans Arabitas, accepit quingentos bisantios aureos [id est denarios magnos], captivumque ducem Arabitarum, inimicum multo tempore regis Sarracenorum; et duxit christianos Hierusalem [Jerusalem], et inde ad navem. Dominus autem vento prospero portans eos usque ad christianos; nec duo milia de septem milibus reversi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="1064/1065" From="1064-01-01" To="1064-12-31" />
+        <Datum Text="1064/1065" From="1065-01-01" To="1065-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Palästina</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Kfar Saba</Ort>
+        <Ort>Ramleh</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Folter</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Rückschlag</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabitus</Suchwort>
+        <Suchwort>Arabite</Suchwort>
+        <Suchwort>Paganus</Suchwort>
+        <Suchwort>Heide</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Hierusalem</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung: Emil E. Ploß, Art. Gunther, Bischof von Bamberg, in: Neue Deutsche Biographie 7 (1966), S. 323; Gustav Schmidt, Art. Sigfrid I., Erzbischof von Mainz, in: Allgemeine Deutsche Biographie 34 (1892), S. 258; Manfred Heim, Art. Otto v. Riedenburg, Bischof von Bamberg, in: Neue Deutsche Biographie 19 (1998), S. 693.
+Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="27fae318-43bc-4609-b77c-b752912c9cf9" Type="Anmerkung">
+          <Name>Kfar Saba</Name>
+        </Entitaet>
+        <Entitaet Id="e57d8982-2a4e-49ef-8027-3c0becf88e47" Type="Person">
+          <Name>Bf. Gunther von Bamberg</Name>
+        </Entitaet>
+        <Entitaet Id="bd95cbcd-0d19-4cac-bab0-3966cf100c08" Type="Ort">
+          <Name>Ramleh</Name>
+        </Entitaet>
+        <Entitaet Id="04d61f44-514d-4613-95e9-cc438911b53e" Type="Anmerkung">
+          <Name>id est denarios magnos</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

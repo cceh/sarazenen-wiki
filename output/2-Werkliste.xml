@@ -1,5 +1,5 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
-           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://www.mediawiki.org/xml/export-0.10/"
            xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd"
            version="0.10"
            xml:lang="de">
@@ -18,14 +18,1175 @@
       <revision>
          <id>3467</id>
          <parentid>3466</parentid>
-         <timestamp>2019-04-03T13:24:54Z</timestamp>
+         <timestamp>2019-12-11T17:31:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text>&lt;table&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===A===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Fuldense antiquissimi | Annales Fuldense antiquissimi]]&lt;/td&gt;&lt;td&gt;9999&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Vedastini | Annales Vedastini]]&lt;/td&gt;&lt;td&gt;9998&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Brunwilarenses | Annales Brunwilarenses]]&lt;/td&gt;&lt;td&gt;9985&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Floriacenses | Annales Floriacenses]]&lt;/td&gt;&lt;td&gt;9984&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Lemovicenses | Annales Lemovicenses]]&lt;/td&gt;&lt;td&gt;9983&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales qui dicuntur Alcuini | Annales qui dicuntur Alcuini]]&lt;/td&gt;&lt;td&gt;9982&lt;/td&gt;&lt;td&gt;([[:Kategorie:Alcuinus abbas S. Martini Turonensis (Alkuin von Tours) | Alcuinus abbas S. Martini Turonensis (Alkuin von Tours)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales S. Amandi breves | Annales S. Amandi breves]]&lt;/td&gt;&lt;td&gt;9981&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales S. Bavonis Gandensis | Annales S. Bavonis Gandensis]]&lt;/td&gt;&lt;td&gt;9980&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales S. Maximini Trevirensis | Annales S. Maximini Trevirensis]]&lt;/td&gt;&lt;td&gt;9979&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Abbatum s. Galli catalogus | Abbatum s. Galli catalogus]]&lt;/td&gt;&lt;td&gt;9949&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Abbates monasterii Augensis catalogus | Abbates monasterii Augensis catalogus]]&lt;/td&gt;&lt;td&gt;9948&lt;/td&gt;&lt;td&gt;([[:Kategorie:unbekann | unbekann]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales breves Fuldenses | Annales breves Fuldenses]]&lt;/td&gt;&lt;td&gt;9942&lt;/td&gt;&lt;td&gt;([[:Kategorie: | ]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales S. Albani Moguntini | Annales S. Albani Moguntini]]&lt;/td&gt;&lt;td&gt;9928&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Antapodosis | Antapodosis]]&lt;/td&gt;&lt;td&gt;0003&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Fuldenses | Annales Fuldenses]]&lt;/td&gt;&lt;td&gt;0007&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Bertiniani | Annales Bertiniani]]&lt;/td&gt;&lt;td&gt;0010&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Hildesheimenses | Annales Hildesheimenses]]&lt;/td&gt;&lt;td&gt;0013&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannt | Unbekannt]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales regni Francorum | Annales regni Francorum]]&lt;/td&gt;&lt;td&gt;0014&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Altahenses | Annales Altahenses]]&lt;/td&gt;&lt;td&gt;0016&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales qui dicuntur Einhardi | Annales qui dicuntur Einhardi]]&lt;/td&gt;&lt;td&gt;0018&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales qui dicuntur Xantenses | Annales qui dicuntur Xantenses]]&lt;/td&gt;&lt;td&gt;0020&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Quedlinburgenses | Annales Quedlinburgenses]]&lt;/td&gt;&lt;td&gt;0031&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Laureshamenses | Annales Laureshamenses]]&lt;/td&gt;&lt;td&gt;0033&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales S. Amandi | Annales S. Amandi]]&lt;/td&gt;&lt;td&gt;0034&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Tiliani | Annales Tiliani]]&lt;/td&gt;&lt;td&gt;0035&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Alamannici | Annales Alamannici]]&lt;/td&gt;&lt;td&gt;0036&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Sangallenses maiores | Annales Sangallenses maiores]]&lt;/td&gt;&lt;td&gt;0041&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Lobienses | Annales Lobienses]]&lt;/td&gt;&lt;td&gt;0045&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Besuenses | Annales Besuenses]]&lt;/td&gt;&lt;td&gt;0047&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Adbreviatio de gestis Langobardorum | Adbreviatio de gestis Langobardorum]]&lt;/td&gt;&lt;td&gt;0050&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Barenses | Annales Barenses]]&lt;/td&gt;&lt;td&gt;0051&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Petaviani | Annales Petaviani]]&lt;/td&gt;&lt;td&gt;0057&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Annales Flodoardi | Annales Flodoardi]]&lt;/td&gt;&lt;td&gt;0058&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===B===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Bella Parisicae urbis | Bella Parisicae urbis]]&lt;/td&gt;&lt;td&gt;9978&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Breviarium regum Francorum | Breviarium regum Francorum]]&lt;/td&gt;&lt;td&gt;9977&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Bernoldi Chronicon | Bernoldi Chronicon]]&lt;/td&gt;&lt;td&gt;0021&lt;/td&gt;&lt;td&gt;([[:Kategorie:Bernold von Konstanz | Bernold von Konstanz]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Bertholdi Chronicon | Bertholdi Chronicon]]&lt;/td&gt;&lt;td&gt;0039&lt;/td&gt;&lt;td&gt;([[:Kategorie:Berthold von Reichenau | Berthold von Reichenau]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===C===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Carmina duo in honorem gloriosissimi Pippini regis | Carmina duo in honorem gloriosissimi Pippini regis]]&lt;/td&gt;&lt;td&gt;9997&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ermoldus Nigellus | Ermoldus Nigellus]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Carmen de gestis Oddonis I imperatoris | Carmen de gestis Oddonis I imperatoris]]&lt;/td&gt;&lt;td&gt;9976&lt;/td&gt;&lt;td&gt;([[:Kategorie:Hrotsvita sanctimonialis Gandersheimensis (Hrotsvit von Gandersheim) | Hrotsvita sanctimonialis Gandersheimensis (Hrotsvit von Gandersheim)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Carmen de Carolo Magno | Carmen de Carolo Magno]]&lt;/td&gt;&lt;td&gt;9975&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Casus S. Galli | Casus S. Galli]]&lt;/td&gt;&lt;td&gt;9974&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ratbertus monachus Sangallensis (Ratpert von St. Gallen) | Ratbertus monachus Sangallensis (Ratpert von St. Gallen)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Casuum S. Galli continuatio secunda | Casuum S. Galli continuatio secunda]]&lt;/td&gt;&lt;td&gt;9973&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Casuum S. Galli continuatio tertia | Casuum S. Galli continuatio tertia]]&lt;/td&gt;&lt;td&gt;9972&lt;/td&gt;&lt;td&gt;([[:Kategorie:Conradus de Fabaria (Konrad von Pfäfers) | Conradus de Fabaria (Konrad von Pfäfers)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronica de sex aetatibus mundi | Chronica de sex aetatibus mundi]]&lt;/td&gt;&lt;td&gt;9950&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronicon Aquitanicum | Chronicon Aquitanicum]]&lt;/td&gt;&lt;td&gt;9945&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronicon sancti Martini Coloniensis | Chronicon sancti Martini Coloniensis]]&lt;/td&gt;&lt;td&gt;9944&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronicon sive Gesta Saxonum | Chronicon sive Gesta Saxonum]]&lt;/td&gt;&lt;td&gt;0001&lt;/td&gt;&lt;td&gt;([[:Kategorie:Thietmar von Merseburg | Thietmar von Merseburg]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Casuum S. Galli continuatio | Casuum S. Galli continuatio]]&lt;/td&gt;&lt;td&gt;0005&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ekkehard IV. von St. Gallen | Ekkehard IV. von St. Gallen]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronicon cum Continuatione Treverensi | Chronicon cum Continuatione Treverensi]]&lt;/td&gt;&lt;td&gt;0008&lt;/td&gt;&lt;td&gt;([[:Kategorie:Regino von Prüm | Regino von Prüm]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti | Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti]]&lt;/td&gt;&lt;td&gt;0022&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ermoldus Nigellus | Ermoldus Nigellus]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronicon de sex aetatibus mundi | Chronicon de sex aetatibus mundi]]&lt;/td&gt;&lt;td&gt;0024&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronicon in aetates sex divisum | Chronicon in aetates sex divisum]]&lt;/td&gt;&lt;td&gt;0044&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Cronicae Sancti Benedicti Casinensis | Cronicae Sancti Benedicti Casinensis]]&lt;/td&gt;&lt;td&gt;0053&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Chronica Byzantina-Arabica | Chronica Byzantina-Arabica]]&lt;/td&gt;&lt;td&gt;0056&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===D===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Destructio monasterii Farfensis | Destructio monasterii Farfensis]]&lt;/td&gt;&lt;td&gt;0002&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios | De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios]]&lt;/td&gt;&lt;td&gt;0043&lt;/td&gt;&lt;td&gt;([[:Kategorie:Aimoin von Saint-Germain-des-Prés | Aimoin von Saint-Germain-des-Prés]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[De temporum ratione liber | De temporum ratione liber]]&lt;/td&gt;&lt;td&gt;0049&lt;/td&gt;&lt;td&gt;([[:Kategorie:Beda Venerabilis | Beda Venerabilis]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===E===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Epitaphium Adelheidae Imperatricis | Epitaphium Adelheidae Imperatricis]]&lt;/td&gt;&lt;td&gt;9996&lt;/td&gt;&lt;td&gt;([[:Kategorie:Odilo abbas Cluniacensis (Odilo von Cluny) | Odilo abbas Cluniacensis (Odilo von Cluny)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris | Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris]]&lt;/td&gt;&lt;td&gt;9951&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ermenricus Elwangensis (Ermenrich von Ellwangen) | Ermenricus Elwangensis (Ermenrich von Ellwangen)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Episcoporum Constantiensium catalogus | Episcoporum Constantiensium catalogus]]&lt;/td&gt;&lt;td&gt;9947&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Etymologiae | Etymologiae]]&lt;/td&gt;&lt;td&gt;0061&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===G===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Genealogia regum Francorum | Genealogia regum Francorum]]&lt;/td&gt;&lt;td&gt;9971&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta Theoderici regis. Vita ex Aimoino hausta | Gesta Theoderici regis. Vita ex Aimoino hausta]]&lt;/td&gt;&lt;td&gt;9935&lt;/td&gt;&lt;td&gt;([[:Kategorie:Aimoin von Fleury | Aimoin von Fleury]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta Theoderici regis. Vita Fuldensis | Gesta Theoderici regis. Vita Fuldensis]]&lt;/td&gt;&lt;td&gt;9927&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta Karoli | Gesta Karoli]]&lt;/td&gt;&lt;td&gt;0012&lt;/td&gt;&lt;td&gt;([[:Kategorie:Notker der Stammler | Notker der Stammler]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta Hludovici imperatoris | Gesta Hludovici imperatoris]]&lt;/td&gt;&lt;td&gt;0019&lt;/td&gt;&lt;td&gt;([[:Kategorie:Thegan | Thegan]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta Hammaburgensis ecclesiae pontificum | Gesta Hammaburgensis ecclesiae pontificum]]&lt;/td&gt;&lt;td&gt;0028&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta Dagoberti I. regis Francorum | Gesta Dagoberti I. regis Francorum]]&lt;/td&gt;&lt;td&gt;0040&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta sanctorum patrum Fontanellensis coenobii | Gesta sanctorum patrum Fontanellensis coenobii]]&lt;/td&gt;&lt;td&gt;0042&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Gesta episcoporum Mettensium | Gesta episcoporum Mettensium]]&lt;/td&gt;&lt;td&gt;0046&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===H===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historia Daretis Frigii de origine Francorum | Historia Daretis Frigii de origine Francorum]]&lt;/td&gt;&lt;td&gt;9969&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historia translationis s. Viti | Historia translationis s. Viti]]&lt;/td&gt;&lt;td&gt;9939&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historiarum libri quinque | Historiarum libri quinque]]&lt;/td&gt;&lt;td&gt;0009&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historia Langobardorum | Historia Langobardorum]]&lt;/td&gt;&lt;td&gt;0023&lt;/td&gt;&lt;td&gt;([[:Kategorie:Paulus Diaconus | Paulus Diaconus]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historia Ottonis | Historia Ottonis]]&lt;/td&gt;&lt;td&gt;0026&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historiarum libri quattuor | Historiarum libri quattuor]]&lt;/td&gt;&lt;td&gt;0038&lt;/td&gt;&lt;td&gt;([[:Kategorie:Nithard | Nithard]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historia Gothorum Wandalorum Sueborum | Historia Gothorum Wandalorum Sueborum]]&lt;/td&gt;&lt;td&gt;0052&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historia Langobardorum Beneventanorum | Historia Langobardorum Beneventanorum]]&lt;/td&gt;&lt;td&gt;0055&lt;/td&gt;&lt;td&gt;([[:Kategorie:Erchembert | Erchembert]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Historia Remensis ecclesiae | Historia Remensis ecclesiae]]&lt;/td&gt;&lt;td&gt;0068&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===L===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Liber historiae Francorum | Liber historiae Francorum]]&lt;/td&gt;&lt;td&gt;9970&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Lamperti Hersfeldensis Annales | Lamperti Hersfeldensis Annales]]&lt;/td&gt;&lt;td&gt;0017&lt;/td&gt;&lt;td&gt;([[:Kategorie:Lampert von Hersfeld | Lampert von Hersfeld]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===M===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Miracula s. Willehadi | Miracula s. Willehadi]]&lt;/td&gt;&lt;td&gt;9995&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ansgar archiepiscopus Bremensis (Ansgar von Bremen) | Ansgar archiepiscopus Bremensis (Ansgar von Bremen)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Mariani Scotti Chronicon | Mariani Scotti Chronicon]]&lt;/td&gt;&lt;td&gt;0069&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===P===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Primordia coenobii Gandersheimensis | Primordia coenobii Gandersheimensis]]&lt;/td&gt;&lt;td&gt;9994&lt;/td&gt;&lt;td&gt;([[:Kategorie:Hrotsvita sanctimonialis Gandersheimensis (Hrotsvit von Gandersheim) | Hrotsvita sanctimonialis Gandersheimensis (Hrotsvit von Gandersheim)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Passio sancti Sigismundi regis | Passio sancti Sigismundi regis]]&lt;/td&gt;&lt;td&gt;9936&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Passio Sancti Pelagii | Passio Sancti Pelagii]]&lt;/td&gt;&lt;td&gt;0037&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===R===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Relatio de miraculis sancti Othmari | Relatio de miraculis sancti Othmari]]&lt;/td&gt;&lt;td&gt;9955&lt;/td&gt;&lt;td&gt;([[:Kategorie:Iso magister et monachus Sangallensis (Iso von St. Gallen) | Iso magister et monachus Sangallensis (Iso von St. Gallen)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Rhythmi de sancto Otmaro | Rhythmi de sancto Otmaro]]&lt;/td&gt;&lt;td&gt;9954&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ekkehardus IV (Ekkehard IV. von St. Gallen) | Ekkehardus IV (Ekkehard IV. von St. Gallen)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Rerum gestarum Saxonicarum libri tres | Rerum gestarum Saxonicarum libri tres]]&lt;/td&gt;&lt;td&gt;0004&lt;/td&gt;&lt;td&gt;([[:Kategorie:Widukind von Corvey | Widukind von Corvey]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Relatio de legatione Constantinopolitana | Relatio de legatione Constantinopolitana]]&lt;/td&gt;&lt;td&gt;0027&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===s===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[sog. Fredegar-Chronik mit Fortsetzung | sog. Fredegar-Chronik mit Fortsetzung]]&lt;/td&gt;&lt;td&gt;0032&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===S===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Saxonicum bellum | Saxonicum bellum]]&lt;/td&gt;&lt;td&gt;9993&lt;/td&gt;&lt;td&gt;([[:Kategorie:Bruno clericus Merseburgensis (Bruno von Merseburg; Bruno von Magdeburg) | Bruno clericus Merseburgensis (Bruno von Merseburg; Bruno von Magdeburg)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===T===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Translatio s. Alexandri | Translatio s. Alexandri]]&lt;/td&gt;&lt;td&gt;9992&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Translatio s. Liborii | Translatio s. Liborii]]&lt;/td&gt;&lt;td&gt;9991&lt;/td&gt;&lt;td&gt;([[:Kategorie:Erconradus diaconus Cenomanensis (Erchanrad von Le Mans) | Erconradus diaconus Cenomanensis (Erchanrad von Le Mans)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Translatio s. Pusinnae | Translatio s. Pusinnae]]&lt;/td&gt;&lt;td&gt;9940&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Werk&lt;/th&gt;&lt;th&gt;Nummer&lt;/th&gt;&lt;th&gt;Verfasser&lt;/th&gt;&lt;th&gt;Sarazenen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;===V===&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Anskarii | Vita Anskarii]]&lt;/td&gt;&lt;td&gt;9990&lt;/td&gt;&lt;td&gt;([[:Kategorie:Rimbert archiepiscopus Hammaburgensis et Bremensis (Rimbert von Hambrug-Bremen) | Rimbert archiepiscopus Hammaburgensis et Bremensis (Rimbert von Hambrug-Bremen)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Bernwardi episcopi Hildesheimensis | Vita Bernwardi episcopi Hildesheimensis]]&lt;/td&gt;&lt;td&gt;9989&lt;/td&gt;&lt;td&gt;([[:Kategorie:Thangmarus presb. Hildesheimensis (Thangmar von Hildesheim) | Thangmarus presb. Hildesheimensis (Thangmar von Hildesheim)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Brunonis archiepiscopi Coloniensis | Vita Brunonis archiepiscopi Coloniensis]]&lt;/td&gt;&lt;td&gt;9988&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ruotgerus (Ruotger) | Ruotgerus (Ruotger)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita et obitus Hathumodae primae abbatissae Gandersheimensis | Vita et obitus Hathumodae primae abbatissae Gandersheimensis]]&lt;/td&gt;&lt;td&gt;9987&lt;/td&gt;&lt;td&gt;([[:Kategorie:Agius frater Hathumodae abbatissae (Agius, Bruder der Äbtissin Hathumod) | Agius frater Hathumodae abbatissae (Agius, Bruder der Äbtissin Hathumod)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Gregorii abbatis Traiectensis | Vita Gregorii abbatis Traiectensis]]&lt;/td&gt;&lt;td&gt;9986&lt;/td&gt;&lt;td&gt;([[:Kategorie:Liudgerus episcopus Mimigardenfordensis (Liudger von Münster) | Liudgerus episcopus Mimigardenfordensis (Liudger von Münster)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Leobae | Vita Leobae]]&lt;/td&gt;&lt;td&gt;9968&lt;/td&gt;&lt;td&gt;([[:Kategorie:Rudolf | Rudolf]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Mathildis reginae | Vita Mathildis reginae]]&lt;/td&gt;&lt;td&gt;9967&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Adalhardi abbatis Corbeiensis | Vita s. Adalhardi abbatis Corbeiensis]]&lt;/td&gt;&lt;td&gt;9966&lt;/td&gt;&lt;td&gt;([[:Kategorie:Paschasius Radbertus (Ratpert von Corbie) | Paschasius Radbertus (Ratpert von Corbie)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Arnulfi Suessionensis | Vita s. Arnulfi Suessionensis]]&lt;/td&gt;&lt;td&gt;9965&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Bennonis II episcopi Osnabrugensis | Vita s. Bennonis II episcopi Osnabrugensis]]&lt;/td&gt;&lt;td&gt;9964&lt;/td&gt;&lt;td&gt;([[:Kategorie:Norbertus abbas Iburgensis (Norbert von Iburg) | Norbertus abbas Iburgensis (Norbert von Iburg)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Eigilis abbatis Fuldensis | Vita s. Eigilis abbatis Fuldensis]]&lt;/td&gt;&lt;td&gt;9963&lt;/td&gt;&lt;td&gt;([[:Kategorie:Bruun (auch Candidus genannt) | Bruun (auch Candidus genannt)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Hugonis abbatis | Vita s. Hugonis abbatis]]&lt;/td&gt;&lt;td&gt;9962&lt;/td&gt;&lt;td&gt;([[:Kategorie:Rainaldus (Rainald von Vézelay) | Rainaldus (Rainald von Vézelay)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Lebuini | Vita s. Lebuini]]&lt;/td&gt;&lt;td&gt;9961&lt;/td&gt;&lt;td&gt;([[:Kategorie:Hucbald von St. Armand | Hucbald von St. Armand]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Liudgeri episcopi Mimigardenfordensis | Vita s. Liudgeri episcopi Mimigardenfordensis]]&lt;/td&gt;&lt;td&gt;9960&lt;/td&gt;&lt;td&gt;([[:Kategorie:Altfridus episcopus Mimigardenfordensis (Altfried von Münster) | Altfridus episcopus Mimigardenfordensis (Altfried von Münster)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Sturmi abbatis Fuldensis | Vita s. Sturmi abbatis Fuldensis]]&lt;/td&gt;&lt;td&gt;9959&lt;/td&gt;&lt;td&gt;([[:Kategorie:Eigil abbas Fuldensis (Eigil von Fulda) | Eigil abbas Fuldensis (Eigil von Fulda)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Godehardi | Vita s. Godehardi]]&lt;/td&gt;&lt;td&gt;9958&lt;/td&gt;&lt;td&gt;([[:Kategorie:Wolfherus (Wolfher von Hildesheim) | Wolfherus (Wolfher von Hildesheim)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Leudegardi | Vita s. Leudegardi]]&lt;/td&gt;&lt;td&gt;9957&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ursinus von Ligugé | Ursinus von Ligugé]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Otmari | Vita s. Otmari]]&lt;/td&gt;&lt;td&gt;9956&lt;/td&gt;&lt;td&gt;([[:Kategorie:Walafridus Strabo (Walahfrid) | Walafridus Strabo (Walahfrid)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita sancti Willibrordi Traiectensis episcopi | Vita sancti Willibrordi Traiectensis episcopi]]&lt;/td&gt;&lt;td&gt;9953&lt;/td&gt;&lt;td&gt;([[:Kategorie:Alcuinus abbas S. Martini Turonensis (Alkuin von Tours) | Alcuinus abbas S. Martini Turonensis (Alkuin von Tours)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Galli | Vita s. Galli]]&lt;/td&gt;&lt;td&gt;9952&lt;/td&gt;&lt;td&gt;([[:Kategorie:Wettinus monachus Augiensis (Wetti von der Reichenau) | Wettinus monachus Augiensis (Wetti von der Reichenau)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Bonifatii | Vita s. Bonifatii]]&lt;/td&gt;&lt;td&gt;9946&lt;/td&gt;&lt;td&gt;([[:Kategorie:Willibaldus presbyter Moguntinus (Willibald von Mainz) | Willibaldus presbyter Moguntinus (Willibald von Mainz)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Idae | Vita s. Idae]]&lt;/td&gt;&lt;td&gt;9938&lt;/td&gt;&lt;td&gt;([[:Kategorie:Uffingus (Uffing von Werden) | Uffingus (Uffing von Werden)]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita sanctae Chrothildis | Vita sanctae Chrothildis]]&lt;/td&gt;&lt;td&gt;9937&lt;/td&gt;&lt;td&gt;([[:Kategorie:Adso von Montiér-en-Der | Adso von Montiér-en-Der]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita sancti Arnulfi | Vita sancti Arnulfi]]&lt;/td&gt;&lt;td&gt;9932&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vitae sanctorum Columbani | Vitae sanctorum Columbani]]&lt;/td&gt;&lt;td&gt;9943&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ionas | Ionas]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita S. Rimberti archiepiscopi Hammaburgensis | Vita S. Rimberti archiepiscopi Hammaburgensis]]&lt;/td&gt;&lt;td&gt;9941&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Radegundis | Vita s. Radegundis]]&lt;/td&gt;&lt;td&gt;9934&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita sancti Chlodovaldi | Vita sancti Chlodovaldi]]&lt;/td&gt;&lt;td&gt;9933&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita s. Geretrudis | Vita s. Geretrudis]]&lt;/td&gt;&lt;td&gt;9931&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita sanctae Balthildis | Vita sanctae Balthildis]]&lt;/td&gt;&lt;td&gt;9930&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Dagoberti III. regis Francorum | Vita Dagoberti III. regis Francorum]]&lt;/td&gt;&lt;td&gt;9929&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Karoli Magni | Vita Karoli Magni]]&lt;/td&gt;&lt;td&gt;0006&lt;/td&gt;&lt;td&gt;([[:Kategorie:Einhard | Einhard]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Hludovici Pii imperatoris | Vita Hludovici Pii imperatoris]]&lt;/td&gt;&lt;td&gt;0011&lt;/td&gt;&lt;td&gt;([[:Kategorie:sog. Astronomus | sog. Astronomus]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Versus ad pueros | Versus ad pueros]]&lt;/td&gt;&lt;td&gt;0025&lt;/td&gt;&lt;td&gt;([[:Kategorie:Ermoldus Nigellus | Ermoldus Nigellus]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita des Johannes von Gorze | Vita des Johannes von Gorze]]&lt;/td&gt;&lt;td&gt;0059&lt;/td&gt;&lt;td&gt;([[:Kategorie:Johannes von St. Arnulf in Metz | Johannes von St. Arnulf in Metz]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Symeonis Achivi | Vita Symeonis Achivi]]&lt;/td&gt;&lt;td&gt;0060&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Sancti Udalrici | Vita Sancti Udalrici]]&lt;/td&gt;&lt;td&gt;0062&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita sancti Maioli | Vita sancti Maioli]]&lt;/td&gt;&lt;td&gt;0063&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Sancti Maioli | Vita Sancti Maioli]]&lt;/td&gt;&lt;td&gt;0064&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita Sancti Willibaldi | Vita Sancti Willibaldi]]&lt;/td&gt;&lt;td&gt;0065&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;[[Vita S. Maioli | Vita S. Maioli]]&lt;/td&gt;&lt;td&gt;0066&lt;/td&gt;&lt;td&gt;([[:Kategorie:Unbekannte oder mehrere Verfasser | Unbekannte oder mehrere Verfasser]])&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</text>
+         <text>
+                    {| class="wikitable sortable"
+                    |-
+                    ! Verfasser
+                    ! Werk
+                    ! Sarazenen
+                    ! Nummer
+                    
+                        |-                         
+                        | [[:Kategorie: Thietmar von Merseburg | Thietmar von Merseburg]]
+                            
+                            | [[Chronicon sive Gesta Saxonum | Chronicon sive Gesta Saxonum]]
+                            
+                            | ja
+                            
+                            | 0001
+                        |-                         
+                        | [[:Kategorie: Hugo von Farfa | Hugo von Farfa]]
+                            
+                            | [[Destructio monasterii Farfensis | Destructio monasterii Farfensis]]
+                            
+                            | ja
+                            
+                            | 0002
+                        |-                         
+                        | [[:Kategorie: Liudprand von Cremona | Liudprand von Cremona]]
+                            
+                            | [[Antapodosis | Antapodosis]]
+                            
+                            | ja
+                            
+                            | 0003
+                        |-                         
+                        | [[:Kategorie: Widukind von Corvey | Widukind von Corvey]]
+                            
+                            | [[Rerum gestarum Saxonicarum libri tres | Rerum gestarum Saxonicarum libri tres]]
+                            
+                            | ja
+                            
+                            | 0004
+                        |-                         
+                        | [[:Kategorie: Ekkehard IV. von St. Gallen | Ekkehard IV. von St. Gallen]]
+                            
+                            | [[Casuum S. Galli continuatio | Casuum S. Galli continuatio]]
+                            
+                            | ja
+                            
+                            | 0005
+                        |-                         
+                        | [[:Kategorie: Einhard | Einhard]]
+                            
+                            | [[Vita Karoli Magni | Vita Karoli Magni]]
+                            
+                            | ja
+                            
+                            | 0006
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Fuldenses | Annales Fuldenses]]
+                            
+                            | ja
+                            
+                            | 0007
+                        |-                         
+                        | [[:Kategorie: Regino von Prüm | Regino von Prüm]]
+                            
+                            | [[Chronicon cum Continuatione Treverensi | Chronicon cum Continuatione Treverensi]]
+                            
+                            | ja
+                            
+                            | 0008
+                        |-                         
+                        | [[:Kategorie: Rodulf der Kahle | Rodulf der Kahle]]
+                            
+                            | [[Historiarum libri quinque | Historiarum libri quinque]]
+                            
+                            | ja
+                            
+                            | 0009
+                        |-                         
+                        | [[:Kategorie:unbekannt | unbekannt]]; [[:Kategorie:Prudentius von Troyes | Prudentius von Troyes]]; [[:Kategorie:Hinkmar von Reims | Hinkmar von Reims]]
+                            
+                            | [[Annales Bertiniani | Annales Bertiniani]]
+                            
+                            | ja
+                            
+                            | 0010
+                        |-                         
+                        | [[:Kategorie: sog. Astronomus | sog. Astronomus]]
+                            
+                            | [[Vita Hludovici Pii imperatoris | Vita Hludovici Pii imperatoris]]
+                            
+                            | ja
+                            
+                            | 0011
+                        |-                         
+                        | [[:Kategorie: Notker der Stammler | Notker der Stammler]]
+                            
+                            | [[Gesta Karoli | Gesta Karoli]]
+                            
+                            | ja
+                            
+                            | 0012
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Hildesheimenses | Annales Hildesheimenses]]
+                            
+                            | ja
+                            
+                            | 0013
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales regni Francorum | Annales regni Francorum]]
+                            
+                            | ja
+                            
+                            | 0014
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Altahenses | Annales Altahenses]]
+                            
+                            | ja
+                            
+                            | 0016
+                        |-                         
+                        | [[:Kategorie: Lampert von Hersfeld | Lampert von Hersfeld]]
+                            
+                            | [[Lamperti Hersfeldensis Annales | Lamperti Hersfeldensis Annales]]
+                            
+                            | ja
+                            
+                            | 0017
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales qui dicuntur Einhardi | Annales qui dicuntur Einhardi]]
+                            
+                            | ja
+                            
+                            | 0018
+                        |-                         
+                        | [[:Kategorie: Thegan | Thegan]]
+                            
+                            | [[Gesta Hludovici imperatoris | Gesta Hludovici imperatoris]]
+                            
+                            | ja
+                            
+                            | 0019
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales qui dicuntur Xantenses | Annales qui dicuntur Xantenses]]
+                            
+                            | ja
+                            
+                            | 0020
+                        |-                         
+                        | [[:Kategorie: Bernold von Konstanz | Bernold von Konstanz]]
+                            
+                            | [[Bernoldi Chronicon | Bernoldi Chronicon]]
+                            
+                            | ja
+                            
+                            | 0021
+                        |-                         
+                        | [[:Kategorie: Ermoldus Nigellus | Ermoldus Nigellus]]
+                            
+                            | [[Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti | Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti]]
+                            
+                            | ja
+                            
+                            | 0022
+                        |-                         
+                        | [[:Kategorie: Paulus Diaconus | Paulus Diaconus]]
+                            
+                            | [[Historia Langobardorum | Historia Langobardorum]]
+                            
+                            | ja
+                            
+                            | 0023
+                        |-                         
+                        | [[:Kategorie: Hermann von Reichenau | Hermann von Reichenau]]
+                            
+                            | [[Chronicon de sex aetatibus mundi | Chronicon de sex aetatibus mundi]]
+                            
+                            | ja
+                            
+                            | 0024
+                        |-                         
+                        | [[:Kategorie: Ermoldus Nigellus | Ermoldus Nigellus]]
+                            
+                            | [[Versus ad pueros | Versus ad pueros]]
+                            
+                            | ja
+                            
+                            | 0025
+                        |-                         
+                        | [[:Kategorie: Liudprand von Cremona | Liudprand von Cremona]]
+                            
+                            | [[Historia Ottonis | Historia Ottonis]]
+                            
+                            | ja
+                            
+                            | 0026
+                        |-                         
+                        | [[:Kategorie: Liudprand von Cremona | Liudprand von Cremona]]
+                            
+                            | [[Relatio de legatione Constantinopolitana | Relatio de legatione Constantinopolitana]]
+                            
+                            | ja
+                            
+                            | 0027
+                        |-                         
+                        | [[:Kategorie: Adam von Bremen | Adam von Bremen]]
+                            
+                            | [[Gesta Hammaburgensis ecclesiae pontificum | Gesta Hammaburgensis ecclesiae pontificum]]
+                            
+                            | ja
+                            
+                            | 0028
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Quedlinburgenses | Annales Quedlinburgenses]]
+                            
+                            | ja
+                            
+                            | 0031
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[sog. Fredegar-Chronik mit Fortsetzung | sog. Fredegar-Chronik mit Fortsetzung]]
+                            
+                            | ja
+                            
+                            | 0032
+                        |-                         
+                        | [[:Kategorie:Richbod von Lorsch | Richbod von Lorsch]]; [[:Kategorie:unbekannt | unbekannt]]
+                            
+                            | [[Annales Laureshamenses | Annales Laureshamenses]]
+                            
+                            | ja
+                            
+                            | 0033
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales S. Amandi | Annales S. Amandi]]
+                            
+                            | ja
+                            
+                            | 0034
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Tiliani | Annales Tiliani]]
+                            
+                            | ja
+                            
+                            | 0035
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Alamannici | Annales Alamannici]]
+                            
+                            | ja
+                            
+                            | 0036
+                        |-                         
+                        | [[:Kategorie: Hrotsvit von Gandersheim | Hrotsvit von Gandersheim]]
+                            
+                            | [[Passio Sancti Pelagii | Passio Sancti Pelagii]]
+                            
+                            | ja
+                            
+                            | 0037
+                        |-                         
+                        | [[:Kategorie: Nithard | Nithard]]
+                            
+                            | [[Historiarum libri quattuor | Historiarum libri quattuor]]
+                            
+                            | ja
+                            
+                            | 0038
+                        |-                         
+                        | [[:Kategorie: Berthold von Reichenau | Berthold von Reichenau]]
+                            
+                            | [[Bertholdi Chronicon | Bertholdi Chronicon]]
+                            
+                            | ja
+                            
+                            | 0039
+                        |-                         
+                        | [[:Kategorie:Hilduin von St. Denis | Hilduin von St. Denis]]; [[:Kategorie:Hinkmar von Reims | Hinkmar von Reims]]
+                            
+                            | [[Gesta Dagoberti I. regis Francorum | Gesta Dagoberti I. regis Francorum]]
+                            
+                            | ja
+                            
+                            | 0040
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Sangallenses maiores | Annales Sangallenses maiores]]
+                            
+                            | ja
+                            
+                            | 0041
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Gesta sanctorum patrum Fontanellensis coenobii | Gesta sanctorum patrum Fontanellensis coenobii]]
+                            
+                            | ja
+                            
+                            | 0042
+                        |-                         
+                        | [[:Kategorie: Aimoin von Saint-Germain-des-Prés | Aimoin von Saint-Germain-des-Prés]]
+                            
+                            | [[De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios | De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios]]
+                            
+                            | ja
+                            
+                            | 0043
+                        |-                         
+                        | [[:Kategorie:Ado von Vienne | Ado von Vienne]]; [[:Kategorie:unbekannt | unbekannt]]
+                            
+                            | [[Chronicon in aetates sex divisum | Chronicon in aetates sex divisum]]
+                            
+                            | ja
+                            
+                            | 0044
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Lobienses | Annales Lobienses]]
+                            
+                            | ja
+                            
+                            | 0045
+                        |-                         
+                        | [[:Kategorie: Paulus Diaconus | Paulus Diaconus]]
+                            
+                            | [[Gesta episcoporum Mettensium | Gesta episcoporum Mettensium]]
+                            
+                            | ja
+                            
+                            | 0046
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Besuenses | Annales Besuenses]]
+                            
+                            | ja
+                            
+                            | 0047
+                        |-                         
+                        | [[:Kategorie: Beda Venerabilis | Beda Venerabilis]]
+                            
+                            | [[De temporum ratione liber | De temporum ratione liber]]
+                            
+                            | ja
+                            
+                            | 0049
+                        |-                         
+                        | [[:Kategorie: Andreas von Bergamo | Andreas von Bergamo]]
+                            
+                            | [[Adbreviatio de gestis Langobardorum | Adbreviatio de gestis Langobardorum]]
+                            
+                            | ja
+                            
+                            | 0050
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Barenses | Annales Barenses]]
+                            
+                            | ja
+                            
+                            | 0051
+                        |-                         
+                        | [[:Kategorie: Isidor von Sevilla | Isidor von Sevilla]]
+                            
+                            | [[Historia Gothorum Wandalorum Sueborum | Historia Gothorum Wandalorum Sueborum]]
+                            
+                            | ja
+                            
+                            | 0052
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Cronicae Sancti Benedicti Casinensis | Cronicae Sancti Benedicti Casinensis]]
+                            
+                            | ja
+                            
+                            | 0053
+                        |-                         
+                        | [[:Kategorie: Erchembert | Erchembert]]
+                            
+                            | [[Historia Langobardorum Beneventanorum | Historia Langobardorum Beneventanorum]]
+                            
+                            | ja
+                            
+                            | 0055
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Chronica Byzantina-Arabica | Chronica Byzantina-Arabica]]
+                            
+                            | ja
+                            
+                            | 0056
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Petaviani | Annales Petaviani]]
+                            
+                            | ja
+                            
+                            | 0057
+                        |-                         
+                        | [[:Kategorie: Flodoard von Reims | Flodoard von Reims]]
+                            
+                            | [[Annales Flodoardi | Annales Flodoardi]]
+                            
+                            | ja
+                            
+                            | 0058
+                        |-                         
+                        | [[:Kategorie: Johannes von St. Arnulf in Metz | Johannes von St. Arnulf in Metz]]
+                            
+                            | [[Vita des Johannes von Gorze | Vita des Johannes von Gorze]]
+                            
+                            | ja
+                            
+                            | 0059
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita Symeonis Achivi | Vita Symeonis Achivi]]
+                            
+                            | ja
+                            
+                            | 0060
+                        |-                         
+                        | [[:Kategorie: Isidor von Sevilla | Isidor von Sevilla]]
+                            
+                            | [[Etymologiae | Etymologiae]]
+                            
+                            | ja
+                            
+                            | 0061
+                        |-                         
+                        | [[:Kategorie: Gerhard von Augsburg | Gerhard von Augsburg]]
+                            
+                            | [[Vita Sancti Udalrici | Vita Sancti Udalrici]]
+                            
+                            | ja
+                            
+                            | 0062
+                        |-                         
+                        | [[:Kategorie: Odilo von Cluny | Odilo von Cluny]]
+                            
+                            | [[Vita sancti Maioli | Vita sancti Maioli]]
+                            
+                            | ja
+                            
+                            | 0063
+                        |-                         
+                        | [[:Kategorie: Syrus von Cluny | Syrus von Cluny]]
+                            
+                            | [[Vita Sancti Maioli | Vita Sancti Maioli]]
+                            
+                            | ja
+                            
+                            | 0064
+                        |-                         
+                        | [[:Kategorie: Hugeburg von Heidenheim | Hugeburg von Heidenheim]]
+                            
+                            | [[Vita Sancti Willibaldi | Vita Sancti Willibaldi]]
+                            
+                            | ja
+                            
+                            | 0065
+                        |-                         
+                        | [[:Kategorie: Nagold | Nagold]]
+                            
+                            | [[Vita S. Maioli | Vita S. Maioli]]
+                            
+                            | ja
+                            
+                            | 0066
+                        |-                         
+                        | [[:Kategorie: Flodoard von Reims | Flodoard von Reims]]
+                            
+                            | [[Historia Remensis ecclesiae | Historia Remensis ecclesiae]]
+                            
+                            | ja
+                            
+                            | 0068
+                        |-                         
+                        | [[:Kategorie: Marianus Scottus | Marianus Scottus]]
+                            
+                            | [[Mariani Scotti Chronicon | Mariani Scotti Chronicon]]
+                            
+                            | ja
+                            
+                            | 0069
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Fuldense antiquissimi | Annales Fuldense antiquissimi]]
+                            
+                            | nein
+                            
+                            | 9999
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Vedastini | Annales Vedastini]]
+                            
+                            | nein
+                            
+                            | 9998
+                        |-                         
+                        | [[:Kategorie: Ermoldus Nigellus | Ermoldus Nigellus]]
+                            
+                            | [[Carmina duo in honorem gloriosissimi Pippini regis | Carmina duo in honorem gloriosissimi Pippini regis]]
+                            
+                            | nein
+                            
+                            | 9997
+                        |-                         
+                        | [[:Kategorie: Odilo von Cluny | Odilo von Cluny]]
+                            
+                            | [[Epitaphium Adelheidae Imperatricis | Epitaphium Adelheidae Imperatricis]]
+                            
+                            | nein
+                            
+                            | 9996
+                        |-                         
+                        | [[:Kategorie: Ansgar von Bremen | Ansgar von Bremen]]
+                            
+                            | [[Miracula s. Willehadi | Miracula s. Willehadi]]
+                            
+                            | nein
+                            
+                            | 9995
+                        |-                         
+                        | [[:Kategorie: Hrotsvit von Gandersheim | Hrotsvit von Gandersheim]]
+                            
+                            | [[Primordia coenobii Gandersheimensis | Primordia coenobii Gandersheimensis]]
+                            
+                            | nein
+                            
+                            | 9994
+                        |-                         
+                        | [[:Kategorie: Bruno von Merseburg | Bruno von Merseburg]]
+                            
+                            | [[Saxonicum bellum | Saxonicum bellum]]
+                            
+                            | nein
+                            
+                            | 9993
+                        |-                         
+                        | [[:Kategorie:Rudolf von Fulda | Rudolf von Fulda]]; [[:Kategorie:Meginhard von Fulda | Meginhard von Fulda]]
+                            
+                            | [[Translatio s. Alexandri | Translatio s. Alexandri]]
+                            
+                            | nein
+                            
+                            | 9992
+                        |-                         
+                        | [[:Kategorie: Erchanrad von Le Mans | Erchanrad von Le Mans]]
+                            
+                            | [[Translatio s. Liborii | Translatio s. Liborii]]
+                            
+                            | nein
+                            
+                            | 9991
+                        |-                         
+                        | [[:Kategorie: Rimbert von Hambrug-Bremen | Rimbert von Hambrug-Bremen]]
+                            
+                            | [[Vita Anskarii | Vita Anskarii]]
+                            
+                            | nein
+                            
+                            | 9990
+                        |-                         
+                        | [[:Kategorie: Thangmar von Hildesheim | Thangmar von Hildesheim]]
+                            
+                            | [[Vita Bernwardi episcopi Hildesheimensis | Vita Bernwardi episcopi Hildesheimensis]]
+                            
+                            | nein
+                            
+                            | 9989
+                        |-                         
+                        | [[:Kategorie: Ruotger | Ruotger]]
+                            
+                            | [[Vita Brunonis archiepiscopi Coloniensis | Vita Brunonis archiepiscopi Coloniensis]]
+                            
+                            | nein
+                            
+                            | 9988
+                        |-                         
+                        | [[:Kategorie: Agius, Bruder der Äbtissin Hathumod | Agius, Bruder der Äbtissin Hathumod]]
+                            
+                            | [[Vita et obitus Hathumodae primae abbatissae Gandersheimensis | Vita et obitus Hathumodae primae abbatissae Gandersheimensis]]
+                            
+                            | nein
+                            
+                            | 9987
+                        |-                         
+                        | [[:Kategorie: Liudger von Münster | Liudger von Münster]]
+                            
+                            | [[Vita Gregorii abbatis Traiectensis | Vita Gregorii abbatis Traiectensis]]
+                            
+                            | nein
+                            
+                            | 9986
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Brunwilarenses | Annales Brunwilarenses]]
+                            
+                            | nein
+                            
+                            | 9985
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Floriacenses | Annales Floriacenses]]
+                            
+                            | nein
+                            
+                            | 9984
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Lemovicenses | Annales Lemovicenses]]
+                            
+                            | nein
+                            
+                            | 9983
+                        |-                         
+                        | [[:Kategorie: Alkuin von Tours | Alkuin von Tours]]
+                            
+                            | [[Annales qui dicuntur Alcuini | Annales qui dicuntur Alcuini]]
+                            
+                            | nein
+                            
+                            | 9982
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales S. Amandi breves | Annales S. Amandi breves]]
+                            
+                            | nein
+                            
+                            | 9981
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales S. Bavonis Gandensis | Annales S. Bavonis Gandensis]]
+                            
+                            | nein
+                            
+                            | 9980
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales S. Maximini Trevirensis | Annales S. Maximini Trevirensis]]
+                            
+                            | nein
+                            
+                            | 9979
+                        |-                         
+                        | [[:Kategorie: Abbo von Saint-Germain | Abbo von Saint-Germain]]
+                            
+                            | [[Bella Parisicae urbis | Bella Parisicae urbis]]
+                            
+                            | nein
+                            
+                            | 9978
+                        |-                         
+                        | [[:Kategorie:Erchanbert | Erchanbert]]; [[:Kategorie:Notker der Stammler | Notker der Stammler]]
+                            
+                            | [[Breviarium regum Francorum | Breviarium regum Francorum]]
+                            
+                            | nein
+                            
+                            | 9977
+                        |-                         
+                        | [[:Kategorie: Hrotsvit von Gandersheim | Hrotsvit von Gandersheim]]
+                            
+                            | [[Carmen de gestis Oddonis I imperatoris | Carmen de gestis Oddonis I imperatoris]]
+                            
+                            | nein
+                            
+                            | 9976
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Carmen de Carolo Magno | Carmen de Carolo Magno]]
+                            
+                            | nein
+                            
+                            | 9975
+                        |-                         
+                        | [[:Kategorie: Ratpert von St. Gallen | Ratpert von St. Gallen]]
+                            
+                            | [[Casus S. Galli | Casus S. Galli]]
+                            
+                            | nein
+                            
+                            | 9974
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Casuum S. Galli continuatio secunda | Casuum S. Galli continuatio secunda]]
+                            
+                            | nein
+                            
+                            | 9973
+                        |-                         
+                        | [[:Kategorie: Konrad von Pfäfers | Konrad von Pfäfers]]
+                            
+                            | [[Casuum S. Galli continuatio tertia | Casuum S. Galli continuatio tertia]]
+                            
+                            | nein
+                            
+                            | 9972
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Liber historiae Francorum | Liber historiae Francorum]]
+                            
+                            | nein
+                            
+                            | 9970
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Historia Daretis Frigii de origine Francorum | Historia Daretis Frigii de origine Francorum]]
+                            
+                            | nein
+                            
+                            | 9969
+                        |-                         
+                        | [[:Kategorie: Rudolf | Rudolf]]
+                            
+                            | [[Vita Leobae | Vita Leobae]]
+                            
+                            | nein
+                            
+                            | 9968
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita Mathildis reginae | Vita Mathildis reginae]]
+                            
+                            | nein
+                            
+                            | 9967
+                        |-                         
+                        | [[:Kategorie: Ratpert von Corbie | Ratpert von Corbie]]
+                            
+                            | [[Vita s. Adalhardi abbatis Corbeiensis | Vita s. Adalhardi abbatis Corbeiensis]]
+                            
+                            | nein
+                            
+                            | 9966
+                        |-                         
+                        | [[:Kategorie:Bf. Lisiard von Soissons | Bf. Lisiard von Soissons]]; [[:Kategorie:Abt Hairulf von Oudenbourg | Abt Hairulf von Oudenbourg]]
+                            
+                            | [[Vita s. Arnulfi Suessionensis | Vita s. Arnulfi Suessionensis]]
+                            
+                            | nein
+                            
+                            | 9965
+                        |-                         
+                        | [[:Kategorie: Norbert von Iburg | Norbert von Iburg]]
+                            
+                            | [[Vita s. Bennonis II episcopi Osnabrugensis | Vita s. Bennonis II episcopi Osnabrugensis]]
+                            
+                            | nein
+                            
+                            | 9964
+                        |-                         
+                        | [[:Kategorie: Bruun | Bruun]]
+                            
+                            | [[Vita s. Eigilis abbatis Fuldensis | Vita s. Eigilis abbatis Fuldensis]]
+                            
+                            | nein
+                            
+                            | 9963
+                        |-                         
+                        | [[:Kategorie: Rainald von Vézelay | Rainald von Vézelay]]
+                            
+                            | [[Vita s. Hugonis abbatis | Vita s. Hugonis abbatis]]
+                            
+                            | nein
+                            
+                            | 9962
+                        |-                         
+                        | [[:Kategorie: Hucbald von St. Armand | Hucbald von St. Armand]]
+                            
+                            | [[Vita s. Lebuini | Vita s. Lebuini]]
+                            
+                            | nein
+                            
+                            | 9961
+                        |-                         
+                        | [[:Kategorie: Altfried von Münster | Altfried von Münster]]
+                            
+                            | [[Vita s. Liudgeri episcopi Mimigardenfordensis | Vita s. Liudgeri episcopi Mimigardenfordensis]]
+                            
+                            | nein
+                            
+                            | 9960
+                        |-                         
+                        | [[:Kategorie: Eigil von Fulda | Eigil von Fulda]]
+                            
+                            | [[Vita s. Sturmi abbatis Fuldensis | Vita s. Sturmi abbatis Fuldensis]]
+                            
+                            | nein
+                            
+                            | 9959
+                        |-                         
+                        | [[:Kategorie: Wolfher von Hildesheim | Wolfher von Hildesheim]]
+                            
+                            | [[Vita s. Godehardi | Vita s. Godehardi]]
+                            
+                            | nein
+                            
+                            | 9958
+                        |-                         
+                        | [[:Kategorie: Ursinus von Ligugé | Ursinus von Ligugé]]
+                            
+                            | [[Vita s. Leudegardi | Vita s. Leudegardi]]
+                            
+                            | nein
+                            
+                            | 9957
+                        |-                         
+                        | [[:Kategorie: Walahfrid | Walahfrid]]
+                            
+                            | [[Vita s. Otmari | Vita s. Otmari]]
+                            
+                            | nein
+                            
+                            | 9956
+                        |-                         
+                        | [[:Kategorie: Iso von St. Gallen | Iso von St. Gallen]]
+                            
+                            | [[Relatio de miraculis sancti Othmari | Relatio de miraculis sancti Othmari]]
+                            
+                            | nein
+                            
+                            | 9955
+                        |-                         
+                        | [[:Kategorie: Ekkehard IV. von St. Gallen | Ekkehard IV. von St. Gallen]]
+                            
+                            | [[Rhythmi de sancto Otmaro | Rhythmi de sancto Otmaro]]
+                            
+                            | nein
+                            
+                            | 9954
+                        |-                         
+                        | [[:Kategorie: Alkuin von Tours | Alkuin von Tours]]
+                            
+                            | [[Vita sancti Willibrordi Traiectensis episcopi | Vita sancti Willibrordi Traiectensis episcopi]]
+                            
+                            | nein
+                            
+                            | 9953
+                        |-                         
+                        | [[:Kategorie: Wetti von der Reichenau | Wetti von der Reichenau]]
+                            
+                            | [[Vita s. Galli | Vita s. Galli]]
+                            
+                            | nein
+                            
+                            | 9952
+                        |-                         
+                        | [[:Kategorie: Ermenrich von Ellwangen | Ermenrich von Ellwangen]]
+                            
+                            | [[Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris | Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris]]
+                            
+                            | nein
+                            
+                            | 9951
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Chronica de sex aetatibus mundi | Chronica de sex aetatibus mundi]]
+                            
+                            | nein
+                            
+                            | 9950
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Abbatum s. Galli catalogus | Abbatum s. Galli catalogus]]
+                            
+                            | nein
+                            
+                            | 9949
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Abbates monasterii Augensis catalogus | Abbates monasterii Augensis catalogus]]
+                            
+                            | nein
+                            
+                            | 9948
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Episcoporum Constantiensium catalogus | Episcoporum Constantiensium catalogus]]
+                            
+                            | nein
+                            
+                            | 9947
+                        |-                         
+                        | [[:Kategorie: Willibald von Mainz | Willibald von Mainz]]
+                            
+                            | [[Vita s. Bonifatii | Vita s. Bonifatii]]
+                            
+                            | nein
+                            
+                            | 9946
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Chronicon Aquitanicum | Chronicon Aquitanicum]]
+                            
+                            | nein
+                            
+                            | 9945
+                        |-                         
+                        | [[:Kategorie: Uffing von Werden | Uffing von Werden]]
+                            
+                            | [[Vita s. Idae | Vita s. Idae]]
+                            
+                            | nein
+                            
+                            | 9938
+                        |-                         
+                        | [[:Kategorie: Adso von Montiér-en-Der | Adso von Montiér-en-Der]]
+                            
+                            | [[Vita sanctae Chrothildis | Vita sanctae Chrothildis]]
+                            
+                            | nein
+                            
+                            | 9937
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita sancti Arnulfi | Vita sancti Arnulfi]]
+                            
+                            | nein
+                            
+                            | 9932
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Genealogia regum Francorum | Genealogia regum Francorum]]
+                            
+                            | nein
+                            
+                            | 9971
+                        |-                         
+                        | [[:Kategorie: Ionas | Ionas]]
+                            
+                            | [[Vitae sanctorum Columbani | Vitae sanctorum Columbani]]
+                            
+                            | nein
+                            
+                            | 9943
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Chronicon sancti Martini Coloniensis | Chronicon sancti Martini Coloniensis]]
+                            
+                            | nein
+                            
+                            | 9944
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales breves Fuldenses | Annales breves Fuldenses]]
+                            
+                            | nein
+                            
+                            | 9942
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita S. Rimberti archiepiscopi Hammaburgensis | Vita S. Rimberti archiepiscopi Hammaburgensis]]
+                            
+                            | nein
+                            
+                            | 9941
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Translatio s. Pusinnae | Translatio s. Pusinnae]]
+                            
+                            | nein
+                            
+                            | 9940
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Historia translationis s. Viti | Historia translationis s. Viti]]
+                            
+                            | nein
+                            
+                            | 9939
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Passio sancti Sigismundi regis | Passio sancti Sigismundi regis]]
+                            
+                            | nein
+                            
+                            | 9936
+                        |-                         
+                        | [[:Kategorie: Aimoin von Fleury | Aimoin von Fleury]]
+                            
+                            | [[Gesta Theoderici regis. Vita ex Aimoino hausta | Gesta Theoderici regis. Vita ex Aimoino hausta]]
+                            
+                            | nein
+                            
+                            | 9935
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita s. Radegundis | Vita s. Radegundis]]
+                            
+                            | nein
+                            
+                            | 9934
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita sancti Chlodovaldi | Vita sancti Chlodovaldi]]
+                            
+                            | nein
+                            
+                            | 9933
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita s. Geretrudis | Vita s. Geretrudis]]
+                            
+                            | nein
+                            
+                            | 9931
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita sanctae Balthildis | Vita sanctae Balthildis]]
+                            
+                            | nein
+                            
+                            | 9930
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita Dagoberti III. regis Francorum | Vita Dagoberti III. regis Francorum]]
+                            
+                            | nein
+                            
+                            | 9929
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales S. Albani Moguntini | Annales S. Albani Moguntini]]
+                            
+                            | nein
+                            
+                            | 9928
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Gesta Theoderici regis. Vita Fuldensis | Gesta Theoderici regis. Vita Fuldensis]]
+                            
+                            | nein
+                            
+                            | 9927
+                        |-                         
+                        | [[:Kategorie: Aimoin von Fleury | Aimoin von Fleury]]
+                            
+                            | [[Historiae Francorum libri quatuor | Historiae Francorum libri quatuor]]
+                            
+                            | ja
+                            
+                            | 0072
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Chronicon Novaliciense | Chronicon Novaliciense]]
+                            
+                            | ja
+                            
+                            | 0030
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Chronicon Moissiacense | Chronicon Moissiacense]]
+                            
+                            | ja
+                            
+                            | 0048
+                        |-                         
+                        | [[:Kategorie: Richer von Saint-Remi | Richer von Saint-Remi]]
+                            
+                            | [[Historiarum libri IV | Historiarum libri IV]]
+                            
+                            | ja
+                            
+                            | 0029
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Chronica Muzarabica | Chronica Muzarabica]]
+                            
+                            | ja
+                            
+                            | 0054
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita Gregorii abbatis prior | Vita Gregorii abbatis prior]]
+                            
+                            | ja
+                            
+                            | 0070
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Vita Gregorii abbatis porcetensis posterior | Vita Gregorii abbatis porcetensis posterior]]
+                            
+                            | ja
+                            
+                            | 0071
+                        |-                         
+                        | [[:Kategorie: unbekannt | unbekannt]]
+                            
+                            | [[Annales Mettenses priores | Annales Mettenses priores]]
+                            
+                            | ja
+                            
+                            | 0073
+                  |}
+                </text>
          <sha1/>
       </revision>
    </page>

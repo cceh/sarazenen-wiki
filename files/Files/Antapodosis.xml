@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0003</WerkId>
+  <WerkTitel>Antapodosis</WerkTitel>
+  <Alternativtitel>
+    <Titel>Liber Antapodoseos</Titel>
+    <Titel>Liber retributionis</Titel>
+    <Titel>Buch der Vergeltung</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Liudprand von Cremona</Autor>
+    <Autor>Liutprand von Cremona</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>um 920-972</LebensdatenVerfasser>
+  <Abfassungszeitraum>958-962</Abfassungszeitraum>
+  <Abfassungsort>Frankfurt; Paxoi</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Liudprand von Cremona, Antapodosis, in: Die Werke Liudprands von Cremona, ed. Joseph Becker (MGH SS. rer. Germ. [41]), Hannover – Leipzig ³1915, S. 1-158.</Editionshinweise>
+  <Werkinformation>Die Antapodosis (Liber antapodoseos) wurde von Liudprand von Cremona (geb. ca. 920, gest. 970/972) zwischen 958 und 962 unter dem Titel Liber retributionis als Chronik über die Taten der Herrscher ganz Europas verfasst. Angeregt durch ein Zusammentreffen mit Reccemund, Bischof von Elvira, an den das Buch gerichtet ist, berichtet Liudprand (seit 961 Bischof von Cremona) während seiner Zeit im Exil bei Otto I. in sechs Büchern über die Jahre 893 bis 931.
+Vgl. auch mit Hinweisen für weiterführende Literatur Liutprandus Cremonensis, Antapodosis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03302.html, 2016-08-01]. Zu Liudprand von Cremona vgl. Ernst Karpf, Art. Liutprand v. Cremona, in: Lexikon des Mittelalters 5, Sp. 2041-2042 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; Stephen Penn, Art. Liutprand of Cremona, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1034.</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Liudprand, Antapodosis I, 2-4, ed. Becker 1915, S. 5f.</Zitation>
+      <ZeitangabeQuelle>um 888</ZeitangabeQuelle>
+      <Inhaltsangabe>Aus Spanien kommende Sarazenen lassen sich um 888 [um 900] in der Stadt La Garde-Freinet in der Provence nieder, plündern die umliegende Gegend und bedrohen die Bewohner.</Inhaltsangabe>
+      <VolltextOriginalsprache>II. Cuius ut cunctis liquido pateat situs, quemadmodum temet latere minime reor, immo melius scire, sicut ab ipsis, qui vestri sunt tributarii regis, Abderahamen [Abd ar-Rahman III., Emir und Kalif von Cordoba] scilicet, potestis conicere, mari uno ex latere cingitur, ceteris densissima spinarum silva munitur. Quam si ingressus quispiam fuerit, ita sentium curvitate tenetur, acutissima rectitudine perforatur, ut neque progressionis neque reditus, nisi cum magno labore, habeat facultatem.
+III. Sed oculto et, quoniam secus esse non potest, iusto Dei iuditio XX tantum Saraceni lintre parvula ex Hispania [Spanien] egressi, nolentes istuc [Fraxinetum] vento delati sunt. Qui piratae noctu egressi villamque clam ingressi Christicolas, pro dolor, iugulant locumque sibi proprium vendicant montemque Maurum villulae cohaerentem contra vicinas gentes refugium parant; spineam silvam hoc pacto maiorem et spissiorem sua pro tuitione fatientes, ut, si quis ex ea vel ramum incideret, mucronis percussione hominem exiret; sicque factum est, ut omnis praeter unius angustissimae viae aditus demeretur. Loci igitur asperitate confisi vicinas gentes clam circumquaque perlustrant. Accersitum quam plures in Hispaniam nuntios dirigunt, locum laudant vicinasque gentes nichili se habere promittunt. Centum denique tantummodo secum mox Saracenos reducunt, qui veram rei huius caperent assertionem.
+IIII. Interea Provincialium, quae illis gens erat vicinior, invidia coepit inter sese dissidere, alius alium iugulare, substantiam rapere, et quicquid mali excogitari poterat facere. Sed quia pars partem, ut invidia et dolor postularant, satis sibi facere non poterant, hos quos praediximus Saracenos, non minus callidos quam perfidos, in auxilium rogat cumque his una proximum conterit. Nec iuvat solummodo proximum trucidare, verum terram fructiferam in solitudinem reddere. Sed videamus, quid iusta secundum quendam profuerit invidia, quam ita describens ait: ‘Iustius invidia nichil est, quae protinus ipsum/Auctorem rodit excruciatque animum.’ Quae cum decipere conatur, decipitur; dum extinguere molitur, extinguitur. Quid igitur? Saraceni cum suis hoc viribus minime possent, alteram alterius auxilio partis debellantes suasque copias ex Hispania semper augentes, quos primo defendere videbantur, modis omnibus insecuntur. Saeviunt itaque, exterminant, nil reliqui faciunt. Trepidare iam vicinae ceterae gentes, quoniam secundum prophetam horum unus persequebatur mille, et duo fugarunt decem milia. Et quare? ‘Quia Deus suus vendidit eos et Dominus conclusit illos.’</VolltextOriginalsprache>
+      <VolltextUebersetzung>2. Damit die Lage dieses Ortes (sie ist Dir, glaube ich, durchaus nicht unbekannt, vielmehr besser bekannt als mir, da Ihr sie von den Einwohnern selbst, die Deinem Könige Abderrahman [Abd ar-Rahman III., Emir und Kalif von Cordoba] Zins zahlen, erfahren könnt) jedermann anschaulich klar ist: er ist auf der einen Seite vom Meer umgeben, auf den anderen Seiten durch einen dichten Wald von Dorngestrüpp gesichert. Wer diesen betritt, wird dermaßen durch das Gewirr der Sträucher aufgehalten und von den scharfen Spitzen der Dornen durchbohrt, daß er nur mit großer Mühe vordringen oder umkehren kann.
+3. Nun geschah es durch den unerforschlichen und, weil es ja nicht anders sein kann, gerechten Ratschluß Gottes, daß zwanzig Sarazenen, nicht mehr, die in einem kleinen Fahrzeug Spanien verlassen hatten, wider ihren Willen vom Winde dorthin [La Garde-Freinet] verschlagen wurden. Diese Seeräuber stiegen dort nächtlicherweile ans Land, betraten unbemerkt den Flecken, ermordeten, o Jammer! die Christgläubigen, nahmen den Ort in Besitz und richteten den Berg Maurus daneben zu einer Zufluchtsstätte ein, um daselbst vor Nachbarvölkern sicher zu sein. Damit aber das Dorngebüsch zu ihrem Schutz noch höher und dichter werde, bedrohten sie einen jeden, der auch nur einen Zweig davon abhaue, mit dem Tode durch das Schwert. So verschwanden alle Zugänge bis auf einen einzigen sehr engen Pfad. Im Vertrauen auf die Unzugänglichkeit des Ortes durchstreiften sie nun heimlich die Umgegend. Um noch möglichst viele herbeizurufen, sandten sie Boten nach Spanien, rühmten ihnen den Ort und verhießen ihnen, daß sie ihre Nachbarvölker für nichts achten. Dann kamen die Boten mit nur hundert Sarazenen zurück, die die Richtigkeit bestätigen sollten.
+4. Inzwischen begannen die Provenzalen, das ihnen zunächst wohnende Volk, aus gegenseitigem Neid miteinander zu hadern, einander zu morden, zu berauben und auf alle erdenkliche Weise zu schaden. Da nun die eine Partei gegen die andere sich in ihrem Hasse und ihrer Rachsucht nicht Genüge zu tun vermochte, so rief sie die erwähnten, ebenso schlauen wie treulosen Sarazenen zu Hilfe und rieb im Verein mit diesen den Nachbarn auf. Man freute sich nicht nur, den Nachbarn umzubringen, sondern verwandelte auch sein fruchtbares Land in eine Wüste. Aber wir wollen sehen, was der Neid genutzt hat, der gerechte, wie ihn jemand nennt, der ihn folgendermaßen schildert: „Völlig gerecht ist der Neid, der unverzüglich des Neiders/eigenen Geist aufzehrt, nagend mit quälender Pein.“ Der Neid will überlisten und wird selbst überlistet; während er Vernichtung vorbereitet, geht er selbst zugrunde. Was geschah also? Was die Sarazenen mit eigener Kraft keineswegs vermocht hätten; indem sie mit Hilfe der einen Partei die andere besiegten und fortwährend neuen Zuwachs aus Spanien erhielten, setzten sie auf alle Weise denen zu, als deren Beschützer sie anfangs aufgetreten waren. Sie wüteten also, verdrängten das Volk, unterließen nichts. Schon zitterten auch die übrigen Völker in der Umgegend, denn einer von ihnen verfolgte nach den Worten des Propheten tausend, und zwei jagten zehntausend in die Flucht. Und warum? Weil ihr Gott sie verkaufte und der Herr sie einschloß.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis I, 2-4, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 251ff.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 900" From="895-01-01" To="905-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>Provence</Ort>
+        <Ort>La Garde-Freinet</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abderahamen</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Emir</Suchwort>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>piratus</Suchwort>
+        <Suchwort>Seeräuber</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die zeitliche Quellenangabe ist in dieser Textstelle nicht explizit genannt, sie wird aber aus dem Berichtszeitraum der Antapodosis [888-950] ersichtlich, vgl. hierzu Joseph Becker, Einleitung, in: MGH SS rer. Germ. [41], Hannover – Leipzig ³1915, S. XVII.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="236d7c34-0453-4686-ba78-f7954ae8d35c" Type="Anmerkung">
+          <Name>Abd ar-Rahman III., Emir und Kalif von Cordoba</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="71090c91-f756-4144-92af-07b510628aeb" Type="Anmerkung">
+          <Name>Fraxinetum</Name>
+        </Entitaet>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Liudprand, Antapodosis II, 43, ed. Becker 1915, S. 56f.</Zitation>
+      <ZeitangabeQuelle>unbekannt</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen, die sich in La Garde-Freinet niedergelassen haben, unternehmen [um 900] Raubzüge bis nach Acqui, einer Stadt in der Nähe von Pavia.</Inhaltsangabe>
+      <VolltextOriginalsprache>Sed et Saraceni, qui, sicut dixi [Bf. Liudprand von Cremona], Fraxenetum [La Garde-Freinet] inhabitabant, post labefactionem Provincialium quasdam summas Italiae partes sibi vicinas non mediocriter laniabant; adeo ut depopulates plurimis urbibus Aquas [Acqui] venirent, quae est civitas XL ferme miliariis Papia [Pavia] distans. (…) Tantus enim timor invaserat universos, ut nullus esset, qui horum praesentiam nisi forte tutissimis praestolaretur in locis.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Aber auch die Sarazenen, die, wie ich [Bf. Liudprand von Cremona] oben erzählt habe, in Freinet hausten, verübten, nachdem die Kraft der Provenzalen gebrochen war, nicht geringe Verheerung in einigen benachbarten Gegenden Oberitaliens, so daß sie sogar nach Ausplünderung vieler Städte bis nach Acqui kamen, einer Stadt, die etwa vierzig Meilen von Pavia entfernt ist. (…) Es hatte sich aber sämtlicher Bewohner des Landes ein so gewaltiger Schrecken bemächtigt, daß niemand war, der die Ankunft der Feinde anders als etwa in den festesten Orten erwartete.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis II, 43, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 329ff.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 900" From="895-01-01" To="905-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Acqui</Ort>
+        <Ort>Pavia</Ort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>La Garde-Freinet</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="189c2b30-7bd3-46ea-bf63-d77f8c75e1a6" Type="Person">
+          <Name>Bf. Liudprand von Cremona</Name>
+        </Entitaet>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+        <Entitaet Id="c6e3eaa2-d659-41e1-b1c6-07ddd49c9a86" Type="Ort">
+          <Name>Acqui</Name>
+        </Entitaet>
+        <Entitaet Id="d6f0652d-06e6-4da5-bf1b-e2865ff812b0" Type="Ort">
+          <Name>Pavia</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Liudprand, Antapodosis II, 44, ed. Becker 1915, S. 57.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Die aus Afrika stammenden Sarazenen überfallen und besetzen [um 900] viele italienische Städte, weshalb sie gefürchteter sind als die Sarazenen aus La Garde-Freinet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem tempore Saraceni ab Africa [Afrika] ratibus exeuntes Calabriam [Kalabrien], Appuliam [Apulien], Beneventum [Benevent], Romanorum etiam poene omnes civitates ita occupaverunt, ut unamquamque civitatem mediam Romani obtinerent, mediam Africani. In monte quippe Gareliano [Monte d’Argento] munitionem constituerant, in quo uxores, parvulos, captivos omnemque suppellectilem satis tuto servabant. […] Quamvis enim misera Italia multis Hungariorum et ex Fraxeneto [La Garde-Freinet] Saracenorum cladibus premeretur, nullis tamen furiis aut pestibus sicut ab Africanis agitabatur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Zu derselben Zeit waren Sarazenen zu Schiff aus Afrika ausgefahren und hatten Kalabrien, Apulien, Benevent, auch beinahe alle Städte der Römer dergestalt besetzt, daß jede Stadt zur Hälfte den Römern und zur Hälfte den Afrikanern gehörte. Auf dem Mons Garelianus [Monte d’Argento] hatten sie eine Festung erbaut, in der sie ihre Weiber, Kinder, Gefangenen und ihre sämtliche Habe in ziemlicher Sicherheit aufbewahrten. […] Denn wiewohl das unglückliche Italien von den Ungarn und von den Sarazenen aus Freinet mit vielfacher Bedrängnis heimgesucht wurde, so hatte es doch von niemand so entsetzliches Unheil oder Verderben zu erdulden wie von den Afrikanern.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis II, 44, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 331.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="zwischen 900 und 905" From="900-01-01" To="905-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Kalabrien</Ort>
+        <Ort>Apulien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Monte d’Argento</Ort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>La Garde-Freinet</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Africanus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="d112f9b0-266e-4af8-b02a-9f598f65e717" Type="Ort">
+          <Name>Apulien</Name>
+        </Entitaet>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="f4d2117b-d8b5-4e53-9257-ee5dd5fd76b6" Type="Anmerkung">
+          <Name>Monte d’Argento</Name>
+        </Entitaet>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Liudprand, Antapodosis II, 45, ed. Becker 1915, S. 57f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen aus Afrika, die auf ein Hilfegesuch des byzantinischen Kaisers Romanos I. [912 und 913] nach Italien eilen, besetzen den Mons Garelianus [Monte d’Argento], bleiben dauerhaft und plündern die Umgebung.</Inhaltsangabe>
+      <VolltextOriginalsprache>Fertur autem hac occasione ab Africa [Afrika] exivisse atque Italiam [Italien] adventasse. Leone atque Alexandro imperatoribus augustis hominem exeuntibus Romanos, ut latius dicturi sumus, cum Constantino, qui nunc usque superest, Leonis imperatoris filio, Constantinopolitanum [Konstantinopel] regebat imperium. Et sicut fieri adsolet, primo, quo Romanos suscepit imperium, anno nonnullae ei gentes, praesertim, anatolike, id est orientales, nisae sunt rebellare. Factum est autem, dum imperator exercitum ad expugnandas eas transmitteret, Appuliam [Apulien] et Calabriam [Kalabrien], binas regiones, quae ei tunc temporis serviebant, huic rebellasse. Cumque imperator maximis orientem versus copiis directis exercitus huc multitudinem destinare non posset, rogavit primo, ut ad sui fidelitatem pristinam sponte redirent. Qui cum recusarent atque hoc se facturos minime dicerent, ad Africanum mox imperator succensus dirigit regem, eum pretio rogans, ut se adiuvet virtutisque eius auxilio Appuliam sibi atque Calabriam subdat. Hac legatione rex Africanus accitus innumerabiles ratibus copias in Calabriam Appuliamque direxit binasque has regiones imperatoris dominatui potentissime subdidit. Sed dum processu temporis has regiones dimitterent, Romam versus aciem giraverunt montemque Garelianum [Monte d’Argento] maxima pro tuitione sibi vendicaverunt multasque munitissimas civitates debellantes vi ceperunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Es sollen aber, wie man erzählt, die Afrikaner aus folgender Ursache aus Afrika abgefahren und nach Italien gekommen sein. Nach dem Tode der erhabenen Kaiser Leo und Alexander regierte Romanos, wie wir noch ausführlicher berichten werden, das Kaiserreich Konstantinopel zusammen mit dem Sohne Kaiser Leos, Konstantinus, der heute noch lebt. Und wie gewöhnlich trachteten im ersten Jahre nach der Übernahme der Regierung durch Romanos mehrere Völker, im besonderen die des Ostens, danach abzufallen. Als aber der Kaiser ein Heer entsandte, um sie zu unterwerfen, erhoben sich gegen ihn die beiden Regionen Apulien und Kalabrien, die dem Kaiser damals dienstbar waren. Da nun der Kaiser, nachdem er zahlreiche Truppen nach dem Osten geschickt hatte, ein größeres Heer für Apulien und Kalabrien nicht zur Verfügung stand, forderte er sie zuerst auf, freiwillig zum alten Gehorsam gegen ihn zurückzukehren. Als sie das ablehnten und erklärten, daß sie das keineswegs tun würden, schickte er wütend alsbald zu dem König von Afrika und bat, ihm gegen Lohn beizustehen und ihm mit Hilde seiner Kriegsmacht Apulien und Kalabrien zu unterwerfen. Durch diese Botschaft gerufen, schickte der König von Afrika zahllose Truppen auf Schiffen nach Apulien und Kalabrien und unterwarf die beiden Regionen mit großer Gewalt der Herrschaft des Kaisers. Doch während sie im Laufe der Zeit diese Regionen aufgaben, wandten sie ihren Blick gegen Rom, machten den Mons Garelianus [Monte d’Argento] zu ihrem Hauptstützpunkt und bekriegten und eroberten viele stark befestigte Städte.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis II, 45, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 331.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="912/913-959" From="912-01-01" To="959-12-31" />
+        <Datum Text="912/913-959" From="913-01-01" To="913-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Apulien</Ort>
+        <Ort>Kalabrien</Ort>
+        <Ort>Monte d’Argento</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Africanus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Constantinopolitanus</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu einer genauen Datierung der Herrschaft Kaiser Romanos I. vgl. Liudprand von Cremona, Antapodosis, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 378f., Anm. 24; ebenfalls allgemein [0003]-[0007].
+Zu den geplünderten Städten vgl. [0003]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="d112f9b0-266e-4af8-b02a-9f598f65e717" Type="Ort">
+          <Name>Apulien</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="14f98088-8af1-44c3-a654-b5d7acc6a16c" Type="Anmerkung">
+          <Name>Monte d’Argento</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Liudprand, Antapodosis II, 49, 50, ed. Becker 1915, S. 60f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Punier [aus Afrika stammende Sarazenen] werden [914] erfolgreich von einer päpstlichen Truppe unter der Führung eines Puniers bei einem Überraschungsangriff geschlagen und ziehen sich auf ihre Festung am Mons Garelianus [Monte d’Argento] zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>XLVIII. Accidit interea Poenorum quendam iuvenem iniuriis lacessitum Poenos deserere huncque Iohannem papam advenire seque divino tactum spiramine papam ita convenisse: ‘Sacerdos magne, si saperes, populum terramque tibi subiectam Poenos tam graviter laniare non sineres. Elige igitur iuvenes nimia quasi mobilitate volipedes, qui me imperatorem, praeceptorem, dominum aequanimiter audiant. Horum neminem aliquid praeter singulas parmas singulosque pilos ensesque singulos ac simplices vestes cum exiguitate obsonii habere permitto.’
+L. LX denique huiusmodi inventis sibique traditis Poenos contra properat latuitque secus angustas, qua Poenorum iter erat, vias. Cumque circumcirca saepius et iterum Poeni depopulantes redirent, clangore cum maximo ex improviso atque insperato hi ex insidiis prosilientes eos leviter trucidabant. […] callidoque hoc Africani consilio adtriti civitates poenitus rupto foedere deserebant solumque Garelianum montem [Monte d’Argento] sibi pro munitione delegerant.</VolltextOriginalsprache>
+      <VolltextUebersetzung>49. Inzwischen geschah es, daß ein junger Punier, durch Kränkungen verletzt, seine Landsleute verließ, zu diesem Papst Johannes kam und, vom göttlichen Haus berührt, ihn wie folgt anredete: „Wenn du klug wärst, großer Priester, würdest du den Puniern nicht gestatten, in so schrecklicher Weise Land und Leute, die dir untertan, zu verderben. Laß darum leicht bewegliche, schnellfüßige Jünglinge aussuchen, die mir als Befehlshaber, Lehrer und Herrn ohne Widerrede gehorchen; ich gestatte nicht, daß einer von ihnen mehr bei sich hat als einen Schild, einen Wurfspieß, ein Schwert und einfache Kleidung sowie ein wenig Verpflegung.“
+50. Nachdem man dann sechzig Leute dieser Art gewonnen und ihm übergeben hatte, eilte er gegen die Punier und verbarg sich neben einem Engpaß, durch den die Punier ziehen mußten. Und als die Punier von ihren wiederholten Raubzügen in der Umgebung heimkehrten, wurden sie unvermutet und unverhofft von den mit lautem Geschrei aus dem Hinterhalt Vorstürmenden mühelos niedergemacht. […] So war es gekommen, daß die Afrikaner, durch dieses kluge Vorgehen geschwächt, unter Bruch des Vertrages die Städte gänzlich räumten und sich für den Mons Garelianus [Monte d’Argento] als einzigen Stützpunkt entschieden.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis II, 49, 50, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 335.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="914" From="914-01-01" To="914-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Monte d’Argento</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Hinterhalt/-list</Schlagwort>
+        <Schlagwort>Stadtübergabe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africanus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Poenus</Suchwort>
+        <Suchwort>Punier</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="28dee036-f945-47ad-aa8e-588acf82503e" Type="Anmerkung">
+          <Name>Monte d’Argento</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Liudprand, Antapodosis II, 51-54, ed. Becker 1915, S. 61f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Papst Johannes X. und Graf Landolf I. von Capua und Benevent entsenden [915] mit der Unterstützung des byzantinischen Kaisers sowie der Städte Camerino und Spoleto ein Heer gegen die in Italien am Fluss Garigliano eingefallenen Punier bzw. Afrikaner und besiegen diese.</Inhaltsangabe>
+      <VolltextOriginalsprache>LI. Iohanne [X.] itaque, ut praefati sumus, papa constituto Landolfus [Graf Landolf I. von Capua und Benevent] quidam, vir strenuus bellorumque exercitio doctus, Beneventanorum et Capuanorum omnium princeps clarebat. Poenis igitur statum rei publicae non mediocriter labefactantibus Landolfum hunc principem egregium, quid super re huiuscemodi faciendum esset, quam Africani agunt, Iohannes consulit papa. Quod princeps ut audivit, papam per internuntios ita convenit: ‘Res haec, spiritalis pater, magnis est investiganda consiliis. Mittito denique ad Argorum imperatorem, cuius et ipsi eam quae cis mare est terram, sicut et nostram, depopulare non cessant. Camerinos etiam atque Spoletinos nostrum ad auxilium invitato; ineamusque Deo protectore cum his acriter bellum. Si vincimus, non multitudini, sed Deo victoria imputetur; si vero vicerint Poeni, peccatis nostris et non inhertiae deputetur.’
+LII. His auditis papa nuntios confestim Constantinopolim [Konstantinopel] dirigit, suppliciter imperatoris amminicula sibi dari deposcens. Imperator vero, ut vir sanctissimus Deique timens, copias absque mora classibus advectas direxit. Cumque per Garelianum [Garigliano] flumen conscenderent, adfuit et papa Iohannes cum Landolfo pariter Beneventanorum principe potentissimo, Camerinis etiam atque Spoletinis. Horrida satis denique inter eos pugna exoritur. […]
+LIII. Ex parte vero illa, qua difficilior erat ascensus Poenisque ad fugiendum aptior, Greci castrum die ipsa constituunt, in quo residentes, Poenos, ne fugerent, observabant cottidieque oppugnantes non mediocriter trucidabant.
+LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenorum nec unus quidem superfuit, qui non aut gladio trucidaretur aut vivus continuo caperetur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>51. Als nun Johannes [X.], wie berichtet, Papst geworden war, genoß der Fürst aller Beneventer und Kapuaner, Landolf [Graf Landolf I. von Capua und Benevent], ein tüchtiger, im Kriegshandwerk geschulter Mann, großes Ansehen. Weil nun die Punier die öffentliche Ordnung nicht wenig störten, wandte sich Papst Johannes an diesen ausgezeichneten Fürsten Landolf um Rat, wie man diesem Treiben der Afrikaner begegnen könne. Als der Fürst das hörte, ließ er ihm durch Boten sagen: „Diese Sache muß, geistlicher Vater, sorgsam überlegt werden. Schicke darum zum Kaiser der Griechen, dessen Land diesseits des Meeres sie in gleicher Weise wie das unsere unaufhörlich heimsuchen; fordere auch die Cameriner und die Spoletiner auf, uns zu helfen, dann wollen wir unter Gottes Schutz energisch den Krieg gegen sie beginnen. Siegen wir, so soll nicht der überlegenen Zahl, sondern Gott der Sieg zugeschrieben werden; wenn aber der Sieg den Puniern zufällt, so soll dies unseren Sünden zugeschrieben werden, nicht unserer Trägheit.“
+52. Nachdem der Papst dies vernommen, entsandte er sogleich Boten nach Konstantinopel und bat den Kaiser flehentlich um Unterstützung. Der Kaiser aber, als frommer und gottesfürchtiger Mann, entsandte unverzüglich Truppen, die zu Schiff kamen. Und als die Punier den Gargliano hinauffuhren, erschien auch Papst Johannes zugleich mit dem mächtigen Fürsten von Benevent, Landolf, und den Camerinern und Spoletinern. Darauf entspann sich zwischen ihnen ein recht schrecklicher Kampf. […]
+53. Auf der Seite aber, wo der Aufstieg schwieriger und wo den Puniern mehr Gelegenheit zur Flucht gegeben war, legten die Griechen am ersten Tage bereits eine Befestigung an, deren Besatzung achtgab, daß von den Puniern niemand floh, jeden Tag mit ihnen kämpfte und ihnen dabei nicht wenige Verluste beibrachte.
+54. Im täglichen Kampf der Griechen und Lateiner blieb durch Gottes Barmherzigkeit nicht einer der Punier übrig, der nicht mit dem Schwert getötet oder sofort lebend gefangen wurde.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis II, 51-54, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 337.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="915" From="915-01-01" To="915-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Capua</Ort>
+        <Ort>Camerino</Ort>
+        <Ort>Spoleto</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Bündnis, Gottesurteil</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africanus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Poenus</Suchwort>
+        <Suchwort>Punier</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Gemeint ist die sog. Schlacht am Garigliano von 915, vgl. Liudprand, Antapodosis II, 54, ed. Becker 1915, S. 62, Anm. 5.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="beb055bb-d143-4674-aac6-9e3c95ff6e2f" Type="Anmerkung">
+          <Name>X.</Name>
+        </Entitaet>
+        <Entitaet Id="d17df465-1949-473f-9957-8f2e1fc01fc4" Type="Person">
+          <Name>Graf Landolf I. von Capua und Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="83bd3685-af32-454d-9d09-9c1c11be38b4" Type="Ort">
+          <Name>Garigliano</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Liudprand, Antapodosis III, 25, ed. Becker 1915, S. 83f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>In den Jahren vor seiner Herrschaft unternimmt der byzantinische Kaiser Romanos I. [vor 919] Erkundungen gegen die Sarazenen und stößt dabei auf einen Löwen, den er fälschlicherweise für einen Sarazenen hält.</Inhaltsangabe>
+      <VolltextOriginalsprache>Imperante Leone [VI.], Constantini huius genitore, Romanos imperator iste, quamquam […] pauper, ab omnibus tamen […] utilis, habebatur. […] Quadam autem nocte dum exploratum Saracenos abiret, essetque eodem in loco palus atque arundinetum non modicum, contigit leonem ferocissimum ex arundineto prosilire cervorumque multitudinem in paludem dimergere unumque eorum capere sicque ventris rabiem mitigare. […] Romanos autem eorum sonitum audiens timuit valde. Putavit enim Saracenorum multitudinem esse, qui se conspectum fraude aliqua vellent perhimere.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Unter Kaiser Leo [VI.], dem Vater des jetzt regierenden Konstantinus, war dieser Kaiser Romanos, obwohl er arm war, in aller Augen tüchtig. […] Eines Nachts aber, als er eine Erkundung gegen die Sarazenen ausführte – an diesem Orte war ein Sumpf mit dichtem Röhricht – , da geschah es, daß ein wütender Löwe aus dem Schilf hervorsprang und aus einem Rudel Hirsche, das er in dem Sumpf trieb, ein Tier riß, um seinen wilden Hunger zu stillen. Romanos aber erschrak sehr bei dem Geräusch, das sie machten. Er glaubte nämlich, es handle sich um einen Haufen Sarazenen, die ihn entdeckt hätten und durch eine List zu töten versuchten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis III, 25, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 373.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="vor 919" From="909-01-01" To="919-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Erkundigung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="c295fd5c-1286-4c03-9c78-0761485715f3" Type="Anmerkung">
+          <Name>VI.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Liudprand, Antapodosis III, 26, ed. Becker 1915, S. 86.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Der spätere byzantinische Kaiser Romanos I. zwingt [zwischen 913-919] all jene, die nach dem Tod der byzantinischen Kaiser Leo VI. und Alexander den kaiserlichen Palast besetzt halten, ihm die Treue zu schwören. Er droht damit, andernfalls mit Hilfe der Sarazenen aus Kreta das griechische Reich gewaltsam zurückzuerobern.</Inhaltsangabe>
+      <VolltextOriginalsprache>Romanos vero, ut non incallidus, audito imperatorum, Leonis [VI.] scilicet atque Alexandri, interitu, haud longe ab urbe collecto classium exercitu fugit atque in insulam parvam iuxta Constantinopolim [Konstantinopel], ita ut e palatio videri poene posset, ratibus collectis advenit. Ad palatium autem minime transfretavit, […]. Internuntiis itaque, quid hoc monstri sit, quod regem non adierit laudesque debitas non persolverit, sciscitatur. Hisque a Romano respondetur, quod propriae vitae timens palatium declinarit; et adiecit, quia, si parakinúmenos ceteris cum principibus se non adiret vitamque illi et honorem iureiurando promitteret, mox se ad Cretensium [Kreta] Saracenorum regem conferret regnumque Argivorum sui auxilii fortitudine debellaret.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Romanos aber brachte, klug wie er war, auf die Nachricht vom Tode der Kaiser Leo [VI.] und Alexander, unweit der Hauptstadt ein Schiffsheer zusammen, fuhr los und kam mit den versammelten Fahrzeugen zu einer kleinen Insel bei Konstantinopel, so daß man ihn vom Palast aus beinahe sehen konnte. Zum Palast aber fuhr er nicht hinüber, […]. Durch Boten wurde darum angefragt, was diese Ungeheuerlichkeit bedeuten solle, daß er den Herrscher nicht aufsuche und die pflichtmäßigen Lobgesänge nicht singen lasse. Von Romanos erhielten sie die Antwort, er meide den Palast, weil er für sein Leben fürchte, und er setzte hinzu, falls der Oberkammerherr mit den übrigen Hofleuten nicht zu ihm käme und ihm unter Eid Leben und Amt zusichere, werde er sich sogleich zum König der Sarazenen auf Kreta begeben und mit dessen Hilfe das griechische Reich überfallen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis III, 26, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 377.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="913-919" From="913-01-01" To="919-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Griechenland</Ort>
+        <Ort>Kreta</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="07eaf207-c2db-4f06-b355-f87d8b8cccee" Type="Anmerkung">
+          <Name>VI.</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="ae8e4934-c643-4039-84e7-eaa16e31d242" Type="Ort">
+          <Name>Kreta</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Liudprand, Antapodosis IV, 4, ed. Becker 1915, S. 104f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen von La Garde-Freinet dringen [um 936] unter der Führung des Sarazenen Sagittus, der später in einer Schlacht getötet wird, bis nach Acqui vor.</Inhaltsangabe>
+      <VolltextOriginalsprache>Dum haec aguntur, Saraceni Fraxenetum [La Garde-Freinet] inhabitantes collecta multitudine Aquas [Acqui], L miliariis Papia [Pavia] distans, usque pervenerant. Horum […], praedux, Sagittus Saracenus pessimus impiusque extiterat. Deo tamen propitio pugna commissa […], miser, ipse cum omnibus suis interiit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Während dieser Vorfälle versammelten die Sarazenen zu Freinet ihre Scharen und kamen bis nach Acqui, fünfzig Meilen von Pavia. Ihr Anführer Sagittus war der schlimmste und gottloseste Sarazene. Durch Gottes Beistand aber kam der Elende selbst mit all den Seinen in einer Schlacht ums Leben.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis IV, 4, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 405.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 936" From="931-01-01" To="941-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Acqui</Ort>
+        <Ort>Pavia</Ort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>La Garde-Freinet</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Zu der Plünderung von Acqui vgl. auch [0003]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+        <Entitaet Id="c6e3eaa2-d659-41e1-b1c6-07ddd49c9a86" Type="Ort">
+          <Name>Acqui</Name>
+        </Entitaet>
+        <Entitaet Id="d6f0652d-06e6-4da5-bf1b-e2865ff812b0" Type="Ort">
+          <Name>Pavia</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Liudprand, Antapodosis IV, 5, ed. Becker 1915, S. 105.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Erfolgreich dringen [934-935] Punier aus Afrika mit einer großen Flotte in die Stadt Genua ein, erschlagen viele Bewohner und erbeuten eine große Menge Schätze.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem quippe anno Poeni cum multitudine classium illo [Genua] perveniunt civibusque ignorantibus civitatem ingrediuntur cunctos, pueris exeptis et mulieribus, trucidantes cunctosque civitatis et ecclesiarum Dei thesaurus navibus imponentes in Africam [Afrika] sunt reversi.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Denn noch in demselben Jahre kamen die Punier mit einer zahlreichen Flotte dorthin [Genua], drangen, von den Bürgern unbemerkt, in die Stadt und erschlugen alle Einwohner außer den Kindern und Weibern. Alle Schätze der Stadt und der Kirchen Gottes brachten sie auf ihre Schiffe und kehrten dann nach Afrika zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis IV, 5, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 405-407.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="934-935" From="934-01-01" To="935-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Genua</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Poenus</Suchwort>
+        <Suchwort>Punier</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="65eca8fa-4d34-4acb-aafe-0480c8e5f75b" Type="Ort">
+          <Name>Genua</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Liudprand, Antapodosis V, 9, ed. Becker 1915, S. 134f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen aus La Garde-Freinet verwüsten [941] den Nordwesten Italiens. König Hugo I. von Italien geht militärisch gegen sie vor und bittet den byzantinischen Kaiser Romanos I., ihn mit ‚Griechischem Feuer‘ zu unterstützen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Dum haec aguntur, montana, quibus ab occidua seu septentrionali Italia cingitur parte, a Saracenis Fraxenetum [La Garde-Freinet] inhabitantibus crudelissime depopulantur. Quam ob rem Hugo rex consilio accepto nuntios Constantinopolim [Konstantinopel] dirigit rogans imperatorem Romanon, ut naves sibi Greco cum igne transmittat, quas chelandia patrio sermone Greci cognominant. Hoc autem eo fecit, ut, dum terrestri itinere ipse ad destruendum tenderet Fraxinetum, eam partem, qua mari munitur, Greci navigio obsiderent eorumque naves exurerent ac, ne ab Hispania [Spanien] victus eis aut copiarum subsidia provenirent, diligentissime providerent.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Während dieses geschah, wurde das Gebirgsland, das Italien im Nordwesten umgibt, von den Sarazenen in [aus!] Freinet in grausamster Weise verwüstet. Deshalb sandte König Hugo nach einer Beratung Boten nach Konstantinopel an den Kaiser Romanos mit der Bitte, ihm Schiffe mit griechischem Feuer zu schicken, von den Griechen in ihrer Muttersprache Chelandien genannt. Das tat er aber zu dem Zweck, damit, während er zu Lande zur Zerstörung von Freinet ziehe, die Griechen sie von der Seeseite einschließen und ihre Schiffe verbrennen sollten, wie auch sorgfältig achtgeben, daß ihnen nicht aus Spanien Lebensmittel oder Mannschaften zu Hilfe kämen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis V, 9, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 457.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="941" From="941-01-01" To="941-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>La Garde-Freinet</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="5cec1920-22e0-4d75-a885-11aba6b2e4ae" Type="Anmerkung">
+          <Name>aus!</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0012</QuellenId>
+      <Zitation>Liudprand, Antapodosis V, 11, ed. Becker 1915, S. 136.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Anklage in Versform [von 941] gegen den Markgrafen Berengar II. von Ivrea, der Mauren in Schutz nimmt.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…], mirum haud,/Suetus [Berengar II. von Ivrea] perdere sanctos/Et servare malos, vocitant/Heu quos nomine Mauros,/Sanguine qui gaudent hominum,/Iuvat et vivere rapto.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[…] doch nicht/Darf dichs wundern, er [Berengar II. von Ivrea ]/pflegt ja/Umzubringen die Heiligen nur,/Und die Nichtswürdigen/schützt er/Wehe! Die Mauren, die blutigen, die/Nur der Raub freut und der Mordstahl.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis V, 11, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 459.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="941" From="941-01-01" To="941-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Herrschaftskritik</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="6dc9d401-2fcc-4690-a2db-a6b255e2695b" Type="Person">
+          <Name>Berengar II. von Ivrea</Name>
+        </Entitaet>
+        <Entitaet Id="ea08699c-fabb-4009-b97e-7f2e60c452fd" Type="Anmerkung">
+          <Name>Berengar II. von Ivrea </Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0013</QuellenId>
+      <Zitation>Liudprand, Antapodosis V, 15, ed. Becker 1915, S. 138.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Der byzantinische Kaiser Romanos I. entsendet [im Sommer 941] eine Flotte gegen die Sarazenen, weshalb er [im Juni 941] nur wenige Schiffe gegen die vor Konstantinopel lagernden Normannen schicken kann.</Inhaltsangabe>
+      <VolltextOriginalsprache>Huius denique gentis [Nordmannos] rex vocabulo Inger erat, qui collectis mille et eo amplius navibus Constantinopolim [Konstantinopel] venit. Quod Romanos imperator ut audivit, quoniam navalem suum exercitum directum contra Saracenos et ad insularum custodiam habuit, aestuari cogitationibus coepit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Dieses Volk [Normannen] hatte einen König namens Inger; der zog eine Flotte von tausend und mehr Schiffen zusammen und erschien vor Konstantinopel. Der Kaiser Romanos geriet in große Aufregung, als er davon hörte, denn er hatte seine Seemacht gegen die Sarazenen und zum Schutz der Inseln entsandt.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis V, 15, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 461.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Sommer [vor Juni] 941" From="941-01-01" To="941-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="73d3f608-346b-4ace-933b-6cd26ff34c41" Type="Anmerkung">
+          <Name>Nordmannos</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="355b5d57-a521-4169-bc3b-f6480472d9ff" Type="Anmerkung">
+          <Name>Normannen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0014</QuellenId>
+      <Zitation>Liudprand, Antapodosis V, 16, ed. Becker 1915, S. 139.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>König Hugo I. von Italien entsendet [942] ein italisches Heer gegen die in La Garde-Freinet ansässigen Sarazenen und bekämpft sie gemeinsam mit einer byzantinischen Flotte.</Inhaltsangabe>
+      <VolltextOriginalsprache>Rex itaque Hugo congregato exercitu classibus per Tirrenum mare ad Fraxinetum [La Garde-Freinet] directis terrestri ipse eo itinere pergit. Quo dum Greci pervenirent, igne proiecto Sarracenorum naves mox omnes exurunt. Sed et rex Fraxinetum ingressus Sarracenos omnes in montem Maurum fugere compulit, in quo eos circumsedendo capere posset, si res haec, […], non impediret.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Als nun König Hugo sein Heer versammelt hatte, entsandte er die Flotte über das tyrrhenische Meer gegen Freinet und zog selbst auf dem Landwege dahin. Dort angelangt warfen die Griechen Feuer auf die Schiffe der Sarazenen und verbannten sie alle in kurzer Zeit. Andererseits drang auch der König in Freinet ein und zwang die Sarazenen, sich auf den Berg Maurus zu flüchten. Hier hätte er sie einschließen und gefangennehmen können, wenn nicht ein Umstand, […], dazwischengekommen wäre.</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis V, 16, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 463.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="942" From="942-01-01" To="942-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>La Garde-Freinet</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0015</QuellenId>
+      <Zitation>Liudprand, Antapodosis V, 17, ed. Becker 1915, S. 139.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>König Hugo I. von Italien schließt [942] einen Vertrag mit den Sarazenen zur Bekämpfung des Markgrafen Berengar II. von Ivrea.</Inhaltsangabe>
+      <VolltextOriginalsprache>Rex Hugo Berengarium, ne collectis ex Francia [Franken] et ex Suevia [Swaben] copiis super se irrueret regnumque sibi auferret, maxime timuit. Unde non bono accepto consilio Grecos ad propria mox remisit ipseque cum Saracenis hac ratione foedus iniit, […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>König Hugo fürchtete nämlich nichts so sehr, als daß Berengar in Franken und Schwaben ein Heer aufbringen, dann über ihn herfallen und ihm das Reich nehmen möchte. Daher faßte er einen bösen Entschluß, entließ die Griechen in ihre Heimat und schloß selbst mit den Sarazenen einen Vertrag, […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Liudprand von Cremona, Antapodosis V, 17, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), 2002 Darmstadt, S. 244-495, S. 463.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="942" From="942-01-01" To="942-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland)</Ort>
+        <Ort>Franken</Ort>
+        <Ort>Schwaben</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f727a59d-c5f0-439c-927d-239bdb1b6794" Type="Ort">
+          <Name>Franken</Name>
+        </Entitaet>
+        <Entitaet Id="41ccb6e2-0a8c-46a6-b77d-934d5de08ba7" Type="Anmerkung">
+          <Name>Swaben</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

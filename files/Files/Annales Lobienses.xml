@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0045</WerkId>
+  <WerkTitel>Annales Lobienses</WerkTitel>
+  <Alternativtitel>
+    <Titel>Annalen von Lobbes</Titel>
+    <Titel>Jahrbücher von Lobbes</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>nach 982</Abfassungszeitraum>
+  <Abfassungsort>vermutlich in Lüttich</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Annales Lobienses, ed. Georg Waitz, in: MGH SS 13, Hannover 1881, S. 224-235.</Editionshinweise>
+  <Werkinformation>Die Annales Lobienses berichten über die Jahre (408) 747-982, sind wohl Ende 10./Anfang 11. Jahrhundert entstanden und über große Teile eine Kompilation. Aufgrund von Notizen zum Kloster Lobbes sind sie danach benannt worden, obwohl sie vermutlich aus Lüttich stammen.
+Vgl. mit Hinweisen für weiterführende Literatur: Annales Lobienses, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00311.html, 2016-11-04]; Annales Lobienses (ID A076), in: Narrative Sources [http://www.narrative-sources.be/naso_detail_en.php, 2016-11-04].
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales Lobienses ad a. 752, ed. Waitz, S. 228.</Zitation>
+      <ZeitangabeQuelle>752</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische König Pippin der Jüngere erobert 752 nach dreijähriger Belagerung Narbonne. Es gelingt ihm, die Sarazenen aus ganz Gothien zu vertreiben und den Statthalter Sulaiman Ebn al Arabi von Barcelona und Girona zu unterwerfen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Pippinus rex [Pippin der Jüngere] ivit in Gotiam [Gothien] et triennali obsidione Narbonam [Narbonne] coepit. Sarracenos de tota Gotia [Gothien] expulit. Solimam [Sulaiman Ebn al Arabi von Barcelona und Gerona] quoque ducem Barcinonae [Barcelona] et Gerundiae [Gerona] subiugavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="752" From="752-01-01" To="752-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="750-760" From="750-01-01" To="760-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Septimanien</Ort>
+        <Ort>Narbonne</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Girona</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Saracene</Suchwort>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Gotia</Suchwort>
+        <Suchwort>Gothia</Suchwort>
+        <Suchwort>Gothien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="795e6380-eaf1-4609-b55d-cd8657eaa1d4" Type="Person">
+          <Name>Pippin der Jüngere</Name>
+        </Entitaet>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="1716ed91-bbfc-4bdf-8140-251d634f3f3b" Type="Person">
+          <Name>Sulaiman Ebn al Arabi von Barcelona und Gerona</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="fe42fe01-c123-4844-af32-cea58acd2c14" Type="Ort">
+          <Name>Gerona</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales Lobienses ad a. 778, ed. Waitz, S. 229.</Zitation>
+      <ZeitangabeQuelle>778</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische König Karl I. der Große zieht mit einem Heer nach Spanien und kehrt, nachdem er mehrere Städte einnehmen, Sarazenen vertreiben und ganz Spanien, die Waskonen sowie Navarra unterwerfen kann, als Sieger zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Karolus [Karl I. der Große] exercitum in Hispaniam [Spanien] duxit, cuius multitudine tota Hispania [Spanien] contremuit, et captis civitatibus multis, Sarracenis fugatis, Hispania tota subacta, Wasconibus [Gascogne] et Navarris [Navarra] subiugatis, victor reversus est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Baskenland</Ort>
+        <Ort>Navarra</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="703dc877-194c-42c7-a7bb-565536a95da8" Type="Ort">
+          <Name>Gascogne</Name>
+        </Entitaet>
+        <Entitaet Id="23db7dc8-5280-43f3-b240-a1127e9ff5a3" Type="Ort">
+          <Name>Navarra</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales Lobienses ad a. 797, ed. Waitz, S. 230.</Zitation>
+      <ZeitangabeQuelle>797</ZeitangabeQuelle>
+      <Inhaltsangabe>Abdellah, Sohn des Emirs von Córdoba Abd ar-Rahman I., unterwirft sich 797 König Karl I. dem Großen und wird von diesem zusammen mit Ludwig I. dem Frommen nach Spanien zurückgeschickt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Adella rex Saracennorum [Abdellah] se regi [Karl I. der Große] subdidit. […] Rex Adellam Sarracenum cum filio suo Loduwico [Ludwig I. der Fromme] ad Isspanias [Spanien] reverti fecit, Pippinum [Pippin I.] ad disponendam Italiam [Italien] misit, ipse in Saxonia [Sachsen] hiemavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="797" From="797-01-01" To="797-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Würdigung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Isspania</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Bei Abdellah handelt es sich um den jüngsten Sohn des Emirs von Córdoba, Abd ar-Rahman I. Nachdem dessen Bruder Hisham dem Vater als Emir nachgefolgt war, versuchte Abdellah zusammen mit seinem zweiten Bruder Sulaiman erfolglos Hisham zu stürzen. Beide mussten Spanien verlassen. Vgl. Stephan Ronart – Nandy Ronart, Lexikon der Arabischen Welt, Zürich – München 1972, S. 29f.
+Vgl. [0014]-[0004].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b2fe319d-877e-49ea-9581-9bd883df6373" Type="Person">
+          <Name>Abdellah</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="6d0b0371-5933-4533-9e88-60e64a2371b2" Type="Ort">
+          <Name>Sachsen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales Lobienses ad a. 798, ed. Waitz, S. 230.</Zitation>
+      <ZeitangabeQuelle>798</ZeitangabeQuelle>
+      <Inhaltsangabe>König Alfons II. der Keuschen von Asturien schickt, nachdem er Lissabon geplündert hat, 798 Gesandte zu Karl I. dem Großen, die diesem als Zeichen des Sieges Panzer, Maulesel und maurische Gefangene bringen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Venerunt legati Hadefonsi regis Galitiae et Asturiae [Alfons II.] papilionem mirae pulchritudinis presentantes. Qui, Elisipona [Lissabon] ultima civitate Ispaniae [Spanien] depredata, insignia victoriae, id est loricas multas et Mauros captivos et mulos Karolo [Karl I. der Große] regi misit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="798" From="798-01-01" To="798-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Lissabon</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Ispania</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. [0014]-[0006].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ca2a6f99-57bd-489d-abc6-d69aa30d7094" Type="Person">
+          <Name>Alfons II.</Name>
+        </Entitaet>
+        <Entitaet Id="1981f381-2e6b-47b2-b8dd-09f8af6c1f68" Type="Ort">
+          <Name>Lissabon</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Annales Lobienses ad a. 799, ed. Waitz, S. 230.</Zitation>
+      <ZeitangabeQuelle>799</ZeitangabeQuelle>
+      <Inhaltsangabe>799 können die Balearen von den Franken verteidigt und zurückerobert sowie die Mauren von dort vertrieben werden.</Inhaltsangabe>
+      <VolltextOriginalsprache>Baleares [Balearen] insulae a nostris defensae et receptae, et Mauri inde fugati sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="799" From="799-01-01" To="799-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Balearen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Rückeroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Baleares</Suchwort>
+        <Suchwort>Balearen</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b22b21a8-00f8-4a6f-ba99-d2d1055e5d64" Type="Ort">
+          <Name>Balearen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Annales Lobienses ad a. 802, ed. Waitz, S. 230.</Zitation>
+      <ZeitangabeQuelle>802</ZeitangabeQuelle>
+      <Inhaltsangabe>802 kehrt Isaak, Gesandter Karls I. des Großen, von Harun al-Raschid, dem Kalifen von Bagdad, mit vielen Geschenken und einem Elefanten namens Abul Abaz zu Karl dem Großen zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno Isaac Iudaeus [Isaak (aus Aachen), Gesandter Kaiser Karls I. des Großen] reversus est a rege Persarum [Kalif Harun al-Raschid] cum magnis muneribus et elefante cui nomen erat Abulabaz.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="802" From="802-01-01" To="802-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Irak)</Ort>
+        <Ort>Bagdad</Ort>
+        <Ort>Aachen</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu Isaak vgl. Adolf Koler, Art. Isaak, in: Jüdisches Lexikon 3 (1929), Sp. 39.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f3f6aca5-8f50-4214-9894-490a4c66456b" Type="Anmerkung">
+          <Name>Isaak (aus Aachen), Gesandter Kaiser Karls I. des Großen</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Annales Lobienses ad a. 807, ed. Waitz, S. 231.</Zitation>
+      <ZeitangabeQuelle>807</ZeitangabeQuelle>
+      <Inhaltsangabe>807 trifft Abdellah, ein Gesandter des Kalifen Harun al-Raschid, bei Kaiser Karl I. dem Großen zusammen mit zwei Mönchen ein und überbringt zahlreiche Geschenke.</Inhaltsangabe>
+      <VolltextOriginalsprache>Legatus regis Persarum [Kalif Harun al-Raschid] nomine Abdella cum monachis; qui de Hierusalem [Jerusalem] legatione Thomae patriarchae fungebantur, quorum nomina fuere Georgius et Felix – hic Georgius est abba in monte Oliveti [Ölberg], et cui patria Germania [Germanien] est, qui etiam proprio vocatur nomine Egibaldus – ad imperatorem [Karl I. der Große] pervenerunt, munera deferentes, quae praedictus imperatori miserat, id est papilionem et tentoria vario colore facta mire magnitudinis et pulchritudinis. Erant enim byssina tam tentoria quam et funes eorum, diversis tincta coloribus. Fuerunt praeterea munera prefati regis pallia serica multa et pretiosa et odores atque ungenta et balsamum necnon et orologium ex auricalco arte mechanica mirifice compositum, in quo duodecim horarum cursus ad clepsidram vertebatur, cum totidem aereis pilulis, quae ad completionem horarum decidebant et casu suo subiectum sibi cymbalum tinnire fatiebant, additis in eodem eiusdem numeri equitibus, qui per duodecim fenestras, qui prius erant apertae, claudebant, necnon et alia multa erant in ipso horologio, quae nunc enumerare longum est. Fuerunt preterea inter predicta munera candelabra duo ex auricalco mire magnitudinis et proceritatis; quae omnia Aquis [Aachen] palatio ad imperatorem delata sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="807" From="807-01-01" To="807-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Irak)</Ort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+        <Suchwort>Hierusalem</Suchwort>
+        <Suchwort>Hierosolyma</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="45c69df6-b9f2-4582-9fdb-e3cac1ce3c41" Type="Ort">
+          <Name>Ölberg</Name>
+        </Entitaet>
+        <Entitaet Id="805bc4c5-5ac6-437b-9b21-087b8b0e13a3" Type="Ort">
+          <Name>Germanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Annales Lobienses ad a. 810, ed. Waitz, S. 231.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große sendet 810 je eine Gesandtschaft zur Sicherung des Friedens zum Emir von Cordoba, al-Hakam I., und zum byzantinischen Kaiser Nikephoros I.</Inhaltsangabe>
+      <VolltextOriginalsprache>Duas legationes eo anno imperator [Karl I. der Große] pro pace confirmanda suscepit, unam de Corduba [Cordoba] regis Hispaniae [al-Hakam I.], alteram Nicofori imperatoris [Nikephoros I.].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Cordoba</Ort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corduba</Suchwort>
+        <Suchwort>Cordoba</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="ed0793c0-72d6-44a5-b2e5-a1f2a0a53600" Type="Ort">
+          <Name>Cordoba</Name>
+        </Entitaet>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+        <Entitaet Id="90eae9c1-60f7-4b90-9559-047e12b6d40b" Type="Person">
+          <Name>Nikephoros I.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Annales Lobienses ad a. 832, ed. Waitz, S. 232.</Zitation>
+      <ZeitangabeQuelle>832</ZeitangabeQuelle>
+      <Inhaltsangabe>832 wird siegreich gegen Sarazenen gekämpft.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno pugnatum est cum Sarracenis et triumphatum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="832" From="832-01-01" To="832-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten />
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

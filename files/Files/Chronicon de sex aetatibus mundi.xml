@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0024</WerkId>
+  <WerkTitel>Chronicon de sex aetatibus mundi</WerkTitel>
+  <Alternativtitel>
+    <Titel>Hermanni Augiensis Chronicon</Titel>
+    <Titel>Chronik von den sechs Weltaltern</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Hermannus Contractus</Autor>
+    <Autor>Hermann der Lahme</Autor>
+    <Autor>Hermann von Reichenau</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>18.07.1013-24.09.1054</LebensdatenVerfasser>
+  <Abfassungszeitraum>um 1030-1054</Abfassungszeitraum>
+  <Abfassungsort>Reichenau (Insel Reichenau)</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Hermanni Augiensis Chronicon, ed. Georg Heinrich Pertz, in: MGH SS 5, Hannover 1844, S. 67-133.</Editionshinweise>
+  <Werkinformation>Das Chronicon de sex aetatibus mundi wurde zwischen 1030 und 1045 von Hermann, einem Mönch und Gelehrtem des Klosters Reichenau (auch ‚der Lahme‘ genannt, geb. 1013, gest. 1054) abgefasst und ist eine Weltchronik, die bis ins Jahr 1054 reicht und aus verschiedenen Werken kompiliert ist.
+Vgl. mit Hinweisen für weiterführende Literatur: Tilman Struve, Art. Hermann v. Reichenau, in: Lexikon des Mittelalters 4, Sp. 2167-2169 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-26]; Chronicon de sex aetatibus mundi, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02704.html, 2016-10-26]; Hermannus Contractus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118549693.html, 2016-10-26]; Sandra Lehner, Art. Hermann of Reichenau, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 780.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 551, ed. Pertz 1844, S. 88.</Zitation>
+      <ZeitangabeQuelle>551</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Patrizier Johannes besiegt 551 Mauren in Afrika.</Inhaltsangabe>
+      <VolltextOriginalsprache>His temporibus in Affrica [Afrika] Mauri per Iohannem patricium [?] domiti sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="551" From="551-01-01" To="551-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="550-560" From="550-01-01" To="560-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vom Verfasser benutzte Quelle: Paulus Diaconus, Historia Langobardorum I,25; demnach ist Johannes ein „exconsul“ unter Kaiser Justinian.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="193a5ab0-963c-4eca-b314-b0155a16da9f" Type="Anmerkung">
+          <Name>?</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 632, ed. Pertz 1844, S. 93.</Zitation>
+      <ZeitangabeQuelle>632</ZeitangabeQuelle>
+      <Inhaltsangabe>Zwischen dem oströmischen Kaiser Herakleios und König Dagobert I. wird 632 ein Frieden geschlossen. Auf Bitten des Kaisers geht Dagobert, genauso wie anderswo im römischen Reich, gegen viele Juden im fränkischen Reich vor. Kurz darauf verwüsten Sarazenen mehrere römische Provinzen und fügen dem römischen Heer Schaden zu.</Inhaltsangabe>
+      <VolltextOriginalsprache>Pax perpetua inter Eraclium imperatorem [Herakleios] et Dagobertum [Dagobert I.], legatis mediantibus, pacta est. Et peticione imperatoris, qui imperium suum a gente circumcisa vastandum praecognoverat, Iudei multi in regno Francorum [Fränkisches Reich], sicut et alibi in Romano imperio [Römisches Reich], profligati sunt. Nec multo post secutis temporibus crudelissima gens Saraccenorum, et ipsa circumcisa, multas provincias inundans vastavit, et Romanum exercitum crebris praeliis trucidatum vehementer attrivit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="632" From="632-01-01" To="632-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Frankreich, Deutschland)</Ort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Missionierung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>circumcisa</Suchwort>
+        <Suchwort>beschnitten</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. [0032]-[0008].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="cb408318-a0b1-4031-9bb1-1021bb296145" Type="Person">
+          <Name>Herakleios</Name>
+        </Entitaet>
+        <Entitaet Id="fac557fc-46f7-40ff-994c-8801d830b1ae" Type="Person">
+          <Name>Dagobert I.</Name>
+        </Entitaet>
+        <Entitaet Id="0ca27ee5-94d3-4dec-bac0-90f0b4384ac4" Type="Ort">
+          <Name>Fränkisches Reich</Name>
+        </Entitaet>
+        <Entitaet Id="311c92b8-d0ad-4634-97c7-c167be437b6e" Type="Ort">
+          <Name>Römisches Reich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 648, ed. Pertz 1844, S. 94.</Zitation>
+      <ZeitangabeQuelle>648</ZeitangabeQuelle>
+      <Inhaltsangabe>Zur Zeit Kaiser Konstantins III. plündern und verwüsten Sarazenen 648 Palästina und Jerusalem sowie Teile Afrikas und mehrere römische Provinzen.</Inhaltsangabe>
+      <VolltextOriginalsprache>His Constantis imperatoris [Konstantin III.] temporibus gens Saracenorum crudelissima Palestinam [Palästina], ipsamque Hierosolimam [Jerusalem], utramque Aegyptum [Ägypten], Alexandriam urbem [Alexandria], et magnam Affricae [Afrika] partem, aliasque plures provincias Romani [römische Provinzen] imperii vastavit atque diripuit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="648" From="648-01-01" To="648-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="640-650" From="640-01-01" To="650-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+        <Ort>Israel</Ort>
+        <Ort>Palästina</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Aegyptus</Suchwort>
+        <Suchwort>Ägypten</Suchwort>
+        <Suchwort>Hierosolima</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Alexandria</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vom Verfasser benutzte Quelle: Fredegar, Chronik, IV,81.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="48ee334c-8135-46f7-a9b4-386a1b89a184" Type="Person">
+          <Name>Konstantin III.</Name>
+        </Entitaet>
+        <Entitaet Id="bfc6fa66-2470-45d3-84f8-9a7363ed6876" Type="Ort">
+          <Name>Palästina</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="b438b117-135e-4f05-98f1-9c1780bed98f" Type="Ort">
+          <Name>Ägypten</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="e0b7be01-3536-4d19-8055-09372533b457" Type="Ort">
+          <Name>römische Provinzen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 652, ed. Pertz 1844, S. 94.</Zitation>
+      <ZeitangabeQuelle>652</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Exarch des oströmischen Kaisers Konstans II., Olympios, stirbt 652, nachdem er zunächst mit Papst Martin I. Frieden geschlossen hat und daraufhin sein Heer auf Sizilien von Sarazenen besiegt wurde.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc tempore Olimpius exarchus a Constante imperatore [Konstans II.] in Italiam [Italien] missus, cum domnum papam et ceteros in fide catholica unanimes depravare eisque nocere non posset, frustraque ipsi papae, divinitus protecto, insidias paravisset, cum eo tandem pacificatus, collecto exercitu Siciliam [Sizilien] contra Saracenos ingreditur. Ubi victo caesoque ab ipsis exercitu Romano, taedio morboque confectus moritur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="652" From="652-01-01" To="652-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="650-660" From="650-01-01" To="660-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Sizilien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Gesta pontificalis romanorum.
+In der Forschung wird zuweilen angezweifelt, ob es zu dieser Zeit bereits maurische Angriffe auf Sizilien gab, vgl. etwa Friedhelm Winkelmann u. a., Prosopographie der mittelbyzantinischen Zeit, 1 Abteilung, Nr. 5650.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="4e2d8ef3-af07-495d-8a69-35ca242e7355" Type="Person">
+          <Name>Konstans II.</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 669, ed. Pertz 1844, S. 95.</Zitation>
+      <ZeitangabeQuelle>669</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem Sarazenen in Sizilien eingefallen sind, die Insel geplündert und viele Menschen umgebracht haben, kehren sie 669 nach Alexandria zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Saraceni, qui iam multis depopulatis provinciis Aegyptum [Ägypten] tenebant, Siciliam [Sizilien] hoc tempore invadentes, magnas hominum strages faciunt, et depraedata insula, hisque quae Constans imperator [Konstans II.] ibi collegerat ablatis, Alexandriam [Alexandria] redeunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="669" From="669-01-01" To="669-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="660-670" From="660-01-01" To="670-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Sizilien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+        <Suchwort>Aegyptus</Suchwort>
+        <Suchwort>Ägypten</Suchwort>
+        <Suchwort>Alexandria</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf Paulus Diaconus, Historia Langobardorum V,13.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b438b117-135e-4f05-98f1-9c1780bed98f" Type="Ort">
+          <Name>Ägypten</Name>
+        </Entitaet>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+        <Entitaet Id="4e2d8ef3-af07-495d-8a69-35ca242e7355" Type="Person">
+          <Name>Konstans II.</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 685, ed. Pertz 1844, S. 96.</Zitation>
+      <ZeitangabeQuelle>685</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem Sarazenen mehrere Provinzen verwüstet haben, vereinbart Kaiser Justinian II. 685 gegen Geldzahlungen einen zehnjährigen Frieden.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hic [Justinian II.] etiam cum Sarracenis, provincias plures devastantibus, data eis multa pecunia, pacem in decennium condixit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="685" From="685-01-01" To="685-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="680-690" From="680-01-01" To="690-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Verhandlungen</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Tribut</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Gesta pontificalis romanorum.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="757ff4ec-5737-47da-8812-aa5694b245b8" Type="Person">
+          <Name>Justinian II.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 718, ed. Pertz 1844, S. 97.</Zitation>
+      <ZeitangabeQuelle>718</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen, die in viele Provinzen des Römischen Reichs eingefallen sind und für drei Jahre Konstantinopel belagert haben, werden 718 durch Kaiser Leon III. wieder vertrieben.</Inhaltsangabe>
+      <VolltextOriginalsprache>Constantinopoli [Konstantinopel] Leo imperator [Leon III.] annos 9 regnavit. Cuius tempore Saraceni, qui iam multas pervaserant provincias, triennio urbem ipsam obsidientes, divino tandem auxilio fame, peste, ferro naufragioque repelluntur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="718" From="718-01-01" To="718-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus, Sarazene</Suchwort>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf Paulus Diaconus, Historia Langobardorum, VI, 47. Paulus Diaconus zufolge handelt es sich bei der belagerten Stadt um Konstantinopel.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="406b4a70-a3bd-4141-926a-2d24534f4ddf" Type="Person">
+          <Name>Leon III.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 725-726, ed. Pertz 1844, S. 98.</Zitation>
+      <ZeitangabeQuelle>725-726</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen, die von Herzog Eudo von Aquitanien zur Hilfe gerufen wurden, verwüsten 725 Gallien. Im folgenden Jahr werden sie in einer Schlacht durch ein Heer des Hausmeiers Karl Martell besiegt.</Inhaltsangabe>
+      <VolltextOriginalsprache>725. Saraceni ab Eudone [Herzog Eudo von Aquitanien] in auxilium evocati, Gallias [Gallien] praeda et incendio vastant.
+726. Karolus [Karl Martell] inita pugna magnam Saracenorum multitudinem una cum rege eorum victor prostravit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="725-726" From="725-01-01" To="726-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Gallien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Annales Fuldenses.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ad6a92d3-13ea-4288-9664-80e1809d6a72" Type="Person">
+          <Name>Herzog Eudo von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 730-735, ed. Pertz 1844, S. 98.</Zitation>
+      <ZeitangabeQuelle>730-735</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen nehmen 730 Avignon ein und verwüsten das Umland. In den folgenden Jahren erobert der Hausmeier Karl Martell die Stadt zurück und geht gegen die in Spanien ansässigen Sarazenen vor.</Inhaltsangabe>
+      <VolltextOriginalsprache>730. Saraceni, collecto exercitu, Avinnionem [Avignon] urbem capiunt, regionesque circumquaque devastant. […]
+731. Karolus [Karl Martell] Avinnionem [Avignon], victis et caesis Saracenis, vi expugnatam recipit. […]
+732. Karolus Gothiam [Gothien] invadens, regem Saracenorum Narbonae [Narbonne] inclusum obsidet. […]
+733. Exercitus Saracenorum de Hispaniis [Spanien] Narbonam [Narbonne] superveniens, a Karolo commissa pugna ad internitionem deletur.
+734. Saraceni item a Karolo pugna victi, fugientesque naufragio perierunt. […]
+735. Karolus item, victis et protritis Saracenis, cum praeda magna et captivorum multitudine victor revertitur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="730-735" From="730-01-01" To="735-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Avignon</Ort>
+        <Ort>Narbonne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Rückeroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Gothia</Suchwort>
+        <Suchwort>Gotien</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Annales Fuldenses, Annales Augienses, Annales Sangallenses und Gesta pontificalis romanorum.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="7f33b217-aa47-40a6-b223-25957d2ed730" Type="Ort">
+          <Name>Avignon</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 738-740, ed. Pertz 1844, S. 98.</Zitation>
+      <ZeitangabeQuelle>738-740</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Hausmeier Karl Martell unterwirft in den Jahren 738 bis 740 die Provence, vertreibt den Herzog Maurontes, der Sarazenen zur Unterstützung gerufen hatte, und sorgt wieder für Frieden und Ruhe im Frankenreich.</Inhaltsangabe>
+      <VolltextOriginalsprache>738. Karolus [Karl Martell] Provinciam [Provence] petens, Maurontem ducem [?], qui Saracenos invitaverat, fugavit.
+739. Karolus totam Provinciam [Provence] suae subicit dicioni.
+740. Victis circumquaque hostibus, pax et quies regno Francorum [Frankenreich] per Karolum facta.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="738-740" From="738-01-01" To="740-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+        <Datum Text="740-750" From="740-01-01" To="750-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Provence</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Hostes</Suchwort>
+        <Suchwort>Feind</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Annales Fuldenses.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="334bcc12-dbc5-4fe1-9d9b-af61579b065b" Type="Ort">
+          <Name>Provence</Name>
+        </Entitaet>
+        <Entitaet Id="c4b22351-047a-42ff-b771-0fce3ed48f1b" Type="Anmerkung">
+          <Name>?</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 793, ed. Pertz 1844, S. 100.</Zitation>
+      <ZeitangabeQuelle>793</ZeitangabeQuelle>
+      <Inhaltsangabe>Franken unterliegen 793 Sarazenen in Gothien.</Inhaltsangabe>
+      <VolltextOriginalsprache>Pugna inter Saracenos et Francos in Gothia [Gothien], Saracenis superioribus, commissa est. […]</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="793" From="793-01-01" To="793-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Septimanien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Gothia</Suchwort>
+        <Suchwort>Gothien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0012</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 797-799, ed. Pertz 1844, S. 101.</Zitation>
+      <ZeitangabeQuelle>797-799</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl der Große kämpft in den Jahren 797-799 [797-801?] in Spanien mehrmals gegen Mauren und Sarazenen. Dabei werden ihm die Städte Barcelona und Huesca übergeben. Auch die Balearen bringt er unter seine Herrschaft.</Inhaltsangabe>
+      <VolltextOriginalsprache>797. Barcinona [Barcelona] urbs Hispaniae [Spanien] Karolo [Karl I. der Große] reddita est. […]
+798. […] Mauri piraticam exercere incipiunt.
+799. […] Baleares insulae [Balearen], victis auxilio Karoli Mauris et Saracenis, liberatae sunt. […]Azan [Statthalter Hassan von Huesca], praefectus civitatis quae dicitur Osca [Huesca], claves urbis et alia praeclara munera Karolo mittunt. […]</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="797-801 (?)" From="797-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel</Ort>
+        <Ort>Balearen</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Huesca</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Befreiung</Schlagwort>
+        <Schlagwort>Stadtübergabe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Piratus</Suchwort>
+        <Suchwort>Pirat</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Baleares</Suchwort>
+        <Suchwort>Balearen</Suchwort>
+        <Suchwort>Hierosolima</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Azan</Suchwort>
+        <Suchwort>Hassan</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Annales Fuldenses.
+Ad a. 797: Zwar wird nicht erwähnt, dass sich Barcelona vor der Rückgabe in der Hand der Sarazenen befand, allerdings wurde die Stadt bereits um 717 von diesen erobert. Die Befreiung durch die Franken unter Ludwig dem Frommen erfolgte jedoch erst 801 (vgl. Frederic Udina i Martorell, Art. Barcelona. I. Stadt, in: Lexikon des Mittelalters 1, Sp. 1449-1451 [Brepolis Medieval Encyclopedias – Lexikon des Mittelalters Online, 2017-08-10].
+Zu Statthalter Hassan von Huesca vgl. Ernst Alexander Schmidt, Geschichte Aragonien’s im Mittelalter, Leipzig 1828, S. 11; Dorothea Walz, Karl der Große – ein verhinderter Seefahrer. Die Reichenauer Heiligbluterzählung aus dem 10. Jahrhundert, in: Karl der Große und das Erbe der Kulturen. Akten des 8. Symposiums des Mediävistenverbandes, Leipzig 15.-18. März 1999, hg. von Franz-Reiner Erkens, Berlin 2001, S. 234-245, hier S. 237.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="b22b21a8-00f8-4a6f-ba99-d2d1055e5d64" Type="Ort">
+          <Name>Balearen</Name>
+        </Entitaet>
+        <Entitaet Id="dc2a9f0a-6ff6-4e2c-b455-134b66215f53" Type="Anmerkung">
+          <Name>Statthalter Hassan von Huesca</Name>
+        </Entitaet>
+        <Entitaet Id="1196ab4d-5104-444d-bf55-929e13cf4115" Type="Ort">
+          <Name>Huesca</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0013</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 802, ed. Pertz 1844, S. 101.</Zitation>
+      <ZeitangabeQuelle>802</ZeitangabeQuelle>
+      <Inhaltsangabe>Kalif Harun al-Raschid von Bagdad sendet Kaiser Karl I. dem Großen 802 neben anderen Geschenken einen Elefanten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Aaron rex Persarum [Kalif Harun al-Raschid] inter alia munera elephantum imperatori Karolo [Karl I. der Große] misit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="802" From="802-01-01" To="802-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Irak)</Ort>
+        <Ort>Bagdad</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Persa</Suchwort>
+        <Suchwort>Persien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0014</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 806-807, ed. Pertz 1844, S. 101.</Zitation>
+      <ZeitangabeQuelle>806-807</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große und sein Sohn Pippin kämpfen 806 und 807 auf Korsika und auf dem Meer erfolgreich gegen Mauren. Zur gleichen Zeit erhält Karl weitere Geschenke vom persischen Kalifen Harun al-Raschid.</Inhaltsangabe>
+      <VolltextOriginalsprache>806. […] Pipinus rex [Pippin I.], filius Karoli [Karl I. der Große], Mauros de Corsica [Korsika] insula pepulit. […]
+807. Aaron rex Persarum [Kalif Harun al-Raschid] inter alia multa et preciosa munera artificiosum satis Karolo imperatori misit horologium. Classis a Karolo imperatore missa, Mauros, item in Corsica [Korsika] commisso praelio, multis caesis, fugavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="806-807" From="806-01-01" To="807-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Frankreich, Deutschland)</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Persa</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Annales Fuldenses.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0015</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 809, ed. Pertz 1844, S. 101.</Zitation>
+      <ZeitangabeQuelle>809</ZeitangabeQuelle>
+      <Inhaltsangabe>Ludwig I. der Fromme unternimmt 809 einen Heereszug [gegen Sarazenen] nach Spanien.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ludowicus [Ludwig I. der Fromme], filius imperatoris, Hispaniam [Spanien] petiit. […]</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="809" From="809-01-01" To="809-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich hier auf die Annales Fuldenses.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0016</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 810, ed. Pertz 1844, S. 102.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Jahr 810 stirbt der Elefant, den Karl I. der Große von Kalif Harun al-Raschid von Bagdad geschenkt bekommen hat.</Inhaltsangabe>
+      <VolltextOriginalsprache>Cui cum imperator Karolus [Karl I. der Große] iam cum exercitu occursaret, elefas, quem Aaron [Kalif Harun al-Raschid] miserat, subito moritur, […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Persa</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich her auf die Annales Fuldenses.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0017</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 826-828, ed. Pertz 1844, S. 103.</Zitation>
+      <ZeitangabeQuelle>826-828</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Gothe Aizo verbündet sich 826 mit Sarazenen, und diese verwüsten im darauffolgenden Jahr die Gegenden von Barcelona und Girona. Nachdem zunächst Pippin I. gegen die Sarazenen gescheitert war, schickte Kaiser Ludwig der Fromme 828 seinen Sohn Lothar I. nach Spanien.</Inhaltsangabe>
+      <VolltextOriginalsprache>826. […] Aizo Gothus de palatio ad Saracenos se conferens, rebellare temptavit. […]
+827. Exercitus Saracenorum Aizoni ad auxilium missus, Pipino rege [Pippin I. von Aquitanien] tardius resistente, territoria Barcinonensium [Barcelona] et Gerundensium [Gerona] vastavit.
+828. […] Imperator [Ludwig I. der Fromme] Lodharium filium [Lothar I.] ad terminos Hispaniae [Spanien] contra Saracenos, Ludowicum [Ludwig der Deutsche] vero contra Vulgaros in Pannonias [Pannonien] cum exercitu misit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="826-827" From="826-01-01" To="827-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Bulgarien)</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Gerona</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich her auf die Annales Fuldenses.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="61d8bd7c-31c9-41e5-b632-67aa35f0976e" Type="Person">
+          <Name>Pippin I. von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="fe42fe01-c123-4844-af32-cea58acd2c14" Type="Ort">
+          <Name>Gerona</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="bf744b82-911e-46c7-ae83-1a91633c3040" Type="Person">
+          <Name>Lothar I.</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="e2b6d2e5-8d02-47ad-b4e6-1d14c8379a59" Type="Person">
+          <Name>Ludwig der Deutsche</Name>
+        </Entitaet>
+        <Entitaet Id="2df56931-14b0-43c1-83f2-9e0b5e6fd79a" Type="Ort">
+          <Name>Pannonien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0018</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 843, ed. Pertz 1844, S. 104.</Zitation>
+      <ZeitangabeQuelle>843</ZeitangabeQuelle>
+      <Inhaltsangabe>Mauren besetzen 843 Benevent.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mauri Beneventum [Benevent] occupant.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="843" From="843-01-01" To="843-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Einnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich her auf die Annales Fuldenses und Annales Augienses.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0019</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 846, ed. Pertz 1844, S. 104.</Zitation>
+      <ZeitangabeQuelle>846</ZeitangabeQuelle>
+      <Inhaltsangabe>Mauren zerstören 846 die Kirche des Hl. Petrus in Rom, nachdem sie die Stadt selbst nicht einnehmen konnten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mauri, cum Romam [Rom] petentes urbem ipsam capere non possent, aecclesiam sancti Petri vastaverunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="846" From="846-01-01" To="846-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Roma</Suchwort>
+        <Suchwort>Rom</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verfasser bezieht sich her auf die Gesta pontificalis romanorum.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0020</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 982, ed. Pertz 1844, S. 117.</Zitation>
+      <ZeitangabeQuelle>982</ZeitangabeQuelle>
+      <Inhaltsangabe>Das Heer Kaiser Ottos II. wird 982 von Griechen und von ihnen in Sold genommene Sarazenen geschlagen. Der Kaiser gerät im Anschluss unerkannt in griechische Gefangenschaft, kann jedoch freigekauft werden. Bischof Heinrich von Augsburg überlebt nicht.</Inhaltsangabe>
+      <VolltextOriginalsprache>Greci cum magnis copiis, conductis etiam precio Sarracenis, Calabriam [Kalabrien] contra Ottonem imperatorem [Otto II.] defendere aggressi, magnis utrimque viribus pugna conserta, primo victi, et deinde nova manu succurrentibus Agarenis victores, totum pene exercitum nostrum perimunt vel capiunt. Ipseque imperator in mari natando fugiens, ab hostibus captus, cum non agnosceretur ab eis, ad quoddam castrum maritimum pro precio, ut rogabat, adductus, a suis redemptus est. In eo conflictu nostris infaustissimo inter alios innumeros Heinricus etiam episcopus Augustensis interceptus disparuit […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die Griechen unternehmen es, mit großen Truppenmassen, darunter auch in Sold genommene Sarazenen, Kalabrien [Kalabrien] gegen Kaiser Otto [Otto II.] zu verteidigen; in einer Schlacht, die beiderseits mit großen Kräften ausgefochten wird, werden sie zuerst besiegt, dann aber siegen sie durch eine neue Schar mit Unterstützung der Sarazenen und vernichten oder fangen fast unser ganzes Heer [am Kap Colonne, 23. Juni, Anm. d. A.]. Der Kaiser selbst wurde auf der Flucht, im Meer schwimmend, von den Feinden gefangen genommen; da sie ihn nicht erkannten, wurde er auf seine Bitte gegen Lohn nach einer Burg am Meeresufer gebracht und dann von den Seinigen losgekauft. In diesem für die Unseren so verhängnisvollen Zusammenstoß wurde unter unzähligen anderen auch Bischof Heinrich von Augsburg [Bf. Heinrich von Augsburg] dahingerafft und verschwand […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Chronik Hermanns von Reichenau vom Jahr 901 an, in: Quellen des 9. und 11. Jahrhunderts zur Geschichte der Hamburgischen Kirche und des Reiches, bearb. von Werner Trillmich – Rudolf Buchner, (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 11), Darmstadt 1961, S. 615-707, S. 651.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="982" From="982-01-01" To="982-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Kalabrien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Tribut</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Agarenus</Suchwort>
+        <Suchwort>Agarene</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Hostes</Suchwort>
+        <Suchwort>Feind</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
+          <Name>Otto II.</Name>
+        </Entitaet>
+        <Entitaet Id="c5dcc393-31bc-4318-a839-5e50fc160baf" Type="Anmerkung">
+          <Name>am Kap Colonne, 23. Juni, Anm. d. A.</Name>
+        </Entitaet>
+        <Entitaet Id="ff5c9f26-e386-4188-8554-60468c5910f3" Type="Person">
+          <Name>Bf. Heinrich von Augsburg</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0021</QuellenId>
+      <Zitation>Hermann von Reichenau, Chronik ad a. 1053, ed. Pertz 1844, S. 132.</Zitation>
+      <ZeitangabeQuelle>1053</ZeitangabeQuelle>
+      <Inhaltsangabe>Bericht von 1053 über normannische Hilfe im südlichen Italien gegen die Einfälle der Griechen und Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ea siquidem gens [Normannen] a temporibus prioris Heinrici imperatoris in Calabriae [Kalabrien], Samniae [Samnium] Campaniaeque [Kampanien] partes paulatim ex Gallici oris oceani adventitia confluebat; et quia bellicosior Italicis gentibus videbatur, primo gratanter accepta, crebro indigenis contra Grecorum et Saracenorum incursiones audacter praeliando auxiliabatur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Dieses Volk [Normannen] strömte nämlich als Ankömmling seit den Zeiten des früheren Kaisers Heinrich allmählich von den Küsten des gallischen Ozeans in die Gebiete Calabriens [Kalabrien], Samniens [Samnium] und der Campagna [Kampanien] zusammen; und weil es kriegerischer erschien als die italischen Völker, wurde es zuerst gern aufgenommen und half den Eingeborenen häufig in kühnem Kampf gegen die Einfälle der Griechen und Sarazenen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Chronik Hermanns von Reichenau vom Jahr 901 an, in: Quellen des 9. und 11. Jahrhunderts zur Geschichte der Hamburgischen Kirche und des Reiches, bearb. von Werner Trillmich – Rudolf Buchner, (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 11), Darmstadt 1961, S. 615-707, S. 701.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="1053" From="1053-01-01" To="1053-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1020-1030, 1030-1040" From="1020-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Kalabrien</Ort>
+        <Ort>Campagnien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ec555393-3897-4ec6-8288-5b58cc7440ac" Type="Anmerkung">
+          <Name>Normannen</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="347b3f62-2536-4548-9d56-8d18ec29fc77" Type="Ort">
+          <Name>Samnium</Name>
+        </Entitaet>
+        <Entitaet Id="fe4c2793-8afe-4c95-a0ce-19ccae3e5499" Type="Ort">
+          <Name>Kampanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

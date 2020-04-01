@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0051</WerkId>
+  <WerkTitel>Annales Barenses</WerkTitel>
+  <Alternativtitel>
+    <Titel>Annalen von Bari</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>11. Jahrhundert</Abfassungszeitraum>
+  <Abfassungsort>Bari</Abfassungsort>
+  <Regionen>
+    <Region>Italien</Region>
+  </Regionen>
+  <Editionshinweise>Annales Barenses, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 51-63.</Editionshinweise>
+  <Werkinformation>Die Annales Barenses sind ein anonym abgefasstes annalistisches Werk aus Bari, das ab 605 bis ins Jahr 1043 berichtet. Sie bilden zusammen mit den Annales des Lupus Apulus Protospatharius und den verlorenen Anonymi Barensis Chronicon eine Textgruppe.
+Vgl. mit Hinweisen für weiterführende Literatur: Hiram Kümper, Art. Annales Barenses, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 55.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales Barenses a. 902, ed. Pertz 1844, S. 52.</Zitation>
+      <ZeitangabeQuelle>902</ZeitangabeQuelle>
+      <Inhaltsangabe>Emir Ibrahim II. von Ifriqiya überfällt 902 Kalabrien und stirbt anschließend [am 23.10.902] in Cosenza in der Kirche des Heiligen Pankratius.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno descendit Habraam rex Saracenorum [Emir Ibrahim II. von Ifriqiya] in Calabriam [Kalabrien], et mortuus est in Cosentia [Consenza] in ecclesia santi Pacratii.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="23.10.902" From="902-01-01" To="902-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1000-1010" From="1000-01-01" To="1010-12-31" />
+        <Datum Text="1010-1020" From="1010-01-01" To="1020-12-31" />
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1090-1100" From="1090-01-01" To="1100-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Kalabrien</Ort>
+        <Ort>Cosenza</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Emir Ibrahim II. starb am 23.10.902 in Cosenza an der Ruhr, vgl. Ulrich Haarmann, Geschichte der arabischen Welt, München 52004, S. 273, Anm. 10.
+Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protosaptharii auf, vgl. Annales Lupi Protosaptharii, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 52-63.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1c7a214d-a1fc-4d49-88ad-3b41dee70d7c" Type="Person">
+          <Name>Emir Ibrahim II. von Ifriqiya</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="9fb6fb12-b6bd-4d3c-bcbc-e7b719b89ea7" Type="Ort">
+          <Name>Consenza</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales Barenses a. 925, ed. Pertz 1844, S. 52.</Zitation>
+      <ZeitangabeQuelle>925</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen nehmen im Juli 925 [924/925] die italienische Stadt Oria in der Terra d’Otranto ein.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno Orie [Oria] capta est a gente Saracenorum mense Iulio, […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="924/925" From="924-01-01" To="924-12-31" />
+        <Datum Text="924/925" From="925-01-01" To="925-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1000-1010" From="1000-01-01" To="1010-12-31" />
+        <Datum Text="1010-1020" From="1010-01-01" To="1020-12-31" />
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1090-1100" From="1090-01-01" To="1100-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Oria</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Während in der Edition von Georg Pertz das Jahr 925 als Datierung für die Einnahme von Oria vermerkt ist, setzt William J. Churchill, The Annales Barenses and the Annales Lupi Protosaptharii. Critical Edition and Commentary, Toronto 1979, S. 345, das Ereignis ein Jahr früher, also 924, an.
+Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protosaptharii auf, vgl. Annales Lupi Protosaptharii, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 52-63.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="fe4aa62b-590d-4901-812d-6c1d833d3819" Type="Ort">
+          <Name>Oria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales Barenses a. 929, ed. Pertz 1844, S. 52.</Zitation>
+      <ZeitangabeQuelle>15.08.929</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen nehmen am 15.08.929 die italienische Stadt Tarent ein.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno Tarentum [Tarent] captum est a gente Saracenorum mense Augusti, in solemnitate sanctae Mariae.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="15.08.929" From="929-01-01" To="929-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1000-1010" From="1000-01-01" To="1010-12-31" />
+        <Datum Text="1010-1020" From="1010-01-01" To="1020-12-31" />
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1090-1100" From="1090-01-01" To="1100-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Tarent</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protosaptharii auf, vgl. Annales Lupi Protosaptharii, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 52-63.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="54442af7-dc17-4859-aa1b-59a6ba9d343e" Type="Ort">
+          <Name>Tarent</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales Barenses a. 996, ed. Pertz 1844, S. 53.</Zitation>
+      <ZeitangabeQuelle>996</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen belagern 996 drei Monate lang die italienische Stadt Matera und nehmen sie im Dezember ein.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno obsessa est Materies [Matera] tribus mensibus currentibus ab iniqua gente Saracenorum; et in quarto mense, id est Decembri, per vim inde eam comprehenderunt; […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="996" From="996-01-01" To="996-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1000-1010" From="1000-01-01" To="1010-12-31" />
+        <Datum Text="1010-1020" From="1010-01-01" To="1020-12-31" />
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1090-1100" From="1090-01-01" To="1100-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Matera</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protosaptharii auf, vgl. Annales Lupi Protosaptharii, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 52-63.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="d40baa79-1f32-471d-9685-d798baabde3b" Type="Ort">
+          <Name>Matera</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Annales Barenses a. 1003, ed. Pertz 1844, S. 53.</Zitation>
+      <ZeitangabeQuelle>996</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen belagern von Mai 996 bis zum 22. September 996 unter der Führung eines gewissen Saphi und weiteren Heerführern die italienische Stadt Bari, die anschließend von einem Heer des venezianischen Dogen Pietro II. Orseolo befreit werden kann.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno obsessa est civitas Bari [Bari] a Saphi [?] apostata atque caiti, et perseveravit ipsa obsidio a mense Maio usque ad 10. Kal. Octobr. Et liberata est per Petrum [Pietro II. Orseolo], ducem Venetiarum, bonae memoriae.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="996" From="996-01-01" To="996-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="990-1000" From="990-01-01" To="1000-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1000-1010" From="1000-01-01" To="1010-12-31" />
+        <Datum Text="1010-1020" From="1010-01-01" To="1020-12-31" />
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+        <Datum Text="1060-1070" From="1060-01-01" To="1070-12-31" />
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+        <Datum Text="1080-1090" From="1080-01-01" To="1090-12-31" />
+        <Datum Text="1090-1100" From="1090-01-01" To="1100-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Bari</Ort>
+        <Ort>Venedig</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Befreiung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Terminus ‚Caitus‘ bezeichnet laut Editor einen militärischen Rang der Sarazenen, vgl. Annales Barenses a. 1003, ed. Pertz, S. 53, Anm. 18.
+Informationen über den sarazenischen Anführer Saphi sind nicht überliefert.
+Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protosaptharii auf, vgl. Annales Lupi Protosaptharii, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 52-63.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="0b8511b3-abc0-4163-9173-922b69520dc3" Type="Ort">
+          <Name>Bari</Name>
+        </Entitaet>
+        <Entitaet Id="af5f89a8-0c52-42f0-a463-d73f295ced99" Type="Anmerkung">
+          <Name>?</Name>
+        </Entitaet>
+        <Entitaet Id="792fa030-926e-448b-8016-a98efdb1d972" Type="Person">
+          <Name>Pietro II. Orseolo</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

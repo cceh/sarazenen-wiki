@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0012</WerkId>
+  <WerkTitel>Gesta Karoli</WerkTitel>
+  <Alternativtitel>
+    <Titel>Taten Karls</Titel>
+    <Titel>De Carolo Magno</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Notker der Stammler</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>Um 840-06.04.912</LebensdatenVerfasser>
+  <Abfassungszeitraum>883-887</Abfassungszeitraum>
+  <Abfassungsort>St. Gallen</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Notker der Stammler, Taten Kaiser Karls des Grossen, ed. Hans F. Haefele (MGH SS rer. Germ. N.S [12]), Berlin 1959.</Editionshinweise>
+  <Werkinformation>Die Gesta Karoli wurden zwischen 883 und 887 von Notker I., ‚dem Stammler‘ im Auftrag Kaiser Karls III. verfasst. In drei Teilen geplant (Kirchenpolitik, Kriege, alltägliches Leben Karls des Großen) blieb jedoch das Werk nach Karls III. Sturz unvollendet. Während das Werk anonym überliefert ist, herrscht Einigkeit darüber, dass Notker der Autor ist.
+Vgl. auch mit Hinweisen für weiterführende Literatur Gesta Karoli, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02057.html, 2016-10-20]. Zum Verfasser Notker vgl. Hans Frieder Haefele – Charlotte Gschwind-Gisinger, Art. Notker I. (Balbulus, „der Stammler“), in: Lexikon des Mittelalters 6, Sp. 1289-1290 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-20]; Stephen Penn, Art. Notker Balbulus, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 1157.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Notker der Stammler, Taten Kaiser Karls des Grossen 8, ed. Haefele 1959, S. 59-62.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Bericht über eine persische Gesandtschaft am Hof Kaiser Karls I. des Großen [um 801/802] und die freundschaftlichen Beziehungen zum Kalifen Harun al-Raschid. Die Gesandten überreichen Karl verschiedene wertvolle Geschenke, darunter auch einen Elefant.</Inhaltsangabe>
+      <VolltextOriginalsprache>Per idem tempus etiam legati Persarum ad eum [Karl I. der Große] directi sunt. Qui situm Francie [Frankenreich] nescientes pro magno duxerunt, si litus Italie [Italien] propter famositatem Rome [Rom], cui tunc illum imperare cognoverant, apprehendere valuissent. Cumque episcopis Campanie [Kampanien] vel Tuscie [Tuszien], Emilie [Emilia] vel Ligurie [Ligurien] Burgundieque [Burgund] sive Gallie [Gallien] simul et abbatibus vel comitibus causam adventus sui indicassent dissimulanterque ab eisdem suscepti vel expulsi fuissent, tandem post anni revolutum circulum apud Aquasgrani [Aachen] famosissimum virtutibus Karolum defessi et nimio defecti reppererunt circuitu. Venerunt autem illuc in maioris XLme ebdomada maiore. Nuntiatique imperatori dilati sunt ab eius conspectu usque in vigiliam pasche. Cumque in festivitate praecipua incomparabilis ille incomparabiliter adornatus fuisset, iussit introduci personas eius gentis, quę cuncto quondam esset orbi terribilis. Quibus tamen excellentissimus Karolus ita terrificus videbatur prae omnibus, quasi numquam regem vel imperatorem vidissent. Quos ille blande susceptos hoc munere ditavit, ut quasi unus de filiis eius ubicumque vellent ambulandi et singula queque perspiciendi et quecumque rogandi vel interrogandi licentiam haberent. Quo tripudio gestientes ipsi adherere, ipsum inspicere ipsumque admirari cunctis orientalibus praeposuere divitiis. Ascendentesque in solarium, quod ambit ędem basilice, et inde despectantes clerum vel exercitum iterumque et iterum ad imperatorem regredientes propterque leticię magnitudinem risum retinere nequeuntes complosis manibus aiebant: 'Prius terreos tantum homines vidimus, nunc autem aureum. Deinde ad singulos procerum accedentes novitatemque vestimentorum sive armorum admirati ad mirabiliorem sunt augustum regressi. Quod cum eadem nocte et sequenti dominica iugiter in ęcclesia facerent, in ipsa sacrosancta die ad opipare convivium opulentissimi Karoli cum Francie [Frankenreich] Europeve [Europa] proceribus sunt invitati. Sed tamen rerum miraculo perculsi propemodum exsurrexere ieiuni. Postea Phebea spargebat lampade terras, Titoni croceum linquens Aurora cubile, cum ecce quietis et otii impatientissimus Karolus ad venatum bissontium vel urorum in nemus ire et Persarum nuncios secum parat educere. Qui cum ingentia illa viderent animalia, nimio pavore perculsi in fugam conversi sunt. […] Attulerunt autem Perse imperatori [Kalif Harun al-Raschid] elephantum et simias, opobalsamum, nardum unguentaque varia, pigmenta, odoramenta vel medicamenta diversissima, adeo ut orientem evacuasse et occidentem viderentur implesse. Cumque multa apud imperatorem familiaritate uti cepissent, quadam die cum iam lętiores essent et grecingario fortiori incaluissent caluissent, ad Karolum, serietate sobrietateque semper caluissent, ad Karolum, serietate sobrietateque semper armatum, ioculariter hec prolocuti sunt: 'Magna quidem est, o imperator, potentia vestra, sed multo minor rumore, quo apud orientalia regna diffamati polletis'. Quo ille audito et profundissima indignatione dissimulata ioculariter inquisivit ab eis: 'Cur ita, filii mei, dicitis? vel hoc vobis unde videtur?' At illi repetentes a principio narraverunt ei cuncta, quę sibi in cismarinis partibus contigerunt, dicentes: 'Nos Perse vel Medi Armeniique vel Indi, Parthi et Elamite omnesque orientales multo magis vos quam dominatorem nostrum Aaron timemus. De Macedonibus autem vel Achivis quid dicamus? Qui iam iamque magnitudinem vestrum plus se fluctibus Ionii oppressuram pavitant. Insulani autem omnes, per quos iter habuimus, ad obsequium vestrum ita prompti sunt et intenti, quasi in palacio vestro nutriti fuerint et beneficiis ingentibus honorati. Istarum autem partium primores, ut nobis videtur, non satis curant de vobis, nisi tantum in praesentia vestra. Nam cum eis utpote peregrini perinde suggereremus, ut aliquid nobis humanitatis in vestri amore, quia vos quęreremus, exhibere dignarentur, inadiutos et vacuos dimiserunt'. Tunc imperator omnes comites et abbates, per quos idem missi profecti sunt, cunctis honoribus denudavit. Episcopos autem infinitę pecunię multavit vel dampnavit. Legatos vero cum ingenti cautela et honore ad usque proprios fines deduci praecepit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Zu dieser Zeit wurden auch Gesandte der Perser an ihn [Karl I. der Große] geschickt. Da diese die Lage Franciens [Frankenreich] nicht kannten, hielten sie es für eine große Sache, wenn sie die Küste Italiens erreichen könnten, wegen der Berühmtheit Roms, über das jener, wie sie erfahren hatten, damals gebot. Und als sie den Bischöfen Campaniens [Kampanien] und Tusciens [Tuszien], der Emilia [Emilia] und Liguriens [Ligurien], Burgund [Burgund] und Galliens [Gallien], sowie den Äbten und Grafen die Ursache ihres Kommens angezeigt hatten und von diesen ohne Aufsehen empfangen oder abgewiesen wurden, fanden sie endlich nach Verlauf eines Jahres ermüdet und erschöpft durch den weiten Umweg in Aachen [Aachen] den durch seine Tugenden hochberühmten Karl. Bei ihrer Ankunft war gerade die Hauptwoche der großen Fastenzeit, und als man sie dem Kaiser meldete, wurden sie mit ihrer Audienz auf Sonnabend vor Ostern verschoben. Als nun am Hauptfest der Unvergleichliche in unvergleichlicher Weise geschmückt war, ließ er die Männer aus dem Volk hereinführen, das einst dem ganzen Erdkreis furchtbar war. Doch der hervorragende Karl erschien ihnen im Vergleich zu allen andern so schrecklich, als ob sie niemals einen König oder Kaiser zu Gesicht bekommen hätten. Er nahm sie freundlich auf und gewährte ihnen die Gunst, wie einer von seinen Söhnen, überall hinzugehen, wohin sie wollten, sich alles im Einzelnen zu betrachten und nach allem zu fragen und sich zu erkundigen. Erfreut darüber zogen sie es allen Schätzen des Ostens vor, an seiner Seite zu bleiben, ihn zu betrachten und zu bewundern. Sie stiegen auf den Söller, der das Gebäude der Basilica umgibt, schauten von hier aus Geistlichkeit und Wehrmacht zu, kehrten dann wieder zum Kaiser zurück und sagten, indem sie vor der Größe ihrer Freude das Lachen nicht verhalten konnten und in die Hände klatschten: Bisher haben wir nur Menschen aus Erde gesehen, jetzt aber aus Gold. Dann traten sie an die einzelnen Großen heran, bewunderten, was für sie neu war, ihre Gewänder und Waffen, und kamen wieder zu dem noch wunderbareren Kaiser zurück. Als sie solches in dieser Nacht und am folgenden Ostersonntag in einem fort in der Kirche taten, wurden sie am hochheiligen Tage selbst zu einem herrlichen Festmahl des reichen Karl geladen, zusammen mit den Großen Franciens [Frankenreich] oder Europas [Europa]. Das Staunen über die Dinge brachte sie jedoch so durcheinander, daß sie von hier fast nüchtern wieder aufstanden. Später „als die Morgenröte, das safranfarbene Lager des Tithonus verlassend die Länder mit dem Lichte des Phöbus übergoß“, siehe da rüstete sich Karl, dem Ruhe und Muße unerträglich sind, zur Jagd auf Wisente und Auerochsen in den Wald zu ziehen und die Gesandten der Perser mit sich zu nehmen. Beim Anblick dieser gewaltigen Tiere ergriffen sie aber, von großem Schrecken erfaßt, die Flucht. […] Die Perser brachten aber dem Kaiser einen Elefanten und Affen, Balsam, Narden, mancherlei Salben, Gewürze, Wohlgerüche und Heilmittel der verschiedensten Art, so daß es schien, als hätten sie den Osten geräumt und den Westen angefüllt. Sie traten in ein enges Freundschaftsverhältnis mit dem Kaiser und eines Tages, als sie schon recht fröhlich geworden waren und ein starker Grätzinger [Weizenbier?] sie erhitzt hatte, sagten sie im Scherz zu Karl, der immer mit Ernst und Nüchternheit gewappnet war, folgendes: Groß ist, o Kaiser, Eure Macht, aber lange nicht so groß, wie Euer Ruhm, der in den Königreichen des Ostens verbreitet ist. Er hörte das an, ohne seine tiefe Empörung zu zeigen, und fragte sie im Scherz: Weshalb sagt Ihr das, meine Söhne? Und warum seid Ihr dieser Meinung? Da erzählten sie ihm von Anfang an alles, was sie in den Gebieten diesseits des Meeres erlebt hatten und sagten: Wir Perser, Meder, Armenier, Inder, Pariher, Elamiten und alle Völker des Ostens fürchten Euch viel mehr als unsern Beherrscher Harun [Kalif Harun al-Raschid]. Aber was sollen wir von den Mazedoniern und den Achäern sagen? Die fürchten, daß Eure Größe sie demnächst mehr verschlingen wird als die Fluten des jonischen Meeres. Auf allen Inseln aber, wo wir vorübergekommen sind, sind die Bewohner zum Gehorsam gegen Euch so bereit und so eifrig, wie wenn sie in Eurem Palast aufgewachsen und mit großen Wohltaten überhäuft worden wären. Aber die Großen hierzulande kümmern sich, wie uns dünkt, nicht gerade um Euch außer in Eurer Anwesenheit, denn wenn wir als Fremde sie darum baten, sie möchten aus Liebe zu Euch, da wir ja Euch aufsuchen wollten, uns einige Freundlichkeit erweisen, ließen sie uns ohne Beistand und mit leeren Händen ziehen. Da entzog der Kaiser all den Grafen und Äbten, durch deren Gebiet die Gesandten gekommen waren, alle ihr Lehen, den Bischöfen aber legte er unendliche Geldstrafen oder Verbannung auf. Den Gesandten selbst ließ er mit großer Sorgfalt und reichen Ehren bis zu ihrem eigenen Gebiet das Geleite geben.</VolltextUebersetzung>
+      <ZitationUebersetzung>Notker der Stammler, Gesta Karoli 8, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 320-427, S. 387-391.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801/802" From="801-01-01" To="801-12-31" />
+        <Datum Text="801/802" From="802-01-01" To="802-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+        <Schlagwort>Freundschaft</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. [0006]-[0002]; [0007]-[0016], [0007]-[0021], [0008]-[0014], [0008]-[0021], [0013]-[0006], [0014]-[0008], [0014]-[0010], [0014]-[0017], [0016]-[0004], [0017]-[0004], [0021]-[0008], [0024]-[0013], [0024]-[0016], [0031]-[0005], [0044]-[0006], [0045]-[0006], [0069]-[0009].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="fe4c2793-8afe-4c95-a0ce-19ccae3e5499" Type="Ort">
+          <Name>Kampanien</Name>
+        </Entitaet>
+        <Entitaet Id="1fd4615c-cd8e-4240-b710-bbc7a2d6d8f2" Type="Ort">
+          <Name>Tuszien</Name>
+        </Entitaet>
+        <Entitaet Id="291284ee-df0a-4608-88f4-17fb48181631" Type="Ort">
+          <Name>Emilia</Name>
+        </Entitaet>
+        <Entitaet Id="a6b761a5-7ab7-4cc0-b7a9-589bc133e18d" Type="Ort">
+          <Name>Ligurien</Name>
+        </Entitaet>
+        <Entitaet Id="8c2eff1a-3769-4cd9-82c6-4057a83aa806" Type="Ort">
+          <Name>Burgund</Name>
+        </Entitaet>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="14422bfb-5579-44c6-831a-79d585be7270" Type="Ort">
+          <Name>Europa</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="dea813ac-5b51-4984-ba26-484a6e0906d1" Type="Anmerkung">
+          <Name>Weizenbier?</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Notker der Stammler, Taten Kaiser Karls des Grossen 9, ed. Haefele 1959, S. 62-65.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große tauscht [801] mit Emir Ibrahim ibn al-Aghlab von Ifriqiya und mit Kalif Harun al-Raschid Geschenke aus, sodass sie fortan ein gutes Verhältnis pflegen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Venerunt quoque ad eum [Karl I. der Große] legatarii regis Afrorum [Emir Ibrahim ibn al-Aghlab] deferentes leonem Marmaricum [Marmarica] ursumque Numidicum [Numidien] cum ferrugine Hibera [Iberien] Tyrioque [Tyros] murice et ceteris earundem regionum insignibus. Quem liberalissimus Karolus Libicosque iugi penuria confectos Europe [Europa] divitiis, frumento videlicet vino et oleo, non solum tunc sed et omni tempore vitę suę remunerans et larga manu sustentans, subiectos sibi atque fideles in perpetuum retentavit et ab eis non vilia tributa suscepit. Porro autem imperatori Persarum [Kalif Harun al-Raschid] direxit indefessus augustus equos et mulos Hispanos, pallia Fresonica alba, cana, vermiculata vel saphirina, que in illis partibus rara et multum cara comperit, canes quoque agilitate et ferocia singulares, quales ipse prius ad capiendos vel propellendos leones et tigrides postulavit. Qui ceteris muneribus quasi neglegenter inspectis requisivit a missis, quas feras et bestias canes illi debellare solerent. Cumque responsum acciperet, quia cuncta, quibus inmissi fuissent, absque mora discerperent: 'Hoc' inquit 'rei probabit eventus. Et ecce crastina die factus est maximus pastorum clamor a facie leonis fugientium. Quod cum in aula regis fuisset auditum, dixit ad legatos: 'O socii Franci, ascendite in equos vestros et exite post me'. Qui statim quasi nihil umquam laboris aut lassitudinis passi alacriter sunt regem prosecuti. Cum autem ad conspectum leonis, eminus licet, ventum fuisset, dixit satraparum satrapa: 'Instigate canes vestros in leonem'. Qui iussa complentes et acerrime advolantes a Germanicis canibus Persicum leonem comprehensum Yperboree venę gladiis duratis pro sanguine peremerunt. Quo viso nominis sui fortissimus heres Aaron ex rebus minimis fortiorem Karolum deprehendens, his verbis in eius favorem prorupit: 'Nunc cognosco, quam sint vera, que audivi de fratre meo Karolo, quia scilicet assiduitate venandi et infatigabili studio corpus et animam exercendi cuncta, quę sub celo sunt, consuetudinem habet edomandi. Quid igitur ei possum condignum rependere, qui ita me curavit honorare? Si terram promissam Abrahe et exhibitam Iosuę dedero illi, propter longinquitatem locorum non potest eam defensare a barbaris; vel si iuxta magnanimitatem suam defendere cęperit, timeo, ne finitimę regno Francorum provintię discedant ab eius imperio. Sed tamen hoc modo liberalitati eius gratificari temptabo: dabo quidem illam in eius potestatem et ego advocatus eius ero super eam; ipse vero quandocumque voluerit vel sibi oportunissimum videtur, dirigat ad me legatos suos et fidelissimum me procuratorem eiusdem provintię redituum inveniet'. Hoc ergo modo factum est, ut quod pro impossibili dixit poeta: Aut Ararim Parthus bibet aut Germania Tigrim, propter industriam vigorosissimi Karoli, exitum vel reditum missorum eius et profectionem vel reversionem legatorum Aaron de Parthia in Germaniam maniam sive de Germania in Parthiam iuvenibus, pueris et senioribus non solum possibile sed et facillimum videretur omnino; utrumlibet Ararim [Arar; heutige Saône] velint accipere grammatici, eum videlicet qui Rhenum [Rhein], vel illum qui Rodanum [Rhône] praecipitat, quia hoc locorum confuderunt ignari. Ad huius rei testimonium totam ciebo Germaniam [Germanien], que temporibus gloriosissimi patris vestri Hludowici de singulis hobis regalium possessionum singulos denarios reddere compulsa est, qui darentur ad redemptionem christianorum terram promissionis incolentium, hoc pro antiqua dominatione atavi vestri Karoli avique vestri Hludowici [Ludwig I. der Fromme] ab eo miserabiliter implorantium.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Es kamen zu ihm [Karl I. der Große] auch Beauftragte des Königs von Afrika [Emir Ibrahim ibn al-Aghlab], die einen Löwen aus der Marmarica [Marmarica] und einen Bären aus Numidien [Numidien] brachten nebst Erz aus Iberien [Iberien], Purpur aus Tyrus [Tyros] und andern Ehrengaben dieser Länder. Ihn und alle Libyer, die unter fortwährendem Mangel zu leiden hatten, beschenkte der freigebige Karl mit Europas [Europa] Reichtümern, d. h. mit Getreide, Wein und Öl nicht nur dieses Mal, sondern auch während seines ganzen Lebens und unterstützte sie mit vollen Händen, dadurch erhielt er sie sich als getreue Untertanen für alle Zeiten und empfing von ihnen nicht unbedeutenden Tribut. An den Perserkönig [Kalif Harun al-Raschid] aber schickte der unermüdliche Kaiser spanische Maulesel und Pferde, sowie friesische Tuche von weißer und grauer Farbe, gemustert und saphirfarben, die, wie er erfuhr, in diesen Gegenden selten und sehr teuer waren; auch Hunde, die sich durch ihre Schnelligkeit und Kühnheit auszeichneten, wie jener selbst sie vorher verlangt hatte, um Löwen und Tiger zu fangen und zu hetzen. Nachdem er die übrigen Geschenke ziemlich gleichgültig betrachtet hatte, fragte er seine Boten, was für wilde Tiere diese Hunde zu bekämpfen pflegten. Und als er den Bescheid bekam, daß sie alle, auf die sie losgelassen würden, unverzüglich zerreißen würden, da sagte er: Das wird sich bei der Probe erweisen. Und siehe, am nächsten Tage gab es ein großes Geschrei bei Hirten, die vor einem Löwen flüchteten. Als man das am Hof des Königs hörte, sagte er zu den Gesandten: Auf, Ihr fränkischen Gefährten, zu Pferd und mir nach! Sofort, wie wenn sie nie Mühsal und Müdigkeit kennengelernt hätten, folgten sie schnell dem König. Als man aber des Löwen, wenn auch noch in der Ferne, ansichtig wurde, sagte der Fürst der Fürsten: Hetzt Eure Hunde auf den Löwen! Sie folgten seinen Weisungen, und mit größtem Eifer herzueilend töteten sie den von Germanischen Hunden festgehaltenen Persischen Löwen mit ihren Schwertern aus hyperboreischem Erz, die im Blut der Sachsen gehärtet worden waren. Bei diesem Anblick brach Harun, der tapferste Träger seines Titels, indem er an der Kleinigkeit Karl als den noch stärkeren erkannte, zu seinem Lob in die Worte aus: Nun erkenne ich, wie richtig ist, was ich über meinen Bruder Karl gehört habe: daß er nämlich durch sein rastloses Jagen und sein unermüdliches Streben, Leib und Seele sich zu üben, alles, was auf Erden ist, zu unterwerfen gewohnt ist. Was kann ich nun als würdige Gegengabe dem senden, der mich so hat ehren wollen? Wenn ich ihm das Land gebe, das dem Abraham versprochen und dem Josua übergeben worden ist, kann er es wegen der Entfernung nicht gegen die Barbaren schützen, und wenn er, hochgemut wie er ist, anfängt es zu beschützen, fürchte ich, daß sich die dem Frankenreich benachbarten Gebiete von seiner Herrschaft losreißen. Dennoch will ich versuchen, in folgender Weise seiner Freigebigkeit zu entsprechen. Ich will das Land in seine Gewalt geben und als sein Vogt darüber sein. Er selbst mag, sooft er will oder es ihm zweckmäßig erscheint, seine Gesandten an mich schicken und er wird mich als den treuesten Verwalter der Einkünfte dieses Landes sehen. So geschah es, daß, was der Dichter als unmöglich bezeichnet hat, daß nämlich „der Parther aus dem Arar und Germanien aus dem Tigris trinkt", durch die Tatkraft des starken Karl, das Hin- und Herreisen seiner Gesandten und das Kommen und Gehen von Haruns Boten von Parthien nach Germanien und von Germanien nach Parthien für Jünglinge, Knaben und Greise nicht bloß möglich, sondern sogar sehr leicht erschien. Dabei bleibt es gleich, welchen der beiden Flüsse des Namens Arar [heutige Saône] die Grammatiker annehmen wollen, den, der in den Rhein [Rhein], oder den, der in die Rhone [Rhône] fließt, weil das Leute verwechseln, die die Gegenden nicht kennen. Zum Zeugnis hierfür will ich ganz Germanien [Germanien] aufrufen: Zur Zeit Eures ruhmreichen Vaters Ludwig [Ludwig I. der Fromme] musste es von jeder Hube königlichen Besitzes einen Denar geben zur Auslösung der christlichen Bewohner des Landes der Verheißung, die darum wegen der alten Herrschaft Eures Ahnherrn Karl und Eures Großvaters Ludwig elendiglich baten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Notker der Stammler, Gesta Karoli 9, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 320-427, S. 391-395.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801" From="801-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika (Tunesien, Algerien, Libyen, Ägypten)</Ort>
+        <Ort>Marmarica</Ort>
+        <Ort>Numidien</Ort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Umayyadisches Reich (Libanon)</Ort>
+        <Ort>Tyros</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Rhein</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Arar/Saône</Ort>
+        <Ort>Rhône</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Freundschaft</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Afrus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Barbarus</Suchwort>
+        <Suchwort>Barbar</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Bestimmung des Emirs vgl. Annales Regni Francorum a. 801, ed. Georg Heinrich Pertz (MGH SS rer. Germ. [6]), Hannover 1895, S. 114, Anm. 1.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="78f5c000-252d-41df-9715-8c52c1f6ae5d" Type="Person">
+          <Name>Emir Ibrahim ibn al-Aghlab</Name>
+        </Entitaet>
+        <Entitaet Id="d6ea04cf-3d62-4139-84df-4e53db245898" Type="Ort">
+          <Name>Marmarica</Name>
+        </Entitaet>
+        <Entitaet Id="f4941d6c-8ea4-4acd-9715-b5d52e80dd7e" Type="Ort">
+          <Name>Numidien</Name>
+        </Entitaet>
+        <Entitaet Id="0943d517-b2e2-4e51-a2a0-569d2f38bbc5" Type="Ort">
+          <Name>Iberien</Name>
+        </Entitaet>
+        <Entitaet Id="2ea12870-08d8-42fa-b251-348328e1a253" Type="Ort">
+          <Name>Tyros</Name>
+        </Entitaet>
+        <Entitaet Id="14422bfb-5579-44c6-831a-79d585be7270" Type="Ort">
+          <Name>Europa</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+        <Entitaet Id="2407f7f8-56c7-40e2-9408-daed26e5ddd0" Type="Anmerkung">
+          <Name>Arar; heutige Saône</Name>
+        </Entitaet>
+        <Entitaet Id="c476aa5d-1e07-4dcd-ba84-697dd61c5477" Type="Ort">
+          <Name>Rhein</Name>
+        </Entitaet>
+        <Entitaet Id="6c6e4886-2504-46d6-9600-f209c2009452" Type="Ort">
+          <Name>Rhône</Name>
+        </Entitaet>
+        <Entitaet Id="805bc4c5-5ac6-437b-9b21-087b8b0e13a3" Type="Ort">
+          <Name>Germanien</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="658145be-e04d-415b-a549-f971acbd6987" Type="Anmerkung">
+          <Name>heutige Saône</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Notker der Stammler, Taten Kaiser Karls des Grossen 12, ed. Haefele 1959, S. 70.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Da Mauren und andere barbarische Völker [um 791] ins fränkische Reich einfallen, bleibt Kaiser Karl I. der Große einige Zeit in Aachen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Interea cum imperator Karolus [Karl I. der Große] propter adventantium frequentiam vel infestationem indomitissimorum Saxonum vel latrocinia pyraticamque Nordmannorum sive Maurorum apud Aquasgrani [Aachen] paulo diutius consedisset, bellum autem contra Hunos a filio eius Pippino [Pippin der Jüngere] gereretur, exeuntes a septentrione barbarę nationes Noricum [Noricum] et orientalem Franciam [Frankenreich] magna ex parte depraedatę sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Solange Kaiser Karl [Karl I. der Große] wegen des häufigen Kommens von Fremden und wegen der Gefährdung durch die unbeugsamen Sachsen und wegen der Plünderungen und Räubereien der Normannen und Mauren etwas länger in Aachen [Aachen] blieb, und während der Krieg gegen die Hunnen von seinem Sohn Pippin [Pippin der Jüngere] geführt wurde, verwüsteten, von Norden kommend, barbarische Völker zu einem großen Teil Noricum [Noricum] und Ostfranken [Frankenreich].</VolltextUebersetzung>
+      <ZitationUebersetzung>Notker der Stammler, Gesta Karoli 12, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 320-427, S. 399.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 791" From="786-01-01" To="796-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="880-890" From="880-01-01" To="890-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Österreich</Ort>
+        <Ort>Frankreich)</Ort>
+        <Ort>Noricum</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>piraticus</Suchwort>
+        <Suchwort>pyraticus</Suchwort>
+        <Suchwort>Seeräuber</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="795e6380-eaf1-4609-b55d-cd8657eaa1d4" Type="Person">
+          <Name>Pippin der Jüngere</Name>
+        </Entitaet>
+        <Entitaet Id="d622e238-3ea9-4237-b9e6-b4d5a14a0796" Type="Ort">
+          <Name>Noricum</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0065</WerkId>
+  <WerkTitel>Vita Sancti Willibaldi</WerkTitel>
+  <Alternativtitel>
+    <Titel>Vita S. Willibaldi</Titel>
+    <Titel>Vita Willibaldi episcopi Eichstetensis</Titel>
+    <Titel>Leben des hl. Willibald</Titel>
+    <Titel>Itinerarium s. Willibaldi in Terram Sanctam</Titel>
+    <Titel>Hodoeporicon</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Hugeburg von Heidenheim</Autor>
+    <Autor>Hugeburc von Heidenheim</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>um 730 - nach 778</LebensdatenVerfasser>
+  <Abfassungszeitraum>778</Abfassungszeitraum>
+  <Abfassungsort>Heidenheim</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Vita Willibaldi episcopi Eichstetensis, ed. Oswald Holder-Egger, in: MGH SS 15, 1, Hannover 1887, S. 86-106.</Editionshinweise>
+  <Werkinformation>Die Vita Sancti Willibaldi ist eine Lebensbeschreibung des Heiligen Willibald, des ersten Bischofs von Eichstätt (gest. 787), verfasst vermutlich 778 noch zu seinen Lebzeiten von einer Nichte Willibalds, Hugeburc (geb. um 730, gest. nach 778). Hugeburc war angelsächsischer Herkunft und ab den 760er Jahre Nonne im Kloster Heidenheim. Die Vita basiert auf mündlichen Berichten des Willibald und erzählt auch von Willibalds Pilgerfahrt ins Heilige Land (723-729).
+Vgl. mit Hinweisen für weiterführende Literatur: Elisabeth Heyse, Art. Hugeburc, in: Lexikon des Mittelalters 5, Sp. 157 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-11]; Vita s. Willibaldi, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02868.html, 2016-11-11]; Hugeburc, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118707892.html, 2016-11-10].
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger 1887, S. 94.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Willibald [ab 745 Bischof von Eichstätt] gelangt mit seinen Gefährten während einer Pilgerfahrt nach Zypern und verweilt dort [seit 16.04.724] für drei Wochen in der Stadt Paphos, bevor er zur syrischen Küstenstadt Antarados – in die Region der Sarazenen – aufbricht.</Inhaltsangabe>
+      <VolltextOriginalsprache>Et inde [Mons Gallianorum] navigantes, venerunt in insulam Cyprum [Zypern], quod est inter Grecos et Sarracinos, ad urbe Pampho [Paphos], et ibi fuerunt 3 ebdomadas paschae post annis circulo. […] Et inde navigantes, venerunt [in] regionem Sarracinorum in urbem Tharrathas [Antarados] secus mare.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Und von da [Mons Gallianorum] fuhren sie zur See weiter und kamen zur Insel Zypern [Zypern], die zwischen den Griechen und den Sarazenen liegt, zur Stadt Pampho [Paphos]. Und sie blieben dort drei Wochen in der österlichen Zeit, nach Ablauf eines Jahres. […] Und von da fuhren sie zu Schiff weiter und kamen in das Gebiet der Sarazenen zur Stadt Tharrathas [Antarados] am Meer.</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leben Willibald’s, des Bischofs von Eichstätt, übers. v. Andreas Bauch, in:Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 23-87, hier S. 49.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="nach 16.04.724" From="724-01-01" To="734-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Zypern</Ort>
+        <Ort>Paphos</Ort>
+        <Ort>Mons Gallianorum</Ort>
+        <Ort>Umayyadisches Reich (Syrien)</Ort>
+        <Ort>Antarados</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Erkundigung</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Vita Willibaldi episcopi Eichstetensis, ed. Bauch, S. 49, Anm. 71, sowie Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger, S. 94.
+Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibald v. Eichstätt, in: Lexikon des Mittelalters 9, Sp. 211-212 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="7b6ab47d-5632-4925-a348-8813b5615fc9" Type="Ort">
+          <Name>Mons Gallianorum</Name>
+        </Entitaet>
+        <Entitaet Id="e32ec5be-afa2-44ff-9abf-253f3fedb754" Type="Ort">
+          <Name>Zypern</Name>
+        </Entitaet>
+        <Entitaet Id="66aaab0b-06f5-4005-a487-d8799d1ea6f1" Type="Ort">
+          <Name>Paphos</Name>
+        </Entitaet>
+        <Entitaet Id="7f5ce30a-4607-4cce-9f6d-d38ee6c9c3e1" Type="Anmerkung">
+          <Name>in</Name>
+        </Entitaet>
+        <Entitaet Id="070d1266-2d68-4033-9b63-088c71951c53" Type="Ort">
+          <Name>Antarados</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger 1887, S. 94.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Willibald [ab 745 Bischof von Eichstätt] und seine Gefährten geraten während ihrer Pilgerreise [im Mai 724] bei Emesa [heutiges Homs] in sarazenische Gefangenschaft. Sie dürfen die Reise erst fortsetzen, nachdem sie die Beweggründe für ihren Aufenthalt in Syrien dargelegt haben.</Inhaltsangabe>
+      <VolltextOriginalsprache>Et inde [Archar] pergentes illi, ambulaverunt ad urbem que vocatur Emessa [Emesa; heutiges Homs] 12 mil.; ibi est aecclesia magna, quam fecit sancta Helena in honore sancti Iohannis baptiste; et caput illius fuit ibi diu, hoc est in Syrim [Syrien]. Tunc erant cum Willibaldo [Bf. Willibald von Eichstätt] 7 contribuli illius, et ille ipse fuit octavus. Confestimque illi pagani Sarracini repperientes, quod adveni et ignoti homines illic venti fuerunt, tulerunt eos et captivos habebant; qui nesciebant, de quale fuerant gente, sed speculatores esse illos estimabant, et captivos eos ducebant ad quendam senem divitem, ut videret et agnosceret, unde essent. Ast ille senex interrogavit illos, unde essent aut quale fungerentur legatione. Tunc illi respondentes, ab exordio totam intimaverunt ei iteneris sui causam. Et ille senex respondens ait: ‘Frequenter hic venientes vidi homines de illis terre partibus istorum contribulos; non querunt mala, sed legem eorum adimplere cupiunt.’ Tum illi inde pergentes, […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Und von da [Archar] zogen sie weiter und wanderten zu einer Stadt, die Emessa [Emesa; heutiges Homs] heißt, zwölf Meilen entfernt. Dort steht eine große Kirche, welche die heilige Helena zu Ehren des hl. Johannes des Täufers errichtete. Und das Haupt desselben befand sich dort lange Zeit, in Syrien [Syrien] nämlich. Damals waren bei Willibald [Bf. Willibald von Eichstätt] sieben seiner Landsleute und er selber war der achte. Und sogleich, als die heidnischen Sarazenen erfuhren, daß Fremdlinge und unbekannte Menschen dorthin gekommen waren, ergriffen sie diese und hielten sie in Haft. Denn sie wußten nicht, von welchem Volke sie waren, sondern glaubten, sie wären Spione. Und sie führten sie als Gefangene zu einem reichen alten Mann, damit dieser sich durch Augenschein vergewissere und in Erfahrung bringe, woher sie wären. Der Greis fragte sie also, woher sie wären und welche Aufträge sie hätten. Daraufhin gaben sie Auskunft und legten ihnen alle Beweggründe ihrer Pilgerreise von Anfang an dar. Und der Greis antwortete und sprach: „Oft sah ich hieher Menschen kommen aus jenen Gegenden der Erde, Glaubensgenossen derselben. Sie wollen nichts Schlimmes, sondern begehren nur, ihr Gesetz zu erfüllen.“ Daraufhin zogen sie von dort weiter […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leben Willibald’s, des Bischofs von Eichstätt, übers. v. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 23-87, hier S. 49, 51.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="724" From="724-01-01" To="724-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Syrien)</Ort>
+        <Ort>Homs</Ort>
+        <Ort>Archar</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Berichterstattung</Schlagwort>
+        <Schlagwort>Freilassung</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Erkundigung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Paganus</Suchwort>
+        <Suchwort>Heide</Suchwort>
+        <Suchwort>Syrim</Suchwort>
+        <Suchwort>Syria</Suchwort>
+        <Suchwort>Syrien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibald v. Eichstätt, in: Lexikon des Mittelalters 9, Sp. 211-212 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Die Datierung ergibt sich aus der zeitlichen Einordnung der vorherigen Quellenstelle, vgl. [0065]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="17cc9535-9ab4-4a5f-8477-31fe3549888c" Type="Ort">
+          <Name>Archar</Name>
+        </Entitaet>
+        <Entitaet Id="6b0588a4-83bc-422a-addf-432064f027dd" Type="Anmerkung">
+          <Name>Emesa; heutiges Homs</Name>
+        </Entitaet>
+        <Entitaet Id="6b7dd679-8d0e-44c4-a2bc-b368dd787db2" Type="Ort">
+          <Name>Syrien</Name>
+        </Entitaet>
+        <Entitaet Id="7d1d80c5-4d0c-4a21-9f01-b175f32ea3f4" Type="Person">
+          <Name>Bf. Willibald von Eichstätt</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger 1887, S. 94f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Als Willibald [ab 745 Bischof von Eichstätt] und seine Gefährten in der Nähe von Emesa [heutiges Homs] um Erlaubnis bitten, den Weg nach Jerusalem fortzusetzen, geraten sie erneut in sarazenische Gefangenschaft: Sie werden durch den Statthalter von Homs [ab Mai 724; vmtl. in Homs] in Kerkerhaft gesetzt, während dieser Zeit von Einheimischen mit Nahrung versorgt und erst nach Fürsprache westlicher Reisender, wie einem Spanier, von dem Kalifen Hisham ibn Abdalmalik von Damaskus freigelassen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…] venerunt ad palatium [nahe Emesa; heutiges Homs], ut rogarent illis viam transire ad Hierusalem [Jerusalem]. Cumque illic veniebant, statim ille preses dixit, quod speculatores fuissent, et precepit illos in carcerem trudi usque ad illum tempus, quo repperiret a rege [Kalif Hisham ibn Abdalmalik], quid fecisset de illorum causa. Cumque illi fuerant in carcere, confestim miro omnipotentis Dei dispensatione, qui pius ubique suos inter tela et tormenta, inter barbaros et belligeros, inter carceres et contumacium catervas suo protegere parma tutosque conservare dignatus est, unus homo fuit ibi negotiator, qui sibi in elemosinam et animae suae redemptionem volebat illos redemere  et de carcere eripere, ut liberi essent pergere in suam voluntatem, et non poterat. Sed econtra cottidie misit illis prandium et cenam, et in quarta feria et in sabbato misit filium suum in carcerem, et eduxit eos ad balneum et iterum introduxit; et dominica die ducebat eos ad aecclesiam per mercimonium, ut de rebus venalibus viderent, quid eorum mente delectaret, et ille tunc suo pretio illis opteneret, quidquid illorum mente aptum foret. Illi cives urbium curiosi iugiter illic venire consueverant illos speculare, qui iuvenes et decori et vestium ornatu induti erant bene. Tunc illis in carcere commorantibus, unus homo de Ispania [Spanien] venit et loquebat cum illis in carcere et diligenter ab illis inquisivit, quid essent aut unde essent. Et illi dixerunt ei omnia secundum ordinem de sua itinere. Ille Ispanius homo habebat fratrem in palatio regis, qui fuit cubicularius regis Sarracinorum. Cumque ille preses, qui eos in carcere mittebat, ad palatium veniebat, et ille Ispanius, qui cum illis in carcere loquebatur, et ille nautor in cuius nave fuerunt, quando pergebant de Cypro [Zypern], omnes simul venerunt coram rege Sarracinorum cui nomen Myrmumni [Kalif Hisham ibn Abdalmalik]. Et cum locutio evenerat de illorum causa, ille Ispanius homo omnia que illi dixerunt ei in carcere suo intimavit fratre et illum rogavit, ut regi indicasset et in subsidia illis foret. Post haec itaque cumque omnes isti tres simul coram rege veniebant et omnia iuxta ordinem intimando illo indicabant de eorum causa, ille rex interrogavit, unde essent; et illi dixerunt: 'De occidentale plaga, ubi sol occasum habet, isti homines veniebant, et nos nescimus ruram citra illis et nihil nisi aquam'. Et ille rex respondit eis dicens: 'Quare nos debemus eos punire? Non habent peccatum contra nos. Da eis viam et sine illos abire!' Alii homines, qui in carcere habebantur, debebant censum reddere unum tremesem, illis fuit concessum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[...] und kamen zu einem Palast [nahe Emesa; heutiges Homs], um dort für sich die Erlaubnis zu erbitten, daß sie den Weg nach Jerusalem [Jerusalem] zurücklegen dürfen. Und als sie dorthin kamen, behauptete sogleich jener Statthalter, daß sie Kundschafter wären, und er gab den Befehl, sie in den Kerker zu werfen bis zu dem Zeitpunkt, an dem er vom König [Kalif Hisham ibn Abdalmalik] erfahren habe, was er in ihrer Angelegenheit tun sollte. Und während sie im Gefängnis waren, erfuhren sie sogleich das wunderbare Walten des Allmächtigen Gottes, der sich gewürdigt hat, in seiner Güte überall die Seinen im Hagel der Geschoße und auf der Folterbank, inmitten barbarischer und kriegsführender Menschen, im Kerker und im Haufen der Verstockten mit seinem Schild zu schirmen und unversehrt zu erhalten. Ein Mann lebte dort, ein Kaufmann, der zu seinem Verdienste und zur Rettung seiner Seele sie loskaufen und aus dem Kerker befreien wollte, damit sie in Freiheit in der Lage versetzt würden, nach ihrem Gutdünken weiterzupilgern. Und er vermochte es nicht. Jedoch schickte er ihnen dafür jeden Tag das Mittag- und Abendessen. Und am Mittwoch und am Samstag sandte er seinen Sohn in das Gefängnis. Und der führte sie heraus in das Bad und dann wieder zurück. Und am Sonntag nahm er sie mit zur Kirche über den Markt, damit sie unter den verkäuflichen Waren das sehen sollten, was ihren Sinn erfreute, und damit er sodass aus seiner eigenen Tasche ihnen das erstände, was nur irgendwie ihrem Wunsche entsprach.  Die Bürger der Stadt pflegten nun voll Neugierde jedesmal dorthin zu kommen, um sie zu sehen, denn sie waren jung und von gutem Aussehen und mit schönen Gewändern wohl ausgestattet. Alsdann, während sie noch im Gefängnis weilten, kam ein Mann aus Spanien [Spanien] zu ihnen und er unterhielt sich mit ihnen im Kerker und aufmerksam erkundigte er sich bei ihnen, wer sie seien und woher sie kämen. Und sie berichteten ihm alles der Reihe nach über ihre Reise. Jener Mann aus Spanien hatte einen Bruder im Palast des Königs. Dieser war Kämmerer des Königs der Sarazenen. Und als der Statthalter, der sie in Haft genommen hatte, in den Palast kam, da er schien auch der Spanier, der mit ihnen im Gefängnis eine Unterredung hatte, und der Kapitän, auf dessen Schiff sie waren, als sie von Cypern [Zypern] weiterfuhren. Sie alle fanden sich zugleich vor dem König der Sarazenen ein, der die Bezeichnung Myrmumni [Kalif Hisham ibn Abdalmalik] führte. Und als nun das Gespräch auf ihre Angelegenheit kam, da teilte der Spanier alles, was sie ihm Gefängnis gesagt hatten, seinem Bruder mit und bat ihn, er möchte es dem König vortragen, auf daß es ihnen zum Schutze gereiche. Als sie nun hierauf alle drei miteinander vor den König kamen und ihm alles der Reihe nach eingehend über deren Angelegenheit vortrugen, da fragte sie der König, woher sie wären. Und sie antworteten ihm: 'Aus dem Lande im Westen, wo die Sonne ihren Untergang hat, sind jene Männer gekommen. Und wir kennen kein Land mehr, das dahinterliegt, und nichts als Wasser.' Und der König antwortete ihnen und sprach: 'Warum sollen wir sie bestrafen? Sie haben kein Verschulden wider uns. Gib ihnen den Weg frei und laß sie ziehen!' Andere Personen, die in Haft gehalten wurden, mußten als Abgabe eine Drittelmünze bezahlen, ihnen aber wurde sie erlassen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leben Willibald’s, des Bischofs von Eichstätt, übers. v. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 23-87, hier S. 51, 53.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="724" From="724-01-01" To="724-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Syrien)</Ort>
+        <Ort>Homs</Ort>
+        <Ort>Damaskus</Ort>
+        <Ort>Zypern</Ort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Fürsprache</Schlagwort>
+        <Schlagwort>Gnadengesuch</Schlagwort>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+        <Schlagwort>Freilassung</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Befreiung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>barbarus</Suchwort>
+        <Suchwort>babarisch</Suchwort>
+        <Suchwort>Ispania</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Hierusalem</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Kalifen von Damaskus führten seit Kalif Omar (634-644) die Bezeichnung ‚Emir al Mu'minin‘ – d.h. ‚Fürst der Gläubigen‘ –, von welcher sich die Wortbildung ‚Myrmumni‘ abgeleitet hat, vgl. hierzu Das Leben Willibald’s, des Bischofs von Eichstätt, ed. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 53, Anm. 85.
+Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibald v. Eichstätt, in: Lexikon des Mittelalters 9, Sp. 211-212 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Die Datierung ergibt sich aus der zeitlichen Einordnung der vorherigen Quellenstellen, vgl. [0065]-[0001], [0065]-[0002].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8e1e7424-4a60-4546-a948-8232ea68a49c" Type="Anmerkung">
+          <Name>nahe Emesa; heutiges Homs</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="88ffa9f4-efcd-4bc3-bb4d-56e48e4748b4" Type="Person">
+          <Name>Kalif Hisham ibn Abdalmalik</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="e32ec5be-afa2-44ff-9abf-253f3fedb754" Type="Ort">
+          <Name>Zypern</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger 1887, S. 95.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem Willibald [ab 745 Bischof von Eichstätt] und seine Gefährten auf der Insel Zypern gewesen sind, welche zwischen den Ländern der Griechen und Sarazenen liegt, verweilen sie eine Woche lang [im April/Mai 724] in der syrischen Stadt Damaskus.</Inhaltsangabe>
+      <VolltextOriginalsprache>Illi Cypri [Zypern] sedebant inter Grecis et Sarracinis et inermes fuerant, qui pax multa fuit et conciliatio inter Sarracinis et Grecis. Magna et lata regio fuit illic, et 12 episcoporum parrochia est ibi. Confestimque illi cum licentia levantes se, perrexerunt in Damascum [Damaskus] 100 milia; et sanctus Annanias requiescit ibi; illud est in terra Syrim [Syrien]; ibi erant unam ebdomadam.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Die Bewohner von Cypern [Zypern] wohnten zwischen den Griechen und den Sarazenen und waren ohne Waffen, weil seit langem Friede und Aussöhnung zwischen den Sarazenen und den Griechen herrschte. Groß und weit war jenes Land und die Sprengel von 12 Bischöfen befinden sich dort. Und unverzüglich brachen sie mit der erteilten Genehmigung auf. Und sie pilgerten nach Damaskus, hundert Meilen weit. Und dort ruht der hl. Annanias. Das ist im Lande Syrien [Syrien]. Dort blieben sie eine Woche lang.</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leben Willibald’s, des Bischofs von Eichstätt, übers. v. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 23-87, hier S. 53.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="724" From="724-01-01" To="724-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Syrien)</Ort>
+        <Ort>Damaskus</Ort>
+        <Ort>Zypern</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Erkundigung</Schlagwort>
+        <Schlagwort>Geleitbrief</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Damascus</Suchwort>
+        <Suchwort>Damaskus</Suchwort>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Syrim</Suchwort>
+        <Suchwort>Syria</Suchwort>
+        <Suchwort>Syrien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibald v. Eichstätt, in: Lexikon des Mittelalters 9, Sp. 211-212 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Die Datierung der Quellenstelle, die eine Rückschau des Aufenthalts der Pilgerer auf Zypern liefert, ergibt sich sowohl aus der zeitlichen Einordnung der vorherigen Quellenstellen, vgl. [0065]-[0001], [0065]-[0002], [0065]-[0003], als auch aus der Anmerkung des Editors, vgl. Das Leben Willibald’s, des Bischofs von Eichstätt, ed. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 53, Anm. 86.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="e32ec5be-afa2-44ff-9abf-253f3fedb754" Type="Ort">
+          <Name>Zypern</Name>
+        </Entitaet>
+        <Entitaet Id="89a2e83a-f089-4d9d-9871-724f4a8eb5a0" Type="Ort">
+          <Name>Damaskus</Name>
+        </Entitaet>
+        <Entitaet Id="6b7dd679-8d0e-44c4-a2bc-b368dd787db2" Type="Ort">
+          <Name>Syrien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger 1887, S. 95.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Willibald [ab 745 Bischof von Eichstätt] und seine Gefährten gelangen [nach Mai 724] nach Nazareth und bewundern jene Kirche [vmtl. Verkündigungskirche, s. Anm.], die in den Jahren zuvor von Sarazenen zerstört werden sollte.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ibi est nunc aecclesia [vmtl. Verkündigungskirche, s. Anm.]; et ille vicus, in quo est aecclesia, id est Nazareth [Nazareth]. Illam aecclesiam christiani homines sepe conparabant ad paganis Sarracinis, qui illi volebant eam destruere.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Dort steht jetzt eine Kirche [vmtl. Verkündigungskirche, s. Anm.]. Und jenes Dorf, in dem die Kirche sich befindet, ist Nazareth [Nazareth]. Diese Kirche haben die Christen oftmals von den heidnischen Sarazenen losgekauft, weil diese sie zerstören wollten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leben Willibald’s, des Bischofs von Eichstätt, übers. v. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 23-87, hier S. 55.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="724" From="724-01-01" To="724-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Nazareth</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Paganus</Suchwort>
+        <Suchwort>Heide</Suchwort>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vermutlich ist in der Quellenstelle die Rede von der Verkündigungskirche, eine frühchristliche Basilika, die zwischen 326 und 336 im Auftrag von Kaiser Konstantin erbaut worden ist, vgl. hierzu Das Leben Willibald’s, des Bischofs von Eichstätt, ed. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 55, Anm. 90.
+Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibald v. Eichstätt, in: Lexikon des Mittelalters 9, Sp. 211-212 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Die Datierung ergibt sich aus der zeitlichen Einordnung der vorherigen Quellenstellen, vgl. [0065]-[0001], [0065]-[0002], [0065]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ed34e6fa-1470-44a4-bc56-1ba9d8049dd0" Type="Anmerkung">
+          <Name>vmtl. Verkündigungskirche, s. Anm.</Name>
+        </Entitaet>
+        <Entitaet Id="5f0b16e2-6a47-4b3f-b97d-d2cb90fc0124" Type="Ort">
+          <Name>Nazareth</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger 1887, S. 100.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Als Willibald [ab 745 Bischof von Eichstätt] aufgrund einer schweren Erkrankung während der Fastenzeit [im Februar/März 726] in der syrischen Stadt Salaminias verweilt, versuchen seine Gefährten erfolglos den Kalifen Hisham ibn Abdalmalik von Damaskus ausfindig zu machen, um ihn um Erlaubnis für ihre Weiterreise zu bitten. Anschließend ziehen sie eine Woche vor Ostern [ab 17.03.726] gemeinsam mit Willibald weiter nach Emesa [heutiges Homs], erhalten dort Geleitbriefe vom Statthalter und begeben sich nach Damaskus.</Inhaltsangabe>
+      <VolltextOriginalsprache>Et inde [Jerusalem] pergit [Bf. Willibald von Eichstätt] super 300 milia ad urbem Emesam [Emesa; heutiges Homs] in Syriae [Syrien]; et inde venit ad urbe Salamaitha [Salaminias], illa est in extremis finibus Syrium [Syrien], et ibi erat ille totum quadragensimi tempus, quia infirmus fuit et non poterat pergere. Socii eius, qui cum eo erant in comitatu illius, pergerunt ad regem Sarracinorum nomine Myrmumni [Kalif Hisham ibn Abdalmalik] et voluerunt rogare illis epistolam, ut pergerent, et non poterant invenire regem, qui ipse fugerat foras extra regionem illam infirmitatem atque cladem, quae erat super regionem illam. Cumque illi non invenientes regem, veniebant iterum, et illic morantes simul in Salamaitha [Salaminias] usque dum una ebdomada ante pascha. Tunc venerunt iterum ad Emesam et rogaverunt illum presem dare illis epistolam, et dedit illis epistolam duobus et duobus. Illic non poterant simul pergere, sed duos et duos, quia facilius sic potuerunt alimenta obtinere illis. Et tunc venerunt in Damasco [Damaskus] […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Und von da [Jerusalem] pilgerte er [Bf. Willibald von Eichstätt] über 300 Meilen zur Stadt Emesa [Emesa; heutiges Homs] in Syrien. Und von da kam er zur Stadt Salamaitha [Salaminias]. Diese liegt an der äußersten Grenze Syriens [Syrien]. Und dort verweilte er die ganze Fastenzeit, weil er krank war und nicht weiter pilgern konnte. Seine Gefährten, die mit ihm in seiner Gefolgschaft waren, reisten zum König der Sarazenen, namens Myrmumni [Kalif Hisham ibn Abdalmalik] und wollten ihn für sich um einen Reisepaß bitten, um weiterziehen zu können. Und sie konnten den König nicht auffinden, der selber aus jener Gegend vor der Krankheit und dem Unglück geflohen war, das über jenes Land gekommen war. Und als die den König nicht finden konnten, kamen sie zurück. Und sie blieben dort beisammen in Salamaitha [Salaminias], bis eine Woche vor Ostern. Dann kamen sie abermals nach Emesa. Und sie baten den dortigen Statthalter, er möchte ihnen einen Geleitbrief geben. Und er gab ihnen einen Paß zu zwei und zweien. Dort konnten sie nicht zusammen reisen, sondern zu zwei und zweien, weil sie auf diese Weise leichter Lebensmittel für sich erhalten konnten. Und alsdann kamen sie nach Damaskus [Damaskus].</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leben Willibald’s, des Bischofs von Eichstätt, übers. v. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 23-87, hier S. 67.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="726" From="726-01-01" To="726-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Umayyadisches Reich (Syrien)</Ort>
+        <Ort>Homs</Ort>
+        <Ort>Damaskus</Ort>
+        <Ort>Salaminias</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Seuche</Schlagwort>
+        <Schlagwort>Geleitbrief</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Krankheit</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Syria</Suchwort>
+        <Suchwort>Syrien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Das Leben Willibald’s, des Bischofs von Eichstätt, ed. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 67, Anm. 173, sowie Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger, S. 100.
+Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibald v. Eichstätt, in: Lexikon des Mittelalters 9, Sp. 211-212 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].
+Zur Bedeutung des Beinamens Myrmumni vgl. [0065]-[0003].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="7d1d80c5-4d0c-4a21-9f01-b175f32ea3f4" Type="Person">
+          <Name>Bf. Willibald von Eichstätt</Name>
+        </Entitaet>
+        <Entitaet Id="dfaa8983-8bee-4a63-9253-4aacee02ee0a" Type="Anmerkung">
+          <Name>Emesa; heutiges Homs</Name>
+        </Entitaet>
+        <Entitaet Id="6b7dd679-8d0e-44c4-a2bc-b368dd787db2" Type="Ort">
+          <Name>Syrien</Name>
+        </Entitaet>
+        <Entitaet Id="13e2e6e2-20a0-4c67-aed5-e05c8cadb509" Type="Ort">
+          <Name>Salaminias</Name>
+        </Entitaet>
+        <Entitaet Id="88ffa9f4-efcd-4bc3-bb4d-56e48e4748b4" Type="Person">
+          <Name>Kalif Hisham ibn Abdalmalik</Name>
+        </Entitaet>
+        <Entitaet Id="89a2e83a-f089-4d9d-9871-724f4a8eb5a0" Type="Ort">
+          <Name>Damaskus</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger 1887, S. 103f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Willibald [ab 745 Bischof von Eichstätt] berichtet Papst Gregor III. während eines Aufenthalts in Rom [739/740] von seiner beinahe sieben Jahre [von Ostern 723 bis Herbst 729] andauernden Pilgerreise nach Osten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Tunc [Rom] ille sacer apostolice sedis pontifex Gregorius III [Papst Gregor III.] venerandum virum Willibaldum [Bf. Willibald von Eichstätt] illic esse repperiens, precepit illum ad se venire. Cumque illic veniebat ad sanctum summae sacerdotalis pontifice, statim prono vultu in terram se vergebat et illum salutabat. Protinusque ille pius populorum speculator piis verborum vicissitudinis iteneris sui ordinem investigare coepit ab illo, quomodo septuplum annorum calculum in externis terminarum telluris probando peragraret, aut quomodo multa temporum spatia perniciosas paganorum pravitates penetrando evaseret, diligenter ab illo sciscitabat. Statimque tunc ille agilis Christi vernaculus glorioso gentium gubernatore sapiente sermonum industria humiliter edisserendo serie sui iteneris ex ordine intimavit, [...].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Damals erfuhr der ehrwürdige Hohepriester auf dem päpstlichen Stuhl, Gregor III. [Papst Gregor III.], daß der verehrungswürdige, wagemutige Willibald [Bf. Willibald von Eichstätt] sich dort [Rom] aufhielt und ließ ihn zu sich kommen. Und als er dorthin gekommen war, zu dem hl. Bischof mit der höchsten Priesterwürde, da warf er sich mit dem Antlitz auf die Erde nieder und huldigte ihm. Und unverzüglich begann der fromme Wächter der Völker in gütigem Zwiegespräch den Verlauf seiner Reise von ihm zu erfragen, wie er den siebenfachen Prüfstein der Jahre in den Fernen Grenzgebieten der Erde zu seiner Erprobung bestanden habe und wie er in den großen Zeiträumen der verderbenbringenden Bosheit der Heiden, da er tief in deren Gebiet eindrang, entging. Darüber erkundigte er sich sorgfältig bei ihm. Und sogleich teilte alsdann der unermüdliche Diener Christi dem glorreichen Lenker der Völker im weisen Eifer der Rede und in demütiger Berichterstattung den Verlauf seiner Reise der Reihe nach mit: [...].</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leben Willibald’s, des Bischofs von Eichstätt, übers. v. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 23-87, hier S. 77, 79.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="723-729" From="723-01-01" To="729-12-31" />
+        <Datum Text="739/740" From="739-01-01" To="739-12-31" />
+        <Datum Text="739/740" From="740-01-01" To="740-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Berichterstattung</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Paganus</Suchwort>
+        <Suchwort>Heide</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung des Treffens zwischen Papst Gregor III. und Willibald vgl. Vita Willibaldi episcopi Eichstetensis, ed. Holder-Egger, S. 104. Die Dauer von Willibalds gesamter Pilgerreise wird hingegen aufgeführt bei: Das Leben Willibald’s, des Bischofs von Eichstätt, ed. Andreas Bauch, in: Quellen zur Geschichte der Diözese Eichstätt 1: Biographien der Gründungszeit, hg. von dems. (Eichstätter Studien 19), Eichstätt 21984, S. 77, Anm. 235.
+Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibald v. Eichstätt, in: Lexikon des Mittelalters 9, Sp. 211-212 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="ff60ec24-ba59-42bb-9405-ba631da9051f" Type="Person">
+          <Name>Papst Gregor III.</Name>
+        </Entitaet>
+        <Entitaet Id="7d1d80c5-4d0c-4a21-9f01-b175f32ea3f4" Type="Person">
+          <Name>Bf. Willibald von Eichstätt</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

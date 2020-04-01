@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0058</WerkId>
+  <WerkTitel>Annales</WerkTitel>
+  <Alternativtitel>
+    <Titel>Annalen</Titel>
+    <Titel>Jahrbücher</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Flodoardus canonicus Remensis</Autor>
+    <Autor>Flodoard von Reims</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>893/894-966</LebensdatenVerfasser>
+  <Abfassungszeitraum>919-966</Abfassungszeitraum>
+  <Abfassungsort>Reims</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Westfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Les Annales de Flodoard, ed. Philippe Lauer (Collection de Textes pour servir a l’étude et a l’enseignement de l’histoire), Paris 1905.</Editionshinweise>
+  <Werkinformation>Die Annales des Flodoard von Reims (geb. 893/94, gest. 966) sind zeitgleich entstandene Notizen für die Jahre 919 bis 966, die verlässlich über die Geschichte des Westfrankenreiches, Lothringens und – wenngleich weniger ausführlich – des Ostfrankenreiches berichten.
+Vgl. mit Hinweisen für weiterführende Literatur: Peter Christian Jacobsen, Art. Flodoard v. Reims, in: Lexikon des Mittelalters 4, Sp. 549-550 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Annales (Flodoard von Reims), in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02239.html, 2016-11-10]; Flodoardus canonicus Remensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118534009.html, 2016-11-10]; Régis Rech, Art. Flodoard of Reims, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 623f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Flodoard, Annales a. 921, ed. Lauer 1905, S. 5.</Zitation>
+      <ZeitangabeQuelle>921</ZeitangabeQuelle>
+      <Inhaltsangabe>Eine große Zahl Engländer wird 921 auf dem Weg nach Rom in den Alpen von Sarazenen getötet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Anglorum Romam [Rom] proficiscentium plurimi inter angustias Alpium [Alpen] lapidibus a Sarracenis sunt obruti.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="921" From="921-01-01" To="921-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+        <Ort>Burgund</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Flodoard, Annales a. 923, ed. Lauer 1905, S. 19.</Zitation>
+      <ZeitangabeQuelle>923</ZeitangabeQuelle>
+      <Inhaltsangabe>Viele Engländer werden im Jahr 923 auf der Pilgerreise zum Grab des heiligen Petrus in den Alpen von Sarazenen getötet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Multitudo Anglorum limina sancti Petri [Rom] orationis gratia petentium inter Alpes [Alpen] a Sarracenis trucidatur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="923" From="923-01-01" To="923-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+        <Ort>Burgund</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Flodoard, Annales a. 929, ed. Lauer 1905, S. 44f.</Zitation>
+      <ZeitangabeQuelle>929</ZeitangabeQuelle>
+      <Inhaltsangabe>929 blockieren Sarazenen mehrere Alpenpässe und hindern Romreisende am Übergang.</Inhaltsangabe>
+      <VolltextOriginalsprache>Viae Alpium [Alpen] a Sarracenis obsessae, a quibus multi Romam [Rom] proficisci volentes, impediti revertuntur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="929" From="929-01-01" To="929-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+        <Ort>Burgund</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Blockade</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Flodoard, Annales a. 931, ed. Lauer 1905, S. 47.</Zitation>
+      <ZeitangabeQuelle>931</ZeitangabeQuelle>
+      <Inhaltsangabe>931 werden Sarazenen, die Beutezüge nach Italien unternehmen, von byzantinischen Truppen bis nach La Garde-Freinet verfolgt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Graeci Sarracenos per mare insequentes usque in Fraxinidum [La Garde-Freinet] saltum, ubi erat refugium ipsorum et unde egredientes Italiam sedulis preadabantur incursibus, Alpibus [Alpen] etiam occupatis, celeri, Deo propitio, internecione proterunt, quietam reddentes Alpibus Italiam [Italien].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="931" From="931-01-01" To="931-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>La Garde-Freinet</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Burgund</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Verfolgung</Schlagwort>
+        <Schlagwort>Gegenschlag</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Fraxinidum</Suchwort>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Flodoard, Annales a. 931, ed. Lauer 1905, S. 48.</Zitation>
+      <ZeitangabeQuelle>931</ZeitangabeQuelle>
+      <Inhaltsangabe>Erzbischof Robert von Tours wird 931 zusammen mit seinen Begleitern auf der Rückreise von Rom in den Alpen getötet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Rotbertus [Ebf. Robert von Tours], episcopus Turonensis aecclesiae, Roma [Rom] remeans, sub Alpibus [Alpen] noctu infra tentoria cum comitantibus secum interimitur a latronibus.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="931" From="931-01-01" To="931-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>-</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Bezüglich der Ermordung des Robert von Tours gehen Oehlmann, Poupardin und Wenner davon aus, dass der Erzbischof von Sarazenen überfallen wurde, vgl. Ernst Oehlmann, Die Alpenpässe im Mittelalter, in: Jahrbuch für Schweizerische Geschichte 3 (1878), S. 165-289, hier S. 211; René Poupardin, Le royaume de Bourgogne (888-1038). Etudes sur les origins du royaume d’Arles (Bibliothèque de l’Ecole des Hautes Etudes. 4. Section Sciences Historiques et Philoloques 163), Paris 1907, S. 91; Manfred W. Wenner, The Arab/Muslim presence in medieval Central Europe, in: International journal of middle east studies 12 (1980), S. 59-79, hier S. 60.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="63d048d4-0d9a-46d2-b2f1-78e1a75c085c" Type="Person">
+          <Name>Ebf. Robert von Tours</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Flodoard, Annales a. 933, ed. Lauer 1905, S. 57.</Zitation>
+      <ZeitangabeQuelle>933</ZeitangabeQuelle>
+      <Inhaltsangabe>933 belagert König Hugo von Italien Rom. Im gleichen Jahr besetzen Sarazenen die Alpenpässe und plündern das Umland.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hugo rex Italiae [Hugo I.] Romam [Rom] obsidet; et Sarraceni meatus Alpium [Alpen] occupant et vicina quaeque loca depraedantur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="933" From="933-01-01" To="933-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>Burgund</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f6879eeb-31fa-491a-945b-f4e3af4cbfe2" Type="Person">
+          <Name>Hugo I.</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Flodoard, Annales a. 936, ed. Lauer 1905, S. 65.</Zitation>
+      <ZeitangabeQuelle>936</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Jahr 936 überfallen Sarazenen Alemannien und töten auf dem Rückweg viele Romreisende.</Inhaltsangabe>
+      <VolltextOriginalsprache>Sarraceni in Alamanniam [Alamannien] praedatum pergunt, et revertentes multos Romam [Rom] petentes interimunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="936" From="936-01-01" To="936-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alemannien</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="002088ba-31a0-41bd-9b3a-8c041e8a94cd" Type="Ort">
+          <Name>Alamannien</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Flodoard, Annales a. 939, ed. Lauer 1905, S. 74.</Zitation>
+      <ZeitangabeQuelle>939</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Jahr 939 wird eine Gruppe von Reisenden auf dem Weg nach Rom von Sarazenen überfallen und getötet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Collecta diversorum hominum, quae Romam [Rom] petebat, a Sarracenis pervasa et interempta est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="939" From="939-01-01" To="939-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Flodoard, Annales a. 940, ed. Lauer 1905, S. 79.</Zitation>
+      <ZeitangabeQuelle>940</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Jahr 940 wird eine Gruppe Reisender von Übersee und aus Gallien von Sarazenen, die den Bezirk des Klosters Saint-Maurice d'Agaune besetzt haben, auf der Rückkehr von Rom am Übergang über die Alpen gehindert und viele von ihnen ermordet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno acies diversorum colorum in caelo visae sunt, mense decembrio, nocte dominica. Collecta Transmarinorum sed et Gallorum [Gallien], quae Romam [Rom] petebat, revertitur, occisis eorum nonnullis a Sarracenis, nec potuit Alpes [Alpen] transire propter Sarracenos qui vicum monasterii Sancti Mauricii occupaverant.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="940" From="940-01-01" To="940-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Saint-Maurice d'Agaune</Ort>
+        <Ort>Burgund</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114. Vgl. zur Zerstörung des Klosters Saint-Maurice d‘Agaune, dem rudolfingischen Hausstift, im Jahr 940 Theodor Schieffer, Historisch-diplomatische Einleitung, in: MGH DD Burg., München 1977, S. 11ff.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Flodoard, Annales a. 942, ed. Lauer 1905, S. 84.</Zitation>
+      <ZeitangabeQuelle>942</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Jahr 942 versucht König Hugo I. von Italien die Sarazenen aus der Festung La Garde-Freinet zu vertreiben.</Inhaltsangabe>
+      <VolltextOriginalsprache>Idem vero rex Hugo [Hugo I.] Sarracenos de Fraxinido [La Garde-Freinet] eorum munitione disperdere conabatur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="942" From="942-01-01" To="942-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Westfrankenreich (Frankreich)</Ort>
+        <Ort>La Garde-Freinet</Ort>
+        <Ort>Burgund</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Fraxinidum</Suchwort>
+        <Suchwort>Fraxinetum</Suchwort>
+        <Suchwort>La Garde-Freinet</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. Rudolf Köpke – Ernst Dümmler, Kaiser Otto der Große (Jahrbücher der deutschen Geschichte), Leipzig 1876, S. 114.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f6879eeb-31fa-491a-945b-f4e3af4cbfe2" Type="Person">
+          <Name>Hugo I.</Name>
+        </Entitaet>
+        <Entitaet Id="dd931c19-4b3f-4431-9fca-62eeb12226e3" Type="Ort">
+          <Name>La Garde-Freinet</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Flodoard, Annales a. 951, ed. Lauer 1905, S. 132.</Zitation>
+      <ZeitangabeQuelle>951</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Jahr 951 blockieren Sarazenen einen Alpenpass und lassen Romreisende nur gegen Tribut passieren.</Inhaltsangabe>
+      <VolltextOriginalsprache>Sarraceni meatum Alpium [Alpen] obsidentes, a viatoribus Romam [Rom] petentibus tributum accipiunt, et sic eos transire permittunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="951" From="951-01-01" To="951-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="910-920" From="910-01-01" To="920-12-31" />
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>Alpen</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Blockade</Schlagwort>
+        <Schlagwort>Tribut</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. René Poupardin, Le Royaume de Provence sous les Carolingiens (855-933), Paris 1901 (ND Genf – Marseille 1974), S. 267f.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="d59a2dcd-2976-447a-a7c6-a1356b02e43d" Type="Ort">
+          <Name>Alpen</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

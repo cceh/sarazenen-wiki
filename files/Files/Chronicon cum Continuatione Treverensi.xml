@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0008</WerkId>
+  <WerkTitel>Chronicon cum Continuatione Treverensi</WerkTitel>
+  <Alternativtitel>
+    <Titel>Chronica</Titel>
+    <Titel>Chronik</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Regino von Prüm</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>vor 892-915</LebensdatenVerfasser>
+  <Abfassungszeitraum>900-908</Abfassungszeitraum>
+  <Abfassungsort>Trier</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Regino von Prüm, Chronicon cum Continuatione Treverensi, ed. Friedrich Kurze (MGH SS rer. Germ. [50]), Hannover 1890.</Editionshinweise>
+  <Werkinformation>Regino von Prüm vollendete seine Chronik, die von Christi Geburt bis in die ersten Jahre des 10. Jahrhunderts reicht, 906 in Trier und widmete sie Bischof Adalbero von Augsburg. Es existiert eine Fortsetzung, vermutlich vom späteren Erzbischof Adalbert von Magdeburg verfasst.
+Vgl. auch mit Hinweisen für weiterführende Literatur Regino Prumiensis abbas, Chronica, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04024.html, 2016-08-11]; Johannes Laudage, Art. Regino, in: Lexikon des Mittelalters 7, Sp. 579-580 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-11]; Stephen Penn, Art. Regino of Prüm, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1265f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Regino, Chronicon a. 576-604, ed. Kurze 1890, S. 30.</Zitation>
+      <ZeitangabeQuelle>576-604</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen fallen zwischen 576-604 [641-668] in Syrakus ein.</Inhaltsangabe>
+      <VolltextOriginalsprache>Haec audiens gens Sarracenorum, quae iam Alexandriam [Alexandria] et Egyptum [Ägypten] pervaserat, subito cum multis navibus venientes Siciliam [Sizilien] invadunt, Siracusas [Syrakus] ingrediuntur multamque stragem faciunt populorum, auferentes quoque predam nimiam et omnem illum, quem Constantinus a Roma [Rom] abstulerat, ornatum in aere et diversis speciebus, ad Alexandriam [Alexandria] reversi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="641-668" From="641-01-01" To="668-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="640-650" From="640-01-01" To="650-12-31" />
+        <Datum Text="650-660" From="650-01-01" To="660-12-31" />
+        <Datum Text="660-670" From="660-01-01" To="670-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+        <Ort>Sizilien</Ort>
+        <Ort>Syrakus</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Egypto</Suchwort>
+        <Suchwort>Aegypto</Suchwort>
+        <Suchwort>Ägypten</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Sicicilia</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilie</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+        <Entitaet Id="b438b117-135e-4f05-98f1-9c1780bed98f" Type="Ort">
+          <Name>Ägypten</Name>
+        </Entitaet>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+        <Entitaet Id="51b3b037-c7dd-436b-9739-64705514b6a2" Type="Ort">
+          <Name>Syrakus</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Regino, Chronicon a. 605-611, ed. Kurze 1890, S. 31.</Zitation>
+      <ZeitangabeQuelle>605-611</ZeitangabeQuelle>
+      <Inhaltsangabe>Auf Befehl des byzantinischen Kaisers Herakleios II. lässt Dagobert I., König der Franken, 605-611 [629-639] alle Juden taufen oder vertreiben. Dem Kaiser war ein Zeichen erschienen, wonach sein Reich durch die beschnittenen Völker zerstört werden würde. Laut Regino von Prüm geht die Gefahr jedoch nicht von Juden, sondern von Sarazenen aus.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eo anno legati regis Dagoberti [König Dagobert I.] Servatus et Paternus a Constantinopoli [Konstantinopel] regressi sunt, petiitque imperator Dagobertum, ut omnes Iudeos regni sui secundum fidem catholicam baptizare preciperet aut de regno expelleret, siquidem in siderum signis cognoverat, quod a circumcisis gentibus divino nutu eius imperium esset vastandum. Et rex quidem hoc summo peregit studio, sed imperatori non de Iudeis, sed de Sarracenis circumcisis fuerat demonstratum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="629-639" From="629-01-01" To="639-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Missionierung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Vorzeichen</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Dagobert I. regierte von 629 bis 639, Herakleios II. von 610 bis 641. Daher ist die Datierung des Editors (668-685) nicht überzeugend und die Datierung Nonns (629-639) anzunehmen, vgl. hierzu Ulrich Nonn, Art. Dagobert I., merowing. Kg., in: Lexikon des Mittelalters 3, Sp. 429-430 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-04-19]; Peter Schreiner, Art. Herakleios, in: Lexikon des Mittelalters 4, Sp. 2140-2141 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-04-19].
+Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="d1fd66c4-69b6-48d7-a1c7-8669265e6ebf" Type="Person">
+          <Name>König Dagobert I.</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Regino, Chronicon a. 612-631, ed. Kurze 1890, S. 32.</Zitation>
+      <ZeitangabeQuelle>612-631</ZeitangabeQuelle>
+      <Inhaltsangabe>Der byzantinische Kaiser Justinian II. erobert 612-631 [685-695] Afrika und schließt mit den dort ansässigen Sarazenen Frieden.</Inhaltsangabe>
+      <VolltextOriginalsprache>Iustinianus [Justinian II.] Africam [Afrika] a Sarracenis abstulit et cum eisdem pacem terra marique fecit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="685-695" From="685-01-01" To="695-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="680-690" From="680-01-01" To="690-12-31" />
+        <Datum Text="690-700" From="690-01-01" To="700-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="757ff4ec-5737-47da-8812-aa5694b245b8" Type="Person">
+          <Name>Justinian II.</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Regino, Chronicon a. 650-653, ed. Kurze 1890, S. 35f.</Zitation>
+      <ZeitangabeQuelle>650-653</ZeitangabeQuelle>
+      <Inhaltsangabe>Der byzantinische Kaiser Anastasios II. führt 650-653 [713-716] seine Flotte in Alexandria gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Anastasius [Anastasios II.] imperator classem in Alexandriam [Alexandria] contra Sarracenos direxit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="713-716" From="713-01-01" To="716-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b79a56d5-e019-44d8-a040-d5232e72d4de" Type="Person">
+          <Name>Anastasios II.</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Regino, Chronicon a. 655-718, ed. Kurze 1890, S. 36.</Zitation>
+      <ZeitangabeQuelle>655-718</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen belagern zwischen 655-718 [718-725/vor 725] für drei Jahre Konstantinopel.</Inhaltsangabe>
+      <VolltextOriginalsprache>Huius temporibus Sarracenorum gens cum inmenso exercitu veniens Constantinopolim [Konstantinopel] circumdedit ac per continuum triennium obsedit, donec civibus multa instantia ad Deum clamantibus plurimi eorum fame, frigore, bello pestilentiaque perirent ac sic pertesi obsidionis abscenderent.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="718-725/vor 725" From="718-01-01" To="725-12-31" />
+        <Datum Text="718-725/vor 725" From="718-01-01" To="725-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Krankheit</Schlagwort>
+        <Schlagwort>Seuche</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Regino, Chronicon a. 655-718, ed. Kurze 1890, S. 36f.</Zitation>
+      <ZeitangabeQuelle>655-718</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen kommen 655-718 [718-732] mit Frauen und Kindern aus Spanien nach Aquitanien, um sich dort niederzulassen. Erfolgreich werden sie [732] vom fränkischen Hausmeier Karl Martell und Herzog Eudo von Aquitanien geschlagen und vertrieben.</Inhaltsangabe>
+      <VolltextOriginalsprache>Septimo decimo anno Sarraceni ex Hispania [Spanien] cum uxoribus et parvulis venientes Aquitaniam [Aquitanien] Galliae [Gallien] provinciam quasi in ea habitaturi intrant. Carolus [Karl Martell] quidem, ut dictum est, cum Eudone Aquitaniae [Herzog Eudo von Aquitanien] principe tunc discordiam habebat; qui tamen in unum se coniungentes contra eosdem Sarracenos pari consilio dimicarunt. Nam irruentes Franci super eos CCCLXXV milia ex eis interfecerunt. Eudo quoque super eorum castra irruens pari modo multos interficiens omnia devastavit. Mille quingenti tantum ex Francis ceciderunt, ut in epistola ab Eudone missa Gregorio papae [Papst Gregor III.] de eadem victoria continetur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="718-732" From="718-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Gemeint ist die Schlacht bei Poitiers, vgl. Ulrich Nonn, Art. Karl Martell, frk. Hausmeier, in: Lexikon des Mittelalters 5, Sp. 954-956. [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-04-19].
+Zur deutschen Übersetzung ab 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="ad6a92d3-13ea-4288-9664-80e1809d6a72" Type="Person">
+          <Name>Herzog Eudo von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="ff60ec24-ba59-42bb-9405-ba631da9051f" Type="Person">
+          <Name>Papst Gregor III.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Regino, Chronicon a. 655-718, ed. Kurze 1890, S. 37.</Zitation>
+      <ZeitangabeQuelle>655-718</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen fallen zwischen 655-718 [737/739] in Gallien und in der Provence ein, nehmen die Stadt Arles ein und werden [737] vom fränkischen Hausmeier Karl Martell bekämpft. Zwei Jahre später [739] bittet er den langobardischen König Liutprand um militärische Unterstützung. Dieser eilt ihm mit einem langobardischen Heer entgegen, woraufhin die Sarazenen aus der Region fliehen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Anno vicesimo secundo regni sui Sarracenorum exercitus rursum in Galliam [Gallien] introiens multam devastationem fecit; contra quos Carolus [Karl Martell] non longe a Narbona [Narbonne] bellum committens eos sicut et prius maxima caede prostravit.
+Anno XXIIII. regni sui iterato Sarraceni Gallorum fines ingressi usque ad Provintiam [Provence] venerunt et capta Arelato [Arles] omnia circumquaque demoliti sunt. Tunc Carolus [Karl Martell] ad Liutbrandum [König Liutprand] regem mittens auxilium contra Sarracenos exposcit; qui nihil moratus cum omni Langobardorum exercitu in eius adiutorium properavit. Quo comperto gens Sarracenorum mox ab illis regionibus aufugit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="737/739" From="737-01-01" To="737-12-31" />
+        <Datum Text="737/739" From="739-01-01" To="739-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Provence</Ort>
+        <Ort>Arles</Ort>
+        <Ort>Narbonne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="334bcc12-dbc5-4fe1-9d9b-af61579b065b" Type="Ort">
+          <Name>Provence</Name>
+        </Entitaet>
+        <Entitaet Id="00c1232e-04bf-4a57-8933-96e3ec1e56fd" Type="Ort">
+          <Name>Arles</Name>
+        </Entitaet>
+        <Entitaet Id="6b51dc6e-c04b-4d72-a16a-8b9de880c2db" Type="Person">
+          <Name>König Liutprand</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Regino, Chronicon a. 777, ed. Kurze 1890, S. 51.</Zitation>
+      <ZeitangabeQuelle>777</ZeitangabeQuelle>
+      <Inhaltsangabe>Aus Spanien kommen 777 sarazenische Gesandte namens Ibin al Arabi und Lammeioseph [lat. Joseph] nach Paderborn.</Inhaltsangabe>
+      <VolltextOriginalsprache>In eodem etiam loco [Paderborn] venerunt Sarraceni de partibus Hispaniae [Spanien], quorum haec sunt nomina: Ibin al Arabi [Sulaiman Ebn al Arabi von Barcelona und Gerona] et filius Deiuzefi, qui Lammeioseph [Jussuf ibn-Abdérman al-Fihri] nominabatur, et gener eius.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="777" From="777-01-01" To="777-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Paderborn</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Annäherung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Ibn</Suchwort>
+        <Suchwort>Ibin</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Arabus (Ibin al Arabi)</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.
+Vgl. auch [0014]-[0001].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f06ac2ef-f87d-48ae-a74d-0d3b08e9a7cc" Type="Ort">
+          <Name>Paderborn</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="1716ed91-bbfc-4bdf-8140-251d634f3f3b" Type="Person">
+          <Name>Sulaiman Ebn al Arabi von Barcelona und Gerona</Name>
+        </Entitaet>
+        <Entitaet Id="b794d104-aefd-4318-8f99-38370c843b3b" Type="Person">
+          <Name>Jussuf ibn-Abdérman al-Fihri</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Regino, Chronicon a. 778, ed. Kurze 1890, S. 52.</Zitation>
+      <ZeitangabeQuelle>778</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große fällt 778 mit einem Heer in den spanischen Städten Pamplona und Saragossa ein, wo ihm Sarazenen Geiseln und Gold stellen. Nachdem er die Sarazenen aus Pamplona vertrieben, die Mauern der Stadt zerstört und die Gascogne unterworfen hat, zieht er zurück ins Frankenreich.</Inhaltsangabe>
+      <VolltextOriginalsprache>Carolus [Karl I. der Große] cum exercitu Hispaniam [Spanien] ingressus est. Venit vero primo ad Pampilonem [Pamplona] civitatem, deinde ad Cesaraugustanam [Saragossa] urbem perrexit. Ubi innumerabilis multitudo de partibus Burgundiae et Austrasiae vel Boioariae seu Provinciae et Septimaniae, pars etiam Langobardorum in auxilium Francorum convenerunt. Obsidione itaque cincta civitate territi Sarraceni obsides dederunt et immensum pondus auri. Eiectis itaque Sarracenis de Pampilona [Pamplona] murisque eiusdem civitatis dirutis Wasconibusque [Gascogne] subiugatis in Franciam [Frankenreich] revertitur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Pamplona</Ort>
+        <Ort>Saragossa</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Cesaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="8c6acf1b-8f06-4af6-9398-9f7f2bc2833f" Type="Ort">
+          <Name>Pamplona</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+        <Entitaet Id="703dc877-194c-42c7-a7bb-565536a95da8" Type="Ort">
+          <Name>Gascogne</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Regino, Chronicon a. 797, ed. Kurze 1890, S. 60.</Zitation>
+      <ZeitangabeQuelle>797</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große empfängt 797 in der Aachener Pfalz den Sarazenen Abdellah, Sohn Abd ar-Rahmans I. von Cordoba [?], der durch seinen Bruder nach Mauretanien vertrieben wurde. Gemeinsam mit Karls Sohn Ludwig kehrt Abdellah von Herstelle bei Höxter nach Spanien zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ubi [Aachen] Abdellam [Abdallah] Sarracenum, filium Ibinmagae regis, qui a fratre regno pulsus in Mauritania [Mauretanien] exulabat, ipso semetipsum commendante suscepit [Karl I. der Große]. […] De eodem loco [Herstelle; heutiges Höxter] Abdellam Sarracenum cum filio suo Ludowico [Ludwig I. der Fromme] in Hispaniam [Spanien] ire iussit et filium suum Pippinum [Pippin I.] in Italiam [Italien] remisit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="797" From="797-01-01" To="797-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Mauretanien (Algerien?, Marokko?, Tunesien?)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+        <Ort>Herstelle/Höxter</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Würdigung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Ibin</Suchwort>
+        <Suchwort>Ibn</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Mauretania, Mauretanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Es scheint, als ob es sich bei Abdel nicht um den Sohn des Ibn-Maugae handelt, sondern um Abdallah, Sohn des Omayyaden Abd ar-Rahman I. Siehe hierzu auch RI I n. 338f.
+Zur deutschen Übersetzung ab 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.
+Vgl. hierzu [0007]-[0011].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="c308e196-b5e3-48dc-84fa-5c76e50fd30b" Type="Person">
+          <Name>Abdallah</Name>
+        </Entitaet>
+        <Entitaet Id="7bd20aba-ffc4-403e-b1d8-d2256a7a8fcb" Type="Ort">
+          <Name>Mauretanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="58c79186-29b0-4ec7-a306-c22489499f0f" Type="Anmerkung">
+          <Name>Herstelle; heutiges Höxter</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Regino, Chronicon a. 798, ed. Kurze 1890, S. 60.</Zitation>
+      <ZeitangabeQuelle>798</ZeitangabeQuelle>
+      <Inhaltsangabe>Die balearischen Inseln werden 798 von Mauren und Sarazenen geplündert. König Alfons II. von Asturien schickt zur Winterzeit Ritter, Maultiere und maurische Gefangene an König Karl I. den Großen, nachdem Lissabon als letzte spanische Stadt eingenommen worden war.</Inhaltsangabe>
+      <VolltextOriginalsprache>Insulae Baleares [Balearen] a Mauris et Sarracenis depredatae sunt. Adefon rex [Alfons II.] Galliciae et Austriae predata Olisipona [Lissabon] ultima Hispaniae [Spanien] civitate loricas, mulos captivosque Mauros regi [Karl I. der Große] per legatos Froiam et Basiliscum hiemis tempore misit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="798" From="798-01-01" To="798-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="7900-800" From="7900-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Balearen</Ort>
+        <Ort>Lissabon</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung ab 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b22b21a8-00f8-4a6f-ba99-d2d1055e5d64" Type="Ort">
+          <Name>Balearen</Name>
+        </Entitaet>
+        <Entitaet Id="ca2a6f99-57bd-489d-abc6-d69aa30d7094" Type="Person">
+          <Name>Alfons II.</Name>
+        </Entitaet>
+        <Entitaet Id="1981f381-2e6b-47b2-b8dd-09f8af6c1f68" Type="Ort">
+          <Name>Lissabon</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0012</QuellenId>
+      <Zitation>Regino, Chronicon a. 799, ed. Kurze 1890, S. 61.</Zitation>
+      <ZeitangabeQuelle>799</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große verteidigt 799 die balearischen Inseln, welche [798] von Mauren und Sarazenen geplündert worden waren, und erhält die maurischen Feldzeichen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Insulae Baleares [Balearen], quae a Mauris et Sarracenis depredatae sunt, postulato et accepto a Francis auxilio a predonum incursione defensati sunt; signa quoque Maurorum in pugna sublata regi [Karl I. der Große] presentata sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="789" From="789-01-01" To="789-12-31" />
+        <Datum Text="799" From="799-01-01" To="799-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Balearen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b22b21a8-00f8-4a6f-ba99-d2d1055e5d64" Type="Ort">
+          <Name>Balearen</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0013</QuellenId>
+      <Zitation>Regino, Chronicon a. 801, ed. Kurze 1890, S. 63.</Zitation>
+      <ZeitangabeQuelle>801</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große erobert 801 die spanische Stadt Barcelona und nimmt den sarazenischen Befehlshaber Sa’dun al-Ru’aini sowie viele Sarazenen als Gefangene. Im selben Jahr erobert er in Italien Chieti und ergreift dort den Befehlshaber Rotselmus.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ipsa aestate capta est Barcilona [Barcelona] civitas Hispaniae [Spanien], iam tunc minus plus biennio obsessa; Zatun [Sa’dun al-Ru’aini] prefectus eius et alii quam plures Sarraceni comprehensi sunt. Et in Italia [Italien] Theate [Chieti] civitas similiter capta et flammis exusta est eiusque prefectus Rotselmus comprehensus est. Castella, quae ad illam civitatem aspiciebant, in deditionem recepta sunt. Zatun et Rotselmus exilio dampnati sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801" From="801-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Chieti</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Verbannung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcilona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.
+Vgl. zu diesem Bericht auch [0014]-[0003]; [0018]-[0004]; [0020]-[0001]; [0035]-[0004]; [0044]-[0004].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="08940327-0bb7-4b38-bbf6-3965d86ee28e" Type="Person">
+          <Name>Sa’dun al-Ru’aini</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="abfb9a3b-1810-4309-9683-be45f7e2ad8f" Type="Ort">
+          <Name>Chieti</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0014</QuellenId>
+      <Zitation>Regino, Chronicon a. 801, ed. Kurze 1890, S. 63.</Zitation>
+      <ZeitangabeQuelle>801</ZeitangabeQuelle>
+      <Inhaltsangabe>Ein persischer Gesandter des Kalifen Harun al-Rashid und ein sarazenischer Gesandter des Emirs Ibrahim ibn al-Aghlab aus Afrika kommen 801 zu Kaiser Karl I. dem Großen und berichten ihm, dass der Jude Isaak, den Karl vor vier Jahren mit Lantfrid und Sigimund auf die Reise zu Harun al-Rashid geschickt hat, sich mit vielen Geschenken, wie einem Elefanten, auf der Rückreise befindet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ibi [Ravenna] nuntiatum est ei, legatos Aaron Amir Munmilin regis Persarum [Kalif Harun al-Rashid] portum Pisae [Pisa] intrasse; quibus obviam mittens inter Vercellis [Vercelli] et Eboreiam [Ivrea] eos sibi fecit presentari. Unus enim ex eis erat Persa de oriente, legatus regis Persarum, alter Sarracenus de Africa [Afrika], legatus Admirati Abraham [Emir Ibrahim ibn al-Aghlab], qui in confinio Africae [Afrika] in Fossato [Fostat] presidebat. Qui Isaac [Issak] Iudeum, quem imperator ante quadriennium ad regem Persarum cum Lantfrido [Lantfrid] et Sigimundo [Sigimund] miserat, reversum cum magnis muneribus nuntiaverunt. Nam Lantfridus et Sigimundus in itinere defuncti sunt. Misit itaque rex Erchenbaldum notarium in Liguriam [Ligurien] ad naves parandas, ubi elefans [Abul Abaz] et ea, quae deferebantur, subveherentur […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="801" From="801-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Ivrea</Ort>
+        <Ort>Pisa</Ort>
+        <Ort>Vercelli</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Amir</Suchwort>
+        <Suchwort>Emir</Suchwort>
+        <Suchwort>Ibn</Suchwort>
+        <Suchwort>Persa</Suchwort>
+        <Suchwort>Persien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung ab 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="e1504d41-9556-48de-8949-8ce4f72a5118" Type="Ort">
+          <Name>Ravenna</Name>
+        </Entitaet>
+        <Entitaet Id="376df2bc-17ee-4f06-ab5f-859fa4bc4858" Type="Anmerkung">
+          <Name>Kalif Harun al-Rashid</Name>
+        </Entitaet>
+        <Entitaet Id="c69e1840-0bc0-4cff-8084-4702fa128a15" Type="Ort">
+          <Name>Pisa</Name>
+        </Entitaet>
+        <Entitaet Id="fde96c5c-f2ea-4699-a5b3-814f92e2bb6f" Type="Ort">
+          <Name>Vercelli</Name>
+        </Entitaet>
+        <Entitaet Id="9eaf22f9-fc67-4ec7-a09d-ff1a4c04a63e" Type="Ort">
+          <Name>Ivrea</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="78f5c000-252d-41df-9715-8c52c1f6ae5d" Type="Person">
+          <Name>Emir Ibrahim ibn al-Aghlab</Name>
+        </Entitaet>
+        <Entitaet Id="18577fea-d3f7-4a1c-a482-54b7e9bf58f4" Type="Ort">
+          <Name>Fostat</Name>
+        </Entitaet>
+        <Entitaet Id="883f6209-d265-4732-bd96-77b3c5b6bc5e" Type="Anmerkung">
+          <Name>Issak</Name>
+        </Entitaet>
+        <Entitaet Id="436b6aad-8dd8-4c76-9c72-0a787e9339f3" Type="Anmerkung">
+          <Name>Lantfrid</Name>
+        </Entitaet>
+        <Entitaet Id="0f67e568-4ed8-431c-8988-944219581e9b" Type="Anmerkung">
+          <Name>Sigimund</Name>
+        </Entitaet>
+        <Entitaet Id="a6b761a5-7ab7-4cc0-b7a9-589bc133e18d" Type="Ort">
+          <Name>Ligurien</Name>
+        </Entitaet>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0015</QuellenId>
+      <Zitation>Regino, Chronicon a. 802, ed. Kurze 1890, S. 63.</Zitation>
+      <ZeitangabeQuelle>19.07.802</ZeitangabeQuelle>
+      <Inhaltsangabe>Am 19.07.802 kehrt Isaak, ein Gesandter Kaiser Karls I. des Großen, mit einem Elefanten namens Abul Abaz und anderen Geschenken des Kalifen Harun al-Rashid zurück ins Frankenreich.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno XIII. Kal. Aug. venit Isaac cum elefanto et ceteris muneribus a rege Persarum [Kalif Harun al-Rashid] missis in presentiam imperatoris [Karl I. der Große]; nomen elefantis erat Ambulabat [Abul Abaz].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="19.07.802" From="802-01-01" To="802-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Freundschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persa</Suchwort>
+        <Suchwort>Persien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.
+Vgl. hierzu [0008]-[0014].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9bcdd737-7688-4ec6-a0cf-f636988aebe9" Type="Anmerkung">
+          <Name>Kalif Harun al-Rashid</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0016</QuellenId>
+      <Zitation>Regino, Chronicon a. 806, ed. Kurze 1890, S. 66.</Zitation>
+      <ZeitangabeQuelle>806</ZeitangabeQuelle>
+      <Inhaltsangabe>König Pippin I. von Italien schickt 806 eine Flotte gegen Sarazenen, die Korsika verwüsten, aber fliehen können. Graf Hadumar von Genua wird von einem Mauren getötet. Die Navarrer und Pamplonier, die sich den Sarazenen angeschlossen haben, treten wieder dem fränkischen Lager bei.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno in Corsicam [Korsika] insulam contra Mauros, qui eam vastabant, classis de Italia a Pippino [Pippin I.] missa est; cuius adventum Mauri non expectantes abscesserunt. Unus tamen ex Francis Hademarus [Graf Hadumar von Genua] nomine, comes civitatis Genuvae [Genua], cum imprudenter pugnaret, occisus est a Mauris. In Spania [Spanien] vero Navari et Pampilonenses, qui superioribus annis ad Sarracenos transierant, in fidem recepti sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="806" From="806-01-01" To="806-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Genua</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung ab 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="25182a56-7a55-494d-ad1d-074ac5445352" Type="Person">
+          <Name>Graf Hadumar von Genua</Name>
+        </Entitaet>
+        <Entitaet Id="65eca8fa-4d34-4acb-aafe-0480c8e5f75b" Type="Ort">
+          <Name>Genua</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0017</QuellenId>
+      <Zitation>Regino, Chronicon a. 807, ed. Kurze 1890, S. 66.</Zitation>
+      <ZeitangabeQuelle>807</ZeitangabeQuelle>
+      <Inhaltsangabe>Ein Gesandter des Kalifen Harun al-Rashid namens Abdella kommt 607 mit den Mönchen Georg und Felix aus Jerusalem zurück ins Frankenreich.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…] legatus regis Persarum [Harun al-Rashid] nomine Abdella cum monachis de Ierusalem [Jerusalem], qui legatione Thomae patriarchae fungebantur; quorum nomina fuere Georgius et Felix.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="807" From="807-01-01" To="807-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hierosolyma</Suchwort>
+        <Suchwort>Ierusalem</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8774c9d2-4b12-4055-9d68-83ae304e6084" Type="Anmerkung">
+          <Name>Harun al-Rashid</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0018</QuellenId>
+      <Zitation>Regino, Chronicon a. 807, ed. Kurze 1890, S. 67.</Zitation>
+      <ZeitangabeQuelle>807</ZeitangabeQuelle>
+      <Inhaltsangabe>Eine Flotte Kaiser Karls I. des Großen, die er 807 unter der Führung seines Hofmarschalls Graf Burchard zur Verteidigung gegen die Mauren nach Korsika geschickt hat, wird dort von ihnen vernichtend geschlagen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno Burchardum comitem [Graf Burchard] stabuli sui, quod corrupte constabulum appellamus, cum classe misit in Corsicam [Korsika], ut eam a Mauris defenderet, qui predas illic exercebant. Qui iuxta consuetudinem suam de Hispania [Spanien] egressi primo Sardiniam [Sardinien] appulsi sunt ibique cum Sardis prelio commisso et multis suorum amissis – nam tria milia ibi cecidisse perhibentur, – in Corsicam [Korsika] recto cursu venerunt; ibi iterum in quodam portu eiusdem insulae cum classe, cui Burchardus preerat, prelio decertarunt victique ac fugati sunt, amissis tredecim navibus et plurimis suorum interfectis.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="807" From="807-01-01" To="807-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Korsika</Ort>
+        <Ort>Sardinien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Rückschlag</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="c44eb954-14c4-4039-a30d-e968eedc7890" Type="Person">
+          <Name>Graf Burchard</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0019</QuellenId>
+      <Zitation>Regino, Chronicon a. 809, ed. Kurze 1890, S. 68.</Zitation>
+      <ZeitangabeQuelle>809</ZeitangabeQuelle>
+      <Inhaltsangabe>Aus Spanien kommende Mauren fallen 809 in Korsika ein und greifen die Bewohner der Insel an.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mauri quoque de Hispania [Spanien] Corsicam [Korsika] ingressi in ipso sabbato sancto paschae civitatem quandam depredati sunt et preter episcopum et paucos senes atque infirmos nihil in ea reliquerunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="809" From="809-01-01" To="809-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Überfall</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0020</QuellenId>
+      <Zitation>Regino, Chronicon a. 810, ed. Kurze 1890, S. 69.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Mauren aus Spanien erobern 810 Sardinien und Korsika.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mauri de tota Hispania [Spanien] maxima classe collecta primo Sardiniam [Sardinien], deinde Corsicam [Korsika] applicuerunt nulloque in ea invento presidio insulam pene totam depopulati sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Korsika</Ort>
+        <Ort>Sardinien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0021</QuellenId>
+      <Zitation>Regino, Chronicon a. 810, ed. Kurze 1890, S. 70.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>810 stirbt der Elefant Abul Abaz, den Kaiser Karl I. der Große 802 von Kalif Harun al-Raschid geschenkt bekommen hat.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ubi cum aliquot dies moraretur, elefans [Abul Abaz] ille [Karl I. der Große], quem ei Aaron rex Sarracenorum [Kalif Harun al-Raschid] transmiserat, subita morte periit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aaron</Suchwort>
+        <Suchwort>Harun al-Raschid</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.
+Vgl. hierzu [0008]-[0015].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="00fee83e-1f5a-4d79-8d9e-89334e61a9c6" Type="Person">
+          <Name>Abul Abaz</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="310f7087-28ed-4088-9927-80b9b0c985cd" Type="Person">
+          <Name>Kalif Harun al-Raschid</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0022</QuellenId>
+      <Zitation>Regino, Chronicon a. 810, ed. Kurze 1890, S. 70.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Karl I. der Große empfängt 810 zwei Gesandtschaften aus Konstantinopel und Cordoba und schließt im Oktober mit Kaiser Nikephoros I. sowie dem Kalifen al-Hakam I. Frieden, woraufhin der Kalif einen einst von Sarazenen gefangengenommenen Heinrich zurückgibt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Sed dum imperator [Karl I. der Große] in loco memorato resideret, diversarum rerum legations ad eum perferuntur: nam (…) duasque legationes de diversis terrarum partibus, unam de Constantinopoli [Konstantinopel], alteram de Corduba [Cordoba], pacis causa adventare nuntiabatur. (…) Aquis [Aachen] veniens mense Octobrio memoratas legationes suscepit pacemque cum Nicophoro [Nikephoros I.] imperatore et cum Abulaz [al-Hakam I.] rege Hispaniae [al-Hakam I.] fecit; siquidem Venetiam [Venedig] Nicoforo reddidit et Heinricum comitem dudum a Sarracenis captum Abulaz remittente recepit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Cordoba</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Venedig</Ort>
+        <Ort>Frankenreich</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Freilassung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Corduba</Suchwort>
+        <Suchwort>Cordoba</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="ed0793c0-72d6-44a5-b2e5-a1f2a0a53600" Type="Ort">
+          <Name>Cordoba</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="90eae9c1-60f7-4b90-9559-047e12b6d40b" Type="Person">
+          <Name>Nikephoros I.</Name>
+        </Entitaet>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+        <Entitaet Id="72fc7b2b-04bb-4fe9-ae51-bf07b287891f" Type="Ort">
+          <Name>Venedig</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0023</QuellenId>
+      <Zitation>Regino, Chronicon a. 810, ed. Kurze 1890, S. 70.</Zitation>
+      <ZeitangabeQuelle>810</ZeitangabeQuelle>
+      <Inhaltsangabe>Korsika wird 810 von Mauren verwüstet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Corsica [Korsika] insula iterum a Mauris vastata est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="810" From="810-01-01" To="810-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Korsika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0024</QuellenId>
+      <Zitation>Regino, Chronicon a. 867, ed. Kurze 1890, S. 93f.</Zitation>
+      <ZeitangabeQuelle>867</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig II. kämpft 867 mit Hilfe seines Bruders, König Lothar II. von Lotharingien, erfolgreich gegen Sarazenen, die [seit 841] von Afrika aus in Benevent eingedrungen sind und das Land verheert haben. Lothars Heer erleidet große Verluste, bevor er ins Frankenreich zurückkehrt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Per idem tempus gens Sarracenorum in Benevento [Benevent] ex Africa [Afrika] veniens universam pene regionem illam invaserunt, caedibus, rapinis ac incendiis omnia depopulantes. Contra quos Ludowicus imperator [Ludwig II.] exercitum contrahit, et veritus, ne forte adversus innumerabilem hostium multitudinem vires regni non sufficerent, ad Lotharium [Lothar II. von Lothringen] fratrem in Gallias [Gallien] legatos mittit, omnino exposcens, ut ad prefatae nequissimae gentis vires extenuandas audaciamque refrenandam sibi cum Dei auxilio, virtute quoque Francorum, opitularetur. Qui nihil cunctatus exercitum cum ingenti industria undequaque contrahit fratrique, quanta potuit celeritate, in adiutorium venit. Ubi plurima bella gesta sunt, non solum fortiter, sed etiam feliciter, Deo opem ferente. Inter haec exercitus Lotharii gravi peste fatigatur; ex insueto quippe calore et intemperie aeris dissolutus dissinteriae vel clienteriae morbo corripitur, ex qua plaga innumerabilis multitudo extincta est; plurimi etiam aranearum morsibus perierunt, ut iam tunc daretur intellegi, quod propter duriciam et cor inpoenitens Deus non solum Lothario, verum etiam omni regno eius adversaretur. Revertitur itaque in Franciam [Frankenreich] non sine gravi, ut dictum est, dispendio suorum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Um diese Zeit kam das Volk der Sarrazenen von Afrika [Afrika] nach Benevent [Benevent] und drang fast ganz in dieses Land ein, indem es mit Mord, Raub und Brand alles verheerte. Gegen sie sammelt der Kaiser Ludwig [Ludwig II.] ein Heer und in Besorgnis, daß vielleicht gegen die unzählige Menge der Feinde die Kräfte seines Reiches nicht ausreichten, schickte er Gesandte nach Gallien [Gallien] zu seinem Bruder Lothar [Lothar II. von Lothringen], ihn dringend zu ersuchen, er solle ihm unter Gottes Beistand und mit der Tapferkeit der Franken zu Hilfe kommen, um die Streitmacht des besagten schändlichen Volkes zu vernichten und seine Keckheit zu zügeln. Dieser zieht ungesäumt mit außerordentlichem Eifer von allen Seiten ein Heer zusammen und kommt dem Bruder mit größtmöglicher Schnelligkeit zu Hilfe. Hier wurden unter Gottes Beistand sehr viele Treffen nicht bloß mit Tapferkeit, sondern auch mit Glück geliefert. Inzwischen wird das Heer Lothars durch eine gefährliche Seuche übel mitgenommen; denn infolge der ungewohnten Hitze und der ungesunden Witterung erschlafft, wird es von der Krankheit der Dysenterie oder des Durchfalls befallen, eine Seuche, die eine zahllose Menge fortraffte; sehr viele kamen auch durch die Bisse der Spinnen um, so daß schon damals zu erkennen war, wie sich Gott nicht allein gegen Lothar stellte wegen seiner Verstocktheit und Unbußfertigkeit, sondern auch gegen sein ganzes Reich. Er kehrt daher, wie gesagt, nicht ohne schwere Verluste unter seinen Leuten nach Francien [Frankenreich] zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Regino von Prüm, Chronik a. 867, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319, S. 217ff.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="841-867" From="841-01-01" To="867-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="900-910" From="900-01-01" To="910-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Seuche</Schlagwort>
+        <Schlagwort>Krankheit</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Gottesurteil</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur deutschen Übersetzung für die Jahre 813-906 vgl. Regino von Prüm, Chronik, in: Quellen zur karolingischen Reichsgeschichte 3, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 7), Darmstadt 2002, S. 179-319.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="613fe211-ab76-4dae-9e76-37ed97f8cd89" Type="Person">
+          <Name>Ludwig II.</Name>
+        </Entitaet>
+        <Entitaet Id="0df2babd-bc07-4902-a889-a75ec022565e" Type="Person">
+          <Name>Lothar II. von Lothringen</Name>
+        </Entitaet>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Name>Frankenreich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

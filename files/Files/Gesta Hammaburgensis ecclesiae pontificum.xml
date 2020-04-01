@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0028</WerkId>
+  <WerkTitel>Gesta Hammaburgensis ecclesiae pontificum</WerkTitel>
+  <Alternativtitel>
+    <Titel>Historia ecclesiastica, Bremensium praesulum historia, Taten der Bischöfe von Hamburg, Hamburgische Kirchengeschichte, Geschichte der Kirchenprovinz Hamburg in vier Büchern</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Adam von Bremen</Autor>
+    <Autor>Adam Bremensis</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>gestorben nach 12.10.1081</LebensdatenVerfasser>
+  <Abfassungszeitraum>1075-1076</Abfassungszeitraum>
+  <Abfassungsort>Bremen</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, ed. Bernhard Schmeidler (MGH SS rer. Germ. [2]), Hannover 31917, S. 1-283.</Editionshinweise>
+  <Werkinformation>Die Gesta Hammaburgensis ecclesiae pontificum sind ein 1075/1076 vom Magister Adam von Bremen in vier Büchern verfasstes Werk über die Geschichte der Kirchenprovinz Hamburg. Eine erste Version ist Erzbischof Liemar von Bremen gewidmet.
+Vgl. mit Hinweisen für weiterführende Literatur: Franz-Josef Schmale, Art. Adam v. Bremen, in: Lexikon des Mittelalters 1, Sp. 107 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-27]; Adam Bremensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_11850052X.html, 2016-10-27]; Gesta Hammaburgensis ecclesiae pontificum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00023.html, 2016-10-27]; Rasma Lazda, Art. Adam of Bremen, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 12.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Adam, Gesta Hammaburgensis 2, 24 (21), ed. Schmeidler 1917, S. 82.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Ottos II. Feldzug [980-983] gegen Sarazenen in Kalabrien, Italien endet mit einer Niederlage und dem Tod Ottos in Rom.</Inhaltsangabe>
+      <VolltextOriginalsprache>Is [Otto II.] statim Lothario [Lothar von Frankreich] et Karolo [Herzog Karl von  Niederlothringen] Francorum regibus subactis, cum in Calabriam [Kalabrien] bellum transferret, a Sarracenis et Grecis victor et victus apud Romam [Rom] decessit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Sobald er [Otto II.] die Franzosenkönige Lothar [Lothar von Frankreich] und Karl  [Herzog Karl von  Niederlothringen] unterworfen hatte, trug er den Krieg nach Kalabrien [Kalabrien] hinein, doch der Sieger wurde von Sarazenen und Griechen geschlagen und ist in Rom [Rom] gestorben.</VolltextUebersetzung>
+      <ZitationUebersetzung>Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, in: Quellen des 9. und 11. Jahrhunderts zur Geschichte der Hamburgischen Kirche und des Reiches, hg. von Werner Trillmich – Rudolf Buchner (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 11), Darmstadt 72000, S. 137-503, S. 257.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="980-983" From="980-01-01" To="983-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Kalabrien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Italienzug November 980, Schlacht bei Cotrone (Capo Colonna) 982, Tod Ottos II 983. Vgl. Thietmar von Merseburg, Chronicon sive Gesta Saxonum III, 20ff., ed. Robert Holtzmann (MGH SS rer. Germ. N. S. 9), Berlin 1935, S. 122-126.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
+          <Name>Otto II.</Name>
+        </Entitaet>
+        <Entitaet Id="ec3b5030-3432-42fa-b771-db2b6e42b433" Type="Person">
+          <Name>Lothar von Frankreich</Name>
+        </Entitaet>
+        <Entitaet Id="496a36b2-234f-47af-951f-ae5cf959d7e0" Type="Person">
+          <Name>Herzog Karl von  Niederlothringen</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Adam, Gesta Hammaburgensis 3, 13 (12), ed. Schmeidler 1917, S. 153f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Harald Sigurdsson ‚der Harte‘, König von Norwegen, kämpft [vor 1046] in byzantinischen Diensten erfolgreich gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ubi [Konstantinopel] [Harald III. von Norwegen] miles imperatoris effectus multa prelia contra Sarracenos in mari et Scitas in terra gessit, fortitudine clarus et divitiis auctus vehementer.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Dort [Konstantinopel] wurde er [Harald III. von Norwegen] Lehnsmann des Kaisers, bestand zahlreiche Kämpfe zur See gegen die Sarazenen und zu Lande gegen die Steppenvölker, erwarb durch seine Tapferkeit Ruhm und gewann reiche Schätze.</VolltextUebersetzung>
+      <ZitationUebersetzung>Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, in: Quellen des 9. und 11. Jahrhunderts zur Geschichte der Hamburgischen Kirche und des Reiches, hg. von Werner Trillmich – Rudolf Buchner (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 11), Darmstadt 72000, S. 137-503, S. 341.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="vor 1046" From="1036-01-01" To="1046-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Mittelmeer</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Würdigung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Sverre Bagge, Art. Harald Sigurdsson „der Harte“, Kg. v. Norwegen, in: Lexikon des Mittelalters 4, Sp. 107 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-24]. 1046 kehrte Harald nach Norwegen zurück. Dort erlangte er die Herrschaft über Teile des Landes, bevor er sie nach dem Tod seines Onkels 1047 über ganz Norwegen ausbauen konnte.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="1d2dacc2-cf65-45d1-bc35-b97557184c84" Type="Person">
+          <Name>Harald III. von Norwegen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Adam, Gesta Hammaburgensis 3, 77, ed. Schmeidler 1917, S. 225.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Ein Begleiter des Erzbischof Adalbert von Hamburg-Bremen namens Bovo gerät [in der 1. Hälfte des 11. Jahrhunderts] während einer seiner Pilgerreisen nach Jerusalem in sarazenische Gefangenschaft.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…] tercius Bovo nomen habuit, incertum unde natus aut ubi ordinatus, qui se tamen peregrinationis amore Ierosolimam [Jerusalem] ter accessisse iactabat, indeque Babyloniam [Babylonien] deportatum a Sarracenis, tandemque solutum multas per orbem transisse provincias.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der dritte hieß Bovo, seine Herkunft und seinen Weiheort kenne ich nicht; er rühmte sich, aus Freude am Pilgern dreimal Jerusalem [Jerusalem] besucht zu haben; Sarazenen hätten ihn von dort nach Babylonien [Babylonien] verschleppt, und als er endlich freigekommen sei, habe er viele Länder der Erde durchzogen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, in: Quellen des 9. und 11. Jahrhunderts zur Geschichte der Hamburgischen Kirche und des Reiches, hg. von Werner Trillmich – Rudolf Buchner (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 11), Darmstadt 72000, S.137-503, S. 431.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="1000-1050" From="1000-01-01" To="1050-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="1000-1010" From="1000-01-01" To="1010-12-31" />
+        <Datum Text="1010-1020" From="1010-01-01" To="1020-12-31" />
+        <Datum Text="1020-1030" From="1020-01-01" To="1030-12-31" />
+        <Datum Text="1030-1040" From="1030-01-01" To="1040-12-31" />
+        <Datum Text="1040-1050" From="1040-01-01" To="1050-12-31" />
+        <Datum Text="1050-1060" From="1050-01-01" To="1060-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Umayyadisches Reich (Irak)</Ort>
+        <Ort>Babylonien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Freilassung</Schlagwort>
+        <Schlagwort>Pilgerfahrt</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Babylonia</Suchwort>
+        <Suchwort>Babylon</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Franz-Josef Schmale, Art. Adam v. Bremen, in: Lexikon des Mittelalters 1, Sp. 107 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-24]. Adam verfasste die Chronik von 1072 bis 1080/81 in Bremen. Dadurch können die Ereignisse der Quelle auf das 11. Jahrhundert datiert werden.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+        <Entitaet Id="809559a5-76bf-4448-bf2b-c75a80f08e29" Type="Anmerkung">
+          <Name>Babylonien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Adam, Gesta Hammaburgensis 4, 31 (30), ed. Schmeidler 1917, S. 263f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Verfasser berichtet, dass das Vieh in Norwegen wie bei den Arabern in Einöden gehalten wird.</Inhaltsangabe>
+      <VolltextOriginalsprache>Quorum armenta ritu Arabum longe in desertis stabulant [in Norwegen].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Man weidet dort [in Norwegen] wie bei den Arabern die Herden in entlegenen Einöden […].</VolltextUebersetzung>
+      <ZitationUebersetzung>Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, in: Quellen des 9. und 11. Jahrhunderts zur Geschichte der Hamburgischen Kirche und des Reiches, hg. von Werner Trillmich – Rudolf Buchner (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 11), Darmstadt 72000, S. 137-503, S. 477.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="1070-1080" From="1070-01-01" To="1080-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Norwegen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Landesbeschreibung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabus</Suchwort>
+        <Suchwort>Araber</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Alternative Übersetzungen für desertum: Ödnis, Einsamkeit, Wüste.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="d748cd12-a161-4bc8-a08b-20cf4bdffa4b" Type="Anmerkung">
+          <Name>in Norwegen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

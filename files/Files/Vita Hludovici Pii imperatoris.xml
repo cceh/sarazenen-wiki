@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0011</WerkId>
+  <WerkTitel>Vita Hludovici Pii imperatoris</WerkTitel>
+  <Alternativtitel>
+    <Titel>Vita Hludovici imperatoris</Titel>
+    <Titel>Das Leben Kaiser Ludwigs</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>sog. Astronomus</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>9. Jahrhundert</LebensdatenVerfasser>
+  <Abfassungszeitraum>840-845</Abfassungszeitraum>
+  <Abfassungsort>St. Denis; Orléans; Corvey</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Westfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Astronomus, Vita Hludowici imperatoris, hg. und übers. v. Ernst Tremp, in: Thegan. Die Taten Kaiser Ludwigs – Astronomus. Das Leben Kaiser Ludwigs, ed. Ernst Tremp (MGH SS rer. Germ. 64), Hannover 1995, S. 279-555.</Editionshinweise>
+  <Werkinformation>Lebensbeschreibung Kaiser Ludwigs des Frommen, wohl kurz nach dessen Tod 840/841 von einem Geistlichen der Hofkapelle verfasst, der aufgrund seiner astronomischen Kenntnisse ‚Astronomus‘ genannt wird.
+Vgl. auch mit Hinweisen für weiterführende Literatur Vita Hludowici Pii imperatoris, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02057.html, 2016-10-19]. Zum sog. ‚Astronomus‘ vgl. Elisabeth Heyse, Art. Astronomus, in: Lexikon des Mittelalters 1, Sp. 1153 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-05-29]; Simon Elling, Art. Astronomus, in: Enzyclopedia of the Medieval Chronicle 1 (2010), S. 123f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 2, ed. Tremp 1995, S. 286.</Zitation>
+      <ZeitangabeQuelle>778</ZeitangabeQuelle>
+      <Inhaltsangabe>König Karl I. der Große beschließt 778 die Kirche in Spanien gegen die Sarazenen zu unterstützen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…] statuit [Karl I. der Große] Pyrinei [Pyrenäen] montis superata difficultate ad Hispaniam [Spanien] pergere laborantique ecclesiae sub Sarracenorum acerbissimo iugo Christo fautore suffragari.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[…] beschloß [Karl I. der Große] dann, den schwierigen Übergang über die Pyrenäen [Pyrenäen] zu wagen und nach Spanien [Spanien] zu ziehen, um der Kirche, die unter dem harten Joch der Sarazenen litt, mit Christi Hilfe beizustehen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 2, ed. Tremp 1995, S. 287.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Pyrenäen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="30622a20-d2d3-48c2-8467-dbd562a1cd15" Type="Ort">
+          <Name>Pyrenäen</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 5, ed. Tremp 1995, S. 298-300.</Zitation>
+      <ZeitangabeQuelle>790</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Sarazene Abu Tawr, Wali von Huesca, sendet 790 Gesandte und Geschenke zu König Ludwig I. dem Frommen, der in Toulouse eine Reichsversammlung abhält: Der erbetene Frieden wird gewährt, die Gesandten nach Hause geschickt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Rex vero Hludouuicus [Ludwig I. der Fromme] eodem anno Tolose [Toulouse] placitum generale habuit, ibique consistenti Abutaurus Sarracenorum dux [Wali Abu Tawr von Huesca] cum reliquis regno Aquitanico [Aquitanien] conlimitantibus ad eum nuntios misit, pacem petens et dona regia mittens. Que secundum voluntatem regis accepta, nuntii ad propria sunt reversi.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im selben Jahr hielt König Ludwig [Ludwig I. der Fromme] in Toulouse [Toulouse] eine allgemeine Reichsversammlung ab, und während er sich hier aufhielt, schickte Abutaur, der Herzog der Sarazenen, [Wali Abu Tawr von Huesca] zusammen mit den übrigen Nachbarn des Königreichs Aquitanien [Aquitanien] Gesandte zu ihm, bat um Frieden und ließ königliche Geschenke überbringen. Diese wurden nach dem Willen des Königs angenommen, und die Boten kehrten nach Hause zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 5, ed. Tremp 1995, S. 299-301.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="790" From="790-01-01" To="790-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="780-790" From="780-01-01" To="790-12-31" />
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Toulouse</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="adf5f1d2-ee74-4a10-8464-3ea58179c58b" Type="Ort">
+          <Name>Toulouse</Name>
+        </Entitaet>
+        <Entitaet Id="a09e20d5-0ab2-470b-9890-8a40b9d3d040" Type="Person">
+          <Name>Wali Abu Tawr von Huesca</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 8, ed. Tremp 1995, S. 306.</Zitation>
+      <ZeitangabeQuelle>797</ZeitangabeQuelle>
+      <Inhaltsangabe>König Ludwig I. der Fromme empfängt 797 [798] in Toulouse Gesandte und Geschenke des Sarazenen Bahlul Ibn Marzuks, der auf diese Weise um Frieden bittet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Necnon et Bahaluc [Bahlul Ibn Marzuk] Sarracenorum ducis, qui locis montuosis Aquitaniae [Aquitanien] proximis principabatur, missos pacem petentes et dona ferentes suscepit et remisit [Ludwig I. der Fromme].</VolltextOriginalsprache>
+      <VolltextUebersetzung>Auch die Gesandten des Sarazenenherzogs Bahaluk [Bahlul Ibn Marzuk], der in den Gebirgsgegenden an den Grenzen Aquitaniens [Aquitanien] herrschte, welche um Frieden baten und Geschenke überreichten, empfing und entließ er [Ludwig I. der Fromme].</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 8, ed. Tremp 1995, S. 307.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="798" From="798-01-01" To="798-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Toulouse</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus Vita Hludovici imperatoris 8, ed. Tremp, S. 307, Anm. 111.
+Zu Bahlul Ihn Marzuk: gest. um 802, sarazenischer Rebell, um 797 aus Saragossa in die Berge von Aragon vertrieben (vgl. ebd., Anm. 113). Laut Thomas F. X. Noble war er ein lokaler Machthaber in der Bergregion an der Grenze zu Aquitanien, vgl. Charlemagne and Louis the Pious. Lives by Einhard, Notker, Ermoldus, Thegan, and the Astronomer, hg. von Thomas F. X. Noble, University Park (PA) 2009, S. 234.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="29c872ca-2be3-438c-9705-2d7fc5128a44" Type="Anmerkung">
+          <Name>Bahlul Ibn Marzuk</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 10, ed. Tremp 1995, S. 308-310.</Zitation>
+      <ZeitangabeQuelle>799</ZeitangabeQuelle>
+      <Inhaltsangabe>König Ludwig I. der Fromme zieht im Jahr 799 nach Spanien. Nachdem ihm Barcelona durch den Statthalter Sa’dun al-Ru’aini übergeben worden ist, zieht er weiter nach Lérida und Huesca, verwüstet beide Städte und kehrt anschließend im Winter wieder nach Hause zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Succedente vero aestate rex Karolus [Karl I. der Große] ad eum [Ludwig I. der Fromme] misit, mandans ut secum in Italiam [Italien] proficisceretur, sed mutato consilio iussus est domi manere. Rege autem Romam [Rom] pergente ibidemque infulas imperatorias suscipiente, rex Hludouuicus Tolosam [Toulouse] habiit iterum atque inde in Hispaniam [Spanien] contendit. Cui Barcinnone [Barcelona] adpropianti Zaddo [Sa’dun al-Ru’aini] dux eiusdem civitatis iamque subiectus occurrit, nec tamen civitatem dedidit. Quam transgrediens rex et Hellerde [Lérida] superveniens, subegit illam atque subvertit. Qua diruta et ceteris municipiis vastatis et incensis, ad Hoscam [Huesca] usque processit. Cuius agros segetibus plenos manus militaris secuit, vastavit, incendit, et quecumque extra civitatem sunt reperta, incendio depascente sunt consumpta. Quibus expletis, imminente iam hieme ad propria rediit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im nächsten Sommer schickte König Karl [Karl I. der Große] (Boten) zu ihm [Ludwig I. der Fromme] mit der Weisung, mit ihm nach Italien [Italien] zu ziehen; doch der Beschluß wurde wieder geändert, und er erhielt Befehl, zu Hause zu bleiben. Während der König nach Rom [Rom] zog und dort das kaiserliche Diadem empfing, begab sich König Ludwig wieder nach Toulouse [Toulouse] und brach von da unverzüglich nach Spanien [Spanien] auf. Als er sich Barcelona [Barcelona] näherte, kam ihm Zaddo [Sa’dun al-Ru’aini], der bereits unterworfene Herzog der Stadt, entgegen, übergab ihm aber die Stadt nicht. Der König zog an ihr vorbei und erschien überraschend vor Lérida [Lérida], das er unterwarf und vernichtete. Nach dessen Zerstörung und nachdem die übrigen Städte verwüstet und verbrannt waren, rückte er bis Huesca [Huesca] vor. Die ertragreichen Felder um diese Stadt wurden vom Kriegsvolk abgemäht, verwüstet, verbrannt, und alles, was man außerhalb der Stadt antraf, wurde durch das verzehrende Feuer vernichtet. Als dies ausgeführt war, kehrte er vor Anbruch des Winters nach Hause zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 10, ed. Tremp 1995, S. 309-311.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="799" From="799-01-01" To="799-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Huesca</Ort>
+        <Ort>Lérida</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcinnona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus Vita Hludovici imperatoris 10, ed. Tremp, S. 309, Anm. 123.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="adf5f1d2-ee74-4a10-8464-3ea58179c58b" Type="Ort">
+          <Name>Toulouse</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="08940327-0bb7-4b38-bbf6-3965d86ee28e" Type="Person">
+          <Name>Sa’dun al-Ru’aini</Name>
+        </Entitaet>
+        <Entitaet Id="1bfd0b79-3a16-4b4d-9097-c8e5f2079d1c" Type="Ort">
+          <Name>Lérida</Name>
+        </Entitaet>
+        <Entitaet Id="1196ab4d-5104-444d-bf55-929e13cf4115" Type="Ort">
+          <Name>Huesca</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 13, ed. Tremp 1995, S. 312-320.</Zitation>
+      <ZeitangabeQuelle>803/804</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Statthalter von Barcelona Sa’dun al-Ru’aini rückt im Jahr 803 [800] bis nach Narbonne vor, gerät in Gefangenschaft und wird vor König Ludwig I. den Frommen und Kaiser Karl I. den Großen geführt. 804 [801] greift Ludwig die von Sarazenen bewohnte Stadt Barcelona an, belagert sie lange und kann sie schließlich erobern.</Inhaltsangabe>
+      <VolltextOriginalsprache>Aestate hanc sequente, Zaddo dux Barcinnonensis [Sa’dun al-Ru’aini] suasus est a quodam sibi, ut putabat, amico, Narbonam [Narbonne] usque procedere. Qui comprehensus, Hludouuico [Ludwig I. der Fromme] regi est adductus et patri Karolo [Karl I. der Große] itidem perductus. Ipso tempore Hludouuicus rex, coacto populo regni sui, Tolosae [Toulouse] de his que agenda videbantur tractans deliberabat. Burgundione [Burgundio] namque mortuo, comitatus eius Fedentiacus [Fézensac] Liutardo [Graf Liutard von Fézensac] est attributus. Quam rem Uuascones moleste ferentes, in tantam erupere petulantiam, ut etiam homines illius alios ferro perimerent, alios igni conburerent. Qui vocati, cum primum venire detrectarent, quoquo modo ad causam dicendam venerunt et poenas debitas pro talibus ausis dederunt, ita ut quidam talionis lege igni conflagrarent.
+His peractis, succedente tempore visum est regi [Ludwig I. der Fromme] et consiliariis eius, ut ad Barcinnonam [Barcelona] obpugnandam ire deberent; divisoque in tres partes exercitu, unam quidem Ruscellioni [Roussillon] ipse permanens secum retinuit, alteri obsidionem urbis iniunxit, cui Rotstagnus [Graf Rotstagnus von Gerona] comes Gerunde prefuit, terciam autem, ne forte obsidentes urbem improvise ab hostibus occuparentur, ultra urbem sedere praemisit. Obsessi interea intra urbem Cordubam [Cordoba] miserunt, auxilium poposcerunt. Rex vero Sarracenorum protinus auxiliatum et exercitum direxit. Venientibus porro his, qui missi fuerant, Caesaraugustam [Sarragossa], latum est eis de exercitu in via sibi obviam constituto. Erat enim ibi Uuillelmus [Wilhelm von Toulouse], primus signifer, Hademarus [Hademar] et cum eis validum auxilium. Quod illi audientes, in Hasturas sese verterunt clademque illis inprovise importaverunt, sed multo graviorem reportaverunt. Quibus recedentibus, nostri ad sotios urbem obsidentes reversi sunt et illis iuncti tamdiu urbem obambientes et nullum ingredi aut egredi permittentes vexarunt, donec famis acerbitate coacti sunt etiam vetustissima hostiis coria detrahere et in cibum infelicissimum vertere. Alii autem mortem infelicissimę proponentes vitae, ex muris semet praecipites mittebant, aliqui vero spe animabantur inani, cogitantes quod Franci hiemis asperitate a civitatis cohiberentur obsidione. Sed hanc illorum spem abscidit prudentium consilium virorum: advecta enim undecumque materiae, coeperunt extruhere casas veluti ibidem in hibernis mansuri. Quod cernentes civitatis habitatores, ab spe deciderunt et ad desperationem ultimam versi, suum principem tradiderunt, Zaddunis cognatum, quem pro eo constituerant, nomine Hamur, et se ac civitatem, concessa facultate tute secedendi, dediderunt hoc modo: Cum enim longa fessam obsidione nostri cernerent urbem et iamiamque capiendam aut tradendam crederent, honesto, ut decebat, usi consilio regem vocant, ut urbs tanti nominis gloriosum nomen regi propagaret, si illam eo praesente superari contingeret. Suggestioni huic admodum rex honeste adsensum praebuit. Venit ergo ad exercitum suum urbem vallantem; atque indesinenti oppugnatione sex ebdomadibus pertinacissime perduravit, et tandem superata victori manus dedit. Tradita ergo et patefacta civitate, primo quidem die custodes ibidem rex destinavit, ipse autem ab eius ingressu abstinuit, donec ordinaret, qualiter cum digna Deo gratiarum actione cupitam atque susceptam victoriam eius nomini consecraret. Antecedentibus ergo eum in crastinum et exercitum eius sacerdotibus et clero, cum sollempni apparatu et laudibus hymnidicis portam civitatis ingressus et ad ecclesiam sanctae et victoriosissimę crucis pro victoria sibi divinitus conlata gratiarum actiones Deo acturus est progressus. Porro post haec Bera [Graf Bera von Barcelona] comite ibidem ob custodiam relicto cum Gothorum auxiliis, hiemandi gratia ad propria remeavit. Cui pater [Karl I. der Große], comperto quod ei inminere videbatur a parte Sarracenorum periculo, fratrem Karolum [Karl der Jüngere] suffragaturum mittebat; eique Lugduni [Lyon] iter agenti et ad fratris adiutorium properanti nuntius regis fratris occurrit, captam civitatem nuntiavit et, ne longius fatigaretur, edixit. Qui ab eodem loco regrediens, ad patrem est reversus.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im nächsten Sommer wurde Herzog Zaddo von Barcelona [Sa’dun al-Ru’aini] von jemandem, den er für seinen Freund hielt, überredet, bis nach Narbonne [Narbonne] vorzurücken. Er geriet in Gefangenschaft und wurde vor König Ludwig [Ludwig I. der Fromme] und (darauf) ebenfalls vor dessen Vater Karl [Karl I. der Große] geführt. Um diese Zeit hielt König Ludwig in Toulouse mit dem versammelten Volk seines Königreiches Rat über die Angelegenheiten, die es zu regeln galt. Nach dem Tod des Burgundio wurde seine Grafschaft Fezensac [Fézensac] dem Liutard [Graf Liutard von Fézensac] verliehen. Darüber wurden die Basken aufgebracht und gingen in ihrem Mutwillen so weit, einige von seinen Leuten mit dem Schwert zu töten und andere zu verbrennen. Sie wurden vorgeladen, weigerten sich zuerst zu erscheinen, kamen schließlich doch, um ihre Sache vor Gericht zu vertreten. Sie erhielten die verdiente Strafe für solche Verbrechen, denn einige von ihnen wurden nach dem Recht der Talionsstrafe verbrannt.
+Nachdem dies ausgeführt war, beschlossen der König [Ludwig der Fromme] und seine Berater, nach Barcelona [Barcelona] zu ziehen und die Stadt anzugreifen. Das Heer wurde in drei Abteilungen geteilt; die eine behielt Ludwig, der im Roussillon [Roussillon] zurückblieb, bei sich; der zweiten, unter dem Kommando von Graf Rotstagnus von Gerona [Graf Rotstagnus von Gerona], übertrug er die Belagerung der Stadt, die dritte Abteilung schickte er voraus mit dem Befehl, sich zum Schutz der Belagerer vor einem unerwarteten Überfall der Feinde jenseits der Stadt aufzustellen. Die Belagerten in der Stadt sandten inzwischen (Boten) nach Cordoba [Cordoba] und forderten Hilfe. Der König der Sarazenen schickte ihnen sogleich ein Heer zur Unterstützung. Als diese Hilfstruppen nach Saragossa [Saragossa] kamen, erfuhren sie, daß sich ihnen auf dem Weg ein Heer entgegengestellt hatte. Wilhelm [Wilhelm von Toulouse] war dessen Führer und Bannenträger, auch Hademar war dabei und mit ihnen eine starke Mannschaft. Als (die Sarazenen) dies hörten, wandten sie sich gegen die Asturier und brachten ihnen unerwartet eine Niederlage bei, erlitten dann aber selber eine noch viel schwerere Niederlage. Weil sie sich zurückzogen, kehrten die Unsrigen zu ihren Genossen, den Belagerern der Stadt, zurück und bedrängten mit ihnen vereint die Stadt. Sie schlossen sie ein und ließen so lange keinen hinein oder heraus, bis bitterer Hunger die Einwohner zwang, sogar das uralte Leder, welches als Vorhang an den Türen hing, abzunehmen und als erbärmliche Speise zu verzehren. Einige zogen diesem elenden Leben den Tod vor und stürzten sich kopfüber von den Mauern, andere klammerten sich noch an die vergebliche Hoffnung, die Franken würden durch den rauhen Winter gezwungen, von der Belagerung der Stadt abzulassen. Aber der Rat kluger Männer machte ihre Hoffnung zunichte: man ließ nämlich von überall her Bauholz heranfahren und fing an, Hütten zu bauen, wie wenn man in ihnen den Winter zubringen wollte. Als dies die Bewohner der Stadt sahen, schwand ihnen jede Hoffnung, und in der äußersten Verzweiflung lieferten sie ihren Fürsten aus, einen Verwandten Zaddos namens Hamur, den sie an seine Stelle gesetzt hatten. Nach Zusicherung freien Abzugs übergaben sie sich und die Stadt auf folgende Weise: Als nämlich die Unsrigen die Stadt durch die lange Belagerung erschöpft sahen und glaubten, sie könne jeden Augenblick eingenommen werden oder müsse sich ergeben, faßten sie, wie es sich gehörte, den ehrenvollen Entschluß, den König herbeizurufen, damit eine Stadt von solchem Ruf den Namen des Königs berühmt mache, falls es gelänge, sie in seiner Gegenwart zu bezwingen. Diesem ehrenvollen Ansuchen gab der König seine Zustimmung. Er kam zu seinem Heer, das die Stadt umschloß; noch sechs Wochen lang hielt sie der ununterbrochenen Bestürmung hartnäckig stand; schließlich wurde sie überwunden und ergab sich dem Sieger. Als nun die Stadt übergeben und geöffnet war, schickte der König am ersten Tag Wachmannschaften hinein; er selbst verschob jedoch seinen Einzug, bis er angeordnet hatte, wie er mit einem vor Gott würdigen Dankfest den erstrebten und erlangten Sieg dessen Namen weihen könnte. Am folgenden Tag schritt er mit den Priestern und der Geistlichkeit, die ihm und dem Heer vorangingen, in feierlichem Aufzug und unter Lobgesängen durch das Tor der Stadt und begab sich zur Kirche des heiligen und siegreichen Kreuzes, um dort für den ihm von Gott verliehenen Sieg diesem seinen Dank abzustatten. Hierauf ließ (Ludwig) Graf Bera [Graf Bera von Barcelona] dort mit gotischen Truppen als Besatzung zurück und begab sich zur Überwinterung nach Hause. Ihm schickte der Vater [Karl I. der Große], da er von der Gefahr gehört hatte, die (dem Sohn) von den Sarazenen zu drohen schien, seinen Bruder Karl [Karl der Jüngere] zur Unterstützung; als dieser auf dem Weg, um dem Bruder eilends Hilfe zu bringen, nach Lyon [Lyon] kam, traf ihn ein Bote des Königs, seines Bruders, meldete ihm die Einnahme der Stadt und hieß ihn sich nicht weiter bemühen. Darauf verließ (Ludwig) jenen Ort und kehrte zum Vater zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 13, ed. Tremp 1995, S. 313-321.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="800/801" From="800-01-01" To="800-12-31" />
+        <Datum Text="800/801" From="801-01-01" To="801-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Cordoba</Ort>
+        <Ort>Saragossa</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Narbonne</Ort>
+        <Ort>Toulouse</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>(kulturelle) Gewohnheit</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Stadtübergabe</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcinnona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Caesaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Corduba</Suchwort>
+        <Suchwort>Cordoba</Suchwort>
+        <Suchwort>Gothia</Suchwort>
+        <Suchwort>Gotia</Suchwort>
+        <Suchwort>Hostes</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus Vita Hludovici imperatoris 13, ed. Tremp, S. 315, Anm. 146.
+Der Bannerträger Wilhelm [von Toulouse] war ein Vetter Karls des Großen (vgl. ebd., S. 317, Anm. 149). Bei Hademar handelt es sich wohl um den Grafen von Narbonne und Heerführer Ludwigs in den spanischen Kriegen (vgl. ebd, S. 313, Anm. 134). Hamur ist möglicherweise identisch mit dem beim arabischen Historiographen Ibn Hazm bezeugten Statthalter von Barcelona Amira ibn al-Muhadjir al-Tudjibi (vgl. ebd., S. 318, Anm. 155). Vgl. außerdem zu Graf Bera von Barcelona Vita Hludovici imperatoris 14, ed. Tremp, S. 323, Anm. 170 u. S. 317, Anm. 149.
+Die Identifizierung des Zaddo dux Barcinnonensis mit Wali Sa’dun al-Ru’aini von Barcelona liefert Tremp im Namensregister der Edition, vgl. Vita Hludovici imperatoris 13, ed. Tremp, S. 592.
+Ein ähnlicher Bericht findet sich im Chronicon Moissiacense, allerdings erfolgte diesem zufolge die Gefangennahme Sa’dun al-Ru’ainis im Zusammenhang mit der Eroberung Barcelonas, vgl. [0048]-[0011].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="08940327-0bb7-4b38-bbf6-3965d86ee28e" Type="Person">
+          <Name>Sa’dun al-Ru’aini</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="adf5f1d2-ee74-4a10-8464-3ea58179c58b" Type="Ort">
+          <Name>Toulouse</Name>
+        </Entitaet>
+        <Entitaet Id="c026f93a-835b-4718-a2e8-4db7e9e7e8ac" Type="Anmerkung">
+          <Name>Burgundio</Name>
+        </Entitaet>
+        <Entitaet Id="d22e7315-012c-4e46-9c5e-8bec763b8d06" Type="Ort">
+          <Name>Fézensac</Name>
+        </Entitaet>
+        <Entitaet Id="6cb1d0df-a648-4805-875a-f6cfbca267f7" Type="Person">
+          <Name>Graf Liutard von Fézensac</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="5bd57b04-70b5-495d-af58-22d2baf200b3" Type="Ort">
+          <Name>Roussillon</Name>
+        </Entitaet>
+        <Entitaet Id="03e389df-c96e-4862-80e4-7f17494d42c2" Type="Person">
+          <Name>Graf Rotstagnus von Gerona</Name>
+        </Entitaet>
+        <Entitaet Id="ed0793c0-72d6-44a5-b2e5-a1f2a0a53600" Type="Ort">
+          <Name>Cordoba</Name>
+        </Entitaet>
+        <Entitaet Id="3b7ede96-cf97-4518-a88e-ef9124dbcb4a" Type="Anmerkung">
+          <Name>Sarragossa</Name>
+        </Entitaet>
+        <Entitaet Id="aa883447-3640-4c28-b7ec-8eb253abc3d9" Type="Anmerkung">
+          <Name>Wilhelm von Toulouse</Name>
+        </Entitaet>
+        <Entitaet Id="f12220ab-89a1-46b9-8255-ecc32a2878a5" Type="Anmerkung">
+          <Name>Hademar</Name>
+        </Entitaet>
+        <Entitaet Id="5e6a9d9a-1668-4037-94b0-9902b0594f5d" Type="Person">
+          <Name>Graf Bera von Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="7ff9efbd-0dd1-4567-845f-d952f92c8e73" Type="Person">
+          <Name>Karl der Jüngere</Name>
+        </Entitaet>
+        <Entitaet Id="c745bfde-c7b7-4970-97d9-eb4ef5412fd5" Type="Ort">
+          <Name>Lyon</Name>
+        </Entitaet>
+        <Entitaet Id="e52acd90-627a-492f-999d-e5732a230804" Type="Anmerkung">
+          <Name>Ludwig der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 14, ed. Tremp 1995, S. 320-324.</Zitation>
+      <ZeitangabeQuelle>806</ZeitangabeQuelle>
+      <Inhaltsangabe>König Ludwig I. der Fromme besiegt 806 [um 808] verlustarm Sarazenen und Mauren während eines Feldzugs nach Spanien.</Inhaltsangabe>
+      <VolltextOriginalsprache>At succedente aestate [Ludwig I. der Fromme] cum quanto visum est bellico apparatu in Hispaniam [Spanien] proficiscitur, profectusque per Barcinnonam [Barcelona] et veniens Terraconam [Tarragona], quos ibidem repperit coepit, alios fugavit, universaque loca, castella, municipia usque Tortosam [Tortosa] vis militaris excidit et flamma vorax consumpsit. Interea in loco, cuius est vocabulum Sanctae Columbae [Sancta Columba], divisit copias suas in duo, quam maximam quidem partem secum contra Tortosam [Tortosa] ducens, porro Isembardum [Isembard], Hademarum [Graf Hademar von Narbonne], Beram [Graf Bera von Barcelona], Burrellum [Graf Burrel von Ausona-Urgel-Cerdaña] cum reliquis expeditissime ad superiora dirigens, ut Hibero [Ebro] flumine transito, dum hostes ad sedem figerentur, ab istis insidiis ex inproviso adgrederentur aut certe turbata regione in pavorem solverentur. Igitur rege Tortosam tendente, memorati viri tamdiu superiores Hiberi partes noctibus euntes et diebus silvarum lustra sectantes obambulaverunt, usquequo Cingam [Cinca] et Hiberum [Ebro] natando pariter transierunt. In quo itinere sex dies transigentes, septima transmearunt. Qui ubi omnes incolomes evaserunt, terram hostium latissime vastaverunt et usque villam eorum maximam, que Uilla Rubea [Villa Rubea] vocatur, pervenerunt; unde praedam maximam nimis sustulerunt, utpote inprovisis hostibus et nichil umquam tale suspicantibus. Quibus gestis, his qui evadere potuerunt hanc plagam, longe lateque nuntiantibus, collecta est Sarracenorum Maurorumque multitudo non minima et eis obvia constitit ad hostium vallis, que dicitur Ualla Ibana [Valla Ibana]. Cuius vallis natura est, ut ipsa in profundo iacens hinc inde praeruptis atque altis cingatur montibus. Quam nisi Dei provisio intrare prohibuisset, nostri absque ullo pene hostium labore lapidum ictibus poterant interire vel in manus inimicorum devenire. At dum illi viam praestruunt, nostri autem aliorsum viam apertiorem planioremque petunt, reputantes Mauri haec nostros non ob sui tantum custodiam, sed metu potius eorum facere, a tergo eos insecuntur. Porro autem nostri praedam retro relinquentes faties hostibus nudaverunt, acriter restiterunt et Christo iuvante ipsos terga vertere conpulerunt. Quos adprehendere, necaverunt, et leti ad praedas quas reliquerant redierunt, ac tandem post dies viginti sue digressionis ad regem alacres paucissimis suorum amissis redierunt. Rex autem Hludouuicus, suis lętanter receptis et terra hostili usquequaque vastata, domum rediit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im nächsten Sommer zog er [Ludwig I. der Fromme] mit so großer Kriegsmacht, als ihm gut schien, nach Spanien [Spanien], über Barcelona [Barcelona] bis nach Tarragona [Tarragona]; jeden, den er dort fand, nahm er gefangen, andere jagte er in die Flucht. Alle Ortschaften, Kastelle und Städte bis Tortosa [Tortosa] zerstörte die kriegerische Kraft und verzehrte die gierige Flamme. Unterwegs teilte er an einem Ort namens Sancta Columba [Sancta Columba] sein Heer, den größeren Teil führte er mit sich gegen Tortosa, die anderen Truppen schickte er mit Isembard [Isembard], Hademar [Garf Hademar von Narbonne], Bera [Graf Bera von Barcelona] und Burrell [Graf Burrel von Ausona-Urgel-Cerdaña] in Eilmärschen ins Landesinnere, damit sie dort den Ebro [Ebro] überschreiten und den in ihrem Lager festsitzenden Feinden aus dem Hinterhalt in den Rücken fallen oder ihnen wenigstens durch Streifzüge in der Gegend Schrecken einjagen sollten. Der König zog also gegen Tortosa [Tortosa], und die genannten Männer begaben sich an den Oberlauf des Ebro; sie rückten des Nachts vor und verbargen sich am Tag im Schatten der Wälder, bis sie die Cinca [Cinca] und den Ebro [Ebro] zugleich schwimmend überquerten. Für diesen Marsch brauchten sie sechs Tage, am siebten setzten sie über. Als sie alle das Hindernis unversehrt überwunden hatten, verwüsteten sie weitherum das Land der Feinde und kamen bis zu einem großen Dorf namens Villa Rubea [Villa Rubea]; hier machten sie große Beute, weil die Feinde ganz unvorbereitet waren und nicht im entferntesten etwas ahnten. Wer diesem Handstreich entrinnen konnte, berichtete weit und breit davon, so daß eine nicht geringe Zahl von Sarazenen und Mauren sich sammelte und am Ausgang eines Tales, das Valla Ibana [Valla Ibana] heißt, ihnen in den Weg stellte. Das Tal liegt tief eingeschnitten und ist auf beiden Seiten von steilen, hohen Bergen eingeschlossen. Hätte nicht Gottes Vorsehung den Unsern den Eingang ins Tal verwehrt, so hätten sie von den Feinden fast ohne jede Mühe durch Steinwürfe vernichtet werden oder in deren Hände geraten können. Als diese die Straße versperrten und unsere Leute anderswo einen offeneren und ebeneren Weg suchten, meinten die Mauren, die Unsrigen täten dies nicht so sehr zur eigenen Sicherheit als vielmehr aus Furcht vor ihnen, und setzten ihnen von hinten nach. Darauf ließen jedoch die Unsrigen die Beute zurück, stellten sich den Feinden Auge in Auge gegenüber, leisteten ihnen heftigen Widerstand und jagten sie mit Christi Hilfe in die Flucht. Wen sie ergriffen, den töteten sie, und fröhlich holten sie ihre Beute wieder, die sie zurückgelassen hatten; schließlich kamen sie, zwanzig Tage nach der Trennung, heiter gestimmt und mit nur geringen eigenen Verlusten zum König zurück. König Ludwig nahm sie freudig auf, und nachdem er das feindliche Land überall verwüstet hatte, kehrte er nach Hause zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 14, ed. Tremp 1995, S. 321-325.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 808" From="803-01-01" To="813-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Cinca</Ort>
+        <Ort>Ebro</Ort>
+        <Ort>Tortosa</Ort>
+        <Ort>Tarragona</Ort>
+        <Ort>Valla Ibana</Ort>
+        <Ort>Villa Rubea</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kriegszug</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Hinterhalt/-list</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Gottesurteil</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcinnona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Hostes</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus Vita Hludovici imperatoris 14, ed. Tremp, S. 321, Anm. 166. Isembard war Teilnehmer an der Belagerung Barcelonas, vermutlich verwandt mit dem gleichnahmigen Thurgaugrafen sowie mit Graf Warin von Mâcon. Burrell war hingegen Graf von Ausona-Urgel-Cerdaña (vgl. ebd. S. 323, Anm. 170; S. 317, Anm. 149; S. 320, Anm. 161; S. 309, Anm. 119).</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="bfc9db36-3ddf-4bb0-a3d6-6e93a08e1097" Type="Ort">
+          <Name>Tarragona</Name>
+        </Entitaet>
+        <Entitaet Id="fe4c0de2-f728-4c19-adbf-ab35d2cf20b2" Type="Ort">
+          <Name>Tortosa</Name>
+        </Entitaet>
+        <Entitaet Id="fbd779f9-069a-4d1c-a6d8-527470eeb13d" Type="Anmerkung">
+          <Name>Sancta Columba</Name>
+        </Entitaet>
+        <Entitaet Id="6b63a9c7-737c-44a1-b4b1-6106cb8b3011" Type="Person">
+          <Name>Isembard</Name>
+        </Entitaet>
+        <Entitaet Id="15016637-9bcf-434f-badd-59930d63dd1b" Type="Person">
+          <Name>Graf Hademar von Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="5e6a9d9a-1668-4037-94b0-9902b0594f5d" Type="Person">
+          <Name>Graf Bera von Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="22338648-d0a9-4287-90d4-527439b8a74c" Type="Person">
+          <Name>Graf Burrel von Ausona-Urgel-Cerdaña</Name>
+        </Entitaet>
+        <Entitaet Id="9ac9a38f-f285-4dc4-826c-ac62e1456083" Type="Ort">
+          <Name>Ebro</Name>
+        </Entitaet>
+        <Entitaet Id="75aed86c-ec56-4f87-a157-40dbe91b6358" Type="Anmerkung">
+          <Name>Cinca</Name>
+        </Entitaet>
+        <Entitaet Id="9d54cbf9-e23a-47b4-a7e9-a0e0e8d59528" Type="Ort">
+          <Name>Villa Rubea</Name>
+        </Entitaet>
+        <Entitaet Id="9ecb1451-dc21-452b-98f5-57fd3fec8028" Type="Ort">
+          <Name>Valla Ibana</Name>
+        </Entitaet>
+        <Entitaet Id="f3417527-cef5-47d2-abde-86d630ecf917" Type="Anmerkung">
+          <Name>Garf Hademar von Narbonne</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 15, ed. Tremp 1995, S. 324-328.</Zitation>
+      <ZeitangabeQuelle>807</ZeitangabeQuelle>
+      <Inhaltsangabe>Das Heer König Ludwigs I. des Frommen wird auf Geheiß Kaiser Karls I. des Großen 807 [808] nach Spanien geschickt. In Barcelona wird ein Plan geschmiedet, um die Mauren zu überlisten. Dieser misslingt allerdings, da das heimliche Anrücken der fränkischen Truppen durch einen Mauren aufgedeckt wird. Trotz zahlenmäßiger Unterlegenheit siegen die Franken in der Schlacht.</Inhaltsangabe>
+      <VolltextOriginalsprache>[XV.] Sequenti vero tempore iterum rex Hludouuicus [Ludwig I. der Fromme] expeditionem in Hispaniam [Spanien] paravit, sed pater [Karl I. der Große], ne per semet ipsum illuc pergeret, eum impedivit. Preceperat namque tunc temporis fabricari naves contra Nordomanicas incursiones in omnibus fluminibus, quae mari influebant. Quam curam etiam filio iniunxit super Hrodanum [Rhône] et Garonnam [Garonne] et Silidam [Loire]. Attamen misit ei missum suum Ingobertum [Ingobert], qui filii praesentiam praeferret et vice amborum contra hostes exercitum duceret. Rege autem in Aquitania [Aquitanien] remanente ob supradictam causam, exercitus eius itinere prospero Barcinnonam [Barcelona] venit, ibique habito inter se consilio, qualiter hostibus clandestina possent supervenire inruptione, invenerunt hunc modum, scilicet ut naves transvectorias fabricantes, unamquamque earum in quaternas partirentur partes, quatenus pars quaterna cuiusque duobus aequis vel mulis vehi posset et praeparatis clavis et marculis facile coaptari valerent, pice vero et cera ac stupa praeparatis, mox ut ad flumen veniretur, conpagum iuncturę obcludi possent. Sic itaque instructi, maxima pars eorum cum praedicto misso Ingoberto Tortosam [Tortosa] petierat. At vero hii qui ad opus supradictum sunt deputati, Hademarus [Graf Hademar von Narbonne] scilicet, Bera [Graf Bera von Barcelona] et reliqui, trium dierum emenso itinere – erant enim sine sagmatibus – celo pro tecto utentes, foco ne fumo deprehenderentur renuntiantes, silvis se die occulentes, nocte quantum posse dabatur iter agentes, quarto die Hibero [Ebro] conpactis navibus ipsi quidem transpositi, aequos autem natatui commiserunt. Quod factum magnum voto eorum pepererat effectum, nisi fuisset acerrime deprehensum. Cum enim Abaidun dux Tortose [Wali Ubaidun ibn al-Ghamr von Tortosa] transitu nostros prohibiturus littora Hiberi [Ebro] obsideret fluminis, et illi, quos supra diximus, superiora illius modo praedicto transmitterent, Maurus quidam lavandi gratia flumen ingressus fimum a flumine vidit ferri ęquinum. Quo viso, sicut sunt nimię calliditatis, adnatans fimumque conprehendens et naribus admovens exclamavit: „Cernite”, inquiens, „o sotii, moneo quam cavete! Nam hoc stercus nec onagri est vel cuiuscumque animantis herbidis assueti pastibus; enimvero aequina haec esse constat aegesta, que certum est ordeum fuisse et ob hoc ęquorum vel mulorum pabula. Ideoque cautius vigilate! Nam in superioribus fluminis huius, ut cerno, nobis parantur insidiae”. Extimplo duos suorum conscensis speculatum dirigunt aequis. Qui nostris visis, quod verum erat, Abaiduno renuntiant. At illi timore coacti, omnibus quae castrensis habitatio habuit posthabitis atque dimissis, fuge se commiserunt, omniumque relictorum nostri potiti in eorum papilionibus illa sunt nocte hospitati; sed Abaidun, collecta multa manu hostium, eis in crastinum proeliaturus occurrit. Nostri tamen divino freti auxilio, licet inpares multoque numero inferiores, tamen hostes fugere conpulerunt multoque eorum strage viam fugientium repleverunt, et eo usque manus ab eorum cęde non continuerunt, donec solis dieique lumine recedente et umbra terram occupante, lumina stellarum noctem solatura succederent. His gestis, Christo favente ad suos sese magno cum gaudio et opibus collegerunt. Diu etiam simul obsessa urbe, domum repedarunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>15. In der nächsten Zeit rüstete König Ludwig [Ludwig I. der Fromme] wieder zu einem Zug nach Spanien [Spanien]; der Vater [Karl I. der Große] hielt ihn jedoch davon ab, in eigener Person die Leitung des Feldzuges zu übernehmen. Er hatte nämlich um diese Zeit angeordnet, daß auf allen Flüssen, die ins Meer münden, Schiffe gegen die Einfälle der Normannen gebaut werden sollten. Seinem Sohn übertrug er die Sorge dafür auf Rhone [Rhône], Garonne [Garonne] und Silida [Loire]. Doch schickte er ihm seinen Sendboten Ingobert [Ingobert], damit er den Sohn vertrete und anstelle von ihnen beiden das Heer gegen die Feinde führe. Aus dem genannten Grund blieb der König also in Aquitanien [Aquitanien], sein Heer gelangte indessen glücklich nach Barcelona [Barcelona]. Hier hielten (die Führer) untereinander Rat, wie man die Feinde durch einen heimlichen Einfall überraschen könnte, und entwarfen folgenden Plan: Sie bauten Schiffe zum Übersetzen, zerlegten jedes in vier Teile, so daß jeder Teil durch je zwei Pferde oder Maultiere gezogen werden konnte und (die Teile) sich durch vorher angefertigte Nägel und kleine Hämmer leicht wieder zusammenfügen ließen; mit Pech, Wachs und Werg, die man bereit hielt, sollten dann, sobald man zum Fluß käme, die Fugen an den Nahtstellen abgedichtet werden. Als man so weit gerüstet war, zog der größte Teil der Mannschaft unter dem Kommando des genannten Sendboten Ingobert nach Tortosa. Die Abteilung, welche zur Ausführung jenes Planes bestimmt war, nämlich Hademar [Graf Hademar von Narbonne], Bera [Graf Bera von Barcelona] und die übrigen, legte einen Marsch von drei Tagen zurück. Da man ohne Zelte war, lagerte man unter freiem Himmel, man machte kein Feuer, um sich nicht durch den Rauch zu verraten, tagsüber hielt man sich in den Wäldern versteckt, und in der Nacht rückte man vor, so weit man konnte. Am vierten Tag setzten die Männer auf den zusammengefügten Schiffen über den Ebro [Ebro], die Pferde durchschwammen ihn. Dieses Unternehmen hätte nach ihrem Wunsch einen durchschlagenden Erfolg gehabt, wenn es nicht auf scharfsinnige Weise durchschaut worden wäre: Da nämlich Herzog Abaidun von Tortosa [Wali Ubaidun ibn al-Ghamr von Tortosa] die Ufer des Ebro [Ebro] besetzt hielt, um die Unsern am Übergang zu hindern, und diese, wie beschrieben, den Fluß weiter oben überschritten, sah ein Maure, der zum Baden in den Fluß gestiegen war, Pferdemist im Wasser treiben. Sobald er ihn bemerkt hatte – so schlau sind diese Leute –, schwamm er hin, faßte den Mist, hielt ihn an die Nase und rief: „Seht her, Genossen! Ich rate euch, nehmt euch in acht! Denn das ist weder Mist von einem Waldesel noch überhaupt von einem grasfressenden Tier, sondern das ist bestimmt Pferdemist und war früher ohne Zweifel Gerste, das Futter von Pferden oder Maultieren. Seid daher noch wachsamer! Am Oberlauf dieses Flusses wird, wie ich merke, ein hinterlistiger Anschlag auf uns vorbereitet". Sogleich bestiegen zwei von ihnen die Pferde und gingen auf Kundschaft. Als sie die Unsrigen dann tatsächlich entdeckt hatten, meldeten sie dies Abaidun. (Die Feinde) aber ließen, von Furcht getrieben, das Lager und alles, was darin war, im Stich und ergriffen die Flucht; unsere Leute bemächtigten sich der zurückgelassenen Sachen und verbrachten die Nacht in den (feindlichen) Zelten. Abaidun sammelte eine große Zahl von Feinden und trat (den Unsern) am anderen Tag zur Schlacht entgegen. Im Vertrauen auf Gottes Hilfe zwangen die Unsrigen, obwohl an Kräften unterlegen und an Zahl weit schwächer, die Feinde dennoch zur Flucht und bedeckten den Weg der Fliehenden mit vielen Toten; und nicht eher ließen sie vom Morden ab, als bis die Sonne und das Tageslicht verschwunden waren, bis Dunkelheit die Erde bedeckte und die leuchtenden Sterne erschienen, um die Nacht zu erhellen. Darauf zogen sie sich unter dem Schutz Christi mit großer Freude und vielen Schätzen zu ihren Gefährten zurück. Lange Zeit belagerten sie noch gemeinsam die Stadt, dann gingen sie wieder nach Hause.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 15, ed. Tremp 1995, S. 325-329.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="808" From="808-01-01" To="808-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Tortosa</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Garonne</Ort>
+        <Ort>Loire</Ort>
+        <Ort>Rhone</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Hinterhalt/-list</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Gottesurteil</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcinnona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Hostes</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus Vita Hludovici imperatoris 15, ed. Tremp, S. 325, Anm. 178.
+Der Sendbote Ingobert war möglicherweise ein Verwandter der Königin Irmingard, Hademar wohl Graf von Narbonne und Bera Graf von Barcelona (vgl. Vita Hludovici imperatoris, ed. Tremp, S. 327, Anm. 182; S. 317, Anm. 149; S. 323, Anm. 170).</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8518d645-c0b5-4fa8-a8f5-df10a8f8224e" Type="Anmerkung">
+          <Name>XV.</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="6c6e4886-2504-46d6-9600-f209c2009452" Type="Ort">
+          <Name>Rhône</Name>
+        </Entitaet>
+        <Entitaet Id="8208e2e7-0189-4356-a98c-059bfd963a28" Type="Ort">
+          <Name>Garonne</Name>
+        </Entitaet>
+        <Entitaet Id="e44d1969-7c3f-4901-b76d-564c5b435d0d" Type="Ort">
+          <Name>Loire</Name>
+        </Entitaet>
+        <Entitaet Id="278089fc-b231-4595-9595-47271686d334" Type="Person">
+          <Name>Ingobert</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="fe4c0de2-f728-4c19-adbf-ab35d2cf20b2" Type="Ort">
+          <Name>Tortosa</Name>
+        </Entitaet>
+        <Entitaet Id="15016637-9bcf-434f-badd-59930d63dd1b" Type="Person">
+          <Name>Graf Hademar von Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="5e6a9d9a-1668-4037-94b0-9902b0594f5d" Type="Person">
+          <Name>Graf Bera von Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="9ac9a38f-f285-4dc4-826c-ac62e1456083" Type="Ort">
+          <Name>Ebro</Name>
+        </Entitaet>
+        <Entitaet Id="e63942a2-bb1f-4951-9e21-8588b75eea40" Type="Person">
+          <Name>Wali Ubaidun ibn al-Ghamr von Tortosa</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 16, ed. Tremp 1995, S. 330.</Zitation>
+      <ZeitangabeQuelle>808</ZeitangabeQuelle>
+      <Inhaltsangabe>Im Jahr 808 [809] zieht König Ludwig I. der Fromme selbst nach Spanien und kann Tortosa erobern.</Inhaltsangabe>
+      <VolltextOriginalsprache>[XVI.] Porro anno huic proximo Hludouuicus [Ludwig I. der Fromme] rex per semet ipsum Tortosam [Tortosa] repetere statuit, habens secum Heribertum [Heribert], Liutardum [Graf Liutard von Fézensac], Isembardum [Isembard] validumque Frantiae supplementum. Quo perveniens, adeo illam arietibus, mangonibus, vineis et ceteris argumentis lacessivit et protrivit muralibus, ut cives illius a spe deciderent, infractosque suos adverso Marte cernentes, claves civitatis traderent, quas ipse rediens cum multo patri attulit favore. Quae res magnum Sarracenis et Mauris pro talibus gestis incussit metum, verentibus ne singulas civitates par sors involveret. Reversus est igitur rex a civitate post XL dies inchoate obsidionis et in proprium se contulit regnum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>16. Im nächsten Jahr beschloß König Ludwig [Ludwig I. der Fromme], in eigener Person, in Begleitung von Heribert [Heribert], Liutard [Graf Liutard von Fézensac] und Isembard [Isembard] und mit einer starken fränkischen Streitmacht, erneut gegen Tortosa [Tortosa] zu ziehen. Dort angelangt, bedrängte und schwächte er mit Hilfe von Rammböcken, Wurfmaschinen, Sturmdächern und anderen Belagerungsmaschinen die Stadt so sehr, daß ihre Bürger jede Hoffnung aufgaben und, da sie die Ihren vom Kriegsglück im Stich gelassen sahen, die Schlüssel der Stadt aushändigten. Diese überbrachte (Ludwig) selber nach seiner Rückkehr unter großem Beifall dem Vater. Das Ereignis jagte den Sarazenen und Mauren große Angst vor solchen Taten ein, denn sie fürchteten, das gleiche Los könnte auch die übrigen Städte treffen. So zog der König vierzig Tage nach Beginn der Belagerung von der Stadt ab und begab sich in sein Reich zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 16, ed. Tremp 1995, S. 331.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="809" From="809-01-01" To="809-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="800-810" From="800-01-01" To="810-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Tortosa</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Stadtübergabe</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus Vita Hludovici imperatoris 16, ed. Tremp, S. 330, Anm. 187.
+Heribert war wohl identisch mit dem Sendboten in Kap. 17 (vgl. ebd., S. 330, Anm. 188); Liutard war der Sohn Graf Gerhards I. von Paris; Isembard war vermutlich verwandt mit dem gleichnamigen Thurgaugrafen und Graf Warin von Mâcon (vgl. Vita Hludovici imperatoris, S. 315, Anm. 143; S. 323, Anm. 170).
+Vgl. zu Heribert auch [0011]-[0009].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="289dbb08-f399-4d3e-968c-266dcebe7503" Type="Anmerkung">
+          <Name>XVI.</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="fe4c0de2-f728-4c19-adbf-ab35d2cf20b2" Type="Ort">
+          <Name>Tortosa</Name>
+        </Entitaet>
+        <Entitaet Id="964cab07-c821-48f0-8744-0e716821a0b2" Type="Person">
+          <Name>Heribert</Name>
+        </Entitaet>
+        <Entitaet Id="6cb1d0df-a648-4805-875a-f6cfbca267f7" Type="Person">
+          <Name>Graf Liutard von Fézensac</Name>
+        </Entitaet>
+        <Entitaet Id="6b63a9c7-737c-44a1-b4b1-6106cb8b3011" Type="Person">
+          <Name>Isembard</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 17, ed. Tremp 1995, S. 330-332.</Zitation>
+      <ZeitangabeQuelle>809</ZeitangabeQuelle>
+      <Inhaltsangabe>Ein Heer König Ludwigs I. des Frommen belagert 809 [811] unter der Führung Heriberts die Stadt Huesca und kämpft gegen die Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>At post anni instantis excursum exercitum ordinavit [Ludwig I. der Fromme] et Hoscam [Huesca] cum misso patris [Karl I. der Große] Heriberto [Heribert] mittere statuit. Quo pervenientes qui missi fuerant, civitatem obsederunt, obvios quosque aut vivos conprehenderunt aut in fugam coactos compulerunt. Sed dum circa urbem sedentes, ignaviori se quam decuit studio resolvunt, inprudentes ac leves aliqui iuvenum propius muris accedentes, verbis quidem eos, qui propugnaculis praesidebant, primum lacessere, dein missilibus incessere temptant. Oppidani porro contempnentes praesentium paucitatem, absentium metientes seram occursionem, apertis prosiliunt portis. Pugnatum hinc inde est; caesi sunt ab utraque parte, et tandem illi in civitatem sese receperunt, isti autem ad castra mansuri redierunt. Protracta igitur obsidione, peracta vastatione et queque visa sunt contra inimicos agere pro irae satisfactione, ad regem sunt reversi, qui eo tempore in silvis venationum occupabatur studiis; erat enim tempus autumni perextremum. Receptis ergo suis ab expeditione praemissa redeuntibus, rex hiemem sequentem in suis consistens pacifice exegit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Nach Ablauf dieses Jahres rüstete er [Ludwig I. der Fromme] ein Heer und beschloß, es unter der Führung von Heribert, dem Sendboten des Vaters [Karl I. der Große], nach Huesca [Huesca] zu schicken. Als die Truppen dort anlangten, belagerten sie die Stadt und alle, auf die sie stießen, nahmen sie lebend gefangen oder trieben sie in die Flucht. Während sie so um die Stadt lagerten und in träger Nachlässigkeit mehr, als statthaft war, sich gehen ließen traten einige unbesonnene und leichtfertig junge Leute ganz nahe an die Mauer heran und fingen an, die Verteidiger auf den Zinnen zuerst mit Worten zu reizen und dann mit Geschossen nach ihnen zu werfen. Die Leute in der Stadt achteten die kleine Schar der Feinde vor ihnen gering und rechneten damit, daß die abwesenden Feinde zu spät herbeieilen würden; daher öffneten sie die Tore und machten einen Ausfall. Man kämpfte miteinander, auf beiden Seiten gab es Gefallene, schließlich zogen sich jene in die Stadt zurück, und diese begaben sich zum Lager und blieben dort. Nach einer langen Belagerung und nachdem die Verheerung ausgeführt war, und was man sonst noch, um den Rachdurst zu stillen, gegen die Feinde zu unternehmen vorhatte, kehrten sie zum König zurück, der damals in den Wäldern jagte; es war nämlich schon spät im Herbst. Der König empfing die Seinen, die vom beschriebenen Feldzug zurückkamen, und dann verbrachte er den nächsten Winter in Ruhe bei sich zu Hause.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 17, ed. Tremp 1995, S. 331-333.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="811" From="811-01-01" To="811-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Huesca</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Vetreibung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hostes</Suchwort>
+        <Suchwort>Feind</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus Vita Hludovici imperatoris 17, ed. Tremp, S. 331, Anm. 195: „Zweite Belagerung von Huesca wohl 811“. Huesca bildet bis 1096 die nördlichste Festung des sarazenischen Herrschaftsgebiets auf der iberischen Halbinsel.
+Zum Sendboten Heribert vgl. Anm. zu [0011]-[0008].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1196ab4d-5104-444d-bf55-929e13cf4115" Type="Ort">
+          <Name>Huesca</Name>
+        </Entitaet>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="964cab07-c821-48f0-8744-0e716821a0b2" Type="Person">
+          <Name>Heribert</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 20, ed. Tremp 1995, S. 342.</Zitation>
+      <ZeitangabeQuelle>813</ZeitangabeQuelle>
+      <Inhaltsangabe>König Ludwig I. der Fromme schließt 813 [812] einen zweijährigen Frieden [wohl mit dem Emir von Cordoba].</Inhaltsangabe>
+      <VolltextOriginalsprache>Pacem porro petentibus his, quos bello fatigare solitus erat, rex [Ludwig I. der Fromme] articulo duorum annorum praestituto libenter indulsit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Den um Frieden Bittenden, die der König [Ludwig I. der Fromme] sonst durch Krieg zu bedrängen gewohnt war, gewährte er gerne Frieden und setzte dafür einen Zeitraum von zwei Jahren fest.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 20, ed. Tremp 1995, S. 343.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="812" From="812-01-01" To="812-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI, sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>-</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Laut Edition wurde der zweijährige Frieden mit dem Emir von Cordoba geschlossen, demnach handelt es sich bei den „um Frieden Bittenden“ um Sarazenen. Bereits 810 hatte es einen Friedensschluss gegeben, der nun erneuert wurde. Die Datierung nach Vita Hludovici imperatoris 20, ed. Tremp, S. 343, Anm. 255.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 25, ed. Tremp 1995, S. 360.</Zitation>
+      <ZeitangabeQuelle>815; 821</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig I. der Fromme und Emir al-Hakam I. von Cordoba vereinbaren 815 einen Frieden, der bereits 821 [820] mit einer Kriegserklärung Ludwigs an den Emir endet.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem anno Abulat [al-Hakam I.] Sarracenorum rex triennem ab imperatore [Ludwig I. der Fromme] petiit pacem; que quidem primum impetrata est, sed postea tamquam inutilis reiecta, et bellum Sarracenis est indictum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im gleichen Jahr erbat der Sarazenenkönig Abulaz [al-Hakam I.] vom Kaiser [Ludwig I. der Fromme] einen dreijährigen Frieden; dieser wurde zuerst gewährt, nachher aber als unvorteilhaft wieder verworfen, und den Sarazenen wurde der Krieg erklärt.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 25, ed. Tremp, S. 361.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="815" From="815-01-01" To="815-12-31" />
+        <Datum Text="820" From="820-01-01" To="820-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Friedensbruch</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al-Hakam</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Anm. in der Edition (S. 361, Anm. 330): „Vorlage mißverstanden: Der 812 geschlossene Frieden wurde 815 nach dreijähriger Dauer aufgekündigt, was einen Angriff der Mauren auf Barcelona zur Folge hatte.“
+Vgl. zur Kriegserklärung Ludwigs des Frommen [0011]-[0013].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0012</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 26-27, ed. Tremp 1995, S. 368-370.</Zitation>
+      <ZeitangabeQuelle>816/817</ZeitangabeQuelle>
+      <Inhaltsangabe>Gesandte des Emirs Abd ar-Rahmans II. von Cordoba werden 816 in Compiègne von Kaiser Ludwig I. dem Frommen empfangen und sollen diesem dann nach Aachen vorrausreisen. Dort warten sie bis Anfang 817 vergeblich auf den Kaiser kehren unverrichteter Dinge zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Imperator [Ludwig I. der Fromme] vero ad Compendium [Compiègne] secessit ibique missos Abdirahman [Emir Abd ar-Rahman II.] filii Abulaz [al-Hakam I.] regis suscepit et audivit. Moratus autem ibidem XX vel eo amplius diebus, Aquasgrani [Aachen] hiematurus petiit. Iusserat sane imperator missos Sarracenorum regis semet illuc praecedere venturum. Quo cum pervenissent, ferme tribus detenti sunt mensibus; post haec autem, cum eos iam tederet adventus sui, permissu imperatoris redierunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der Kaiser [Ludwig I. der Fromme] ging nach Compiègne [Compiègne] und empfing dort die Gesandten Abdirahmans [Emir Abd ar-Rahman II.], des Sohnes von König Abulaz [al-Hakam I.]. Nach einem Aufenthalt von zwanzig oder mehr Tagen begab er sich für den Winter nach Aachen. Der Kaiser hatte befohlen, daß die Gesandten des Sarazenenkönigs ihm vorausgehen und (in Aachen) auf ihn warten sollten. Als sie hier ankamen, wurden sie etwa drei Monate lang zurückgehalten; schließlich wurde es ihnen zu lang, auf sein Eintreffen zu warten, und sie kehrten mit Erlaubnis des Kaisers nach Hause zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 26-27, ed. Tremp 1995, S. 369-371.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="816/817" From="816-01-01" To="816-12-31" />
+        <Datum Text="816/817" From="817-01-01" To="817-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="810-820" From="810-01-01" To="820-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Aachen</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Compiègne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdirahman</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al-Hakam</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-
+Vgl. [0042]-[0004].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1be2725c-6c61-4674-bad9-004cd1424955" Type="Ort">
+          <Name>Compiègne</Name>
+        </Entitaet>
+        <Entitaet Id="8777d391-fbc8-409f-ae38-3ce880c589c5" Type="Person">
+          <Name>Emir Abd ar-Rahman II.</Name>
+        </Entitaet>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0013</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 34, ed. Tremp 1995, S. 400.</Zitation>
+      <ZeitangabeQuelle>821</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig I. der Fromme erklärt Emir al-Hakam I. von Cordoba 821 den Krieg.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…] inruptaque imaginaria pace, quae cum Abulat [al-Hakam I.] rege Sarracenorum pacta videbatur, bellum ei est indictum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Der Scheinfrieden, den man bekanntlich mit dem Sarazenenfürsten Abulaz [al-Hakam I.] geschlossen hatte, wurde gebrochen und diesem der Krieg erklärt.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 34, ed. Tremp 1995, S. 401.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="821" From="821-01-01" To="821-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Friedensbruch</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abulaz</Suchwort>
+        <Suchwort>al-Hakim</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Nach den Reichsannalen wurde der Waffenstillsand bereits auf dem Reichstag zu Quierzy 820 gebrochen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="6e738cb6-209e-45dc-a5d0-f268bd32f177" Type="Person">
+          <Name>al-Hakam I.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0014</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 35, ed. Tremp 1995, S. 408.</Zitation>
+      <ZeitangabeQuelle>822</ZeitangabeQuelle>
+      <Inhaltsangabe>Befehlshaber der Spanischen Mark unternehmen 822 einen Beutezug in das Landesinnere von Spanien.</Inhaltsangabe>
+      <VolltextOriginalsprache>Nuntiatum est eodem tempore imperatori [Ludwig I. der Fromme], quod custodes limitis Hispanici [Spanien] Sicorim [Segre] fluvium transierint, Hispaniae [Spanien] interiora penetrarint et cum magna preda prospere redierint, vastatis incensisque omnibus que obviam se praebuerint.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Um dieselbe Zeit wurde dem Kaiser [Ludwig I. der Fromme] gemeldet, daß die Befehlshaber der Spanischen Mark [Spanien] den Segre [Segre] überschnitten hätten, in das Innere von Spanien [Spanien] eingedrungen und mit reicher Beute glücklich wieder zurückgekehrt seien, nachdem sie alles auf ihrem Weg verwüstet und verbrannt hätten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 35, ed. Tremp 1995, S. 409.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="822" From="822-01-01" To="822-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Segre</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Verweis auf eine Überquerung des Segre legt nahe, dass mit „Hispania interiora“ das sarazenische Gebiet gemeint ist.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="69a47d7e-6433-4775-b2a9-b34a6f6b090a" Type="Ort">
+          <Name>Segre</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0015</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 37, ed. Tremp 1995, S. 422.</Zitation>
+      <ZeitangabeQuelle>823</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Grafen Eblus und Asinarius ziehen 823 [824] auf Befehl Kaiser Ludwigs I. des Frommen über die Pyrenäen. Auf dem Rückweg werden sie gefangen genommen und Eblus wird zum Emir Abd ar-Rahman II. nach Cordoba geschickt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Qui [Graf Eblus; Graf Asinarius] cum magnis copiis usque ad Pampilonam [Pamplona] issent et inde negotio peracto redirent […], omnibus amissis copiis in inimicorum devenere manus. Qui Eblum [Graf Eblus] quidem Cordubam [Cordoba] regi Sarracenorum miserunt, Asinario [Graf Asinarius] vero, tamquam qui eos adfinitate sanguinis tangeret, pepercerunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Als sie [Graf Eblus; Graf Asinarius] mit vielen Truppen bis nach Pamplona [Pamplona] gekommen waren und nach Erledigung ihres Auftrages von dort zurückkehrten, […], verloren sie ihr ganzes Heer und fielen in die Hände der Feinde. Den Eblus [Graf Eblus] schickten diese nach Cordoba [Cordoba] zu dem Sarazenenkönig, Asinarius [Graf Asinarius] jedoch als ihr Blutsverwandter wurde geschont.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 37, ed. Tremp 1995, S. 423.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="824" From="824-01-01" To="824-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Cordoba</Ort>
+        <Ort>Pamplona</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Corduba</Suchwort>
+        <Suchwort>Cordoba</Suchwort>
+        <Suchwort>Sarecenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Anm. der Edition (S. 423, Anm. 525): Eblus war vermutlich ein Bruder des Auvergnegrafen Warin (wahrscheinlich Asinarius), der 836 ums Leben gekommene citerius Vuasconiae comes Aznar Sanchez. Die Datierung ergibt sich aus Vita Hludovici imperatoris 37, ed. Tremp, S. 423, Anm. 524.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f247621e-56d9-43b3-8c9f-55fdfb731fdf" Type="Anmerkung">
+          <Name>Graf Eblus; Graf Asinarius</Name>
+        </Entitaet>
+        <Entitaet Id="8c6acf1b-8f06-4af6-9398-9f7f2bc2833f" Type="Ort">
+          <Name>Pamplona</Name>
+        </Entitaet>
+        <Entitaet Id="989047d8-3457-4595-98ef-8722cb68582e" Type="Person">
+          <Name>Graf Eblus</Name>
+        </Entitaet>
+        <Entitaet Id="ed0793c0-72d6-44a5-b2e5-a1f2a0a53600" Type="Ort">
+          <Name>Cordoba</Name>
+        </Entitaet>
+        <Entitaet Id="5a47a70c-bed4-4392-a10b-fe4da4f59981" Type="Person">
+          <Name>Graf Asinarius</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0016</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 40, ed. Tremp 1995, S. 430.</Zitation>
+      <ZeitangabeQuelle>Februar 826</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig I. der Fromme rät im Februar 826 seinem Sohn Pippin, sich auf ein mögliches Eingreifen in Spanien [vmtl. gegen die Sarazenen] vorzubereiten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ipso anno kalendis febroariis Pippinus [Pippin I.] filius imperatoris [Ludwig I. der Fromme] ad patrem Aquis [Aachen] hiemantem venit. Cui ab imperatore cura commendata, ut paratus esset, si quid ex partibus Hispanie [Spanien] novi orietur, qualiter obviare posset, regressus est.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Am ersten Februar diesen Jahres kam Pippin [Pippin I.], der Sohn des Kaisers [Ludwig I. der Fromme], zu seinem Vater, der in Aachen [Aachen] den Winter verbrachte. Der Kaiser legte ihm ans Herz, auf der Hut zu sein und sich gerüstet zu halten, damit er, falls in Spanien [Spanien] neue Unruhen ausbrächen, ihnen entgegentreten könne; darauf kehrte (Pippin) (nach Aquitanien) zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 40, ed. Tremp, S. 431.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Februar 826" From="826-01-01" To="826-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Aufforderung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Reichsannalen berichten zu dem erwähnten Treffen, dass hier die Abwehr einer möglichen Bedrohung durch die Sarazenen thematisiert wird, MGH SS rer. Germ. [6], ad. a. 826, S.169. Dagegen vertritt d’Abadal die Meinung, dass die möglichen Unruhen im Zusammenhang mit der Person des Grafen Bernhard von Barcelona standen: Ramon d’Abadal, La Catalogne sous l’empire de Louis le Pieux, in: Les Etudes Roussillonnaises 5,2 (1956), S. 147-177, hier S. 159f.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0017</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 40, ed. Tremp 1995, S. 434.</Zitation>
+      <ZeitangabeQuelle>826</ZeitangabeQuelle>
+      <Inhaltsangabe>Der baskisch-gothische Graf Aizo erhält 826 von Emir Abd ar-Rahman II. von Cordoba Hilfstruppen für den Aufstand gegen Kaiser Ludwig I. den Frommen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[S]ed et misso fratre suo ad regem Sarracenorum Abdiraman [Emir Abd ar-Rahman II.] nomine, [Graf Aizo] validum contra nos [Ludwig I. der Fromme] exercitus robur accepit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[A]ußerdem habe er [Graf Aizo] vom Sarazenenkönig Abdirahman [Emir Abd ar-Rahman II.], zu dem er seinen Bruder geschickt hatte, ein mächtiges Aufgebot an Hilfstruppen gegen uns [Ludwig I. der Fromme] erhalten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 40, ed. Tremp 1995, S. 435.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="826" From="826-01-01" To="826-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Rebellion</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Abdiraman</Suchwort>
+        <Suchwort>Abd al-Rahman</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu Graf Aizo und seinen Aufstand vgl. Josef Semmler, Ludwig der Fromme 814-840, in: Kaisergestalten des Mittelalters, hg von Helmut Beumann, Müchen 1984, S. 28-49, hier S. 43.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="314a1147-a324-4500-ba35-76e4f831c625" Type="Anmerkung">
+          <Name>S</Name>
+        </Entitaet>
+        <Entitaet Id="8777d391-fbc8-409f-ae38-3ce880c589c5" Type="Person">
+          <Name>Emir Abd ar-Rahman II.</Name>
+        </Entitaet>
+        <Entitaet Id="6bdde2de-339a-479b-a0e9-6cd5a7d30acd" Type="Person">
+          <Name>Graf Aizo</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="911c840c-d64b-4673-b553-824c7673a903" Type="Anmerkung">
+          <Name>A</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0018</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 41, ed. Tremp 1995, S. 436-440.</Zitation>
+      <ZeitangabeQuelle>827</ZeitangabeQuelle>
+      <Inhaltsangabe>Der baskisch-gotische Graf Aizo rebelliert 827 gegen Kaiser Ludwig den Frommen und erhält Verstärkung durch sarazenische Hilfstruppen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Preterea Aizone [Graf Aizo] infestante eos, qui in nostris finibus consistebant, et precipue Ceritaniam [Cerdana] Uallensemque [Valles] regionem usquequaque vastante, eo usque immanitas illius processit, adnitentibus Maurorum atque Sarracenorum auxiliis, ut aliqui nostrorum castella atque municipia, que actenus tenuerant. […] Ad quos motus comprimendos nostrosque roborandos domnus imperator [Ludwig I. der Fromme] exercitum illuc mittendum ordinat […]. Quod cernens Aizo, exercitum a Sarracenis petitum abiit praetorianum. […] Porro imperator Pippinum [Pippin I. von Aquitanien] filium suum Aquitaniae contra eos misit regem [...]. Quibus serius meticulosiusque quam decuit occurientibus, tamdiu more innexe sunt Moris, quousque illi vastata Barcinonę [Barcelona] atque Gerundę [Gerona] regione, Cęsaraugustam [Saragossa] sese incolumes receperunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Mittlerweile bedrängte Aizo [Graf Aizo] die Bewohner unserer Grenzgebiete und verwüstete besonders die Gegend von Cerdana [Cerdana] und Vallés [Vallés]. Seine Unverschämtheit ging so weit, daß er mit Unterstützung maurischer und sarazenischer Hilfstruppen unsere Leute zur Aufgabe mehrerer Kastelle und Städte zwang, die sie bisher innegehabt hatten. […] Der Kaiser [Ludwig der Fromme] entsandte zur Niederschlagung des Aufstandes und zur Stärkung der Stellung der unseren ein Heer. […] Als Aizo dies sah, begab er sich zu den Sarazenen und bat sie um ein Heer aus Elitetruppen. […] Nun schickte der Kaiser seinen Sohn Pippin, den König von Aquitanien [Pippin I. von Aquitanien], gegen sie ins Feld […]. Diese rückten aber ungebührlich langsam und zaghaft heran; dadurch gewannen die Mauren soviel Aufschub, daß sie die Gegend von Barcelona [Barcelona] und Gerona [Gerona] verwüsten und sich danach wohlbehalten nach Saragossa [Saragossa] zurückziehen konnten.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 41, ed. Tremp 1995, S. 437-441.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="827" From="827-01-01" To="827-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Barcelona</Ort>
+        <Ort>Gerona</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Cerdana</Ort>
+        <Ort>Vallés</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Gegenschlag</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+        <Suchwort>Caesaraugusta</Suchwort>
+        <Suchwort>Saragossa</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="6bdde2de-339a-479b-a0e9-6cd5a7d30acd" Type="Person">
+          <Name>Graf Aizo</Name>
+        </Entitaet>
+        <Entitaet Id="34893141-9d6f-44af-95cd-2ed6664e4e42" Type="Ort">
+          <Name>Cerdana</Name>
+        </Entitaet>
+        <Entitaet Id="422ec00a-77eb-4ef5-807f-9dac4e709f84" Type="Ort">
+          <Name>Valles</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="61d8bd7c-31c9-41e5-b632-67aa35f0976e" Type="Person">
+          <Name>Pippin I. von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="75089f58-05c5-4d54-a13e-3adb94ba8635" Type="Ort">
+          <Name>Barcelona</Name>
+        </Entitaet>
+        <Entitaet Id="fe42fe01-c123-4844-af32-cea58acd2c14" Type="Ort">
+          <Name>Gerona</Name>
+        </Entitaet>
+        <Entitaet Id="7df93b79-4411-4b80-86ad-d626c1003bbe" Type="Ort">
+          <Name>Saragossa</Name>
+        </Entitaet>
+        <Entitaet Id="506cfb85-5120-436a-96a9-fbf4f2c90102" Type="Anmerkung">
+          <Name>Vallés</Name>
+        </Entitaet>
+        <Entitaet Id="5b5978fb-a384-4262-9dcc-86e8e645141c" Type="Anmerkung">
+          <Name>Ludwig der Fromme</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0019</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 42, ed. Tremp 1995, S. 442-444.</Zitation>
+      <ZeitangabeQuelle>Februar 828</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig I. der Fromme verhandelt auf einer Reichsversammlung in Aachen im Februar 828 die gewaltsamen Übergriffe in der Spanischen Mark [durch Graf Aizo und Sarazenen] im Vorjahr und bestraft die verantwortlichen Heerführer als Schuldige.</Inhaltsangabe>
+      <VolltextOriginalsprache>Mense februario sequentis hiemis conventus habitus publicus Aquisgrani [Aachen], ubi cum in aliis, tum maxime fervebat res in marcha Hispanica [Spanien] nuper timorose ignominioseque peracta. Qua ventilata et enucleatissime investigata, hi reperti sunt huius culpe auctores, qui ab imperatore [Ludwig I. der Fromme] praefecti sunt duces; hos ergo solummodo honoribus ademptis luere iussit imperator culpam huius ignavie.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im Februar des folgenden Winters wurde in Aachen [Aachen] eine allgemeine Reichsversammlung abgehalten, wo neben anderem hauptsächlich die jüngsten Ereignisse in der Spanischen Mark [Spanien], das furchtsame Vorgehen und der schimpfliche Ausgang, die Gemüter bewegten. Man erörterte diese Angelegenheit und führte eine peinlich genaue Untersuchung durch; sie brachte an den Tag, daß die vom Kaiser [Ludwig I. der Fromme] ernannten Heerführer die Urheber des Versagens waren. Darauf bestrafte sie der Kaiser für ihre Schuld an dieser Schmach mit dem Verlust ihrer Ämter.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 42, ed. Tremp 1995, S. 443-445.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Februar 828" From="828-01-01" To="828-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Spanische Mark</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aachen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Berichterstattung</Schlagwort>
+        <Schlagwort>(Reichs-)Versammlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Mit den Ereignissen in der Spanischen Mark ist ein Aufstand des Grafen Aizo gegen Ludwig den Frommen zwei Jahre zuvor gemeint, in den auch sarazenische Truppen verwickelt waren, vgl. hierzu [0011]-[0017].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" Type="Ort">
+          <Name>Aachen</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0020</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 42, ed. Tremp 1995, S. 446.</Zitation>
+      <ZeitangabeQuelle>828</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Sohn und Mitkaiser von Kaiser Ludwig I. den Frommen, Lothar I., hält sich 828 in Lyon bereit, die Sarazenen zu bekämpfen, die in die Spanische Mark vordringen. Als Lothar erfährt, dass das sarazenische und maurische Heer abrückt, kehrt er jedoch wieder um.</Inhaltsangabe>
+      <VolltextOriginalsprache>Et cum in Theodonis [Diedenhofen] villam devenisset [Ludwig I. der Fromme], famaque venturos in nostros fines Sarracenos pervulgasset, misit filium Hlotharium [Lothar I.] ad eandem marcham adiunctis ei Francorum validis multisque copiis. Qui cum praeceptis parens paternis Lugdunum [Lyon] devenisset et nuntium prestolaretur partium Hispaniarum [Spanien], Pippinus [Pippin I.] ei frater conlocutum advenit. Ibidemque illis morantibus, missus rediit, dicens movisse quidem Sarracenos Maurosque exercitum quammaximum, sed pedem continuisse nec illo tempore longius in nostros processuros fines. Quibus auditis, Pippinus in Aquitaniam [Aquitanien], Hlotharius autem ad patrem prospere rediit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Als (der Kaiser) [Ludwig I. der Fromme] nach Diedenhofen [Diedenhofen] kam, verbreitete sich das Gerücht, die Sarazenen würden in unser Gebiet einfallen, worauf er seinen Sohn Lothar [Lothar I.] mit einem starken und zahlreichen fränkischen Heer in jene Mark entsandte. Als Lothar dem väterlichen Befehl gemäß Lyon [Lyon] erreicht hatte und die Ankunft eines Boten aus Spanien [Spanien] abwartete, traf sein Bruder Pippin [Pippin I.] zu einer Unterredung mit ihm ein. Während sie beide hier zusammen waren, kehrte der Bote zurück und meldete, die Sarazenen und Mauren hätten ein sehr großes Heer in Bewegung gesetzt, ihren Vormarsch aber abgebrochen und rückten zur Zeit nicht weiter in unser Gebiet vor. Auf diese Kunde ging Pippin wieder nach Aquitanien [Aquitanien], und Lothar kehrte wohlbehalten zum Vater zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 42, ed. Tremp 1995, S. 447.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="828" From="828-01-01" To="828-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien)</Ort>
+        <Ort>Spanische Mark</Ort>
+        <Ort>Diedenhofen</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Lyon</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Reaktion des Kaisers erfolgt wahrscheinlich auf die Ereignisse von 826, vgl. [0011]-[0017].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8081ff0d-914d-4266-b611-649c5d36271e" Type="Ort">
+          <Name>Diedenhofen</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="bf744b82-911e-46c7-ae83-1a91633c3040" Type="Person">
+          <Name>Lothar I.</Name>
+        </Entitaet>
+        <Entitaet Id="c745bfde-c7b7-4970-97d9-eb4ef5412fd5" Type="Ort">
+          <Name>Lyon</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="db5f00ce-2f78-4d03-a94b-948a1835a2b8" Type="Person">
+          <Name>Pippin I.</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0021</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 42, ed. Tremp 1995, S. 448-450.</Zitation>
+      <ZeitangabeQuelle>828</ZeitangabeQuelle>
+      <Inhaltsangabe>Bonifaz II., Graf von Lucca und Markgraf von Tuszien, hält sich 828 auf dem Mittelmeer auf, um Seeräuber aufzuspüren. Da er keine findet, geht er zwischen Utica und Karthago an Land, besiegt verlustreich Afrikaner in fünf Schlachten und kehrt anschließend zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Bonifatius comes [Graf Bonifaz II. von Lucca und Tuszien] ab imperatore [Ludwig I. der Fromme] Corsice [Korsika] praefectus insule cum fratre Berhardo aliisque adiunctis sibi conscensa parva classe, dum piratas maria pervagando requirit et non invenit, Sardorum sibi insulam amicorum appulit; indeque aliquos gnaros itineris marini sibi assumens, in Affricam [Afrika] transvectus est inter Uticam [Utica] atque Kartaginem [Karthago]. Contra quem multitudo conveniens Afrorum, quinquies conflixit, totiens victa subcubuit et innumerabilem suorum multitudinem amisit; inter quos et quosdam contigit oppetere nostrorum, quos aut multa alacritas aut inconsulta levitas ad nimis audendum impulit. Bonifatius tamen sotiis receptis ad naves se collegit, patriam repetivit, inexpertumque atque inauditum metum prius Afris reliquit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Graf Bonifatius [Graf Bonifaz II. von Lucca und Tuszien], der vom Kaiser [Ludwig I. der Fromme] zum Befehlshaber auf der Insel Korsika [Korsika] eingesetzt war, hatte sich mit seinem Bruder Berhard und mehreren anderen auf einer kleinen Flotte eingeschifft und kreuzte auf dem Meer, um Seeräuber aufzuspüren; er fand aber keine und landete auf der Insel der mit ihm befreundeten Sarden. Von da setzte er, unterstützt von einigen der Seefahrt kundigen Männern, nach Afrika [Afrika] über (und landete) zwischen Utica [Utica] und Karthago [Karthago]. Gegen ihn sammelten sich viele Afrikaner, kämpften fünfmal mit ihm, wurden ebensooft geschlagen und verloren eine große Zahl ihrer Leute; unter den Gefallenen befanden sich auch einige der Unsrigen, welche große Kampfeslust oder unbedachter Leichtsinn dazu verleitet hatte, zu viel zu wagen. Bonifatius zog sich mit seinen Gefährten auf die Schiffe zurück und segelte in die Heimat, die Afrikaner aber ließ er in bis dahin unbekannter und unerhörter Furcht zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 42, ed. Tremp 1995, S. 449-451.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="828" From="828-01-01" To="828-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="820-830" From="820-01-01" To="830-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika (Tunesien)</Ort>
+        <Ort>Karthago</Ort>
+        <Ort>Utica</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Korsika</Ort>
+        <Ort>Sardinien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Affrica</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Africanus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Corsica</Suchwort>
+        <Suchwort>Korsika</Suchwort>
+        <Suchwort>Pirata</Suchwort>
+        <Suchwort>Pirat</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="1bccbc8e-30b0-4dec-9c0c-748a550ce032" Type="Person">
+          <Name>Graf Bonifaz II. von Lucca und Tuszien</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+        <Entitaet Id="39658a25-5ad7-4c4e-b971-987ffb063c16" Type="Ort">
+          <Name>Korsika</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="bad5b331-b4f8-425b-bfac-1618f3406f22" Type="Ort">
+          <Name>Utica</Name>
+        </Entitaet>
+        <Entitaet Id="ae583192-f7c7-4ff3-933a-4ae8a8ce1c43" Type="Ort">
+          <Name>Karthago</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0022</QuellenId>
+      <Zitation>Vita Hludovici imperatoris 46, ed. Tremp 1995, S. 466.</Zitation>
+      <ZeitangabeQuelle>831</ZeitangabeQuelle>
+      <Inhaltsangabe>Auf eine Reichsversammlung in Diedenhofen kommen [im Oktober] 831 auch drei Gesandte der Sarazenen, die Geschenke bringen und um Frieden bitten. Dieser wird ihnen gewährt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Porro autumni tempore in Theodonis [Diedenhofen] villa convenire generaliter suum [Ludwig I. der Fromme] populum praecepit. In quo loco tres legati Sarracenorum a transmarinis venere partibus, quorum duo Sarraceni, unus Christianus fuit, ac deferentes suae grandia munera patrię, odorum scilicet diversa genera et pannorum; qui pace petita et accepta remissi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Auf seine [Ludwig I. der Fromme] Weisung versammelte sich im Herbst sein Volk in Diedenhofen [Diedenhofen] zur allgemeinen Reichsversammlung. Dorthin kamen von den Gebieten jenseits des Meeres drei Gesandte der Sarazenen – zwei von ihnen waren Sarazenen, der dritte ein Christ. Sie brachten Geschenke aus ihrer Heimat mit, verschiedene Arten von Parfums und Stoffen, und suchten um Frieden nach, der ihnen gewährt wurde; darauf wurden sie entlassen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Vita Hludovici imperatoris 46, ed. Tremp 1995, S. 467.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="Oktober 831" From="831-01-01" To="831-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="830-840" From="830-01-01" To="840-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="840-850" From="840-01-01" To="850-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Diedenhofen</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Vgl. zur Datierung Vita Hludovici imperatoris 46, ed. Tremp 1995, S. 467 mit Anm. 675.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8081ff0d-914d-4266-b611-649c5d36271e" Type="Ort">
+          <Name>Diedenhofen</Name>
+        </Entitaet>
+        <Entitaet Id="43e564f2-a938-45b0-8bc8-ed2740fb9bf4" Type="Person">
+          <Name>Ludwig I. der Fromme</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

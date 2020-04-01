@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0037</WerkId>
+  <WerkTitel>Passio Sancti Pelagii</WerkTitel>
+  <Alternativtitel>
+    <Titel>Passio Sancti Pelagii Preciosissimi Martiris, Qui Nostris Temporisbus In Corduba Martirio Est Coronatus</Titel>
+    <Titel>Pelagius-Legende</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Hrotsvit von Gandersheim</Autor>
+    <Autor>Roswitha von Gandersheim</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>um 935-nach 973?</LebensdatenVerfasser>
+  <Abfassungszeitraum>950- nicht vor 962</Abfassungszeitraum>
+  <Abfassungsort>Gandersheim</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Passio Sancti Pelagii Preciosissimi Martiris, Qui Nostris Temporisbus In Corduba Martirio Est Coronatus, in: Hrotsvit. Opera Omnia, ed. Walter Berschin (Bibliotheca Scriptorum Graecorum Et Romanorum Tevbneriana), München – Leipzig 2001, S. 63-77.</Editionshinweise>
+  <Werkinformation>Die Passio Sancti Pelagii ist eine Dichtung, die von Hrotsvit von Gandersheim (geb. um 935, gest. nach 973), Kanonisse im Stift Gandersheim, als Teil eines Buches von acht Verslegenden über den Hl. Pelagius, Märtyrer in Córdoba, verfasst wurde.
+Vgl. mit Hinweisen für weiterführende Literatur: Hrotsvita sanctimonialis Gandersheimensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118553941.html, 2016-11-03; Reinhard Düchting, Art. Hrotsvit v. Gandersheim, in: Lexikon des Mittelalters 5, Sp. 148-149 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-03]; Barbara Schmid, Art. Hrotsvit of Gandersheim, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 813f.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Passio Sancti Pelagii, ed. Berschin 2001, S. 63-77.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Verserzählung über den Heiligen Pelagius [Pelagius, Heiliger und Märtyrer], der in jugendlichem Alter als Geisel Abd ar-Rahmans III. [Abd ar-Rahman III., Kalif von Cordoba] nach Córdoba [Cordoba] kommt. Aufgrund seiner Schönheit und Redekunst wird Pelagius aus dem Kerker geholt und vor den Kalifen geführt, der ihm anbietet, gemeinsam mit ihm zu regieren. Da Pelagius auch weitere Angebote des Kalifen mit Berufung auf seinen christlichen Glauben ablehnt, wird er zum Tode verurteilt, zunächst gegen Felswände katapultiert, dann [925] geköpft. Nach seinem Tod wird Pelagius von ansässigen Christen als Märtyrer verehrt.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…] Perfida nam Saracenorum gens indomitorum […] Hostili ferro […] Ductor barbaricę gentis, structor quoque pugne,/Vir sat perversus vita rituque profanus […] socios […] nefandos […] Barbarico ritu […] Paganos […] dęmonis ira […] Regis [Abd ar-Rahman III., Kalif von Cordoba] pagani luxu carnis maculati […] Demonis oscillum spurci captare famelli […]</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>Das Leiden des hl. Pelagius, des kostbarsten Märtyrers, der in unseren Tagen die Märtyrerkrone in Corduba errungen hat, in: Hrotsvith von Gandersheim. Werke in deutscher Übertragung, hg. von Helene Homeyer, München – Paderborn – Wien 1973, S. 116-125.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="925" From="925-01-01" To="925-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="920-930" From="920-01-01" To="930-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+        <Datum Text="960-970" From="960-01-01" To="970-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Cordoba</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Martyrium</Schlagwort>
+        <Schlagwort>Folter</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Corduba</Suchwort>
+        <Suchwort>Córdoba</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazenen</Suchwort>
+        <Suchwort>Hostis</Suchwort>
+        <Suchwort>Feind</Suchwort>
+        <Suchwort>barbarus</Suchwort>
+        <Suchwort>barbarisch</Suchwort>
+        <Suchwort>Paganus</Suchwort>
+        <Suchwort>Heide</Suchwort>
+        <Suchwort>Abdrahemen</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Bei den unter ‚Volltext‘ aufgenommenen Zitaten handelt es sich um eine unvollständige, subjektive Auswahl von Ausdrücken. In der gesamten Dichtung spielen Sarazenen, insbesondere ihr Herrscher, der Kalif Abd ar-Rahman III. von Córdoba, eine Rolle.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="73ec0587-86e6-48da-88db-34b1ac6afa34" Type="Anmerkung">
+          <Name>Abd ar-Rahman III., Kalif von Cordoba</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

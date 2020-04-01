@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0049</WerkId>
+  <WerkTitel>De temporum ratione liber</WerkTitel>
+  <Alternativtitel>
+    <Titel>Kapitel 66: Chronica maiora (Editorentitel)</Titel>
+    <Titel>The Reckoning of Time</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Beda Venerabilis</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>673-735</LebensdatenVerfasser>
+  <Abfassungszeitraum>725</Abfassungszeitraum>
+  <Abfassungsort>Kloster St. Paul, Jarrow</Abfassungsort>
+  <Regionen>
+    <Region>Britische Inseln</Region>
+  </Regionen>
+  <Editionshinweise>Beda Venerabilis, De temporum ratione liber, ed. Charles William Jones (CCSL 123B), Turnhout 1977.</Editionshinweise>
+  <Werkinformation>Das Werk De temporum ratione liber wurde um 703 von Beda Venerabilis (geb. ca. 673, gest. 735) verfasst, der als Mönch und Gelehrter in Northumbria lebte. Das Werk beinhaltet sowohl Beschreibungen von Zeitrechnungen als auch eine Chronik von Ereignissen unter Verwendung anderer Quellen wie der Bibel oder Werken der Kirchenväter. Der chronologische Teil wird teilweise eigenständig als Chronica minora aufgeführt.
+Vgl. mit Hinweisen für weiterführende Literatur: Wolfgang Becker – Menso Folkerts – Hans Schmid, Art. Beda Venerabilis, II. Beda als lateinischer Schriftsteller, in: Lexikon des Mittelalters 1, Sp. 1775-1778 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-04]; Wesley M. Stevens, Art. Beda Venerabilis, in: Der Neue Pauly [http://referenceworks.brillonline.com/entries/der-neue-pauly/beda-venerabilis-e214560?s.num=2&amp;s.q=beda, 2017-08-31]; Thomas O‘Loughlin, Art. Bede, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 156-159. Calvin B. Kendall, Bede and Islam, in: Bede and future, hg. von Peter Darby – Faith Wallis, Farnham 2014, S. 93-114.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Beda Venerabilis, De temporum ratione a. 4639, ed. Jones 1977, S. 524.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Die Perser führen [638] Krieg gegen Byzanz, erobern Jerusalem und viele Provinzen. Sie zerstören Kirchen, entweihen Heilige Stätten und rauben das Heilige Kreuz.</Inhaltsangabe>
+      <VolltextOriginalsprache>Persae aduersus rem publicam grauissima bella gerentes multas Romanorum prouinicas [Römische Provinzen] et ipsam Hierosolymam [Jerusalem] auferunt et destruentes ecclesias sancta quaeque profanantes inter ornamenta locorum uel sanctorum uel communium, quae abstulere, etiam uexillum dominicae crucis abducunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>The Persians, waging a terrible war against the empire, seized many Roman provinces [Römische Provinzen], and even took Jerusalem [Jerusalem] itself, destroying churches and profaning the holy furnishings of the places of the saints and of ordinary people. They carried them off, and also stole the standard of the Lord’s Cross.</VolltextUebersetzung>
+      <ZitationUebersetzung>Bede: The Reckoning of Time. Translated, with introductions, notes and commentary by Faith Wallis (Translated Texts for Historians 29), Liverpool 1999, S. 227.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="638" From="638-01-01" To="638-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Heiligenschändung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Reliquien</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Beda datiert lediglich die Jahre, in denen neue Herrscher ihr Amt antreten, und zählt dabei seit der Entstehung der Welt. Einzelne Ereignisse, wie die hier aufgenommenen Textstellen, versieht er mit keiner Zeitangabe. Er gewinnt seine Informationen oft aus den Liber pontificalis. Durch Abgleichung der Papstamtszeiten mit denen der Herrscher erfolgte die Datierung der Ereignisse.
+Bei dem in der Quellenstelle erwähnten Krieg handelt es sich wahrscheinlich um eine Etappe der Islamischen Expansion, die in den 630er Jahre auch Palästina erreichte. Vgl. hierzu Walter E. Kaegi, Byzantium and the early Islamic Conquests, Camebridge 1993, S. 88-146.
+Zum Diebstahl des Heiligen Kreuzes vgl. Arnold Angenendt: Heilige und Reliquien. Die Geschichte ihres Kultes vom frühen Christentum bis zur Gegenwart, Hamburg ²2007.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ce8f81f6-c07f-4877-aafb-df04405797ec" Type="Anmerkung">
+          <Name>Römische Provinzen</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Beda Venerabilis, De temporum ratione a. 4639, ed. Jones 1977, S. 527.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen greifen in den 660er [670er] Jahren Sizilien an und kehren dann mit viel Beute nach Alexandria zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Sarraceni Siciliam [Sizilien] inuadunt et praeda nimia secum ablata mox Alexandriam [Alexandria] redeunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>The Saracens invaded Sicily [Sizilien], and then returned to Alexandria [Alexandria], taking with them much booty.</VolltextUebersetzung>
+      <ZitationUebersetzung>Bede: The Reckoning of Time. Translated, with introductions, notes and commentary by Faith Wallis (Translated Texts for Historians 29), Liverpool 1999, S. 231.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="zwischen 670-680" From="670-01-01" To="680-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="670-680" From="670-01-01" To="680-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Sizilien</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+        <Suchwort>Alexandria</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Beda datiert lediglich die Jahre, in denen neue Herrscher ihr Amt antreten, und zählt dabei seit der Entstehung der Welt. Einzelne Ereignisse, wie die hier thematisierten Textstellen, versieht er mit keiner Zeitangabe. Er gewinnt seine Informationen oft aus den Liber pontificalis. Durch Abgleichung der Papstamtszeiten mit denen der Herrscher erfolgte die Datierung der Ereignisse.
+Die beschriebenen Plünderungen stehen laut Kaegi im Zusammenhang mit der islamischen Eroberung Nord-Afrikas im 7. und 8. Jahrhundert. Vgl. Walter E. Kaegi, Muslim Expansion and Byzantine collapse in North Africa, Camebridge 2010, S. 213f., sowie Andreas N. Stratos, Byzantium in the seventh century, Bd. 4: 668-685, Amsterdam 1978, S. 18ff.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Beda Venerabilis, De temporum ratione a. 4652, ed. Jones 1977, S. 529.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Justinian II. schließt [685/688] einen 10-jährigen Frieden mit Sarazenen. Allerdings erobert er die Provinz Afrika, nachdem Sarazenen die Provinz zuvor erobert und auch Karthago eingenommen und zerstört hatten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hic [Justinian II.] constituit pacem cum Sarracenis decennio terra marique. Sed et prouincia Africa [Afrika] subiugata est Romano imperio [Römisches Reich], quae fuerat tenta a Sarracenis, ipsa quoque Carthagine [Karthago] ab eis capta et destructa.</VolltextOriginalsprache>
+      <VolltextUebersetzung>He [Justinian II.] made a ten-year peace on land and sea with the Saracens. But the province Africa [Afrika] was brought under the control of the Roman empire [Römisches Reich]. It had been occupied by the Saracens, and Carthage [Karthago] itself was captured by them and destroyed.</VolltextUebersetzung>
+      <ZitationUebersetzung>Bede: The Reckoning of Time. Translated, with introductions, notes and commentary by Faith Wallis (Translated Texts for Historians 29), Liverpool 1999, S. 232.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="685/688" From="685-01-01" To="685-12-31" />
+        <Datum Text="685/688" From="688-01-01" To="688-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="680-690" From="680-01-01" To="690-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika (Tunesien)</Ort>
+        <Ort>Karthago</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Carthago</Suchwort>
+        <Suchwort>Karthago</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Beda datiert lediglich die Jahre, in denen neue Herrscher ihr Amt antreten, und zählt dabei seit der Entstehung der Welt. Einzelne Ereignisse, wie die hier thematisierten Textstellen, versieht er mit keiner Zeitangabe. Er gewinnt seine Informationen oft aus den Liber pontificalis. Durch Abgleichung der Papstamtszeiten mit denen der Herrscher erfolgte die Datierung der Ereignisse.
+Laut Constance Head beginnt die in der Quelle erwähnten Friedensverhandlung im Jahr 688 und nicht wie in den (byzantinischen) Quellen behauptet im Jahr 685. Vgl. dafür Constance Head, Justinian II of Byzantium, Wisconsin 1972, S. 32ff. Siehe zur ungenauen Datierung auch Andreas N. Stratos, Byzantium in the seventh century, Bd. 4: 668-685, Amsterdam 1978, S. 48. Die in der Quellenstelle erwähnte Rückeroberung Karthagos ist laut byzantinischer Quelle in das Jahr 699 zu verorten. Vgl. dafür The Chronicle of Theophanes. An English translation of anni mundi 6095-6305 (A.D. 602-813), with introduction and notes a.m. 6190 (698/699), ed. Harry Turtledove, Philadelphia 1982, S. 67f., sowie für die erneut umstrittene Chronologie der Ereignisse Ekkehard Eickhoff, Seekrieg und Seepolitik zwischen Islam und Abendland. Das Mittelmeer unter byzantinischer und arabischer Hegemonie (650-1040), Berlin 1966, S. 24ff. Für die Ereignisse aus arabischer Sicht (mit kritischer Kommentierung) vgl. Alexander Daniel Beihammer, Nachrichten zum byzantinischen Urkundenwesen in arabischen Quellen 565 bis 811 (Poikila Byzantina 17), Bonn 2000, S. 343-351.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="757ff4ec-5737-47da-8812-aa5694b245b8" Type="Person">
+          <Name>Justinian II.</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="311c92b8-d0ad-4634-97c7-c167be437b6e" Type="Ort">
+          <Name>Römisches Reich</Name>
+        </Entitaet>
+        <Entitaet Id="ae583192-f7c7-4ff3-933a-4ae8a8ce1c43" Type="Ort">
+          <Name>Karthago</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Beda Venerabilis, De temporum ratione a. 4652, ed. Jones 1977, S. 534f..</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen belagern [717-718] Konstantinopel mit einer großen Armee, können die Stadt jedoch nicht einnehmen und ziehen sich unter großen Verlusten zurück. Liutprand, König der Langobarden, hört davon, dass Sarazenen Sardinien entvölkert haben und kauft die dort gelagerten Reliquien des Heiligen Augustinus.</Inhaltsangabe>
+      <VolltextOriginalsprache>Sarraceni cum inmenso exercitu Constantinopolim [Konstantinopel] uenientes triennio ciuitatem obsident, donec ciuibus multa instantia ad Deum clamantibus plurimi eorum fame frigore pestilentia perirent ac sic pertaesi obsidionis abscederent. Qui inde regressi Vulgarorum gentem, que est super Danubium [Donau], bello adgrediuntur, et ab hac quoque uicti refugiunt ac naues repetunt suas. Quibus cum altum peterent, ingruente subita tempestate plurimi etiam mersis siue confractis per litora nauibus sunt necati. Liudbrandus [Liutprand], audiens quod Sarraceni depopulata Sardinia [Sardinien] etiam loca fedarent illa, ubi ossa sancti Augustini episcopi [Bf. Augustinus von Hippo] propter uastationem barbarorum olim translata et honorifice fuerant condita, misit et dato magno praetio accepit et transtulit ea in Ticinis [Pavia] ibique cum debito tanto patri honore recondidit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>The Saracens, coming to Constantinople [Konstantinopel] with an immense army, besieged it for three years until, with the citizens calling on God on numerous occasions, many of [the Saracens] died of hunger, cold and pestilence, and withdrew, as if wearied of the siege. As they retreated, they started a war with the people of the Bulgars on the river Danube [Donau], and being likewise defeated by these people, they fled and sought their ships. When they were on the high sea, a storm suddenly blew up and many were killed when their ships were sunk or wrecked upon the shore. Hearing that the Saracens had depopulated Sardinia [Sardinien] and had dug up the place where the bones of holy Bishop Augustine [Bf. Augustinus von Hippo] had once been moved on account of the barbarian raids and honourably buried, Liutprand [Liutprand] sent and paid a great price [for them] received [them] and transported them to Pavia [Pavia], and reburied them there with the honour due to so great a Father.</VolltextUebersetzung>
+      <ZitationUebersetzung>Bede: The Reckoning of Time. Translated, with introductions, notes and commentary by Faith Wallis (Translated Texts for Historians 29), Liverpool 1999, S. 236-237.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="717-718" From="717-01-01" To="718-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Sardinien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Seuche</Schlagwort>
+        <Schlagwort>Krankheit</Schlagwort>
+        <Schlagwort>Abzug</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Reliquien</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Sardinia</Suchwort>
+        <Suchwort>Sardinien</Suchwort>
+        <Suchwort>Barbarus</Suchwort>
+        <Suchwort>Barbar</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Beda datiert lediglich die Jahre, in denen neue Herrscher ihr Amt antreten, und zählt dabei seit der Entstehung der Welt. Einzelne Ereignisse, wie die hier thematisierten Textstellen, versieht er mit keiner Zeitangabe. Er gewinnt seine Informationen oft aus den Liber pontificalis. Durch Abgleichung der Papstamtszeiten mit denen der Herrscher erfolgte die Datierung der Ereignisse.
+Die in der Quelle genannte Belagerung ist vermutlich gleichzusetzen mit der sogenannten ‚Zweiten Belagerung Konstantinopels’ im Jahre 717-718. Vgl. dazu Reinhard Eisener, Zwischen Faktum und Fiktion. Eine Studie zum Umayyadenkalifat Sulaimān b. Abdalmalik und seinem Bild in den Quellen. Diss. Phil., Wiesbaden 1987, S. 120-137.
+Zum Kauf der Gebeine des Hl. Augustinus vgl. die kurze Anmerkung bei Matthias Hardt, Gold und Herrschaft. Die Schätze europäischer Könige und Fürsten im ersten Jahrhundert, Berlin 2004, S. 133, sowie den umfangreichen, jedoch eher populärwissenschaftlichen Artikel von Giuseppe Frangi, Für Augustinus ein Sarkophag und der Jubel des Volkes, in: 30 Tage in Kirche und Welt 3 (2006) [http://www.30giorni.it/articoli_id_10362_l5.htm, 2015-10-27].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="134fdc48-27e8-402b-b6ef-ca79beb942b5" Type="Ort">
+          <Name>Donau</Name>
+        </Entitaet>
+        <Entitaet Id="ec42155e-7efe-452a-9493-b864d62c58f6" Type="Person">
+          <Name>Liutprand</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+        <Entitaet Id="c111f765-5a2b-4be4-85e9-7e92fbaaa916" Type="Person">
+          <Name>Bf. Augustinus von Hippo</Name>
+        </Entitaet>
+        <Entitaet Id="d6f0652d-06e6-4da5-bf1b-e2865ff812b0" Type="Ort">
+          <Name>Pavia</Name>
+        </Entitaet>
+        <Entitaet Id="746712a4-53e8-43fa-8531-0d8d088b8297" Type="Anmerkung">
+          <Name>the Saracens</Name>
+        </Entitaet>
+        <Entitaet Id="168ab45e-a127-47d6-83e6-b29da4fc6616" Type="Anmerkung">
+          <Name>for them</Name>
+        </Entitaet>
+        <Entitaet Id="1b37072d-86dd-4f1a-95c8-e71df0d8cd42" Type="Anmerkung">
+          <Name>them</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

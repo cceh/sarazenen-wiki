@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0041</WerkId>
+  <WerkTitel>Annales Sangallenses maiores</WerkTitel>
+  <Alternativtitel>
+    <Titel>Größere Jahrbücher von St. Gallen</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>unbekannt</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
+  <Abfassungszeitraum>unbekannt</Abfassungszeitraum>
+  <Abfassungsort>Kloster St. Gallen</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Annales Sangallenses, ed. Carl Henking, in: Die annalistischen Aufzeichnungen des Kloster St. Gallen, in: Mitteilungen zur vaterländischen Geschichte 19 (1884), S. 265-323.</Editionshinweise>
+  <Werkinformation>Die Annales Sangallenses maiores sind ein Annalenwerk aus dem Kloster St. Gallen, das über die Jahre 709 bis 1056 berichtet. Der ältere Teil, der bis ins Jahr 918 reicht, basiert auf den Annales Alamannici, anschließend ist das Werk selbstständig weitergeführt worden.
+Vgl. mit Hinweisen für weiterführende Literatur: Annales Sangallenses maiores, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00406.html, 2016-11-02]. Zu den Abfassungsumständen vgl. Eckhard Friese, Kalendarische und annalistische Grundformen der Memoria, in: Karl Schmid und Joachim Wollasch: Memoria. Der geschichtliche Zeugniswert des liturgischen Gedenkens im Mittelalter (Münstersche Mittelalter-Schriften 48), München 1984, S. 441-577, hier S. 481-486.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Annales Sangallenses a. 721, ed. Henking 1884, S. 266.</Zitation>
+      <ZeitangabeQuelle>721</ZeitangabeQuelle>
+      <Inhaltsangabe>Herzog Eudo von Aquitanien vertreibt 721 die Sarazenen aus Aquitanien.</Inhaltsangabe>
+      <VolltextOriginalsprache>Ejecit Theudo [Herzog Eudo von Aquitanien] Saracenos de Equitania [Aquitanien].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="721" From="721-01-01" To="721-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Laut Nonn handelt sich dabei wahrscheinlich um die Schlachten bei Toulouse im Jahre 721, in der Herzog Eudo von Aquitanien die sarazenische Expansion von Spanien aus zum ersten Mal stoppte, vgl. Ulrich Nonn, Die Schlacht bei Poitiers 732. Probleme historischer Urteilsbildung, in: Beiträge zur Geschichte des Regnum Francorum. Referate beim Wissenschaftlichen Colloquium zum 75. Geburtstag von Eugen Ewig, hg. von Rudolf Schieffer (Beiheft der Francia 22), Sigmaringen 1990, S. 37-56, hier S. 39.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ad6a92d3-13ea-4288-9664-80e1809d6a72" Type="Person">
+          <Name>Herzog Eudo von Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Annales Sangallenses a. 725, ed. Henking 1884, S. 266.</Zitation>
+      <ZeitangabeQuelle>725</ZeitangabeQuelle>
+      <Inhaltsangabe>725 [724/725] rücken Sarazenen an.</Inhaltsangabe>
+      <VolltextOriginalsprache>Saraceni venerunt primitus.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="724/725" From="724-01-01" To="724-12-31" />
+        <Datum Text="724/725" From="725-01-01" To="725-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Bei der kurzen Erwähnung könnte es sich um die Eroberungen der Sarazenen in den Jahren 721-725 handeln. In dieser Zeit konnten sarazenische Truppen bis nach Burgund vordringen und die Stadt Autun belagern. Vgl. Ulrich Nonn, Die Schlacht bei Poitiers 732. Probleme historischer Urteilsbildung, in: Beiträge zur Geschichte des Regnum Francorum. Referate beim Wissenschaftlichen Colloquium zum 75. Geburtstag von Eugen Ewig, hg. von Rudolf Schieffer (Beiheft der Francia 22), Sigmaringen 1990, S. 37-56, hier S. 39.</Anmerkungen>
+      <Entitaeten />
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Annales Sangallenses a. 732, ed. Henking 1884, S. 266.</Zitation>
+      <ZeitangabeQuelle>732</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell kämpft 732 bei Poitiers gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Karolus [Karl Martell] pugnavit contra Saracenos ad Pictavis [Poitiers] die sabbato.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="732" From="732-01-01" To="732-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Poitiers</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Laut Nonn handelt es sich um die Schlacht bei Poitiers 732, in der Karl Martell die aus Spanien kommenden Sarazenen schlug, vgl. Ulrich Nonn, Art. Karl Martell, frk. Hausmeier, in: Lexikon des Mittelalters 5, Sp. 954-956 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="85f7b5f5-130c-4d5b-82a6-dc8836f8dca1" Type="Ort">
+          <Name>Poitiers</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Annales Sangallenses a. 737, ed. Henking 1884, S. 266.</Zitation>
+      <ZeitangabeQuelle>737</ZeitangabeQuelle>
+      <Inhaltsangabe>Der fränkische Hausmeier Karl Martell kämpft 737 in Gothien gegen Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Karolus [Karl Martell] pugnavit contra Saracenos in Gozia [Gothien] in die dominica.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="737" From="737-01-01" To="737-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Septimanien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die erneuten Kämpfe zwischen dem Hausmeier Karl Martell und den Sarazenen finden wahrscheinlich in Südfrankreich statt. Laut Nonn handelt sich dabei wahrscheinlich um die Schlachten bei Avignon und am Fluss Berre, vgl. Ulrich Nonn, Art. Karl Martell, frk. Hausmeier, in: Lexikon des Mittelalters 5), Sp. 954-956 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31]; Ders., Die Schlacht bei Poitiers 732. Probleme historischer Urteilsbildung, in: Beiträge zur Geschichte des Regnum Francorum. Referate beim Wissenschaftlichen Colloquium zum 75. Geburtstag von Eugen Ewig, Rudolf Schieffer (Beiheft der Francia 22), Sigmaringen 1990, S. 37-56, hier S. 40f.; Anne-Marie Hayez, Art. Avignon, I. Geschichte der Stadt und der Seigneurie, in: Lexikon des Mittelalters 1, Sp. 1301-1302 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="58aff07c-aaeb-4c12-bf51-52e6bb802f85" Type="Ort">
+          <Name>Gothien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Annales Sangallenses a. 778, ed. Henking 1884, S. 270.</Zitation>
+      <ZeitangabeQuelle>778</ZeitangabeQuelle>
+      <Inhaltsangabe>Karl der Große zieht 778 [777/778] nach Spanien.</Inhaltsangabe>
+      <VolltextOriginalsprache>Karolus [Karl I. der Große] rex in Ispaniam [Spanien], […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="777/778" From="777-01-01" To="777-12-31" />
+        <Datum Text="777/778" From="778-01-01" To="778-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="770-780" From="770-01-01" To="780-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Hinter dem kurzen Eintrag versteckt sich wahrscheinlich der Zug Karls des Großen nach Spanien sowie sein Vorgehen gegen die Sarazenen in den Jahren 777-778, vgl. Ludwig Vones, Zwischen Expansion und Kulturkontakt. Karl der Grosse und das muslimische Spanien, in: Ex Orient: Isaak und der weisse Elefant. Bagdad-Jerusalem-Aachen: Eine Reise durch drei Kulturen um 800 und heute, Bd. 3: Aachen. Der Westen, hg. von Wolfgang Dreßen, u.a. (Geschichte und Gegenwart christlicher, jüdischer und islamischer Kulturen), Mainz 2003, S. 94-99, hier S. 94-96. Vgl. auch Josef Fleckenstein, Art. Karl (I.) der Große, A. Leben und Persönlichkeit, 2. Feldzüge gegen das islamische Spanien, in: Lexikon des Mittelalters 5, Sp. 956-957 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9531e20f-d30b-4606-8f64-d587c1c9d7fd" Type="Person">
+          <Name>Karl I. der Große</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Annales Sangallenses a. 793, ed. Henking 1884, S. 272</Zitation>
+      <ZeitangabeQuelle>793</ZeitangabeQuelle>
+      <Inhaltsangabe>Graf Wilhelm von Toulouse kämpft 793 bei Narbonne gegen Sarazenen, tötet einen ihrer Könige und viele weitere.</Inhaltsangabe>
+      <VolltextOriginalsprache>Wilhelmus [Graf Wilhelm von Toulouse] pugnavit cum Saracensis ad Narbona [Narbonne], et perdidit ibi multos homines, et occidit unum regem ex ipsis cum multitudine Saracenorum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="793" From="793-01-01" To="793-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Narbonne</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracesus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Der Kampf zwischen den Sarazenen und Graf Wilhelm von Toulouse ist im Kontext der anhaltenden Konsolidierung der muslimischen Herrschaft in Spanien zu lesen. Die Schlacht findet laut Boshof wahrscheinlich am Orbieu statt (nördwestlich von Narbonne). Im Gegensatz zu dem hier geäußerten Erfolg Wilhelms geht die Forschung von einer erheblichen Niederlage Wilhelms aus. Vgl. Egon Boshof, Ludwig der Fromme, Darmstadt 1996, S. 71f. Zur Person des Grafen Wilhelm von Toulouse, d. Hl., vgl. Gerhard Lubich, Art. Wilhelm I. d. Hl., in: Lexikon des Mittelalters 9, Sp. 151-152 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5cdbb0fa-af75-4469-9cc1-c1ce6372aa5b" Type="Person">
+          <Name>Graf Wilhelm von Toulouse</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Annales Sangallenses a. 939, ed. Henking 1884, S. 283.</Zitation>
+      <ZeitangabeQuelle>939</ZeitangabeQuelle>
+      <Inhaltsangabe>Am 19. Juli 939 vernichtet die galizische Königin Toda Aznárez von Pamplona ein Heer der Sarazenen außer ihren Herrscher Abd ar-Rahman III., Kalif von Córdoba, sowie vierzig seiner Getreuen gänzlich.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eodem die in regione Galliciae [Galizien] innumerabilis exercitus Saracenorum a quadam regina nomine Tota [Toda Aznárez] penitus extinctus est, nisi rex illorum [Kalif Abd ar-Rahman III.] et quadraginta novem viri cum eo.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="939" From="939-01-01" To="939-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Galizien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Bei dem in der Quelle genannten Kampf handelt es sich vermutlich um die Schlacht von Siamancas, die 939 mit einer Niederlage der sarazenischen Truppen gegen die christlichen Verteidiger endete. Vgl. dazu und zur Schlacht im Allgemeinen (die am 1. August 939 stattfand) sowie der sog. „Kampagne von Siamancas-Alhándega“ María del Pilar Rábade Obradó, Art. Simancas-Alhándega, Schlachten v., in: Lexikon des Mittelalters 7, Sp.1910-1911 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31]. Zur Schlacht/Kampagne aus muslimischer Sicht sowie für eine kritische Auseinandersetzung mit der Forschungsdebatte vgl. Bettina Münzel, Feinde, Nachbarn, Bündnispartner. „Themen und Formen“ der Darstellung christlich-muslimischer Begegnungen in ausgewählten historiographischen Quellen des islamischen Spanien (Spanische Forschungen der Görresgesellschaft II., 32), Münster 1994, S. 240-250. Eine christliche Sicht bzw. Einordnung des Ereignisses sowie Kritik bei Ludwig Vones, Geschichte der Iberischen Halbinsel im Mittelalter (711-1480). Reiche – Kronen – Regionen, Sigmaringen 1993, S. 41f. Ungewöhnlich ist laut Henking, dass die Königsmutter Toda Aznárez in der Quelle genannt wird (zu ihr vgl. Beátrice Leroy, Art. Toda Aznárez, in: Lexikon des Mittelalters 8, Sp. 835-836 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31].) sowie überhaupt die Erwähnung der entfernten Schlacht. Vgl. dazu die Hinweise in der Annales Sangallenses, ed. Carl Henking, in: Die annalistischen Aufzeichnungen des Kloster St. Gallen, in: Mitteilungen zur vaterländischen Geschichte 19 (1884), S. 265-323, hier S. 283f., Anm. 206. Zu Abd ar-Rahman III. vgl. Mahmoud Makki, The political history of Al-Andalus (92/711-897/1492), in: The legacy of Muslim Spain, Salma Kharda Jayyusi (Handbuch der Orientalistik. Erste Abteilung: Der Nahe und Mittlere Osten, Bd. 12), Leiden 1992, S. 3-87, hier S. 35-38; sowie Maribel Fierro, ‘Abd al-Rahman III. The First Cordoban Caliph, Oxford 2005.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a88e0636-8ac4-4441-ac74-b512e4b29aa6" Type="Ort">
+          <Name>Galizien</Name>
+        </Entitaet>
+        <Entitaet Id="1c1a72ba-8051-49f5-8083-1ace668143eb" Type="Person">
+          <Name>Toda Aznárez</Name>
+        </Entitaet>
+        <Entitaet Id="749b489a-c31c-4146-b9b9-8f3195eb62ec" Type="Person">
+          <Name>Kalif Abd ar-Rahman III.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Annales Sangallenses a. 982, ed. Henking 1884, S. 297.</Zitation>
+      <ZeitangabeQuelle>982</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen aus Sizilien, Ägypten, Afrika und umliegenden Inseln attackieren 982 Kaiser Otto II. und überwältigen sein Heer. Während sein Heer flieht, getötet oder gefangen genommen wird, kann Kaiser Otto II. per Schiff zu einer Burg flüchten. Viele weltliche und geistliche Gefangene, darunter auch der Bischof Petrus von Vercelli, kehren jedoch nach einiger Zeit in Gefangenschaft nach Alexandria zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>Dein Saracenos ex Sicilia [Sizilien] et aliis insulis maris et finibus Africae [Afrika] vel Ægypti [Ägypten] adversus eum [Otto II.] conduxit in proelium. Cum quibus ille infeliciter dimicavit. Nam ad praedandum eos venire estimans, dum paucos in litore maris quasi latrunculos conspicit, parva manu aggressus est eo opprimere, et circumfusus infinita multitudine, quae se noctu in montibus occuluit, omnibus in exercitu suo fugatis vel occisis vel captis, ipse navigio vix ad castellum quoddam suorum evasit. Ex captivis autem multos postea reversos vidimus, tam clericos quam laicos, quorum unus erat Vercellensis episcopus, carcere diu maceratus apud Alexandriam [Alexandria].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="982" From="982-01-01" To="982-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Sizilien</Ort>
+        <Ort>Afrika</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Auseinandersetzung</Schlagwort>
+        <Schlagwort>Erkundigung</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Überfall</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aegypto</Suchwort>
+        <Suchwort>Ägypten</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Bei der in der Quellenstelle beschriebenen Schlacht handelt es sich um die Auseinandersetzung zwischen sarazenischen Truppen sowie dem kaiserlichen Heer von Otto II. im Jahr 982 bei Capo Colonne. Siehe dazu im Allgemeinen Bernd Schneidmüller, Otto II. (973-983), in: Ders./Stefan Weinfurter, Die deutschen Herrscher des Mittelalters. Historische Portraits von Heinrich I. bis Maximilian I. (919-1519), München 2003, S. 62-72, hier: S. 69f. Vgl. zur Schlacht Horst Enzensberger, Art. Capo Colonne, Schlacht v., in: Lexikon des Mittelalters 2, Sp. 1484 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-08-31]. Zur Darstellung der Schlacht vgl. Jacek Banaszkiewicz, Ein Ritter flieht oder wie Kaiser Otto II. sich vom Schlachtfeld bei Cotrone rettet, in: Frühmittelalterliche Studien 40 (2006), S. 145-165.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="b438b117-135e-4f05-98f1-9c1780bed98f" Type="Ort">
+          <Name>Ägypten</Name>
+        </Entitaet>
+        <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
+          <Name>Otto II.</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Annales Sangallenses a. 983, ed. Henking 1884, S. 298.</Zitation>
+      <ZeitangabeQuelle>983</ZeitangabeQuelle>
+      <Inhaltsangabe>Otto II. beabsichtigt 983 nach dem Vorbild des persischen Herrschers, Dareios I., eine Schiffsbrücke zu den auf Sizilien wohnenden Sarazenen zu schlagen und die dortigen Gefangenen der Schlacht bei Capo Colonne zu befreien.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc anno imperator [Otto II.] cogitans se vindicare in eos, qui in Sicilia [Sizilien] habitant Saracenos, voluit arte Darii [Dareios I.], quondam regis Persarum, ponte navibus juncto, quemadmodum ille Greciam [Griechenland] ita et ipse intrare; […].</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="983" From="983-01-01" To="983-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum />
+      <GeographischesStichwort>
+        <Ort>Sizilien</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Griechenland</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Befreiung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazenen</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Absicht Ottos II., einen Zug nach Sizilien zu unternehmen, wurde durch seinen unerwarteten Tod im Verlauf des Jahres zunichtegemacht. Vgl. zur Quellenstelle Karl Uhlirz, Jahrbücher des Deutschen Reiches unter Otto II. und Otto III., Bd. 1: Otto II. 973-983, Leipzig 1902, S. 198, Anm. 80. Vgl zu Dareios I. Amélie Kurth – Helen Sancisi-Weerdenburg, Art. Dareios I. Sohn des Hystaspes, in: Der neue Pauly 3 (1997), Sp. 322-323. Die Schiffsbrücke nach Griechenland wird bei Herodot, 4, 83-88, erwähnt. Vgl. Herodot, Historien 4, 83-88, in: Herodot, Historien I-IX, Bd. 1, ed. und hg. von Josef Feix, Düsseldorf 72006, S. 564-568.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
+          <Name>Otto II.</Name>
+        </Entitaet>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+        <Entitaet Id="18e3548c-b8f5-483e-b3ba-c8164dcadbed" Type="Person">
+          <Name>Dareios I.</Name>
+        </Entitaet>
+        <Entitaet Id="a0caace7-5186-4c93-bd9a-becf6b77f2bc" Type="Ort">
+          <Name>Griechenland</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

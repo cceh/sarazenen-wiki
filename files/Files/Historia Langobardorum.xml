@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0023</WerkId>
+  <WerkTitel>Historia Langobardorum</WerkTitel>
+  <Alternativtitel>
+    <Titel>Geschichte der Langobarden</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Paulus Diaconus</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>um 720/730-799</LebensdatenVerfasser>
+  <Abfassungszeitraum>um 790-799</Abfassungszeitraum>
+  <Abfassungsort>Montecassino</Abfassungsort>
+  <Regionen>
+    <Region>Italien</Region>
+  </Regionen>
+  <Editionshinweise>Paulus Diaconus, Historia Langobardorum, ed. Georg Waitz (MGH SS rer. Germ. [48]), Hannover 1878.</Editionshinweise>
+  <Werkinformation>Die Historia Langobardorum wurde von Paulus Diaconus (gest. 799/800) zwischen 790 und 799 abgefasst und behandelt in sechs Büchern die Geschichte der Langobarden ausgehend von ihren Ursprüngen bis zum Tod König Liutprands (744). Sie blieb unvollendet und wurde viel rezipiert. Paulus Diaconus war zunächst Gelehrter am langobardischen Hof, dann Mönch des Klosters Montecassino. Anfang der 780er Jahre hielt er sich mehrere Jahre als Gelehrter am karolingischen Hof auf, um sich für die Freilassung seines dort inhaftierten Bruders einzusetzen, bevor er nach Montecassino zurückkehrte.
+Vgl. mit Hinweisen für weiterführende Literatur: Stefano Gasparri, Art. Paulus Diaconus, in: Lexikon des Mittelalters 6, Sp. 1825-1826 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-26]; Paulus Diaconus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118789961.html, 2016-10-26]; Historia Langobardorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03808.html, 2016-10-26]; C. Robert III. Phillips, Art. Paulus Diaconus lombardischer Grammatiker, 8. Jh., in: Der Neue Pauly [http://dx.doi.org/10.1163/1574-9347_dnp_e910530, 2016-10-26].
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum I,25, ed. Waitz 1878, S. 72.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Der römische Kaiser Justinian I. bezwingt [527-565] durch den Patrizier Belisar die Perser und durch den ehemaligen Konsul Johannes die Mauren, sodass er nach 96 Jahren Afrika erneut an das Römische Reich angliedern kann.</Inhaltsangabe>
+      <VolltextOriginalsprache>Nam per Belisarium [Belisar] patricium Persas fortiter devicit [Justinian I.], perque ipsum Belisarium Wandalorum gentem, capto eorum rege Gelismero [Gelimar], usque ad internitionem delevit Africamque [Afrika] totam post annos nonaginta et sex Romano imperio restituit. […] Mauros quoque post haec Africam [Afrika] infestantes eorumque regem Amtalan per Iohannem exconsule mirabili virtute protrivit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Durch den Patrikios Belisar [Belisar] nämlich zwang er [Justinian I.] die Perser nachdrücklich in die Knie, mit demselben Belisar schlug er die Wandalen nach Gefangennahme ihres Königs Gelimar [Gelimar] vernichtend und gewann ganz Afrika [Afrika] nach sechsundneunzig Jahren wieder für das Römische Reich [Römisches Reich] […]. Auch die Mauren, die danach Afrika [Afrika] beunruhigten, und ihren König Amthala bezwang er durch den gewesenen Konsul Johannes mit bewunderswerter [!] Tatkraft.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden I, 25, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 137.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="527-565" From="527-01-01" To="565-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="520-530" From="520-01-01" To="530-12-31" />
+        <Datum Text="530-540" From="530-01-01" To="540-12-31" />
+        <Datum Text="540-550" From="540-01-01" To="550-12-31" />
+        <Datum Text="550-560" From="550-01-01" To="560-12-31" />
+        <Datum Text="560-570" From="560-01-01" To="570-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Unterwerfung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus der Regierungszeit Kaiser Justinians I. von 527-565, vgl. Paulus Diaconus, Geschichte der Langobarden I, 25, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 137, Anm. 55.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ba1f7bd5-2225-473f-a86d-a2872fba9924" Type="Person">
+          <Name>Belisar</Name>
+        </Entitaet>
+        <Entitaet Id="7542508b-c3d6-4dba-a757-81212368070a" Type="Person">
+          <Name>Justinian I.</Name>
+        </Entitaet>
+        <Entitaet Id="bba251e8-fdab-43e8-8bdb-8486e3eb141b" Type="Person">
+          <Name>Gelimar</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="311c92b8-d0ad-4634-97c7-c167be437b6e" Type="Ort">
+          <Name>Römisches Reich</Name>
+        </Entitaet>
+        <Entitaet Id="b51267c9-75aa-40e9-9add-108c25314fa9" Type="Anmerkung">
+          <Name>!</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum III, 12, ed. Waitz 1878, S. 121.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Das von dem byzantinischen Kaiser Tiberios I. Konstantinos entsandte Heer kämpft [um 578] erfolgreich gegen Perser und kehrt mit reicher Beute heim.</Inhaltsangabe>
+      <VolltextOriginalsprache>Huius [Tiberios I. Konstantinos] exercitus ab eo directus Persas potentissime debellavit; victorque regrediens, tantam molem praedae cum viginti pariter elefantis detulit, ut humanae crederetur posse sufficere cupiditati.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Das von ihm [Tiberios I. Konstantinos] entsandte Heer wies die Perser mit Macht in die Schranken; er kehrte siegreich heim und brachte solche Menge an Beute, darunter zwanzig Elefanten, mit, dass man darin den Gipfel der Erfüllung menschlichen Verlangens hätte sehen können.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden III, 12, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 199.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 578" From="573-01-01" To="583-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="570-580" From="570-01-01" To="580-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Elefant</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Datierung ergibt sich aus der Regierungszeit Kaiser Tiberios I. Konstantinos von 578-582, vgl. Paulus Diaconus, Geschichte der Langobarden III, 12, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 197, Anm. 268.
+Die Perser waren zu diesem Zeitpunkt noch nicht muslimisch (erst ab 661).</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5f95ad1e-bd33-45f6-bdee-9e2824f3db4a" Type="Person">
+          <Name>Tiberios I. Konstantinos</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum IV, 36, ed. Waitz 1878, S. 161.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Perser erobern [614] römische Provinzen im Heiligen Land und zerstören Kirchen, Heiligtümer und andere Gebäude in Jerusalem.</Inhaltsangabe>
+      <VolltextOriginalsprache>Persae quoque adversus rem publicam gravissima bella gerentes, multas Romanorum provincias [römische Provinzen] et ipsam Hierusolimam [Jerusalem] auferunt. Et destruentes ecclesias, sancta quoque profanantes, inter ornamenta locorum sanctorum vel communium etiam vexillum dominicae crucis abducunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Auch die Perser führten gegen das Reich sehr schwere Kriege. Sie rissen viele römische Provinzen [römische Provinzen] und selbst Jerusalem [Jerusalem] an sich. Sie zerstörten die Kirchen, entweihten die Heiligtümer und schleppten neben dem Schmuck der heiligen Stätten und der öffentlichen Gebäude sogar das christliche Feldzeichen des Herrenkreuzes mit sich fort.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden IV, 36, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 241.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="614" From="614-01-01" To="614-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Israel</Ort>
+        <Ort>Jerusalem</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hierusolima</Suchwort>
+        <Suchwort>Ierosolima</Suchwort>
+        <Suchwort>Jerusalem</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Paulus Diaconus, Geschichte der Langobarden IV, 36, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 241, Anm. 398.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="e0b7be01-3536-4d19-8055-09372533b457" Type="Ort">
+          <Name>römische Provinzen</Name>
+        </Entitaet>
+        <Entitaet Id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" Type="Ort">
+          <Name>Jerusalem</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum IV, 50, ed. Waitz 1878, S. 173f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Caesara, Gattin eines Perserkönigs, konvertiert [um 590] in Konstantinopel zum Christentum und bekehrt anschließend auch ihren Gemahl.</Inhaltsangabe>
+      <VolltextOriginalsprache>Circa haec tempora regis Persarum coniux nomine Cesara de Perside exiens, cum paucis suis fidelibus privato habitu propter christianae fidei amorem Constantinopolim [Konstantinopel] venit. Quae ab imperatore honorifice suscepta, post aliquod dies, ut desiderabat, baptismum consecuta et ab augusta de sacro fonte levata est. Quod vir eius Persarum rex audiens, legatos Constantinopolim [Konstantinopel] ad augustum direxit, quatenus eidem suam uxorem redderet. […] Quae cum iussu imperatoris advenisset, mox eam legati conspiciunt, ad eius vestigia provulvuntur eique venerabiliter, quia cam suus vir requireret, suggerunt. Quibus illa respondit: 'Ite, renuntiate regi vestro et domino, quia, nisi, sicut ego iam credidi, ita et ipse in Christum crediderit, me iam ultra consortem thori habere non poterit'. Quid multa? Reversi legati ad patriam, universa quae audierant suo regi renuntiant. Qui nihil moratus, cum sexaginta milibus viris Constantinopolim [Konstantinopel] pacifice ad imperatorem venit, a quo gratanter et satis digne susceptus est. Qui cum universis Christum dominum credens, pariter cum omnibus sacri baptismatis unda perfusus et ab augusto de fonte levatus, catholica fide confirmatus est; multisque muneribus ab augusto honoratus, accepta sua coniuge, laetus et gaudens ad suam patriam repedavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Etwa um jene Zeit herum verließ die Gattin des Perserkönigs, Caesara war ihr Name, mit wenigen Getreuen als Privatperson Persien und begab sich aus Liebe zum christlichen Glauben nach Konstantinopel [Konstantinopel]. Sie wurde vom Kaiser ehrenvoll empfangen und erhielt nach einigen Tagen, ihrem Wunsch entsprechend, die Taufe, wobei die Kaiserin die Patenschaft übernahm. Als ihr Gatte, der Perserkönig, davon erfuhr, entsandte er eine Delegation nach Konstantinopel [Konstantinopel] zum Kaiser, dass er ihm seine Gattin zurückschicken möge. […] Als sie auf kaiserliche Weisung erschien, warfen sich die Gesandten bei ihrem Anblick auf der Stelle vor ihr nieder und eröffneten ihr unterwürfig, dass ihr Gatte sie suche. Sie entgegnete ihnen: „Geht, meldet eurem König und Herrn, dass ich, wenn er nicht zuvor den Glauben an Christus angenommen hat, wie ich es bereits getan habe, künftig nicht mehr mit ihm das Lager werde teilen können.“ Kurzum, die Gesandten kehrten in ihre Heimat zurück und meldeten alles, was sie gehört hatten, ihrem König. Der zögerte nicht, kam mit sechzigtausend Mann in friedlicher Mission zum Kaiser nach Konstantinopel [Konstantinopel] und wurde von ihm herzlich und mit allen ihm zustehenden Ehren empfangen. Er nahm mit allen den christlichen Glauben an, erhielt mit allen zusammen das Sakrament der Taufe unter der Patenschaft des Kaiser und Bestärkung im wahren Glauben. Mit vielen Geschenken vom Kaiser geehrt, nahm er seine Gattin und begab sich froh und glücklich in sein Heimatland zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden IV, 50, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 257.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 590" From="585-01-01" To="595-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei)</Ort>
+        <Ort>Konstantinopel</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Missionierung</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Ähnliche Erzählungen auch in der sog. Fredegar-Chronik (u.a.), an denen sich die Datierung orientiert. Die Identität des Perserkönigs ist unklar, vgl. Paulus Diaconus, Geschichte der Langobarden IV, 50, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 257, Anm. 441.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum V, 13, ed. Waitz 1878, S. 192.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem der byzantinische Kaiser Konstans II. [am 15.07.668] ermordet wurde, fallen Sarazenen, die bereits Alexandria und Ägypten eingenommen haben, auch in Sizilien ein, plündern die Umgebung und töten viele Bewohner.</Inhaltsangabe>
+      <VolltextOriginalsprache>Haec audiens gens Sarracenorum, quae iam Alexandriam [Alexandira] et Aegyptum [Ägypten] pervaserat, subito cum multis navibus venientes, Siciliam [Sizilien] invadunt, Siracusas [Syrakus] ingrediuntur multamque stragem faciunt populorum, vix paucis evadentibus, qui per munitissima castra et iuga confugerant montium, auferentes quoque praedam nimiam et omne illud quod Constans [Konstans II.] augustus a Roma [Rom] abstulerat ornatum in aere et diversis speciebus; sicque Alexandriam [Alexandria] reversi sunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Auf die Kunde hiervon fiel das Volk der Sarazenen, das schon Alexandria [Alexandria] und Ägypten [Ägypten] eingenommen hatte, unvermutet mit vielen Schiffen in Sizilien [Sizilien] ein und richtete unter der Bevölkerung ein großes Blutbad an, dem nur wenige entkamen, die sich in die am stärksten befestigten Plätze und auf Bergeshöhe flüchteten. Die Sarazenen machten auch gewaltige Beute und schleppten alles fort, was Konstans [Konstans II.] an bronzenen und sonstigen Kunstgegenständen aus Rom [Rom] hatte mitgehen lassen. Und so kehrten sie nach Alexandria [Alexandria] zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden V, c. 13, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 279.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="15.07.668" From="668-01-01" To="668-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="660-670" From="660-01-01" To="670-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Alexandria</Ort>
+        <Ort>Italien</Ort>
+        <Ort>Rom</Ort>
+        <Ort>Sizilien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Beute</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aegypto</Suchwort>
+        <Suchwort>Ägypten</Suchwort>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Roma</Suchwort>
+        <Suchwort>Rom</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Sicilia</Suchwort>
+        <Suchwort>Sizilien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Paulus Diaconus, Geschichte der Langobarden V, 13, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 279, Anm. 465.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="55910ea1-a57d-42b7-9cfc-e82ffed8da85" Type="Anmerkung">
+          <Name>Alexandira</Name>
+        </Entitaet>
+        <Entitaet Id="b438b117-135e-4f05-98f1-9c1780bed98f" Type="Ort">
+          <Name>Ägypten</Name>
+        </Entitaet>
+        <Entitaet Id="2870bda5-4c7c-45ec-bb58-2da8bf486d53" Type="Ort">
+          <Name>Sizilien</Name>
+        </Entitaet>
+        <Entitaet Id="51b3b037-c7dd-436b-9739-64705514b6a2" Type="Ort">
+          <Name>Syrakus</Name>
+        </Entitaet>
+        <Entitaet Id="4e2d8ef3-af07-495d-8a69-35ca242e7355" Type="Person">
+          <Name>Konstans II.</Name>
+        </Entitaet>
+        <Entitaet Id="a08f5239-6c20-45f3-b818-7151e115d573" Type="Ort">
+          <Name>Rom</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum VI, 10, 11, ed. Waitz 1878, S. 216.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Nachdem er die Nachfolge seines Vaters Konstantin IV. angetreten hat, bekämpft der byzantinische Kaiser Justinian II. [685] erfolgreich die in Afrika eingefallenen Sarazenen und schließt mit ihnen Frieden.</Inhaltsangabe>
+      <VolltextOriginalsprache>[10.] Tunc Sarracinorum gens infidelis et Deo inimica ex Aegypto [Ägypten] in Africam [Afrika] cum nimia multitudine pergens, obsessam Cartaginem [Karthago] cepit captamque crudeliter depopulata est et ad solum usque prostravit.
+[11.] Inter haec Constantinus [Konstantin IV.] imperator aput Constantinopolim [Konstantinopel] moritur, et eius minor filius Iustinianus [Justinian II.] Romanorum regnum [Römisches Reich] suscepit, cuius per decem annos gubernacula tenuit. Hic Africa [Afrika] a Sarracenis abstulit et cum eisdem pacem terra marique fecit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[10.] Das war die Zeit, da sich das ungläubige, Gott feindliche Volk der Sarazenen von Ägypten [Ägypten] her gegen Afrika [Afrika] in unermesslicher Zahl erhob, Karthago [Karthago] belagerte, es einnahm, in der eroberten Stadt grausam wütete und sie dem Erdboden gleichmachte.
+[11.] Unterdessen starb Kaiser Konstantin [Konstantin IV.] in Konstantinopel [Konstantinopel] und sein jüngerer Sohn Justinian [Justinian II.] übernahm das Römische Reich [Römisches Reich], das er zehn Jahre lang regierte. Er gewann Afrika [Afrika] von den Sarazenen zurück und schloss mit ihnen Frieden zu Wasser und zu Lande.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden VI, 10, 11, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 311.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="685" From="685-01-01" To="685-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="680-690" From="680-01-01" To="690-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Ägypten</Ort>
+        <Ort>Karthago</Ort>
+        <Ort>Byzanz</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Römisches Reich</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Plünderung</Schlagwort>
+        <Schlagwort>Frieden</Schlagwort>
+        <Schlagwort>Sieg</Schlagwort>
+        <Schlagwort>Thronfolge</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Aegypto</Suchwort>
+        <Suchwort>Ägypten</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>-</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f63122ea-d239-438f-b7d7-53490ecdda01" Type="Anmerkung">
+          <Name>10.</Name>
+        </Entitaet>
+        <Entitaet Id="b438b117-135e-4f05-98f1-9c1780bed98f" Type="Ort">
+          <Name>Ägypten</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="ae583192-f7c7-4ff3-933a-4ae8a8ce1c43" Type="Ort">
+          <Name>Karthago</Name>
+        </Entitaet>
+        <Entitaet Id="6a32e15e-4a7d-47e1-ab62-ba0d54cb9976" Type="Anmerkung">
+          <Name>11.</Name>
+        </Entitaet>
+        <Entitaet Id="b4aef03b-98df-49ba-abbf-26c25c8cf913" Type="Person">
+          <Name>Konstantin IV.</Name>
+        </Entitaet>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="757ff4ec-5737-47da-8812-aa5694b245b8" Type="Person">
+          <Name>Justinian II.</Name>
+        </Entitaet>
+        <Entitaet Id="311c92b8-d0ad-4634-97c7-c167be437b6e" Type="Ort">
+          <Name>Römisches Reich</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum VI, 36, ed. Waitz 1878, S. 228.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Der byzantinische Kaiser Anastasios II. entsendet [vor 715] eine Flotte nach Alexandria gegen die Sarazenen.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc tempore Anastasius [Anastasios II.] imperator classem in Alexandria [Alexandria] contra Sarracenos direxit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Um jene Zeit herum entsandte Kaiser Anastasios [Anastasios II.] eine Flotte nach Alexandria gegen die Sarazenen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden VI, 36, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 325.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="vor 715" From="705-01-01" To="715-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Alexandria</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Alexandria</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Paulus Diaconus VI, 36, Geschichte der Langobarden VI, 36, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 325, Anm. 572.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b79a56d5-e019-44d8-a040-d5232e72d4de" Type="Person">
+          <Name>Anastasios II.</Name>
+        </Entitaet>
+        <Entitaet Id="0392a434-b60e-4876-86ca-632dc5a9c66d" Type="Ort">
+          <Name>Alexandria</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum VI, 46, ed. Waitz 1878, S. 233.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen fallen [711] in Spanien und Jahre später in Aquitanien ein, um sich niederzulassen. Der fränkische Hausmeier Karl Martell und Herzog Eudo von Aquitanien schließen [720] ein Bündnis und gehen mit Erfolg militärisch gegen sie vor.</Inhaltsangabe>
+      <VolltextOriginalsprache>Eo tempore gens Sarracenorum in loco qui Septem [Ceuta] dicitur ex Africa [Afrika] transfretantes, universam Spaniam [Spanien] invaserunt. Deinde post decem annos cum uxoribus et parvulis venientes, Aquitaniam [Aquitanien] Galliae [Gallien] provinciam quasi habitaturi ingressi sunt. Carolus [Karl Martell] siquidem cum Eudone Aquitaniae principe [Herzog Eudo von Aquitanien] tunc discordiam habebat. Qui tamen in unum se coniungentes, contra eosdem Sarracenos pari consilio dimicarunt. Nam inruentes Franci super eos, trecenta septuaginta quinque milia Sarracenorum interimerunt; ex Francorum vero parte mille et quingenti tantum ibi ceciderunt. Eudo quoque cum suis super eorum castra inruens, pari modo multos interficiens, omnia devastavit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Zu jener Zeit setzten die Sarazenen bei Ceuta [Ceuta] von Afrika [Afrika] aus über die Meerenge und breiteten sich über ganz Spanien [Spanien] aus. Zehn Jahre später fielen sie mit Weib und Kind in der gallischen Provinz [Gallien] Aquitanien [Aquitanien] ein, wie um sich dort niederzulassen. Nun waren zwar damals Karl Martell und Eudo, der Herrscher Aquitaniens [Herzog Eudo von Aquitanien], miteinander verfeindet, sie schlossen sich aber dennoch zusammen und machten gemeinsame Sache gegen diese Sarazenen. Die Franken nämlich lieferten ihnen eine Schlacht, in der sie 375.000 Sarazenen töteten; von fränkischer Seite aber fielen dort trotzdem nur 1.500 Mann. Auch Eudo brachte auf gleiche Weise vielen den Tod und verwüstete alles, indem er mit seinen Leuten ihr Lager stürmte.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden VI, 46, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 331.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="711" From="711-01-01" To="711-12-31" />
+        <Datum Text="720" From="720-01-01" To="720-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Afrika</Ort>
+        <Ort>Ceuta</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Frankreich)</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Aquitanien</Ort>
+        <Ort>Gallien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Ansiedlung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Vertreibung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Spania</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Paulus Diaconus, Geschichte der Langobarden VI, 46, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 331, Anm. 596, 598.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="c159e083-5455-4fd7-89a1-fc352ed72409" Type="Anmerkung">
+          <Name>Ceuta</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="ab6713f9-7289-433c-9880-d1317872228c" Type="Ort">
+          <Name>Aquitanien</Name>
+        </Entitaet>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="ad6a92d3-13ea-4288-9664-80e1809d6a72" Type="Person">
+          <Name>Herzog Eudo von Aquitanien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum VI, 47, ed. Waitz 1878, S. 233f.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Sarazenen belagern [717] Konstantinopel, bekämpfen nach ihrem Abzug die Bulgaren und erleiden dabei viele Verluste. Nachdem sie sich auf ihre Schiffe zurückgezogen haben, kommen viele von ihnen bei einem Unwetter auf dem offenen Meer ums Leben.</Inhaltsangabe>
+      <VolltextOriginalsprache>Hoc etiam tempore eadem Sarracenorum gens cum inmenso exercitu veniens, Constantinopolim [Konstantinopel] circumdedit ac continuo per triennium obsedit, donec, civibus multa instantia ad Deum clamantibus, plurimi eorum fame et frigore, bello pestilentiaque perirent ac sic pertaesi obsidionis abscederent. Qui inde egressi Vulgarum [Bulgarien] gentem, quae est super Danubium [Donau], bello adgrediuntur; et ab hac quoque vicit, ad suas naves refugiunt. Quibus, cum altum peterent, inruente subita tempestate plurimi etiam mersi sive contritis navibus perierunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im gleichen Zeitraum gingen die Sarazenen mit unübersehbarer Streitmacht gegen Konstantinopel [Konstantinopel] vor, schlossen es ein und belagerten es drei Jahre hindurch bis sie – die Einwohner flehten inständig zum Herrn – durch Hunger und Kälte, Krieghandlungen und Seuchen dezimiert wurden und so entmutigt von der Belagerung ließen. Von dort aus wandten sich die Sarazenen gegen das Volk der Bulgaren oberhalb der Donau [Donau] und griffen es an. Und auch von diesem besiegt, zogen sie sich auf ihre Schiffe zurück. Auf dem Weg ins offene Meer brach plötzlich ein Unwetter über sie herein und die meisten ertranken und kamen beim Schiffbruch ums Leben.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden VI, 47, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 333.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="717" From="717-01-01" To="717-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="710-720" From="710-01-01" To="720-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Byzantinisches Reich (Türkei, Bulgarien)</Ort>
+        <Ort>Konstantinopel</Ort>
+        <Ort>Donau</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Seuche</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Flotte</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Constantinopolis</Suchwort>
+        <Suchwort>Konstantinopel</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Paulus Diaconus, Geschichte der Langobarden VI, 47, hrsg. und übers. v. Wolfgang F. Schwarz, Darmstadt 2009, S. 333, Anm. 601.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="43050f15-8194-4c17-a0ac-69d69e24c705" Type="Ort">
+          <Name>Konstantinopel</Name>
+        </Entitaet>
+        <Entitaet Id="d56c7abd-4c1d-46fd-824a-b8246a98cfff" Type="Anmerkung">
+          <Name>Bulgarien</Name>
+        </Entitaet>
+        <Entitaet Id="134fdc48-27e8-402b-b6ef-ca79beb942b5" Type="Ort">
+          <Name>Donau</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum VI, 48, ed. Waitz 1878, S. 234.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Langobardenkönig Liutprand zahlt [722] für die Gebeine des hl. Bischofs Augustinus einen hohen Preis an die Sarazenen und überführt sie erfolgreich nach Pavia, wo sie erneut beigesetzt werden.</Inhaltsangabe>
+      <VolltextOriginalsprache>Liutprand [Liutprand] quoque audiens, quod Sarraceni, depopulata Sardinia [Sardinien], etiam loca illa, ubi ossa sancti Augustini episcopi propter vastationem barbarorum olim translata et honorifice fuerant condita, foedarent, misit et dato magno pretio, accepit et transtulit ea in urbem Ticinensem [Pavia] ibique cum debito tanto patri honore recondidit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Als König Liutprand [Liutprand] vernahm, dass die Sarazenen nach der Verwüstung Sardiniens [Sardinien] auch jenen Ort entweihten, an dem die Gebeine des hl. Bischofs Augustinus, wegen der Zerstörungswut der Barbaren einst überführt, würdevoll untergebracht worden waren, entsandte er eine Delegation, zahlte einen hohen Preis, erhielt sie, ließ sie nach Pavia [Pavia] schaffen und dort mit der einem so großen Kirchenvater gebührenden Ehrerbietung beisetzen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden VI, 48, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 333.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="722" From="722-01-01" To="722-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="720-730" From="720-01-01" To="730-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Pavia</Ort>
+        <Ort>Sardinien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Tribut</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Sardinia</Suchwort>
+        <Suchwort>Sardinien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Paulus Diaconus, Geschichte der Langobarden VI, 48, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 333, Anm. 604.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ec42155e-7efe-452a-9493-b864d62c58f6" Type="Person">
+          <Name>Liutprand</Name>
+        </Entitaet>
+        <Entitaet Id="f4c901f3-9592-4309-8e87-025e24c1c951" Type="Ort">
+          <Name>Sardinien</Name>
+        </Entitaet>
+        <Entitaet Id="d6f0652d-06e6-4da5-bf1b-e2865ff812b0" Type="Ort">
+          <Name>Pavia</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Paulus Diaconus, Historia Langobardorum VI, 54, ed. Waitz 1878, S. 237.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Ein Heer des Langobardenkönigs Liutprand zieht [737/738] auf ein Hilfegesuch des fränkischen Hausmeiers Karl Martell nach Gallien, um die in der Provence eingefallenen Sarazenen zu bekämpfen, die angesichts dieser Nachricht den Rückzug antreten.</Inhaltsangabe>
+      <VolltextOriginalsprache>Per idem tempus Sarracenorum exercitus rursum in Galliam [Gallien] introiens, multam devastationem fecit. Contra quos Carolus [Karl Martell] non longe a Narbone [Narbonne] bellum committens eos sicut et prius maxima caede prostravit. Iterato Sarraceni Gallorum [Gallien] fines ingressi, usque ad Provinciam [Provence] venerunt, et capta Arelate [Arles], omnia circumquaque demoliti sunt. Tunc Carolus legatos cum muneribus ad Liutprandum [Liutprand] regem mittens, ab eo contra Sarracenos auxilium poposcit; qui nihil moratus cum omni Langobardorum exercitu in eius adiutorium properavit. Quo conperto gens Sarracenorum mox ad illis regionibus aufugit; Liutprandus vero cum omni suo exercitu ad Italiam [Italien] rediit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Um diese Zeit drang erneut ein Heer der Sarazenen in Gallien [Gallien] ein und richtete große Verwüstung an. Ihnen trat Karl [Karl Martell] nicht weit von Narbonne [Narbonne] entgegen und fügte ihnen – wie auch zuvor – schwere Verluste zu. Bei einem weiteren Einfall in Gallien [Gallien] erreichten die Sarazenen die Provence [Provence], nahmen Arles [Arles] ein und verheerten in weitem Umkreis alles. Da bat Karl durch eine Gesandtschaft mit Geschenken Königs Liutprand [Liutprand] um dessen Beistand gegen die Sarazenen. Liutprand eilte ihm ohne Zögern mit dem gesamten langobardischen Heerbann zu Hilfe. Die Nachricht hiervon veranlasste die Sarazenen umgehend zum Rückzug aus jenen Gebieten. Liutprand aber kehrte mit seinem ganzen Heer nach Italien [Italien] zurück.</VolltextUebersetzung>
+      <ZitationUebersetzung>Paulus Diaconus, Geschichte der Langobarden VI, 54, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 337.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="737/738" From="737-01-01" To="737-12-31" />
+        <Datum Text="737/738" From="738-01-01" To="738-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="730-740" From="730-01-01" To="740-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="790-800" From="790-01-01" To="800-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Frankenreich (Deutschland, Frankreich)</Ort>
+        <Ort>Arles</Ort>
+        <Ort>Gallien</Ort>
+        <Ort>Narbonne</Ort>
+        <Ort>Provence</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Invasion</Schlagwort>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Einnahme</Schlagwort>
+        <Schlagwort>Eroberung</Schlagwort>
+        <Schlagwort>Geschenke</Schlagwort>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Rückzug</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Paulus Diaconus, Geschichte der Langobarden VI, 54, hrsg. und übers. von Wolfgang F. Schwarz, Darmstadt 2009, S. 337, Anm. 619.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="b24a1eac-b648-44a2-81c3-8871d03a7906" Type="Person">
+          <Name>Karl Martell</Name>
+        </Entitaet>
+        <Entitaet Id="242d5896-0182-42db-b925-c4a0cd4533bd" Type="Ort">
+          <Name>Narbonne</Name>
+        </Entitaet>
+        <Entitaet Id="334bcc12-dbc5-4fe1-9d9b-af61579b065b" Type="Ort">
+          <Name>Provence</Name>
+        </Entitaet>
+        <Entitaet Id="00c1232e-04bf-4a57-8933-96e3ec1e56fd" Type="Ort">
+          <Name>Arles</Name>
+        </Entitaet>
+        <Entitaet Id="ec42155e-7efe-452a-9493-b864d62c58f6" Type="Person">
+          <Name>Liutprand</Name>
+        </Entitaet>
+        <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
+          <Name>Italien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0061</WerkId>
+  <WerkTitel>Etymologiae</WerkTitel>
+  <Alternativtitel>
+    <Titel>Etymologiae sive Originum libri XX</Titel>
+    <Titel>Enzyklopädie</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Isidor von Sevilla</Autor>
+    <Autor>Isidorus episcopus Hispalensis</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>ca. 560-636</LebensdatenVerfasser>
+  <Abfassungszeitraum>ca. 600-636</Abfassungszeitraum>
+  <Abfassungsort>Sevilla</Abfassungsort>
+  <Regionen>
+    <Region>Iberische Halbinsel</Region>
+  </Regionen>
+  <Editionshinweise>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX, ed. Wallace Martin Lindsay (Scriptorum Classicorum Bibliotheca Oxoniensis), 2 Bde., Oxford 1911.</Editionshinweise>
+  <Werkinformation>Die Etymologiae sind eines der wichtigsten Werke des Isidor von Sevilla, ab ca. 600 Bischof von Sevilla (geb. ca. 560, gest. 636). Isidor behandelt hier in kürzeren Abhandlungen einen Überblick über das Wissen seiner Zeit.
+Vgl. mit Hinweisen für weiterführende Literatur: Jacques Fontaine, Art. Isidor v. Sevilla, in: Lexikon des Mittelalters 5, Sp. 677-679 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-07]; Thomas O‘Loughlin, Art. Isidore of Sevilla, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 880-883.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX V, xxxix, 8, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>3284 (nach Erschaffung der Welt)</ZeitangabeQuelle>
+      <Inhaltsangabe>Rückführung der Ismaeliten auf ihren Stammvater Ismael, den Sohn Abrahams.</Inhaltsangabe>
+      <VolltextOriginalsprache>[8] Tertia aetas. Abraham [Abraham] ann. c genuit Isaac [Isaak] et Ismahel [Ismael], a quo Ismahelitae. [iiimcclxxxiv].</VolltextOriginalsprache>
+      <VolltextUebersetzung>[8] Das dritte Zeitalter. Abraham zeugte im 100. Jahr Isaak und Ismael, von dem die Ismailiten stammen. (3284).</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla V, xxxix, 8, hg. von Lenelotte Möller, Wiesbaden 2008, S. 200.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Ismahel</Suchwort>
+        <Suchwort>Ismael</Suchwort>
+        <Suchwort>Ismahelitus</Suchwort>
+        <Suchwort>Ismaelite</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="ef4d7be3-9010-4cae-98d1-8cf57900a14b" Type="Anmerkung">
+          <Name>8</Name>
+        </Entitaet>
+        <Entitaet Id="1012c14f-7409-4ca0-ada7-da6c956491bb" Type="Person">
+          <Name>Abraham</Name>
+        </Entitaet>
+        <Entitaet Id="b22b002e-9485-48f5-9a9a-ae616f8daa37" Type="Person">
+          <Name>Isaak</Name>
+        </Entitaet>
+        <Entitaet Id="63a996e5-ba45-4ff1-8510-8bc34ab8c635" Type="Person">
+          <Name>Ismael</Name>
+        </Entitaet>
+        <Entitaet Id="f56fae5a-ad15-4de8-9698-3f93660783b9" Type="Anmerkung">
+          <Name>iiimcclxxxiv</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX VII, vi, 29-32, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Erläuterung der Bedeutungen der Namen Sara (Fürstin) – sie wird als Fürstin aller künftigen Völker bezeichnet –, Hagar (Fremde oder Zurückgewendete) und Ismael (Zuhören Gottes).</Inhaltsangabe>
+      <VolltextOriginalsprache>[29] Sarai [Sara] interpretatur princeps mea, eo quod esset unius tantummodo domus materfamilias. Postea causa nominis inmutata, ablata de fine I littera, dicitur Sara, id est princeps. Omnium quippe gentium futura princeps erat, sicut et Dominus pollicitus fuerat ad Abraham [Abraham] (Gen. 17,16): ‘Dabo tibi ex Sara filium, et benedicam ei, et erit in gentes, et reges populorum erunt ex ea.’ [30] Agar [Hagar] advena, vel conversa. Fuit enim. [conplexui Abrahae advena causa generandi data, quae post contemptum, angelo increpante, conversa est ad Saram.] [31] Cethura thymiama. [32] Ismahel [Ismael] interpretatur auditio Dei; sic enim scriptum est (Genes. 16,11): ‘Et vocavit nomen eius Ismahel, quia exaudivit eum Deus.‘</VolltextOriginalsprache>
+      <VolltextUebersetzung>[29] Sarai (שדה) wird übersetzt als princeps mea (meine Fürstin), weil sie die materfamilias (Mutter der Familie) eines einzelnen Hauses war. Später wurde sie, ohne dass der Grund des Namens sich geändert hätte, unter Weglassung des Endbuchstabens I, Sara genannt, d. h. Fürstin. Sie war aber die Fürstin aller künftigen Völker, wie der Herr Abraham versprochen hatte (Gen 17,16): Ich werde dir aus Sara einen Sohn geben, und ich werde diese segnen und sie wird in Völkern aufgehen, und Könige der Völker werden aus ihr hervorgehen. [30] Hagar (הגד) [bedeutet] advena (Fremde, von hebr. גד - fremd) bzw. conversa (Zurückgewendete, von גדה - wiederkäuen?). Das war sie nämlich. [Der Umarmung Abrahams gab sie sich als Fremde wegen der Zeugung hin, die nach der Empfängnis, durch die Ermunterung eines Engels, sich wieder Sara zuwandte.] [31] Kethura (קטודה) [bedeutet] thymiama (Räucherwerk). [32] Ismael (ישמעאל) wird übersetzt als auditio Dei (Zuhören Gottes; von שמע - hören); so nämlich ist geschrieben (Gen 16,ll und 21,17): Und er nannte seinen Namen Ismael, weil Gott diesen erhört hatte.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla VII, vi, 29-32, hg. von Lenelotte Möller, Wiesbaden 2008, S. 261.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Agar</Suchwort>
+        <Suchwort>Hagar</Suchwort>
+        <Suchwort>Ismahel</Suchwort>
+        <Suchwort>Ismael</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.
+Vgl. [0061]-[0005]</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="a4df23e4-6dbb-47dd-b029-7543f9105a08" Type="Anmerkung">
+          <Name>29</Name>
+        </Entitaet>
+        <Entitaet Id="5b078e84-c6dd-4b64-a690-9a64322ce5da" Type="Person">
+          <Name>Sara</Name>
+        </Entitaet>
+        <Entitaet Id="1012c14f-7409-4ca0-ada7-da6c956491bb" Type="Person">
+          <Name>Abraham</Name>
+        </Entitaet>
+        <Entitaet Id="3aa005f0-ae5c-4e61-a2c5-eb704698de4e" Type="Anmerkung">
+          <Name>30</Name>
+        </Entitaet>
+        <Entitaet Id="1fcb695e-fee8-41f9-bb83-255734b027b9" Type="Person">
+          <Name>Hagar</Name>
+        </Entitaet>
+        <Entitaet Id="76076886-a41e-47a8-b3a6-64258e21b8c5" Type="Anmerkung">
+          <Name>conplexui Abrahae advena causa generandi data, quae post contemptum, angelo increpante, conversa est ad Saram.</Name>
+        </Entitaet>
+        <Entitaet Id="18d3352c-467b-40b6-995d-cd173e5920e1" Type="Anmerkung">
+          <Name>31</Name>
+        </Entitaet>
+        <Entitaet Id="79ede6b5-f37b-498f-b463-53ad60853cfb" Type="Anmerkung">
+          <Name>32</Name>
+        </Entitaet>
+        <Entitaet Id="63a996e5-ba45-4ff1-8510-8bc34ab8c635" Type="Person">
+          <Name>Ismael</Name>
+        </Entitaet>
+        <Entitaet Id="07ee267a-7302-4d40-80d8-59310ce63283" Type="Anmerkung">
+          <Name>bedeutet</Name>
+        </Entitaet>
+        <Entitaet Id="b8b237af-c2bc-411f-9f2f-0594d088fbcd" Type="Anmerkung">
+          <Name>Der Umarmung Abrahams gab sie sich als Fremde wegen der Zeugung hin, die nach der Empfängnis, durch die Ermunterung eines Engels, sich wieder Sara zuwandte.</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0003</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX VIII, v, 59, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Der Name der ‚Arabiker‘ wird mit der Herkunft dieser Gruppe aus Arabien erklärt.</Inhaltsangabe>
+      <VolltextOriginalsprache>[59] Arabici nuncupati, eo quod in Arabia [Arabien] exorti sunt, dicentes animam cum corpore mori, atque in novissimum utrumque resurgi.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[59] Die Arabiker werden so genannt, weil sie in Arabien [Arabien] aufkamen, und sagen, dass die Seele mit dem Körper sterbe und beide am Jüngsten Tage auferstehen.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla VIII, v, 59, hg. von Lenelotte Möller, Wiesbaden 2008, S. 296.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Arabien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabicus</Suchwort>
+        <Suchwort>Arabiker</Suchwort>
+        <Suchwort>Arabia</Suchwort>
+        <Suchwort>Arabien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="fe9a79a6-ff92-4be2-8730-9c0e6e402b82" Type="Anmerkung">
+          <Name>59</Name>
+        </Entitaet>
+        <Entitaet Id="6e13edc1-97a6-4ed0-b402-b1cd9a8bc748" Type="Ort">
+          <Name>Arabien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0004</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX VIII, xi, 1-7, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Anmerkung zur heidnischen Götterverehrung und zur Gewohnheit Götzenbilder anzufertigen. Nach Isidor waren die von den Heiden verehrten Götter Menschen, die nach ihrem Tod für ihre Verdienste verehrt wurden, so etwa Iuba bei den Mauren. Die Juden führen diese Praktik auf Ismael zurück.</Inhaltsangabe>
+      <VolltextOriginalsprache>De diis gentivm. Quos pagani deos asserunt, homines olim fuisse produntur, et pro uniuscuiusque vita vel meritis coli apud suos post mortem coeperunt, ut apud Aegyptum [Ägypten] Isis, apud Cretam [Kreta] Iovis, apud Mauros Iuba, apud Latinos Faunus, apud Romanos Quirinus. […] [6] Simulacra autem a similitudine nuncupata, eo quod manu artificis ex lapide aliave materia eorum vultus imitantur in quorum honore finguntur. Ergo simulacra vel pro eo quod sunt similia, vel pro eo quod simulata atque conficta; unde et falsa sunt. [7] Et notandum quod Latinus sermo sit in Hebraeis. Apud eos enim idolum sive simulacrum Semel dicitur. Iudaei dicunt quod Ismael primus simulacrum luto fecerit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[1] Von den Götzenbildern der Heiden. Die Götter, welche die Heiden verehren, sollen, so wird überliefert, einst Menschen gewesen sein und je nach dem Leben eines jeden Einzelnen begannen sie nach dem Tod bei den Ihren nach Verdienst verehrt zu werden, wie in Ägypten [Ägypten] Isis, in Kreta [Kreta] Jupiter, bei den Mauren Iuba, bei den Latinern Faunus, bei den Römern Quirinius. […] [6] Die simulacra (Götzenbilder) aber sind nach der similtudo (Ähnlichkeit) benannt, weil durch die Hand des Künstlers aus Stein oder aus einem anderen Stoff das Aussehen derjenigen nachgeahmt wurde, zu deren Ehren sie aufgestellt wurden. Daher [werden] sie simulacra [genannt], entweder weil sie ähnlich (similia) oder weil sie unecht (simulata) sind und erfunden (conficta), weshalb sie auch falsch sind. [7] Und man muss wissen, dass es den lateinischen Ausdruck bei den Hebräern gibt. Bei diesen nämlich wird das Götzenbild bzw. die Statue semel genannt. Die Juden sagen, dass Ismael als Erster ein Götzenbild aus Lehm angefertigt habe.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, VIII, 11, 1-7, hg. von Lenelotte Möller, Wiesbaden 2008, S. 308-309.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Religionsbeschreibung</Schlagwort>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Ismahel</Suchwort>
+        <Suchwort>Ismael</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="b438b117-135e-4f05-98f1-9c1780bed98f" Type="Ort">
+          <Name>Ägypten</Name>
+        </Entitaet>
+        <Entitaet Id="ae8e4934-c643-4039-84e7-eaa16e31d242" Type="Ort">
+          <Name>Kreta</Name>
+        </Entitaet>
+        <Entitaet Id="07e893c8-de6b-4a00-9f3d-91bbbd705f90" Type="Anmerkung">
+          <Name>6</Name>
+        </Entitaet>
+        <Entitaet Id="d3d2594b-a385-4962-96e7-b6f43229b233" Type="Anmerkung">
+          <Name>7</Name>
+        </Entitaet>
+        <Entitaet Id="5cc498c0-9735-4d7e-be61-7b2e00571253" Type="Anmerkung">
+          <Name>1</Name>
+        </Entitaet>
+        <Entitaet Id="beaff69b-30db-47fe-94c1-70f55f206843" Type="Anmerkung">
+          <Name>werden</Name>
+        </Entitaet>
+        <Entitaet Id="313dff36-f837-4717-ab84-2d2ab0e293a6" Type="Anmerkung">
+          <Name>genannt</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0005</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX IX, ii, 6, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Bericht über die Abstammung der Ismaeliten, Sarazenen sowie Agarenen, die in Zusammenhang mit den Nachfahren Abrahams steht.</Inhaltsangabe>
+      <VolltextOriginalsprache>[6] Ismael [Ismael] filius Abraham [Abraham], a quo Ismaelitae, qui nunc corrupto nomine Saraceni, quasi a Sarra [Sara], et Agareni ab Agar [Hagar].</VolltextOriginalsprache>
+      <VolltextUebersetzung>[6] Ismael [Ismael] war ein Sohn Abrahams [Abraham], von welchem die Ismaeliten [stammen], die nun mit verdorbenen Namen Sarazenen, gleichsam nach Sarra [Sara](= Sarah) [benannt sind] und die Hagarener nach Hagar [hagar] [benannt].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, IX, ii, 6, hg. von Lenelotte Möller, Wiesbaden 2008, S. 326.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Ismael</Suchwort>
+        <Suchwort>Ismaelitus</Suchwort>
+        <Suchwort>Ismaelite</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Agarenus</Suchwort>
+        <Suchwort>Agarene</Suchwort>
+        <Suchwort>Agar</Suchwort>
+        <Suchwort>Hagar</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.
+Vgl. [0061]-[0002]</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="9d914aad-697f-4efb-98a9-d00c8d5f2d7c" Type="Anmerkung">
+          <Name>6</Name>
+        </Entitaet>
+        <Entitaet Id="63a996e5-ba45-4ff1-8510-8bc34ab8c635" Type="Person">
+          <Name>Ismael</Name>
+        </Entitaet>
+        <Entitaet Id="1012c14f-7409-4ca0-ada7-da6c956491bb" Type="Person">
+          <Name>Abraham</Name>
+        </Entitaet>
+        <Entitaet Id="5b078e84-c6dd-4b64-a690-9a64322ce5da" Type="Person">
+          <Name>Sara</Name>
+        </Entitaet>
+        <Entitaet Id="1fcb695e-fee8-41f9-bb83-255734b027b9" Type="Person">
+          <Name>Hagar</Name>
+        </Entitaet>
+        <Entitaet Id="4e15e8d8-b234-4fb6-aa03-728a452aa3c7" Type="Anmerkung">
+          <Name>stammen</Name>
+        </Entitaet>
+        <Entitaet Id="70a25b59-8aec-499a-878c-4e5027bd47a4" Type="Anmerkung">
+          <Name>benannt sind</Name>
+        </Entitaet>
+        <Entitaet Id="599a29de-e5df-4b85-9ec1-d7be61fbe7ee" Type="Anmerkung">
+          <Name>hagar</Name>
+        </Entitaet>
+        <Entitaet Id="c0b58422-261f-48e6-ad2a-5999ee61c46d" Type="Anmerkung">
+          <Name>benannt</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0006</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX IX, ii, 14-18, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Bericht über die Abstammung der Sabäer, die auch Araber sind.</Inhaltsangabe>
+      <VolltextOriginalsprache>[14] Saba, a quo progeniti et appellati Sabaei, de quibus Vergilius (Georg. 2,117): Solis est thurea Sabaeis. Hi sunt et Arabes. […] [18] Hic Saba per Sin litteram scribitur in Hebraeo; ille autem superior Saba per Samech, a quo appellatos Sabaeos: interpretatur autem nuc Saba Arabia [Arabien].</VolltextOriginalsprache>
+      <VolltextUebersetzung>[14] Saba, von welchem die Sabäer abstammen und benannt sind, von welchen Vergil sagt (Georg. 2,117): allein die Sabäer besitzen Weihrauchzweige. Diese sind auch Araber. […] [18] Die Söhne Ragmas [waren] Saba und Dadan. Hier wird Saba mit dem Buchstaben Sin ש im Hebräischen geschrieben, jener oben genannte Saba aber mit Samech ס, von welchem die Sabäer [kommen]. Jetzt aber wird Saba Arabien [Arabien] genannt.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, IX, ii, 14-18, hg. von Lenelotte Möller, Wiesbaden 2008, S. 327.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Arabien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabs</Suchwort>
+        <Suchwort>Araber</Suchwort>
+        <Suchwort>Arabia</Suchwort>
+        <Suchwort>Arabien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.
+Vgl. [0061]-[0007].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="e7d19032-bcb0-454e-813c-f2e1f22cb55f" Type="Anmerkung">
+          <Name>14</Name>
+        </Entitaet>
+        <Entitaet Id="bb744819-67f4-4563-b6c9-613ab0e7668e" Type="Anmerkung">
+          <Name>18</Name>
+        </Entitaet>
+        <Entitaet Id="6e13edc1-97a6-4ed0-b402-b1cd9a8bc748" Type="Ort">
+          <Name>Arabien</Name>
+        </Entitaet>
+        <Entitaet Id="6865b4b6-2d1a-480e-9c19-b49f92451e89" Type="Anmerkung">
+          <Name>waren</Name>
+        </Entitaet>
+        <Entitaet Id="1e67df44-b6e6-4b4a-806b-6eaac7ac699c" Type="Anmerkung">
+          <Name>kommen</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0007</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX IX, ii, 49, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Erläuterung zu den Sabäern, die Araber sind.</Inhaltsangabe>
+      <VolltextOriginalsprache>[49] Sabaei dicti απο του σεβεσθαι, quod est supplicari et venerari, quia divinitatem per ipsorum tura veneramus. Ipsi sunt et Arabes, quia in montibus Arabiae [Arabien] sunt, qui vocantur Libanus et Antilibanus, ubi tura colliguntur.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[49] Die Sabäer sind nach σεβεσθαι, d.h. nach supplicari (angefleht werden) und venerari (verehrt werden) benannt, weil wir Gott durch ihren Weihrauch verehren (vernerare). Sie selbst sind aber Araber, weil sie in den Bergen Arabiens [Arabien] wohnen, welche Libanon und Antilibanon genannt werden, wo der Weihrauch gesammelt wird.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, IX, 2, 49, hg. von Lenelotte Möller, Wiesbaden 2008, S. 329f..</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Arabien, Libanon)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabs</Suchwort>
+        <Suchwort>Araber</Suchwort>
+        <Suchwort>Arabia</Suchwort>
+        <Suchwort>Arabien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.
+Vgl. [0061]-[0006].</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="8fd8574a-65c5-4c44-b100-3ed9cd463a3a" Type="Anmerkung">
+          <Name>49</Name>
+        </Entitaet>
+        <Entitaet Id="6e13edc1-97a6-4ed0-b402-b1cd9a8bc748" Type="Ort">
+          <Name>Arabien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0008</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX IX, ii, 115-122, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Bericht über die Herkunft verschiedener nordafrikanischer Völker, darunter auch der Afrikaner, Mauren, Punier, Perser etc.</Inhaltsangabe>
+      <VolltextOriginalsprache>[115] Afri appellati ab uno ex posteris Abrahae [Abraham], qui vocabatur Afer, qui dicitur duxisse adversus Libyam [Libyen] exercitum, et ibi victis, hostibus considisse, eiusque posteros ex nomine atavi et Afros et Africam [Afrika] nuncupasse. [116] Poeni autem Carthaginenses sunt a Phoenicibus nuncupati, qui cum Didone [Dido] profecti sunt. [117] Tyrios vero a Tyria [Tyrus] urbe Phoenicum [Phönizien] nominatos, de qua profecti sunt et in Africae [Afrika] litus venerunt. [118] Getuli Getae dicuntur fuisse, qui ingenti agmine a locis suis navibus conscendentes, loca Syrtium in Libya [Libyen] occupaverunt, et quia ex Getis venerant, derivato nomine Getuli cognominati sunt. Vnde et opinio est apud Gothos ab antiqua cognatione Mauros consanguinitate propinquos sibi vocare. [119] Africam [Afrika] autem initio habuere Libyes, deinde Afri, post haec Getuli, postremum Mauri et Numides. [120] Mauri et Numidae, ut Afri putant, sic sumpserunt exordium et vocabulum. Nam postquam in Hispania [Spanien] Hercules interiit, et exercitus eius conpositus ex variis gentibus, amisso duce, passim sibi sedes quaerebant, ex eo numero Medi et Persae et Armenii navibus in Africam [Afrika] transvecti proxima mari loca occupavere. [121] Sed Persae, dum materiam in agris pro construendis domiciliis non invenirent, et ignara lingua commercium prohiberet, per patentes agros et diversas solitudines vagabantur, et a pabulationibus vagabundis semetipsos propria lingua Numides appellaverunt, id est sine oppido vagos et errantes. [122] Medi autem cum Libyis se miscuerunt, qui proxima Hispania [Spanien] inhabitabant; quorum nomen paulatim Libyes corrupere, barbara lingua Mauros propter Medos appellantes, licet Mauri ob colorem a Graecis vocentur. Graeci enim nigrum μαυρον vocant. Aestifero quippe calore afflati speciem atri coloris ducunt.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[115] Die Afrikaner sind benannt nach einem Nachkommen Abrahams [Abraham] namens Afer (auch: Epher), der ein Heer gegen Libyen [Libyen] geführt haben und sich dort nach dem Sieg über die Feinde niedergelassen haben soll, dessen Nachkommen mit dem Namen des Vorfahren die Afrikaner und Afrika [Afrika] benannt haben sollen. [116] Die Punier aber sind die Karthager und nach den Phöniziern benannt, die mit Dido zusammen aufbrachen. [117] Die Tyrer aber sind nach der Stadt Tyrus [Tyrus] in Phönizien [Phönizien] benannt, von welcher sie aufbrachen und an die Küste Afrikas [Afrika] gelangten. [118] Die Getuler sollen, wie man sagt, Geter gewesen sein, die in einer riesigen Schar von ihren Wohnsitzen Schiffe bestiegen und die Orte an der Syrte in Libyen [Libyen] besetzten. Und weil sie von den Geten gekommen waren, wurden sie mit dem abgeleiteten Namen Getuler benannt. Weshalb auch bei den Goten die Meinung besteht, dass sie aufgrund einer alten Verwandtschaft die Mauren durch Blutsverwandtschaft als Angehörige bezeichnen. [119] Afrika [Afrika] aber besaßen am Anfang die Libyer, dann die Afrikaner, nach diesen die Getuler, schließlich die Mauren und Numider. [120] Die Mauren und Numider haben, wie die Afrikaner glauben, ihren Ursprung und Namen folgendermaßen genommen: Nachdem nämlich Herkules in Hispanien [Spanien] gestorben war und sein Heer, das aus verschiedenen Völkern zusammengesetzt war, nach dem Verlust des Anführers sich allenthalben Wohnsitze suchte, segelten aus deren Reihen die Meder und Perser und die Armenier mit Schiffen nach Afrika [Afrika] und besetzten die am Meer gelegenen Orte. [121] Weil die Perser aber kein Material zum Bau ihrer Häuser fanden und die unbekannte Sprache Handel zu treiben verbot, schweiften sie durch die offenen Felder und verschiedenen Wüsten. Und sie nannten sich selbst in der eigenen Sprache nach dem Umherziehen bei der Nahrungssuche Numider, d. h.: ohne Heimatort Umherschweifende und Herumirrende. [122] Die Meder aber vermischten sich mit den Libyern, welche Hispanien [Spanien] am nächsten wohnten. Indem sie deren Namen allmählich verfälschten, benannten sie in ihrer barbarischen Sprache die Mauren von den Medern her. Es kann aber auch sein, dass die Mauren von den Griechen wegen ihrer Farbe so genannt wurden, denn schwarz nennen die Griechen μαυρος, (wörtl.: dunkel). Und tatsächlich haben sie, von einer heißen Brise angeweht, das Aussehen schwarzer Farbe.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, IX, ii, 115-122, hg. von Lenelotte Möller, Wiesbaden 2008, S. 337f.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>(Nord-)Afrika (Libyen)</Ort>
+        <Ort>Syrte</Ort>
+        <Ort>Israel</Ort>
+        <Ort>Ummayyadisches Reich (Libanon)</Ort>
+        <Ort>Tyrus</Ort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Afrus</Suchwort>
+        <Suchwort>Afrikaner</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Persus</Suchwort>
+        <Suchwort>Perser</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="23eaeea2-f654-4db0-b378-5a8892813601" Type="Anmerkung">
+          <Name>115</Name>
+        </Entitaet>
+        <Entitaet Id="1012c14f-7409-4ca0-ada7-da6c956491bb" Type="Person">
+          <Name>Abraham</Name>
+        </Entitaet>
+        <Entitaet Id="301b4e84-01ef-42c6-9180-1f0ef07abfd4" Type="Ort">
+          <Name>Libyen</Name>
+        </Entitaet>
+        <Entitaet Id="ba80122a-4252-4873-8bf3-70e81768f5cb" Type="Ort">
+          <Name>Afrika</Name>
+        </Entitaet>
+        <Entitaet Id="64d2e337-3252-46c7-a5eb-85650b37650f" Type="Anmerkung">
+          <Name>116</Name>
+        </Entitaet>
+        <Entitaet Id="add6f8a2-ccfb-41be-8da0-eff7f3a4668f" Type="Anmerkung">
+          <Name>Dido</Name>
+        </Entitaet>
+        <Entitaet Id="497f9e2d-e843-4c30-abe3-84c8c243ed2c" Type="Anmerkung">
+          <Name>117</Name>
+        </Entitaet>
+        <Entitaet Id="7aaed9c9-1055-4b55-bfd9-b11c5fc99917" Type="Ort">
+          <Name>Tyrus</Name>
+        </Entitaet>
+        <Entitaet Id="04911548-e712-435a-b74d-d78c96038996" Type="Ort">
+          <Name>Phönizien</Name>
+        </Entitaet>
+        <Entitaet Id="129b2a3d-83e0-4969-8fea-909d27260fe2" Type="Anmerkung">
+          <Name>118</Name>
+        </Entitaet>
+        <Entitaet Id="0361e022-a1ea-49ad-823b-8da0ff91a309" Type="Anmerkung">
+          <Name>119</Name>
+        </Entitaet>
+        <Entitaet Id="c3277305-a045-4ef6-90eb-498cfdabec7b" Type="Anmerkung">
+          <Name>120</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="98dc83e9-46af-4904-8103-34c65e2fea40" Type="Anmerkung">
+          <Name>121</Name>
+        </Entitaet>
+        <Entitaet Id="5b4348c8-2b23-43d1-8ddc-bee3c4c01ec7" Type="Anmerkung">
+          <Name>122</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0009</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX XIV, iii, 26, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Erwähnung der Region Nabathäa, die nach Nabath, dem Sohn Ismaels benannt ist, und zu Arabien gehört.</Inhaltsangabe>
+      <VolltextOriginalsprache>[26] Nabathea [Nabathäa] regio a Nabeth filio Ismael [Ismael] nuncupata. Iacet autem inter Iudaeam [Judäa] et Arabiam [Arabien], et surgens ab Euphrate [Euphrat] in mare Rubrum [Rotes Meer] porrigitur, et est pars Arabiae [Arabien].</VolltextOriginalsprache>
+      <VolltextUebersetzung>[26] Die Gegend Nabathäa [Nabathäa] ist benannt nach Nabeth, dem Sohn Ismaels [Ismael]. Es liegt zwischen Judäa [Judäa] und Arabien [Arabien], erhebt sich am Euphrat [Euphrat] und erstreckt sich zum Roten Meer [Rotes Meer] und ist ein Teil Arabiens [Arabien].</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, XIV, iii, 26, hg. von Lenelotte Möller, Wiesbaden 2008, S. 520.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Umayyadisches Reich (Arabien</Ort>
+        <Ort>Libanon)</Ort>
+        <Ort>Nabathäa</Ort>
+        <Ort>Israel</Ort>
+        <Ort>Judäa</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Landesbeschreibung</Schlagwort>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Ismael</Suchwort>
+        <Suchwort>Arabia</Suchwort>
+        <Suchwort>Arabien</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="f0e13124-62ad-4842-b497-09e3f355cba3" Type="Anmerkung">
+          <Name>26</Name>
+        </Entitaet>
+        <Entitaet Id="c2d99316-789c-4aa3-80bb-42a968ee0f29" Type="Ort">
+          <Name>Nabathäa</Name>
+        </Entitaet>
+        <Entitaet Id="63a996e5-ba45-4ff1-8510-8bc34ab8c635" Type="Person">
+          <Name>Ismael</Name>
+        </Entitaet>
+        <Entitaet Id="9fb0d551-33ba-465b-972f-7d0ac01dadbc" Type="Ort">
+          <Name>Judäa</Name>
+        </Entitaet>
+        <Entitaet Id="6e13edc1-97a6-4ed0-b402-b1cd9a8bc748" Type="Ort">
+          <Name>Arabien</Name>
+        </Entitaet>
+        <Entitaet Id="d5c1a74d-fd2d-4dcf-b71b-33e62ba168fa" Type="Ort">
+          <Name>Euphrat</Name>
+        </Entitaet>
+        <Entitaet Id="e4196d99-fe14-47c0-a3bb-a6bde6ad750d" Type="Ort">
+          <Name>Rotes Meer</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0010</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX XIV, v, 10-12, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Erklärung des Namens Mauretaniens mit der dunklen Hautfarbe der Einwohner sowie eine Erläuterung zu den mauretanischen Provinzen und der Herkunft ihrer Namen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[10] Mauretania [Mauretanien] vocata a colore populorum; Graeci enim nigrum μαυρον vocant. Sicut enim Gallia [Gallien] a candore populi, ita Mauretania [Mauretanien] a nigrore nomen sortita est. Cuius prima provincia Mauretania Sitifensis est, quae Sitifi [Sitifi] habuit oppidum; a quo et vocabulum traxisse regio perhibetur. [11] Mauretania vero Caesariensis: coloniae Caesareae [?] civitas fuit, et nomen provinciae ex ea datum. Vtraeque igitur provinciae sibi coniunctae ab oriente Numidiam [Numidien] habent, a septentrione mare Magnum [Mittelmeer], ab occasu flumen Malvam, a meridie montem Astrixin, qui discernit inter fecundam terram et harenas iacentes usque ad Oceanum. [12] Mauretania Tingitania a Tingi metropolitana huius provinciae civitate vocata est. Haec ultima Africae exsurgit a montibus septem, habens ab oriente flumen Malvam, a septentrione fretum Gaditanum, ab occiduo Oceanum Athlanticum, a meridie Gaulalum gentes usque ad Oceanum Hesperium pererrantes: regio gignens feras, simias, dracones et struthiones. Olim etiam et elephantis plena fuit, quos sola nunc India parturit.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[10] Mauretanien [Mauretanien] ist so benannt nach der Farbe der Völker. Die Griechen nennen schwarz μαυρος (dunkel). Wie nämlich Gallien [Gallien] nach der weißen Farbe des Volkes, so ist Mauretanien [Mauretanien] nach der schwarzen Farbe der Name zugewiesen worden. Dessen erste Provinz ist Mauretania Sitifensis, welches das Städtchen Sitifi [Sitifi] enthält. Daher, so wird überliefert, hat die Gegend auch ihren Namen bezogen. [11] Mauretanien Caesariensis: Die Stadt war eine Kolonie von Caesarea [?], und der Name wurde der Provinz daher gegeben. Beide Provinzen sind miteinander verbunden, haben im Osten Numidien [Numidien], im Norden das Mittelmeer [Mittelmeer], im Westen den Fluss Malva, im Süden den Berg Astrixis, der das fruchtbare Land und die sandigen Gegenden, die bis zum Ozean hin liegen, trennt. [12] Mauretania Tingitania ist von der Hauptstadt der Provinz, Tingis (Tanger), her benannt. Dieses erhebt sich im äußersten Afrika von den Sieben Bergen, hat im Osten den Fluss Malva, im Norden den Meerbusen von Gades, im Westen den Atlantischen Ozean, im Süden die Völker der Gaulaler, die bis zum westlichen Ozean umherirren. Eine Gegend, die wilde Tiere hervorbringt, Affen, Drachen und Strauße. Einst war sie sogar auch voll von Elefanten, welche nun allein Indien aufzieht.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, XIV, v, 10-12, hg. von Lenelotte Möller, Wiesbaden 2008, S. 529f.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>(Nord-)Afrika</Ort>
+        <Ort>Mauretanien</Ort>
+        <Ort>Numidien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Landesbeschreibung</Schlagwort>
+        <Schlagwort>Namenserläuterung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Mauretania</Suchwort>
+        <Suchwort>Mauretanien</Suchwort>
+        <Suchwort>Africa</Suchwort>
+        <Suchwort>Afrika</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="d74fe2e8-9dd0-4c28-90f2-b0f2b8df9809" Type="Anmerkung">
+          <Name>10</Name>
+        </Entitaet>
+        <Entitaet Id="7bd20aba-ffc4-403e-b1d8-d2256a7a8fcb" Type="Ort">
+          <Name>Mauretanien</Name>
+        </Entitaet>
+        <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
+          <Name>Gallien</Name>
+        </Entitaet>
+        <Entitaet Id="ee936bf8-9871-476a-a667-f03f8d04f6f8" Type="Ort">
+          <Name>Sitifi</Name>
+        </Entitaet>
+        <Entitaet Id="4c2bc053-e926-4ff3-b49e-9657f10e093d" Type="Anmerkung">
+          <Name>11</Name>
+        </Entitaet>
+        <Entitaet Id="64144a9c-abdd-476a-9fa5-c108f0a84462" Type="Anmerkung">
+          <Name>?</Name>
+        </Entitaet>
+        <Entitaet Id="f4941d6c-8ea4-4acd-9715-b5d52e80dd7e" Type="Ort">
+          <Name>Numidien</Name>
+        </Entitaet>
+        <Entitaet Id="4aed5ae7-1810-41b0-87d4-35923fb3a2ee" Type="Ort">
+          <Name>Mittelmeer</Name>
+        </Entitaet>
+        <Entitaet Id="148d60b7-9eea-4750-a5f9-0586ed8b959f" Type="Anmerkung">
+          <Name>12</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0011</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX XIV, v, 17, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Beschreibung der nordafrikanischen Regionen.</Inhaltsangabe>
+      <VolltextOriginalsprache>[17] Extra tres autem partes orbis quarta pars trans Oceanum interior est in meridie, quae solis ardore incognita nobis est; in cuius finibus Antipodes fabulose inhabitare produntur. Proxima autem Hispaniae [Spanien] Mauretania [Mauretanien] est, deinde Numidia [Numidien], inde regio Carthaginensis [Karthago], post quae Gaetuliam [Gätulien] accipimus, post eam Aethiopiam [Äthiopien], inde loca exusta solis ardoribus.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[17] Außer diesen drei Erdteilen gibt es einen vierten auf der anderen Seite des Ozeans, weiter unten im Süden, der uns wegen der Glut der Sonne unbekannt ist. Dieses Gebiet, so wird in der Sage überliefert, bewohnen die Antipoden (Gegenfüßler). Sehr nah aber an Hispanien [Spanien] ist Mauretanien [Mauretanien], dann Numidien [Numidien], dann die Gegend von Karthago [Karthago], dann das, was wir Gätulien [Gätulien] nennen, dahinter Äthiopien [Äthiopien], und dann die vom Glühen der Sonne verbrannten Gebiete.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, XIV, v, 17, hg. von Lenelotte Möller, Wiesbaden 2008, S. 530.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Afrika (Äthiopien)</Ort>
+        <Ort>Mauretanien</Ort>
+        <Ort>Numidien</Ort>
+        <Ort>Karthago</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Landesbeschreibung</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Mauretania</Suchwort>
+        <Suchwort>Mauretanien</Suchwort>
+        <Suchwort>Carthago</Suchwort>
+        <Suchwort>Karthago</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="785feb86-de3d-4538-8851-df2530168c6c" Type="Anmerkung">
+          <Name>17</Name>
+        </Entitaet>
+        <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
+          <Name>Spanien</Name>
+        </Entitaet>
+        <Entitaet Id="7bd20aba-ffc4-403e-b1d8-d2256a7a8fcb" Type="Ort">
+          <Name>Mauretanien</Name>
+        </Entitaet>
+        <Entitaet Id="f4941d6c-8ea4-4acd-9715-b5d52e80dd7e" Type="Ort">
+          <Name>Numidien</Name>
+        </Entitaet>
+        <Entitaet Id="ae583192-f7c7-4ff3-933a-4ae8a8ce1c43" Type="Ort">
+          <Name>Karthago</Name>
+        </Entitaet>
+        <Entitaet Id="af3bb0e9-950a-476d-a094-bc907a7887a5" Type="Ort">
+          <Name>Gätulien</Name>
+        </Entitaet>
+        <Entitaet Id="1a529d6c-8fea-41c2-afb6-4f9e2888c480" Type="Ort">
+          <Name>Äthiopien</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0012</QuellenId>
+      <Zitation>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX XIX, xxiii, 7, ed. Lindsay 1911.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Beschreibung des Körperschmucks verschiedener Völker darunter auch Mauren und Araber.</Inhaltsangabe>
+      <VolltextOriginalsprache>[7] Nonnullae etiam gentes non solum in vestibus sed et in corpore aliqua sibi propria quasi insignia vindicant: ut videmus cirros Germanorum granos et cinnibar Gotorum, stigmata Brittonum. Circumcidunt quoque Iudaei praeputia, pertundunt Arabes aures, flavent capitibus intectis Getae, nitent Albani albentibus crinibus. Mauros habet tetra nox corporum, Gallos candida cutis; sine equis inertes extant Alani: nec abest gens Pictorum, nomen a corpore, quod minutis opifex acus punctis et expressus nativi graminis sucus inludit, ut has ad sui specimen cicatrices ferat, pictis artubus maculosa nobilitas.</VolltextOriginalsprache>
+      <VolltextUebersetzung>[7] Einige Völker aber legen sich nicht nur in der Kleidung, sondern auch am Körper eigene Zeichen bei, wie wir die Haarlocken der Germanen sehen, die Zöpfe und den Zinnober der Goten, die Zeichnungen der Britannier. Die Juden beschneiden ihre Vorhaut, die Araber durchstechen ihre Ohren, die Geten bleichen ihre Haare, die Albaner glänzen mit weißen Haaren. Die Mauren haben nachtschwarze Körper, die Gallier weiße Haut, ohne Pferde sind die Alanen unbeweglich, und es fehlt nicht der Stamm der Pikten, benannt nach ihrem Körper, weil ein Künstler mit der dünnen Spitze der Nadel und einem aus einheimischen Früchten gepressten Saft diese sticht, so dass er ihnen zur Kennzeichnung Narben schlägt, eine befleckte Vornehmheit aus bemalten Gliedern.</VolltextUebersetzung>
+      <ZitationUebersetzung>Die Enzyklopädie des Isidor von Sevilla, XIX, xxiii, 7, hg. von Lenelotte Möller, Wiesbaden 2008, S. 692.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft />
+      <Berichtszeitraum />
+      <Abfassungszeitraum>
+        <Datum Text="590-600" From="590-01-01" To="600-12-31" />
+        <Datum Text="600-610" From="600-01-01" To="610-12-31" />
+        <Datum Text="610-620" From="610-01-01" To="620-12-31" />
+        <Datum Text="620-630" From="620-01-01" To="630-12-31" />
+        <Datum Text="630-640" From="630-01-01" To="640-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>-</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>n</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>(kulturelle) Gewohnheit</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Arabus</Suchwort>
+        <Suchwort>Araber</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Da Isidor in bzw. vor den 630er Jahren schreibt, sind Ismaeliten, Agarenen, Mauren, Araber und Sarazenen wahrscheinlich noch nicht als Muslime anzusehen.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5c74d1cd-aac8-4058-bca8-e12d1a8066c3" Type="Anmerkung">
+          <Name>7</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

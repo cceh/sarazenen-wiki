@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0050</WerkId>
+  <WerkTitel>Adbreviatio de gestis Langobardorum</WerkTitel>
+  <Alternativtitel>
+    <Titel>Andreae Bergomatis Historia</Titel>
+    <Titel>Kurze Geschichte der Langobarden</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Andreas Bergomas</Autor>
+    <Autor>Andreas von Bergamo</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>um 875</LebensdatenVerfasser>
+  <Abfassungszeitraum>vor 900</Abfassungszeitraum>
+  <Abfassungsort>Bergamo</Abfassungsort>
+  <Regionen>
+    <Region>Italien</Region>
+  </Regionen>
+  <Editionshinweise>Adbreviatio de gestis Langobardorum, ed. Waitz, in: MGH SS rer Lang. [1], Hannover 1878, S. 220-230.</Editionshinweise>
+  <Werkinformation>Die Adbreviatio de gestis Langobardorum, auch Historia genannt, ist ein unvollendetes Geschichtswerk über die Zeit seit den Anfängen der Langobarden bis 877, das vor 900 von Andreas von Bergamo, einem Priester in der Diözese Bergamo, verfasst wurde. Für den Abschnitt bis zum Jahr 744 stützte sich der Verfasser auf die Historia Langobardorum des Paulus Diaconus.
+Vgl. mit Hinweisen für weiterführende Literatur: Theo Kölzer, Art. Andreas v. Bergamo, in: Lexikon des Mittelalters 1, Sp. 603 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-07]; Andreas Bergomas, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100936326.html, 2016-11-07]; Adbreviatio de gestis Langobardorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00140.html, 2016-11-07]; Andrea Berto, Art. Andreas of Bergamo, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 37.
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Adbreviatio de gestis Langobardorum 12, ed. Waitz 1878, S. 227.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Kaiser Ludwig II. von Italien wird beständig von den Sarazenen am Rande Benevents bedrängt, hält ihnen jedoch stand. Die sich dort versammelnden Sarazenen und ihr Führer Amelmasser werden [850] getötet. Die Übrigen verschanzen sich daraufhin in der Festung Bari und werden dort fünf Jahre lang vom Kaiser zusammen mit Franken, Langobarden und anderen treuen Nationen, auch mit der Frau des Kaisers, Angelberga, und vielen der Ihrigen belagert.</Inhaltsangabe>
+      <VolltextOriginalsprache>12. At vero domnus Hludowicus augustus [Ludwig II.] multa quidem opressionem a Sarracinorum gens in finibus Beneventanis [Benevent] sustinuit, et eorum semper resistit; Amelmasser [Masar] eorum princeps cum multi Sarracini ibi consistentibus occidit. Reliqui in castro qui dicitur Bari [Bari] se fortiter munierunt, ubi domnus imperator per 5 ann. eas cum Franci et Langobardi et ceteris nacionum suorum fidelium possidens, simul etiam cum sua iuge Angelberga [Angelberga] nomine et multi eorum similiter.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="850" From="850-01-01" To="850-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="850-860" From="850-01-01" To="860-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Benevent</Ort>
+        <Ort>Bari</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Belagerung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zu Amelmaser vgl.: Chron. s. Bened. Cas. c. 12, ed. Waitz, S. 474 (danach Chron. Casin. I, 29, ed. Hoffmann, S. 84). Vgl. Erchempert c. 19, ed. Waitz, S. 242 [0055]. - Nach Johannes diac. Venetus, ed. Monticolo, S. 115, hieß der sarazenische Führer Abomasale, nach Ado v. Vienne, ed. Pertz, SS II, S. 323, Amalmater [0044], nach Chron. Salern. c. 83 (u.ö.), ed. Westerbergh, S. 82, Apolaffar. Erwähnung der Vorkommnisse in: Chronica Sancti Benedicti Casinensis, ed. Georg Waitz (MGH Script. rer. Lang. [1]), Hannover 1878, S. 468-488, S. 474, Kap. 12.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="613fe211-ab76-4dae-9e76-37ed97f8cd89" Type="Person">
+          <Name>Ludwig II.</Name>
+        </Entitaet>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="185f2a86-d713-4d5c-9d94-c23a830d0ef4" Type="Person">
+          <Name>Masar</Name>
+        </Entitaet>
+        <Entitaet Id="0b8511b3-abc0-4163-9173-922b69520dc3" Type="Ort">
+          <Name>Bari</Name>
+        </Entitaet>
+        <Entitaet Id="af828799-0483-4b71-a44a-3a6e832900e0" Type="Person">
+          <Name>Angelberga</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Adbreviatio de gestis Langobardorum 14, 15, ed. Waitz 1878, S. 227f.</Zitation>
+      <ZeitangabeQuelle>Februar 871</ZeitangabeQuelle>
+      <Inhaltsangabe>Boten aus Kalabrien kommen im Februar 871 [870/871] zu Kaiser Ludwig II. von Italien und bitten diesen um Hilfe gegen die dort wütenden Sarazenen. Daraufhin entsendet der Kaiser Otto von Bergamo und die Bischöfe Oschisus von Pistoia und Gerard. Diese bekämpfen und töten viele der Sarazenen. Von diesen Ereignissen hörend, rückt Cincomo, der Emir von Amantea, mit einem Herr aus, wird aber von Otto und den Gefolgsleuten geschlagen, woraufhin er den Plan schmiedet, die Christen an Weihnachten zu überfallen, weil sie dort keine Waffen erheben dürften. Der Kaiser erfährt von dem Plan, die Messe wird vorverlegt und die Christen sind zum Kampf gerüstet, als die Sarazenen anrücken. Sie schlagen die Sarazenen. Sawdān, 3. Emir von Bari, wird gefangen genommen, die übrigen Sarazenen getötet. Von dieser Niederlage hörend entsenden die Sarazenen aus ihren Ländern zwanzigtausend starke Männer mit Schiffen an die Grenzen Benevents, um die Christen anzugreifen. Allerdings erfährt der Kaiser auch dieses Mal von dem Plan der Sarazenen, und die Fürsten Hunroch, Aegefrid und Boso können sie zusammen mit Männern aus Franken, Langobarden und anderen Nationen besiegen. Die überlebenden Sarazenen retten sich durch Flucht.</Inhaltsangabe>
+      <VolltextOriginalsprache>14. Igitur dum domnus Hludowicus [Ludwig II.] cus suis Bari [Bari] custodirent, nuncii venerunt de finibus Calabriae [Kalabrien] dicentes: ‘Domine imperator, vestri esse volumus et per vestram defensionem salvi fore confidimus. Gens Sarracinorum venerunt, terra nostra dissipaverunt, civitates desolaverunt, aecclesias suffuderunt; tantum ad vos petimus, ut des nos caput confortacionis, qui nos adiuvent et confortent. Sacramenta vobis damus, tributa solvimus’. Tunc domnus imperator misericordia motus, non gaudens cupiditatis eorum promissa, sed de illorum dolens malitia, elegit strenuis et nobilissimis viris, Hotone de finibus Bergomensis [Bf. Otto von Bergamo], Oschis [Bf. Oschisus von Pistoia] et Gariardus [Bf. Gerard von Lucca] episcopis et confortavit eos domnus imperator et dixit: ‛Ite in pace, fideles Christi, angelus Domini bonus commitetur vobiscum, ut et ego videam vos et labores quam vobis inpono merear’. Tunc simul cum ipsis missis perrexerunt, et unde egerunt firmitatis sacramenta receperunt, et adunantes secum magis ac magis fideles populus. Cumque venerunt in quedam valle, ubi ipsis Sarracini fidentes absque ullo timore annonam metentes, simul cum captivi quas habebant, tunc christiani inruentes super illos, et Sarracini quanti ibi invenerunt occiderunt, captivi liberaverunt. Ut haec audivit eorum principe Cincimo [Emir von Amantea] nomine, de civitate Amantea [Amantea] obviam eorum exiit, preparatus viriliter; et exinde Franci conperti sunt, et iungentes se hii ex una parte et illi ex altera, facta est strages magna Sarracinorum, qui fuga petiens, christiani vero post eos, interficientes usque ad portam civitatis. Oto vero et predicti episcopi et suorum secutores triumphatores reversi sunt ad domno imperatore. Imperator vero magnum gavisus est gaudium, honorem dignitatis eorum tribuit. Cincimo vero de suis et patrie sue adiutorium colligentes, multitudo Sarracini iter pergentes Bari [Bari], secum euntes multa dispendia adiutorium soldani. Erat eorum nunciatum, quod christiani celebrarent magnum diem festum, sicut erat, hoc est nativitas domini nostri Ihesu Christi, dicentes: ‘Deum suum colunt die illa; neque pugnaturi neque arma levatori sunt. Eamus super illos, conprehendamus eos omnes in simplicitate sua’! Hoc consilium domno imperatori nunciatum est. Tunc moniti, ut gallotinnio matutinis et a summo diluculo episcopis et sacerdotibus missarum sollemnia celebrarent et populus communionem vel benedictionem acciperent, sicuti et fecerunt. Et exierunt querentes Sarracini, et illis querentes Franci iuncti sunt in loco . . . . Factum est sonitus magnus clangore bucine, innita equorum, strepidus populorum. Cumque prope se coniungerent, fideles Christi oraverunt, dicentes: ‘Domine Ihesu Christe, tu dixisti: “Qui manducat carnem meam et bibit sanguinem meum, in me manet, et ego in eum“ [Joh. 6, 17]; ergo si tu nobiscum, quid contra nos’? Statim commissum est prelium. Cumque forti intencione pugnantes, arma celestis confortavit christianos. Pagani vero terga vertentes fugire ceperunt. Christiani autem post eos cedentes non cessabant, donec multitudo paganorum interficerent, et stipendia quicquid soldani pergebat tullerunt. Soldanus [Emir Swadan III. von Bari] hec audiens, metus magnus tristare cepit. Sequenti mense Febroar., quinto expleto ann. quod Bari [Bari] possessas habebat domnus imperator, conprehendit soldanus et reliqui Sarracini ibi consistentibus interemit, ann. 21, indict. 4.
+15. Sarracini vero in suorum terra haec audiens, elegentes se fortissimi viri, sicut audivimus, viginti milia hominum, dicentes: ‘Grandis ignominiam de occisorum nostrorum consonant; eamus illuc’! Cumque navigio prepararent, ascenderunt et navigaverunt et exierunt in finibus Beneventana [Benevent]. Tunc dixerunt per suorum audatiae elationis: ‘Quid nobis fiducie habere debemus in navibus nostris? Dissipemus eas, quia Franci adversum nos nihil possunt; et sic prevaluerint adversum nos, sine ullo metu in regnum nostrum pergere possunt’! Et dictis factis, Franci querere ceperunt. Nunciatum id est domno imperatori [Ludwig II.], quoniam statim mittens principibus suis, id est Hunroch, Agefrid et Boso, cum electa manus Francorum et Langobardorum vel ceterorum nationes. Iungentes se loco [ad Sancto Martino, ad strada scilicę prope Capua ad Vulturno] acies hinc et inde utraque partis forti intenciones pugnantes, Dei adiuvante misericordia Sarracini devicti et debellati sunt multitudo innumerabiles; quia quod gladius non interemit, in fluvio Vulturno [Vulturno] negati sunt, reliqui fuga vis evaderunt. Sic Dei iudicio conplacuit; qui venerant exaltati, facti sunt humiliati.</VolltextOriginalsprache>
+      <VolltextUebersetzung>-</VolltextUebersetzung>
+      <ZitationUebersetzung>-</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="870- Februar 871" From="870-01-01" To="871-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="860-870" From="860-01-01" To="870-12-31" />
+        <Datum Text="870-880" From="870-01-01" To="880-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="890-900" From="890-01-01" To="900-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien, Bari, Kalabrien, Sancto Martino (ad strada scilicę prope Capua ad Vulturno), Fluss Vulturno, Benevent, Stadt Amantea in Kalabrien</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Bedrohung</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Hinterhalt/-list</Schlagwort>
+        <Schlagwort>Hilfe</Schlagwort>
+        <Schlagwort>Berichterstattung</Schlagwort>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Heeresaufgebot</Schlagwort>
+        <Schlagwort>Gegenschlag</Schlagwort>
+        <Schlagwort>Niederlage</Schlagwort>
+        <Schlagwort>Flucht</Schlagwort>
+        <Schlagwort>Schutzmaßnahme</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Bündnis</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracinus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Paganus</Suchwort>
+        <Suchwort>Heide</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Die Sarazenen kommen hier direkt zu Wort. Vgl. dazu Giosue Musca, L´emirato di Bari, 847–871, Bari 1967 (ND 1978), S. 113, 114.
+Zur Problematik der Bedeutung ‚Soldanus‘ äußert sich Giosuè Musca: Er stellt in seinem Werk L'emirato di Bari, 847-871 (1967), heraus, dass es sich hierbei, aufgrund des Vergleiches mit arabischen Quellen, die vom gleichen Ereignis berichten, um einen Eigennamen, nämlich um Sawdān, 3. Emir von Bari handelt und nicht um die Ehrenbezeichnung ‚Sultan‘, S. 61ff.
+Es ist nicht ganz eindeutig, ob es sich bei Garidadus um den Bischof von Lodi oder von Lucca handelt, vgl. Regesta Imperii: Ludwig II - RI I,3,1 n. 313.
+Zur Datierung des Überfalls der Sarazenen am Weihnachtstag vgl. die Regesten Ludwigs II.- RI I,3,1 n. 315.
+Zur Datierung der Gefangennahme Sawdāns vgl. die Regesten Ludwigs II. RI I,3,1 n. 316.
+Zum Angriff der aus Afrika kommenden Sarazenen vgl. die Regesten Ludwigs II. RI I,3,1 n. 329 und Ekkehard Eickhoff, Seekrieg und Seepolitik zwischen Islam und Abendland. Das Mittelmeer unter byzantinischer und arabischer Hegemonie (650-1040), Berlin 1966, S. 217.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="613fe211-ab76-4dae-9e76-37ed97f8cd89" Type="Person">
+          <Name>Ludwig II.</Name>
+        </Entitaet>
+        <Entitaet Id="0b8511b3-abc0-4163-9173-922b69520dc3" Type="Ort">
+          <Name>Bari</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="147fceb1-376c-4bde-ba02-8089d9d95fe4" Type="Person">
+          <Name>Bf. Otto von Bergamo</Name>
+        </Entitaet>
+        <Entitaet Id="63000452-8556-4f88-9e34-0c8220ffe037" Type="Person">
+          <Name>Bf. Oschisus von Pistoia</Name>
+        </Entitaet>
+        <Entitaet Id="6106ebf0-11ba-41e8-8fd0-e4e2e7e240de" Type="Person">
+          <Name>Bf. Gerard von Lucca</Name>
+        </Entitaet>
+        <Entitaet Id="4a0d36a1-9e30-4be5-b6f9-a996accce479" Type="Anmerkung">
+          <Name>Emir von Amantea</Name>
+        </Entitaet>
+        <Entitaet Id="fcff5bad-3eb4-4009-8899-d7e8b453a27a" Type="Ort">
+          <Name>Amantea</Name>
+        </Entitaet>
+        <Entitaet Id="fe45bb88-d8a2-432e-84cb-0fc359c7a31f" Type="Anmerkung">
+          <Name>Joh. 6, 17</Name>
+        </Entitaet>
+        <Entitaet Id="c48605d7-39e6-4bff-a329-ad662943177c" Type="Person">
+          <Name>Emir Swadan III. von Bari</Name>
+        </Entitaet>
+        <Entitaet Id="399563a8-1c2d-4669-867f-f8c29c88ceb9" Type="Ort">
+          <Name>Benevent</Name>
+        </Entitaet>
+        <Entitaet Id="6e784acb-4fe2-467f-83ab-4f08258b2dc5" Type="Anmerkung">
+          <Name>ad Sancto Martino, ad strada scilicę prope Capua ad Vulturno</Name>
+        </Entitaet>
+        <Entitaet Id="6149f4a7-615d-495a-8715-cb30250938f5" Type="Ort">
+          <Name>Vulturno</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

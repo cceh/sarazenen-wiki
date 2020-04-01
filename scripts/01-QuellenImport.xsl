@@ -56,8 +56,75 @@
             </siteinfo>
             <xsl:apply-templates/>
         </mediawiki>
+        <!--
+        <xsl:variable name="dates" xml:space="default">
+            <xsl:for-each select="(.//Abfassungszeitraum/Datum/@date,.//Berichtszeitraum/Datum/@date,.//Quellen/Quelle/ZeitangabeWissenschaft/Datum/@date)">
+                <xsl:if test="contains(.,',')">
+                    <xsl:for-each select="tokenize(.,',')">
+                        <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
+                            <item> <xsl:value-of select="substring-before(replace(.,' ','') ,'-')"/></item>
+                            <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
+                        </xsl:if>
+                        <xsl:if test="contains(.,'-') and starts-with(.,'-')">
+                            <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
+                            <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
+                        </xsl:if>
+                        <xsl:if test="not(contains(.,'-'))">
+                            <item><xsl:value-of select="replace(.,' ','')"/></item>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:if>
+                <xsl:if test="not(contains(.,','))">
+                    <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
+                        <item> <xsl:value-of select="substring-before(replace(.,' ',''),'-')"/></item>
+                        <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
+                    </xsl:if>
+                    <xsl:if test="contains(.,'-') and starts-with(.,'-')">
+                        <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
+                        <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
+                    </xsl:if>
+                    <xsl:if test="not(contains(.,'-'))">
+                        <item><xsl:value-of select="replace(.,' ','')"/></item>
+                    </xsl:if>
+                </xsl:if>                        
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:variable name="int" xml:space="default">
+            <xsl:for-each select="$dates/node()">
+                <xsl:sort order="ascending"/> 
+                <xsl:if test=" matches(.,'[0-9]')">
+                    <item>
+                        <xsl:value-of select="xs:integer(.)"/>
+                    </item>
+                </xsl:if>               
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:variable name="sortet">
+            <xsl:for-each select="$int/node()">
+                <xsl:sort order="ascending" select="number(.)"/> 
+                <item>
+                    <xsl:value-of select="."/>
+                </item>
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:for-each select="distinct-values($sortet/node())">
+            <item>
+                <xsl:value-of select="."/>
+            </item>
+        </xsl:for-each>
+        <xsl:value-of select="$sortet"/>
+        <xsl:value-of select="$sortet/node()[1]"/>
+        <xsl:value-of select=" $sortet/node()[count($sortet/node())]"/>
+        
+        
+        
+            		#leiste pre {
+                        width: 450px;
+                        height: 115px;
+                    }   
+        -->
     </xsl:template>
-    <xsl:template match="Dokumente">
+    <xsl:template match="Dokumente" xml:space="default">
         <page>
             <title>
                 <xsl:value-of select="WerkTitel"/>
@@ -81,6 +148,46 @@
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
                 <text xml:space="preserve" bytes="3441">
+                    {{#css:
+            		table{
+            			border: 1px solid black;
+            			float:left;
+            		}
+            		td{
+            			padding: 5px;
+            		}
+            		svg {
+            			margin-left: 35px;
+            		}
+            		.timeline {
+            			width: 1200px;
+            			margin-left: 30px;
+            		}
+            		.time{
+	            		width: 1000px;
+	            		height: 30px;
+	            		border-top: 1px solid black;
+	            		padding-top: 10px;
+	            		margin-top: 20px;
+            		}
+            		.year{
+	            		width: 140px;
+	            		text-align: center;
+	            		display: inline;
+	            		margin-right: 150px;
+	            		margin-left: 15px;
+	            		font-size: 9pt;
+            		}
+            		.label{
+            			font-size: 7pt;
+            		}
+            		p {
+            		clear:both; }
+            		#leiste {
+            		width:66%;
+            		float:right;
+            		}
+            	}}
 {{WikiProject_Transwiki/Template:Infobox
 |title=
 <xsl:text>|above=</xsl:text><xsl:value-of select="WerkTitel"/>
@@ -97,110 +204,219 @@
 
 |bodyclass = class;
 |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
-|abovestyle = background:#ccf; 
-|headerstyle  = background:#ccf; 
-|labelstyle   = background:#ddf; width:30%;
+|abovestyle = background:#1b98d0; 
+|headerstyle  = background:#1b98d0; 
+|labelstyle   = background:#1b98d0; width:30%;
 |datastyle    = 
 
-|header1=TEST
 |label1=Werknummer
 |data1=<xsl:value-of select="WerkId"/>
 |label2=Verfasser
-|data2=<xsl:choose><xsl:when test="Autoren/Autor[4]"><xsl:value-of select="Autoren/Autor[1]"/>/<xsl:value-of select="Autoren/Autor[2]"/>/<xsl:value-of select="Autoren/Autor[3]"/>/<xsl:value-of select="Autoren/Autor[4]"/></xsl:when>
+|data2=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
+                            <xsl:for-each select="./Autoren/Autor">
+                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
+                                <xsl:text>[[:Kategorie:</xsl:text> <xsl:value-of select="."/> | <xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
+                            </xsl:for-each>
+                        </xsl:when>
+                            <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
+                                <xsl:text>[[:Kategorie: unbekannt | unbekannt]]</xsl:text>
+                            </xsl:when>
+                            <xsl:otherwise> <xsl:text>[[:Kategorie: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
+                        </xsl:choose></xsl:value-of>
+                    <!--<xsl:choose><xsl:when test="Autoren/Autor[4]"><xsl:value-of select="Autoren/Autor[1]"/>/<xsl:value-of select="Autoren/Autor[2]"/>/<xsl:value-of select="Autoren/Autor[3]"/>/<xsl:value-of select="Autoren/Autor[4]"/></xsl:when>
 <xsl:when test="Autoren/Autor[3]"><xsl:value-of select="Autoren/Autor[1]"/>/<xsl:value-of select="Autoren/Autor[2]"/>/<xsl:value-of select="Autoren/Autor[3]"/></xsl:when>
 <xsl:when test="Autoren/Autor[2]"><xsl:value-of select="Autoren/Autor[1]"/>/<xsl:value-of select="Autoren/Autor[2]"/></xsl:when>
 <xsl:otherwise><xsl:value-of select="Autoren/Autor[1]"/></xsl:otherwise>
 </xsl:choose>
+-->
 |label3=Abfassungszeit
-|data3=<xsl:value-of select="Abfassungszeitraum/Datum/@date"/>
+|data3=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 |label4=Berichtszeitraum
-|data4=<xsl:value-of select="Berichtszeitraum/Datum/@date"/>
+|data4=<xsl:value-of select="Berichtszeitraum/Datum/data(.)"/>
 |label5=Abfassungsort
 |data5=<xsl:value-of select="Abfassungsort"/>
 |label6=Lebensdaten des Verfassers
 |data6=<xsl:value-of select="LebensdatenVerfasser"/>
 }}
-
-&lt;br/&gt;
-
+<xsl:call-template name="svg" xml:space="default"><!-- Timeline einbindung --></xsl:call-template>
 <xsl:value-of select="Werkinformation"/>
 
 &lt;br/&gt;
 
 === Editionshinweise ===
-
-----
-
-<xsl:value-of select="Editionshinweise"/>
-
-=== Quellenstellen ===
-
-----
-<xsl:apply-templates select=".//Quelle" xml:space="default"/>
-<xsl:for-each select="./Abfassungszeitraum/Datum/@date">
-<xsl:variable name="start" select="substring-before(.,'-')"/>
-<xsl:variable name="end" select="substring-after(.,'-')"/>
-<xsl:variable name="stop" select="(floor(number($end) div 10))*10+10"/>
-    &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Abfassungszeitraum | Abfassungszeitraum]]: 
-    <xsl:call-template name="split-numbers-kat.leiste">
-        <xsl:with-param name="start" select="$start"/> 
-        <xsl:with-param name="stop" select="$stop"/>
-    </xsl:call-template>&lt;/div&gt;&lt;/div&gt;
-</xsl:for-each>
-<xsl:for-each select="./Abfassungszeitraum/Datum/@date"><xsl:variable name="start" select="substring-before(.,'-')"/>
-    <xsl:variable name="end" select="substring-after(.,'-')"/>
-    <xsl:variable name="stop" select="(floor(number($end) div 10))*10+10"/>
-    <xsl:call-template name="split-numbers-kategorien">
-        <xsl:with-param name="start" select="$start"/> 
-        <xsl:with-param name="stop" select="$stop"/>
-    </xsl:call-template>
-</xsl:for-each>
-                    
-<xsl:for-each select="./Berichtszeitraum/Datum/@date">
-    <xsl:variable name="start" select="substring-before(.,'-')"/><xsl:variable name="end" select="substring-after(.,'-')"/>
-    <xsl:variable name="stop" select="(floor(number($end) div 10))*10+10"/>&lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Berichtszeitraum | Berichtszeitraum]]: 
-    <xsl:call-template name="split-numbers-kat.leiste">
-        <xsl:with-param name="start" select="$start"/> 
-        <xsl:with-param name="stop" select="$stop"/>
-    </xsl:call-template>
-    &lt;/div&gt;&lt;/div&gt;
-</xsl:for-each>
-                    
-<xsl:for-each select="./Berichtszeitraum/Datum/@date"><xsl:variable name="start" select="substring-before(.,'-')"/>
-    <xsl:variable name="end" select="substring-after(.,'-')"/><xsl:variable name="stop" select="(floor(number($end) div 10))*10+10"/>
-    <xsl:call-template name="split-numbers-kategorien">
-        <xsl:with-param name="start" select="$start"/> 
-        <xsl:with-param name="stop" select="$stop"/>
-    </xsl:call-template>
-</xsl:for-each>
-                    
-[[Kategorie: Abfassungszeitraum]]
-[[Kategorie: Berichtszeitraum]]
-<xsl:choose>
-    <xsl:when test="contains(Autoren/Autor[1], 'unbekannt')">[[Kategorie: Unbekannte oder mehrere Verfasser]]</xsl:when>
-    <xsl:otherwise>[[Kategorie: <xsl:value-of select="Autoren/Autor[1]"/>]]</xsl:otherwise>     
-</xsl:choose>
-<xsl:if test="Autoren/Autor[2]">[[Kategorie: <xsl:value-of select="Autoren/Autor[2]"/>]]</xsl:if>
-<xsl:if test="Autoren/Autor[3]">[[Kategorie: <xsl:value-of select="Autoren/Autor[3]"/>]]</xsl:if>
-<xsl:if test="Autoren/Autor[4]">[[Kategorie: <xsl:value-of select="Autoren/Autor[4]"/>]]</xsl:if>
-[[Kategorie: Werk]]
-[[Kategorie: <xsl:value-of select="Regionen/Region[1]"/>]]
-<xsl:if test="Regionen/Region[2]">[[Kategorie: <xsl:value-of select="Regionen/Region[2]"/>]]</xsl:if>
-
-
-
-&lt;!-- __SHOWFACTBOX__ --&gt;
+    <xsl:value-of select="Editionshinweise"/>
+    <xsl:apply-templates select="EditionLink"/>
+=== Quellenstellen ===<xsl:apply-templates select=".//Quelle" />       
+                    &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Abfassungszeitraum | Abfassungszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Abfassungszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;
+                    &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Berichtszeitraum | Berichtszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Berichtszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;     
+<xsl:value-of xml:space="default">   
+   <xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
+                            <xsl:for-each select="./Autoren/Autor">
+                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
+                                <xsl:text>[[Kategorie:</xsl:text> <xsl:value-of select="."/> | <xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
+                            </xsl:for-each>
+                        </xsl:when>
+                            <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
+                                <xsl:text>[[Kategorie: unbekannt | unbekannt]]</xsl:text>
+                            </xsl:when>
+                            <xsl:otherwise> <xsl:text>[[Kategorie: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
+                        </xsl:choose>[[Kategorie: Werk]]<xsl:value-of xml:space="default">
+    <xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>
+  
+</xsl:value-of>
                         </text>
                 <sha1></sha1>
             </revision>
         </page>
     </xsl:template>
-    
-    <xsl:template match="Quelle" xml:space="default">
-        [[<xsl:value-of select="./parent::Quellen/preceding-sibling::WerkTitel"/> - <xsl:value-of select="./parent::Quellen//preceding-sibling::WerkId"/> <xsl:value-of select="QuellenId"/> | '''<xsl:value-of select="./parent::Quellen//preceding-sibling::WerkId"/>-<xsl:value-of select="QuellenId"/>
-        <xsl:text>''']] &lt;br/&gt;</xsl:text>
+    <xsl:template match="Dokument" name="svg"  xml:space="default">
+        
+        
+              <xsl:variable name="dates" xml:space="default">
+            <xsl:for-each select="(./Abfassungszeitraum/Datum/@date,./Berichtszeitraum/Datum/@date,./Quellen/Quelle/ZeitangabeWissenschaft/Datum/@date)">
+                <xsl:if test="contains(.,',')">
+                    <xsl:for-each select="tokenize(.,',')">
+                        <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
+                            <item> <xsl:value-of select="substring-before(replace(.,' ','') ,'-')"/></item>
+                            <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
+                        </xsl:if>
+                        <xsl:if test="contains(.,'-') and starts-with(.,'-')">
+                            <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
+                            <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
+                        </xsl:if>
+                        <xsl:if test="not(contains(.,'-'))">
+                            <item><xsl:value-of select="replace(.,' ','')"/></item>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:if>
+                <xsl:if test="not(contains(.,','))">
+                    <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
+                        <item> <xsl:value-of select="substring-before(replace(.,' ',''),'-')"/></item>
+                        <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
+                    </xsl:if>
+                    <xsl:if test="contains(.,'-') and starts-with(.,'-')">
+                        <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
+                        <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
+                    </xsl:if>
+                    <xsl:if test="not(contains(.,'-'))">
+                        <item><xsl:value-of select="replace(.,' ','')"/></item>
+                    </xsl:if>
+                </xsl:if>                        
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:variable name="int" xml:space="default">
+            <xsl:for-each select="$dates/node()">
+                <xsl:sort order="ascending"/> 
+                <xsl:if test=" matches(.,'[0-9]')">
+                    
+                    <xsl:if test=". &#60; 600">
+                    <item>
+                        <xsl:value-of select="xs:integer('600')"/>
+                    </item>
+                    </xsl:if>
+                    <xsl:if test=". > 600 and . &#60; 1100 ">
+                    <item>
+                        <xsl:value-of select="xs:integer(.)"/>
+                    </item>
+                    </xsl:if>
+                    <xsl:if test=". > 1100">
+                    <item>
+                        <xsl:value-of select="xs:integer('1100')"/>
+                    </item>
+                    </xsl:if>
+                </xsl:if>               
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:variable name="sortet" xml:space="default">
+            <xsl:for-each select="$int/node()">
+                <xsl:sort order="ascending" select="number(.)"/> 
+                <item>
+                    <xsl:value-of select="."/>
+                </item>
+            </xsl:for-each>
+        </xsl:variable>
+                    <xsl:variable name="start" select="$sortet/node()[1]"/>
+        <xsl:variable name="end" select=" $sortet/node()[count($sortet/node())]"/>
+                   
+                    <xsl:variable name='st1' >
+                        <xsl:if test="$start &#60; 0">
+                            <xsl:value-of select="xs:integer(round($start div 50)) -1"/>
+                        </xsl:if>
+                        <xsl:if test="$start > 0">
+                            <xsl:value-of select="xs:integer(round($start div 50)) -1"/>
+                        </xsl:if>
+                        <xsl:if test="$start = 0">
+                            <xsl:value-of select="xs:integer(-1)"/>
+                        </xsl:if>
+                        
+                    </xsl:variable>
+
+                    <xsl:variable name="en1" select="xs:integer(round($end div 50)) +1"/>
+                    <xsl:variable name='st2' >
+                        <xsl:if test="$start &#60; 0">
+                            <xsl:value-of select="(xs:integer(round($start div 50)) -1)*-1"/>
+                        </xsl:if>
+                        <xsl:if test="$start > 0">
+                            <xsl:value-of select="xs:integer(round($start div 50)) +1"/>
+                        </xsl:if>
+                        <xsl:if test="$start = 0">
+                            <xsl:value-of select="xs:integer(1)"/>
+                        </xsl:if>
+                        
+                    </xsl:variable>
+                    <xsl:if test="count($sortet/node()) > 0">
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/> 0 <xsl:value-of select="($en1 + $st2 +1) * 50"/> 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                    &lt;line id="x-axis" x1="<xsl:value-of select="$st1 * 50"/>"  y1="80" x2="<xsl:value-of select="$en1 * 50"/>" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"
+                    <xsl:for-each select="($st1 to $en1)" xml:space="default">
+                        <xsl:if test=". = 0">
+                             &lt;line  x1="0" y1="0" x2="0" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                             &lt;text x="0" y="95" class="year"&gt;0 &lt;/text&gt;
+                        </xsl:if>
+                        <xsl:if test=". != 0">
+                             &lt;line  x1="<xsl:value-of select=". * 50"/>" y1="0" x2="<xsl:value-of select=". * 50"/>" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="<xsl:value-of select=". * 50"/>" y="95" class="year"&gt;<xsl:value-of select=". * 50"/> &lt;/text&gt;
+                        </xsl:if>
+                    </xsl:for-each> 
+                        &lt;/g&gt;&lt;g&gt; 
+                        <xsl:apply-templates select="./Abfassungszeitraum/Datum/@date"/>                
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                <xsl:apply-templates select="./Berichtszeitraum/Datum/@date"/>                          
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           <xsl:apply-templates select="./Quellen/Quelle/ZeitangabeWissenschaft/Datum"/>
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;
+                 
+                    </xsl:if>
+                    
     </xsl:template>
-    
+    <xsl:template match="Quelle" >
+        <xsl:variable name="zeitangabe">
+            <xsl:if test="exists(./ZeitangabeWissenschaft/Datum)">
+                <xsl:value-of select="./ZeitangabeWissenschaft/Datum[1]"/>
+            </xsl:if> 
+            <xsl:if test="not(exists(./ZeitangabeWissenschaft/Datum))">
+                <xsl:text>Keine Zeitangabe</xsl:text>
+            </xsl:if> 
+        </xsl:variable>
+        <xsl:variable name="tex">
+            <xsl:text> </xsl:text>
+            <xsl:for-each select="tokenize(./Inhaltsangabe,' ')">
+                <xsl:if test="position() &#60; 20">
+                    <xsl:value-of select="."/>
+                    <xsl:text> </xsl:text>
+                </xsl:if>
+            </xsl:for-each>
+            <xsl:text>...</xsl:text>
+        </xsl:variable>
+        <xsl:value-of xml:space="default">
+            &lt;span&gt;[[<xsl:value-of select="./parent::Quellen/preceding-sibling::WerkTitel"/><xsl:text>-</xsl:text><xsl:value-of select="QuellenId"/>|<xsl:value-of select="$zeitangabe"/>]]<xsl:value-of select="$tex"/><xsl:text> [</xsl:text><xsl:value-of select="./QuellenId"/><xsl:text>]</xsl:text>&lt;span&gt;</xsl:value-of>
+  </xsl:template>
+  
     <xsl:template name="split-numbers-kategorien">         
         <!-- Einstiegswerte -->
         <xsl:param name="start"/> 
@@ -216,17 +432,266 @@
     </xsl:template>
     
     <xsl:template name="split-numbers-kat.leiste">         
-        <!-- Einstiegswerte -->
-        <xsl:param name="start"/> 
-        <xsl:param name="stop"/>        
-        <!-- aktueller Bereich, der ausgegeben werden soll -->
-        <xsl:variable name="start-range" select="(floor(number($start) div 10))*10"/> 
-        <xsl:variable name="end-range" select="$start-range + 10"/>
-        [[:Kategorie: <xsl:value-of select="string-join((string($start-range), string($end-range)),' - ')"/> | <xsl:value-of select="string-join((string($start-range), string($end-range)),' - ')"/>]]&lt;/li&gt;&lt;li&gt;<xsl:if test="$end-range &lt; $stop"> <!--Rückgabe!-->
-            <xsl:call-template name="split-numbers-kat.leiste">
-                <xsl:with-param name="start" select="$start-range + 10"/> 
-                <xsl:with-param name="stop" select="$stop"/> 
-            </xsl:call-template></xsl:if>    
+        <xsl:param name="data"/>       
+        <xsl:if test="$data/Datum/@date != ''">
+        <xsl:variable name="dates" xml:space="default">
+            <xsl:for-each select="$data/Datum/@date">
+                <xsl:if test="contains(.,',')">
+                    <xsl:for-each select="tokenize(.,',')">
+                        <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
+                            <item> <xsl:value-of select="substring-before(replace(.,' ','') ,'-')"/></item>
+                            <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
+                        </xsl:if>
+                        <xsl:if test="contains(.,'-') and starts-with(.,'-')">
+                            <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
+                            <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
+                        </xsl:if>
+                        <xsl:if test="not(contains(.,'-'))">
+                            <item><xsl:value-of select="replace(.,' ','')"/></item>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:if>
+                <xsl:if test="not(contains(.,','))">
+                    <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
+                        <item> <xsl:value-of select="substring-before(replace(.,' ',''),'-')"/></item>
+                        <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
+                    </xsl:if>
+                    <xsl:if test="contains(.,'-') and starts-with(.,'-')">
+                        <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
+                        <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
+                    </xsl:if>
+                    <xsl:if test="not(contains(.,'-'))">
+                        <item><xsl:value-of select="replace(.,' ','')"/></item>
+                    </xsl:if>
+                </xsl:if>                        
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:variable name="int" xml:space="default">
+            <xsl:for-each select="$dates/node()">
+                <xsl:sort order="ascending"/> 
+                <xsl:if test=" matches(.,'[0-9]')">                    
+                    <item><xsl:value-of select="xs:integer(.)"/></item>
+                </xsl:if>               
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:variable name="sortet" xml:space="default">
+            <xsl:for-each select="$int/node()">
+                <xsl:sort order="ascending" select="number(.)"/> 
+                <item>
+                    <xsl:value-of select="."/>
+                </item>
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:variable name="start" select="$sortet/node()[1]"/>
+        <xsl:variable name="end" select=" $sortet/node()[count($sortet/node())]"/><xsl:variable name="en1" select="xs:integer(round($end div 10))"/>
+            <xsl:if test="$start &#60; 0"><xsl:value-of>
+                [[:Kategorie: -5000 - 0 | -5000 - 0]]&lt;/li&gt;&lt;li&gt;
+            </xsl:value-of></xsl:if>
+        <xsl:variable name='st2' >
+            <xsl:if test="$start &#60; 0">
+                <xsl:value-of select="xs:integer(0)"/>
+            </xsl:if>
+            <xsl:if test="$start > 0">
+                <xsl:value-of select="xs:integer(round($start div 10))"/>
+            </xsl:if>
+            <xsl:if test="$start = 0">
+                <xsl:value-of select="xs:integer(0)"/>
+            </xsl:if>            
+        </xsl:variable>
+            <xsl:value-of xml:space="default">                
+                <xsl:for-each select="($st2 to $en1)">
+                    <xsl:value-of xml:space="default">[[:Kategorie: <xsl:value-of select=". *10"/> - <xsl:value-of select="(. +1) *10"/>  | <xsl:value-of select=". *10"/> - <xsl:value-of select="(. +1) *10"/>]]&lt;/li&gt;&lt;li&gt;
+                    </xsl:value-of>
+                </xsl:for-each>
+            </xsl:value-of>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="EditionLink">        
+        <xsl:if test="EditionLink/@url != ''">
+            [<xsl:value-of select="EditionLink/@url"/> <xsl:value-of select="EditionLink/data(.)"/>]
+        </xsl:if>
+    </xsl:template>
+    <!-- SVG Einbindung -->
+    <xsl:template name="balken">
+        <xsl:param name="value"/>
+        <xsl:param name="color"/>
+        <xsl:param name="y1"/>
+        <xsl:param name="y2"/>
+        <xsl:variable name="x1">
+            <xsl:choose>
+                <xsl:when test="contains($value,'-') and not(starts-with($value,'-'))">
+                    <xsl:value-of select="xs:integer(substring-before($value,'-'))"/>
+                </xsl:when>
+                <xsl:when test="contains($value,'-') and starts-with($value,'-') and contains(substring-after($value,'-'),'-')">
+                    <xsl:value-of select="xs:integer(concat('-',substring-before(substring-after($value,'-'),'-')))" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="xs:integer($value)"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable> 
+        <xsl:variable name="x2">
+            <xsl:choose>
+                <xsl:when test="contains($value,'-') and not(starts-with($value,'-'))">
+                    <xsl:value-of select="xs:integer(substring-after($value,'-'))"/>
+                </xsl:when>
+                <xsl:when test="contains($value,'-') and starts-with($value,'-') and contains(substring-after($value,'-'),'-')">
+                    <xsl:value-of select="xs:integer(substring-after(substring-after($value,'-'),'-'))" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="xs:integer($value)"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="width">
+            <xsl:if test="$x1 &#60; 0">
+                <xsl:value-of select="($x1 * -1)+$x2"/>
+            </xsl:if>
+            <xsl:if test="$x1 > 0">
+                <xsl:value-of select="$x2 -$x1"/>
+            </xsl:if>                     
+        </xsl:variable>
+        <xsl:variable name="start">
+            <xsl:if test="$x1 > -400">
+                <xsl:value-of select="$x1"/>
+            </xsl:if>
+            <xsl:if test="$x1 &#60; -400">
+                <xsl:value-of select="xs:integer('-480')"/>
+            </xsl:if>
+        </xsl:variable>
+        &lt;g&gt;
+        &lt;rect x="<xsl:value-of select="$x1"/>" y="<xsl:value-of select="$y1"/>" width="<xsl:value-of select="$width"/>" height="45" style="fill:<xsl:value-of select="$color"/>;fill-opacity:0.9;"/&gt;
+        <!-- Beschriftung der Balken: -->
+        <xsl:variable name="to" select="number(substring-after(.,'-'))"/>
+        &lt;text x="<xsl:value-of select="$start"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: end"><xsl:value-of select="$x1"/>&lt;/text&gt;
+        &lt;text x="<xsl:value-of select="$x2"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: start"><xsl:value-of select="$x2"/>&lt;/text&gt;
+        &lt;/g&gt;
+    </xsl:template>
+    <xsl:template match="Dokumente/Berichtszeitraum/Datum/@date">
+      <xsl:if test=". != ''">
+          <xsl:if test="not(contains(.,','))">     
+              <xsl:call-template name="balken"> 
+                  <xsl:with-param name="value" select="."/> 
+                  <xsl:with-param name="color" select="'#1b98d0'"/>
+              <xsl:with-param name="y1" select="26"/>
+              <xsl:with-param name="y2" select="70"/>
+              </xsl:call-template>
+          </xsl:if>
+          <xsl:if test="contains(.,',')">
+              <xsl:for-each select="tokenize(.,',')">
+                  <xsl:call-template name="balken"> 
+                      <xsl:with-param name="value" select="."/> 
+                      <xsl:with-param name="color" select="'#1b98d0'"/>
+                      <xsl:with-param name="y1" select="26"/>
+                      <xsl:with-param name="y2" select="70"/>
+                  </xsl:call-template>
+              </xsl:for-each>
+          </xsl:if>
+      </xsl:if>
+    </xsl:template>
+    <xsl:template match="Dokumente/Abfassungszeitraum/Datum/@date">
+        <xsl:if test=". != ''">
+            <xsl:if test="not(contains(.,','))">     
+                <xsl:call-template name="balken"> 
+                    <xsl:with-param name="value" select="."/> 
+                    <xsl:with-param name="color" select="'#ffd11a'"/>
+                    <xsl:with-param name="y1" select="12"/>
+                    <xsl:with-param name="y2" select="19"/>
+                </xsl:call-template>
+            </xsl:if>
+            <xsl:if test="contains(.,',')">
+                <xsl:for-each select="tokenize(.,',')">
+                    <xsl:call-template name="balken"> 
+                        <xsl:with-param name="value" select="."/> 
+                        <xsl:with-param name="color" select="'#ffd11a'"/>
+                        <xsl:with-param name="y1" select="12"/>
+                        <xsl:with-param name="y2" select="19"/>
+                    </xsl:call-template>
+                </xsl:for-each>
+            </xsl:if>
+        </xsl:if>
+    </xsl:template>
+    <xsl:template match="Quellen/Quelle/ZeitangabeWissenschaft/Datum">
+        <xsl:if test=". != ''">
+            <xsl:if test="not(contains(.,','))">    
+                <xsl:variable name="tooltip">Quelle <xsl:value-of select="parent::node()/parent::node()/QuellenId"/>: <xsl:value-of select="."/></xsl:variable>
+                <xsl:call-template name="quellenBalken"> 
+                    <xsl:with-param name="value" select="./@date"/> 
+                    <xsl:with-param name="color" select="'#ffd11a'"/>
+                    <xsl:with-param name="tooltip" select="$tooltip"/>
+                </xsl:call-template>
+            </xsl:if>
+            <xsl:if test="contains(.,',')">
+                <xsl:variable name="t1">Quelle <xsl:value-of select="parent::node()/parent::node()/QuellenId"/>: </xsl:variable>
+                <xsl:for-each select="tokenize(./@date,',')">                    
+                    <xsl:call-template name="quellenBalken"> 
+                        <xsl:with-param name="value" select="."/> 
+                        <xsl:with-param name="color" select="'#ffd11a'"/>
+                        <xsl:with-param name="tooltip" select="concat($t1,.)"/>
+                    </xsl:call-template>
+                </xsl:for-each>
+            </xsl:if>
+        </xsl:if>        
+    </xsl:template>
+    <xsl:template name="quellenBalken">
+        <xsl:param name="value"/>
+        <xsl:param name="color"/>
+        <xsl:param name="tooltip"/>
+        <xsl:variable name="x1">
+            <xsl:choose>
+                <xsl:when test="contains($value,'-') and not(starts-with($value,'-'))">
+                    <xsl:value-of select="xs:integer(substring-before($value,'-'))"/>
+                </xsl:when>
+                <xsl:when test="contains($value,'-') and starts-with($value,'-') and contains(substring-after($value,'-'),'-')">
+                    <xsl:value-of select="xs:integer(concat('-',substring-before(substring-after($value,'-'),'-')))" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="xs:integer($value)"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable> 
+        <xsl:variable name="x2">
+            <xsl:choose>
+                <xsl:when test="contains($value,'-') and not(starts-with($value,'-'))">
+                    <xsl:value-of select="xs:integer(substring-after($value,'-'))"/>
+                </xsl:when>
+                <xsl:when test="contains($value,'-') and starts-with($value,'-') and contains(substring-after($value,'-'),'-')">
+                    <xsl:value-of select="xs:integer(substring-after(substring-after($value,'-'),'-'))" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="xs:integer($value)"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="w">
+            <xsl:if test="$x1 &#60; 0">
+                <xsl:value-of select="($x1 * -1)+$x2"/>
+            </xsl:if>
+            <xsl:if test="$x1 > 0">
+                <xsl:value-of select="$x2 - $x1"/>
+            </xsl:if>                     
+        </xsl:variable>
+        <xsl:variable name="width">
+            <xsl:if test="$w = 0">
+                <xsl:text>1</xsl:text>
+            </xsl:if>
+            <xsl:if test="$w > 0">
+                <xsl:value-of select="$w"/>
+            </xsl:if>                     
+        </xsl:variable>
+        <xsl:variable name="start">
+            <xsl:if test="$x1 > -400">
+                <xsl:value-of select="$x1"/>
+            </xsl:if>
+            <xsl:if test="$x1 &#60; -400">
+                <xsl:value-of select="xs:integer('-500')"/>
+            </xsl:if>
+        </xsl:variable>
+        &lt;g&gt;
+        &lt;rect x="<xsl:value-of select="$start"/>" y="26" width="<xsl:value-of select="$width"/>" height="37"
+        label="<xsl:value-of select="$tooltip"/>"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
     </xsl:template>
     <xsl:template match="text()"></xsl:template>
 </xsl:stylesheet>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0062</WerkId>
+  <WerkTitel>Vita Sancti Udalrici</WerkTitel>
+  <Alternativtitel>
+    <Titel>Vita Sancti Uodalrici</Titel>
+    <Titel>Vita Sancti Oudalrici episcopi Augustani</Titel>
+    <Titel>Leben des hl. Udalrich</Titel>
+    <Titel>Leben des hl. Ulrich</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Gerhard von Augsburg</Autor>
+    <Autor>Gerhardus praepositus Augustanus</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>gestorben wohl um 990</LebensdatenVerfasser>
+  <Abfassungszeitraum>983-993</Abfassungszeitraum>
+  <Abfassungsort>Augsburg</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Gerhard von Augsburg, Vita Sancti Uodalrici. Die älteste Lebensbeschreibung des heiligen Ulrich, ed. Walter Berschin – Angelika Häse (Editiones Heidelbergenses 24), Heidelberg 1993.</Editionshinweise>
+  <Werkinformation>Die Vita Sancti Udalrici ist eine Lebensbeschreibung des Bischofs Udalrich von Augsburg (923-973), die von Gerhard von Augsburg als Augenzeugen zwischen 983 und 993 verfasst wurde.
+Vgl. mit Hinweisen für weiterführende Literatur: Vita s. Udalrici, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02408.html, 2016-11-14]; Gerhardus praepositus Augustanus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_119134632.html, 2016-11-14]; G. Kreuzer, Art. Udalrich, hl., Bf. v. Augsburg, in: Lexikon des Mittelalters 8, Sp. 1173-1174 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-14].
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Gerhard von Augsburg, Vita Sancti Uodalrici I, 15, ed. Berschin – Häse 1993, S. 218ff.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Bischof Ulrich von Augsburg reist [um 940] nach St. Maurice d’Agaune um das dortige Kloster zu besuchen, findet es allerdings von Sarazenen niedergebrannt vor.</Inhaltsangabe>
+      <VolltextOriginalsprache>Regionem quoque burgundionum alio tempore [Bf. Ulrich von Ausgburg] adiit, et agaunensium locum ubi sanctus mauricius [St. Maurice d’Agaune] cum suis sequacibus propter nomen domini martyrium sumpsit, magne humilitatis studio visitavit, quia antea a rege burgundionum promissionem accepit, ut unum de sanctis martyribus ex eius datione et adiutorio, inde ad augustam referre mereretur. Et cum illuc die sabbati perveniret, monasterium noviter a sarracenis exustum invenit, et nullum de habitatoribus ibi conspexit, nisi unum aedis edilem conbustum monasterium custodientem.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Ein andermal nun reiste er [Bf. Ulrich von Augsburg] ins Land der Burgunder und besuchte sehr demütig und eifrig den Ort St. Maurice d’Agaune [St. Maurice d’Agaune], wo der heilige Mauritius mit seinen Gefolgsleuten für den Namen des Herrn das Martyrium auf sich nahm; denn [Ulrich] hatte zuvor vom König von Burgund das Versprechen erhalten, daß er einen von den heiligen Märtyrern mit seiner Schenkung und Unterstützung von [Agaunum] nach Augsburg mitnehmen dürfe. Als er dort an einem Samstag ankam, fand er das Kloster [St. Maurice d‘Agaune] soeben von den Sarazenen niedergebrannt vor; und er erblickte da keinen von den Bewohnern, außer einem Haushüter, der das verbrannte Kloster bewachte.</VolltextUebersetzung>
+      <ZitationUebersetzung>Gerhard von Augsburg, Vita Sancti Uodalrici I, 15, ed. Berschin – Häse 1993, S. 219ff.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="um 940" From="935-01-01" To="945-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="930-940" From="930-01-01" To="940-12-31" />
+        <Datum Text="940-950" From="940-01-01" To="950-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990: 990-1000" From="980-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Burgund</Ort>
+        <Ort>Ostfrankenreich (Deutschland, Schweiz)</Ort>
+        <Ort>St. Maurice d’Agaune</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Zerstörung</Schlagwort>
+        <Schlagwort>Hl. Stätte</Schlagwort>
+        <Schlagwort>Martyrium</Schlagwort>
+        <Schlagwort>Reliquien</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zur Datierung vgl. Friedrich Zoepfl, Das Bistum Augsburg und seine Bischöfe im Mittelalter, Bd. 1, Augsburg 1955, S. 72; Die Urkunden der burgundischen Rudolfinger, ed. Theodor Schieffer (MGH DD Burg.), München 1977, S. 67.
+Vgl. [0058.]</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="5f52ea88-ae40-44b1-82b7-a9d5b8e52ae7" Type="Anmerkung">
+          <Name>Bf. Ulrich von Ausgburg</Name>
+        </Entitaet>
+        <Entitaet Id="4d0c9473-c746-4403-a4da-3c5a749b2083" Type="Anmerkung">
+          <Name>St. Maurice d’Agaune</Name>
+        </Entitaet>
+        <Entitaet Id="0e1f625b-1da8-4cc4-bec6-a6ff1ce455d5" Type="Person">
+          <Name>Bf. Ulrich von Augsburg</Name>
+        </Entitaet>
+        <Entitaet Id="b4144ca3-dfd2-4244-9974-eae88a1018ad" Type="Anmerkung">
+          <Name>Ulrich</Name>
+        </Entitaet>
+        <Entitaet Id="080e364c-5c58-48ca-b3eb-e6c129e28ab3" Type="Anmerkung">
+          <Name>Agaunum</Name>
+        </Entitaet>
+        <Entitaet Id="f7545caf-64eb-455a-aeeb-9b1f56f5f09d" Type="Anmerkung">
+          <Name>St. Maurice d‘Agaune</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+    <Quelle>
+      <QuellenId>0002</QuellenId>
+      <Zitation>Gerhard von Augsburg, Vita Sancti Uodalrici I, 28, ed. Berschin – Häse 1993, S. 328ff.</Zitation>
+      <ZeitangabeQuelle>982</ZeitangabeQuelle>
+      <Inhaltsangabe>982 kehrt Bf. Heinrich von Augsburg nicht vom Heerzug Kaiser Ottos II. gegen Sarazenen in Kalabrien zurück. Zwar ist dem Autor nicht bekannt, ob der Bischof getötet oder gefangen genommen wurde, er deutet dessen Schicksal jedoch als göttliche Strafe dafür, dass sich Heinrich als Nachfolger des Hl. Ulrich auf dem Augsburger Bischofsstuhl gegen dessen Wunschkandidaten, Abt Werner von Fulda, durchgesetzt hat. Auch Werner, dem kurz darauf die Augsburger Bischofswürde angeboten wird, stirbt plötzlich, nachdem er diese ablehnt.</Inhaltsangabe>
+      <VolltextOriginalsprache>Anno itaque incarnationis domini nostri iesu christi, nongentesimo octogesimo secundo, imperator [Otto II.] cum exercitu calabriam [Kalabrien] provintiam adiit, illuc etiam episcopus heinricus [Bf. Heinrich von Augsburg] cum eo pervenit. Cumque ibi pugna cum sarracenis ageretur, plurimus ibi ex utraque parte occisis, heu pro dolor sive captus sive occisus etiam ibi remansit. Supra modum est lamentandum perditio eius, quia locus eius a clericis suis et propinquis, et cognatis, et amicis, inveniri et visitari non potest. Periculosum est valde decretum dei per suos sanctos revelatum supergredi, et prophetias spernere. Dicente scriptura, spiritum nolite extinguere, prophetias nolite spernere. Uuerenharius [Abt Werner von Fulda] autem postea ab imperatore interrogatus si episcopatum accipere vellet sicut sanctus Uodalricus [Bf. Ulrich von Ausgburg] antea decrevit, qui cum adhuc esset sanus et incolomis respondit, se ultra hoc episcopatum non velle accipere. Post contradictionem autem episcopatus ut a ministris eius comperi paucis horis interpositis infirmari coepit, et ad luggam [Lucca] vitam finivit, et corpus eius portatum est usque ad sanctum domninum [Borgo San Donnino] et ibi honorifice est sepultum.</VolltextOriginalsprache>
+      <VolltextUebersetzung>Im Jahr 982 der Menschwerdung unseres Herrn Jesus Christus zog der Kaiser [Otto II.] nun mit dem Heer in die Provinz Kalabrien [Kalabrien]. Auch Bischof Heinrich [Bf. Heinrich von Augsburg] folgte ihm dorthin. Als dort mit den Sarazenen gekämpft wurde, fielen dort sehr viele auf beiden Seiten, und auch er blieb dort – o Schmerz – gefangen oder tot zurück. Über die Maßen ist sein Verlust zu beklagen, weil sein [Todes-]Ort von seinen Klerikern, Blutsverwandten und sonstigen Verwandten und Freunden weder gefunden noch besucht werden kann. Sehr gefährlich ist es, dem Ratschluß Gottes, wenn er durch seine Heiligen enthüllt wird, zuwiderzuhandeln und die Weissagungen zu verachten, da die Schrift sagt: ‚Den Geist löschet nicht aus!‘ Weissagungen achtet nicht gering!‘. Werner [Abt Werner von Fulda] aber wurde später vom Kaiser gefragt, ob er das Bistum annehmen wolle, wie es der heilige Ulrich [Bf. Ulrich von Ausgburg] zuvor beschlossen hatte. Er war noch gesund und wohlbehalten, als er antwortete, er wolle dieses Bistum nicht mehr annehmen. Nach der Ablehnung des Bistums aber erkrankte er innerhalb weniger Stunden, wie ich von seinen Dienern erfuhr, und beendete sein Leben in Lucca [Lucca]. Sein Leichnam wurde bis Borgo San Donnino [Borgo San Donnino] getragen und dort ehrenvoll begraben.</VolltextUebersetzung>
+      <ZitationUebersetzung>Gerhard von Augsburg, Vita Sancti Uodalrici I, 28, ed. Berschin – Häse 1993, S. 329ff.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="982" From="982-01-01" To="982-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="980-990: 990-1000" From="980-01-01" To="1000-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Italien</Ort>
+        <Ort>Kalabrien</Ort>
+        <Ort>Lucca</Ort>
+        <Ort>Borgo San Donnino</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gottesurteil</Schlagwort>
+        <Schlagwort>Gefangennahme</Schlagwort>
+        <Schlagwort>Verlust</Schlagwort>
+        <Schlagwort>Kampfhandlung</Schlagwort>
+        <Schlagwort>Vorzeichen</Schlagwort>
+        <Schlagwort>Tod</Schlagwort>
+        <Schlagwort>Krankheit</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Zuvor berichtet Gerhard von Augsburg, dass der Hl. Ulrich, Bischof von Augsburg, den Abt Werner von Fulda zu seinem Nachfolger bestimmt hatte, sich aber Heinrich durch die Unterstützung Herzog Burchards von Alemannien durchsetzen konnte (I, 26), vgl. Gerhard von Augsburg, Vita Sancti Uodalrici, ed. Berschin – Häse, S. 276 und 302.
+Zum Italienzug vgl. Friedrich Zoepfl, Das Bistum Augsburg und seine Bischöfe im Mittelalter, Bd. 1, Augsburg 1955, S. 79.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
+          <Name>Otto II.</Name>
+        </Entitaet>
+        <Entitaet Id="5fed8063-6730-4ad2-960c-7a7160d4838f" Type="Ort">
+          <Name>Kalabrien</Name>
+        </Entitaet>
+        <Entitaet Id="ff5c9f26-e386-4188-8554-60468c5910f3" Type="Person">
+          <Name>Bf. Heinrich von Augsburg</Name>
+        </Entitaet>
+        <Entitaet Id="f072a052-fd68-46e6-831c-00ae9f877e89" Type="Person">
+          <Name>Abt Werner von Fulda</Name>
+        </Entitaet>
+        <Entitaet Id="30e40057-90cb-4f08-9d94-450f82a867e4" Type="Anmerkung">
+          <Name>Bf. Ulrich von Ausgburg</Name>
+        </Entitaet>
+        <Entitaet Id="3c985629-20cc-4239-9f77-ea1485414b63" Type="Ort">
+          <Name>Lucca</Name>
+        </Entitaet>
+        <Entitaet Id="89348480-36dc-4bcf-b2bf-1e033c101443" Type="Ort">
+          <Name>Borgo San Donnino</Name>
+        </Entitaet>
+        <Entitaet Id="cb780dff-f3d9-41db-8e8c-a292b426685f" Type="Anmerkung">
+          <Name>Todes-</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>

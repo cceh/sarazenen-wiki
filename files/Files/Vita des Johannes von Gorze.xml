@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParsedDocxDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WerkId>0059</WerkId>
+  <WerkTitel>Vita des Johannes von Gorze</WerkTitel>
+  <Alternativtitel>
+    <Titel>Vita Iohannis abbatis Gorziensis auctore Iohanne abbate S. Arnulfi</Titel>
+    <Titel>Prefatio sequenis Hystoriae de vita domni Iohannis gorzie coenobii abbatis</Titel>
+    <Titel>Leben des Johannes von Gorze</Titel>
+    <Titel>Die Geschichte vom Leben des Johannes</Titel>
+  </Alternativtitel>
+  <Autoren>
+    <Autor>Johannes von St. Arnulf in Metz</Autor>
+  </Autoren>
+  <LebensdatenVerfasser>gest. (vor) 984</LebensdatenVerfasser>
+  <Abfassungszeitraum>974 bis 984</Abfassungszeitraum>
+  <Abfassungsort>Metz</Abfassungsort>
+  <Regionen>
+    <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
+  </Regionen>
+  <Editionshinweise>Die Geschichte vom Leben des Johannes, Abt des Klosters Gorze / Hystoria de vita domni Iohannis Gorzie coenobii abbatis, ed. Peter Christian Jacobsen (MGH SS rer. Germ. 81), Wiesbaden 2016.</Editionshinweise>
+  <Werkinformation>Die Vita des Johannes von Gorze ist eine von Abt Johannes von St. Arnulf in Metz (gest. (vor) 984) verfasste Lebensgeschichte des Gorzer Abtes Johannes (auch Johannes von Vandières, gest. 974). Im letzten Teil der kurz nach Johannes‘ Tod abgefassten, aber unvermittelt abbrechenden Vita sind Ausführungen zu einer Gesandtschaftsreise überliefert, die den Mönch Johannes von Gorze in den 950er Jahre im Auftrag Ottos I. an den Hof des Kalifen Abd ar-Rahman III. von Córdoba führte.
+Vgl. mit Hinweisen für weiterführende Literatur: Michel Parisse, Art. Johann, 39. J. v. Vandières, Abt v. Gorze, in: Lexikon des Mittelalters 5, Sp. 514 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Vita Iohannis Gorziensis abbatis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03024.html, 2016-11-10]; Iohannes de S. Arnulfo de Metis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_102535698.html, 2016-11-10].
+---------------------------------------------------------------</Werkinformation>
+  <Quellen>
+    <Quelle>
+      <QuellenId>0001</QuellenId>
+      <Zitation>Leben des Johannes 115-136, ed. Jacobsen 2016, S. 414-466.</Zitation>
+      <ZeitangabeQuelle>-</ZeitangabeQuelle>
+      <Inhaltsangabe>Ausführungen über die Gesandtschaft des Johannes von Gorze [Johannes von Gorze] [Gorze], die dieser im Auftrag Ottos I. des Großen [Otto I.] zwischen 953 und 956 als Antwort auf eine Gesandtschaft des Kalifen von Córdoba, Abd ar-Rahman III. [Abd ar-Rahman III., Kalif von Cordoba], (von 950) nach Córdoba [Cordoba] unternimmt und die aufgrund von diplomatischen Schwierigkeiten, die sich aus einem beigefügten Schreiben Ottos ergeben, drei Jahre andauert sowie eine erneute Gegengesandtschaft Abd ar-Rahmans an Otto mit sich bringt, die Reccemund von Elvira [Reccemund, Bischof von Elvira] anführt. Die Schilderungen sind der Lebensbeschreibung des späteren Abtes von Gorze recht eigenständig angehängt und enthalten neben einer Schilderung des Verlaufs der Gesandtschaft auch Charakterisierungen der Sarazenen, insbesondere des Herrschers Abd ar-Rahman III.</Inhaltsangabe>
+      <VolltextOriginalsprache>[…] regis […]; „[…] ut quia idem rex [Abd ar-Rahman III., Kalif von Cordoba] sacrilegus et profanus, utpote Sarracenus et a vera fide prorsus esset alienus […]“; „[…] circumcisos […]“; „[…] paganorum […]“; „[…] gentilium […]“; „[…] rex solitarius, quasi numen quoddam […]“; „[…] robur constantiae et moderationis mediae […]“</VolltextOriginalsprache>
+      <VolltextUebersetzung>[…] des Königs […]; „[…] da derselbe König [Abd ar-Rahman III., Kalif von Cordoba] als ein Sarazene ein Schänder der Religion und unheilig und dem wahren Glauben gänzlich fremd war […]“; „[…] beschnitten […]“; „[…] Heiden […]“; „[…] Heiden […]“; „[…] der König wie ein Solitär, gleichsam eine für keinen oder nur wenige zugängliche Gottheit […]“; „[…] wie auch seine außerordentlich mäßigende Wirkung bei der Lenkung der Dinge auf einem Mittelweg […]“</VolltextUebersetzung>
+      <ZitationUebersetzung>Leben des Johannes, Kap. 115-136, ed. Jacobsen 2016, S. 415-467.</ZitationUebersetzung>
+      <ZeitangabeWissenschaft>
+        <Datum Text="950-956" From="950-01-01" To="956-12-31" />
+      </ZeitangabeWissenschaft>
+      <Berichtszeitraum>
+        <Datum Text="940950" From="9409-01-01" To="9409-12-31" />
+        <Datum Text="950-960" From="950-01-01" To="960-12-31" />
+      </Berichtszeitraum>
+      <Abfassungszeitraum>
+        <Datum Text="970-980" From="970-01-01" To="980-12-31" />
+        <Datum Text="980-990" From="980-01-01" To="990-12-31" />
+      </Abfassungszeitraum>
+      <GeographischesStichwort>
+        <Ort>Iberische Halbinsel (Spanien, Portugal)</Ort>
+        <Ort>Andalusien</Ort>
+        <Ort>Córdoba</Ort>
+        <Ort>Lothringen</Ort>
+        <Ort>Gorze</Ort>
+        <Ort>Ostfrankenreich (Deutschland)</Ort>
+        <Ort>Frankreich</Ort>
+      </GeographischesStichwort>
+      <Beteiligte>
+        <Beteiligter>sI</Beteiligter>
+        <Beteiligter>sK</Beteiligter>
+        <Beteiligter>aI</Beteiligter>
+        <Beteiligter>aK</Beteiligter>
+      </Beteiligte>
+      <Interaktion>j</Interaktion>
+      <Auffaelligkeiten>
+        <Schlagwort>Gesandtschaft</Schlagwort>
+        <Schlagwort>Würdigung</Schlagwort>
+        <Schlagwort>Herkunftserzählung</Schlagwort>
+        <Schlagwort>Religionsbeschreibung</Schlagwort>
+        <Schlagwort>(kulturelle) Gewohnheit</Schlagwort>
+      </Auffaelligkeiten>
+      <Suchbegriffe>
+        <Suchwort>Sarracenus</Suchwort>
+        <Suchwort>Saracenus</Suchwort>
+        <Suchwort>Sarazene</Suchwort>
+        <Suchwort>Maurus</Suchwort>
+        <Suchwort>Maure</Suchwort>
+        <Suchwort>paganus</Suchwort>
+        <Suchwort>Pagane</Suchwort>
+        <Suchwort>gentilis</Suchwort>
+        <Suchwort>Heiden</Suchwort>
+        <Suchwort>Abderahamen</Suchwort>
+        <Suchwort>Abd ar-Rahman</Suchwort>
+        <Suchwort>Corduba</Suchwort>
+        <Suchwort>Córdoba</Suchwort>
+        <Suchwort>Hispania</Suchwort>
+        <Suchwort>Spanien</Suchwort>
+        <Suchwort>Barcinona</Suchwort>
+        <Suchwort>Barcelona</Suchwort>
+      </Suchbegriffe>
+      <Anmerkungen>Bei den unter ‚Volltext‘ aufgenommenen Zitaten handelt es sich um eine unvollständige, subjektive Auswahl von Ausdrücken. In der gesamten Schilderung der Gesandtschaft spielen Sarazenen, insbesondere ihr Herrscher, der Kalif Abd ar-Rahman III. von Córdoba, eine Rolle; auch einzelne kulturelle Aspekte werden erwähnt.</Anmerkungen>
+      <Entitaeten>
+        <Entitaet Id="56b76e89-8468-4458-9e91-b01392c8c906" Type="Anmerkung">
+          <Name>Abd ar-Rahman III., Kalif von Cordoba</Name>
+        </Entitaet>
+      </Entitaeten>
+    </Quelle>
+  </Quellen>
+</ParsedDocxDocument>
