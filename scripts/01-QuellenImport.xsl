@@ -568,6 +568,64 @@
         &lt;text x="<xsl:value-of select="$x2"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: start"><xsl:value-of select="$x2"/>&lt;/text&gt;
         &lt;/g&gt;
     </xsl:template>
+    <!-- rudimentäre darstellung vom Abfassungszeitraum -->
+    <xsl:template name="balken2">
+        <xsl:param name="value"/>
+        <xsl:param name="color"/>
+        <xsl:param name="y1"/>
+        <xsl:param name="y2"/>
+        <xsl:variable name="x1">
+            <xsl:choose>
+                <xsl:when test="contains($value,'-') and not(starts-with($value,'-'))">
+                    <xsl:value-of select="xs:integer(substring-before($value,'-'))"/>
+                </xsl:when>
+                <xsl:when test="contains($value,'-') and starts-with($value,'-') and contains(substring-after($value,'-'),'-')">
+                    <xsl:value-of select="xs:integer(concat('-',substring-before(substring-after($value,'-'),'-')))" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="xs:integer($value)"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable> 
+        <xsl:variable name="x2">
+            <xsl:choose>
+                <xsl:when test="contains($value,'-') and not(starts-with($value,'-'))">
+                    <xsl:value-of select="xs:integer(substring-after($value,'-'))"/>
+                </xsl:when>
+                <xsl:when test="contains($value,'-') and starts-with($value,'-') and contains(substring-after($value,'-'),'-')">
+                    <xsl:value-of select="xs:integer(substring-after(substring-after($value,'-'),'-'))" />
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="xs:integer($value)"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="width">
+            <xsl:if test="$x1 &#60; 0">
+                <xsl:value-of select="($x1 * -1)+$x2"/>
+            </xsl:if>
+            <xsl:if test="$x1 > 0">
+                <xsl:value-of select="$x2 -$x1"/>
+            </xsl:if>                     
+        </xsl:variable>
+        <xsl:variable name="start">
+            <xsl:if test="$x1 > -400">
+                <xsl:value-of select="$x1"/>
+            </xsl:if>
+            <xsl:if test="$x1 &#60; -400">
+                <xsl:value-of select="xs:integer('-480')"/>
+            </xsl:if>
+        </xsl:variable>
+        &lt;g&gt;
+        &lt;rect x="<xsl:value-of select="$x1"/>" y="<xsl:value-of select="$y1"/>" width="<xsl:value-of select="$width"/>" height="45" style="fill:<xsl:value-of select="$color"/>;fill-opacity:0.9;"/&gt;
+        <!-- Beschriftung der Balken: -->
+        <!--
+        <xsl:variable name="to" select="number(substring-after(.,'-'))"/>
+        &lt;text x="<xsl:value-of select="$start"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: end"><xsl:value-of select="$x1"/>&lt;/text&gt;
+        &lt;text x="<xsl:value-of select="$x2"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: start"><xsl:value-of select="$x2"/>&lt;/text&gt;
+        -->
+        &lt;/g&gt;
+    </xsl:template>
     <xsl:template match="Dokumente/Berichtszeitraum/Datum/@date">
       <xsl:if test=". != ''">
           <xsl:if test="not(contains(.,','))">     
@@ -593,7 +651,7 @@
     <xsl:template match="Dokumente/Abfassungszeitraum/Datum/@date">
         <xsl:if test=". != ''">
             <xsl:if test="not(contains(.,','))">     
-                <xsl:call-template name="balken"> 
+                <xsl:call-template name="balken2"> 
                     <xsl:with-param name="value" select="."/> 
                     <xsl:with-param name="color" select="'#ffd11a'"/>
                     <xsl:with-param name="y1" select="12"/>
@@ -602,7 +660,7 @@
             </xsl:if>
             <xsl:if test="contains(.,',')">
                 <xsl:for-each select="tokenize(.,',')">
-                    <xsl:call-template name="balken"> 
+                    <xsl:call-template name="balken2"> 
                         <xsl:with-param name="value" select="."/> 
                         <xsl:with-param name="color" select="'#ffd11a'"/>
                         <xsl:with-param name="y1" select="12"/>

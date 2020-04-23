@@ -391,7 +391,7 @@
         <xsl:variable name="replacment">
         <xsl:for-each select="$generation/node()">
             <xsl:variable name="sel">[<xsl:value-of select="./@type"/>::<xsl:value-of select="./data(.)"/>]</xsl:variable>
-            <item><xsl:if test="./@sec"><xsl:value-of select="concat('[:Kategorie:',./data(.),'|[',$sel,']]')"/></xsl:if><xsl:if test="not(./@sec)"><xsl:value-of select="$sel"/></xsl:if></item>
+            <item><xsl:if test="./@sec"><xsl:value-of select="concat('[:Kategorie:',./data(.),'|',$sel,']')"/></xsl:if><xsl:if test="not(./@sec)"><xsl:value-of select="$sel"/></xsl:if></item>
         </xsl:for-each>
         </xsl:variable>
        
