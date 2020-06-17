@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?><mediawiki>
+<page>
+    <title>Repertorium Saracenorum</title>
+    <ns>0</ns>
+    <id>179</id>
+    <revision>
+        <id>3428</id>
+        <parentid>3420</parentid>
+        <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
+        <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+        </contributor>
+        <comment>/* Zum Projekt */</comment>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+        <text xml:space="preserve" bytes="2079">
+         __NOTOC__
+
+         _&lt;div id="hauptseite"&gt;
+{| style="border-collapse:collapse; width:100%;"
+| colspan="2" style="padding:0;" |
+
+&lt;div id="hauptseite-willkommen" class="hauptseite-oben"&gt;
+== Willkommen im Repertorium Saracenorum ==
+&lt;div class="inhalt" style="text-align:center;"&gt;
+; Ein Wiki zu ''Saraceni'', ''Agareni'', ''Mauri'', ... in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts
+
+Im Zuge der Expansion der Araber, die ihren Anfang im 7.
+Jahrhundert nahm und die Eroberer bis auf europäisches
+Festland führte, wurde auch die Religion des Islam
+verbreitet. ‚Muslime‘ oder sog. Sarazenen rückten
+zunehmend in das Blickfeld der lateinisch-christlichen
+Bevölkerung des westlichen Europas. Bereits die
+entstehende geographische Nähe führte zu vielfältigen
+Formen von Begegnungen: zum Beispiel auf Handels-,
+Gesandtschafts- oder Pilgerreisen, aber auch durch
+(militärische) Konfrontationen. Diese Entwicklung fand
+ihren Niederschlag auch in der lateinisch-christlichen
+Geschichtsschreibung des früheren Mittelalters.
+
+Im digitalen '''Repertorium Saracenorum''' werden Berichte über ''Saraceni'',
+''Agareni'', ''Mauri'', … in lateinisch-christlichen Quellen des
+7. bis 11. Jahrhunderts zusammengetragen, in aufbereiteter
+Form online veröffentlicht und so für Interessierte
+zugänglich gemacht, um weitere Untersuchungen zu
+befördern.
+&lt;/div&gt;
+&lt;/div&gt;
+
+|-
+| style="padding:0; vertical-align:top; width:50%;" |
+
+&lt;div id="hauptseite-artikel" class="hauptseite-links"&gt;
+== Inhalte ==
+&lt;div class="inhalt"&gt;
+[[:Kategorie:Werk | Werke]]
+&lt;br /&gt;
+[[:Kategorie:Region | Regionen]]
+&lt;br /&gt;
+[[:Kategorie:VerfasserIn | VerfasserInnen]]
+&lt;br /&gt;
+[[:Kategorie:Person | Personen]]
+&lt;br /&gt;
+[[:Kategorie:Geographie | Geographie]]
+&lt;br/&gt;
+[[:Kategorie:Auffälligkeiten | Auffälligkeiten]]
+&lt;br/&gt;
+[[:Kategorie:Suchbegriffe der Stelle | Suchbegriffe]]
+&lt;br /&gt;
+[[Zeiträume]]
+&lt;/div&gt;
+&lt;/div&gt;
+
+| style="padding:0; vertical-align:top; width:50%;" |
+
+&lt;div id="hauptseite-artikel" class="hauptseite-rechts"&gt;
+== DFG-Projekt ==
+&lt;div class="inhalt"&gt;
+Hervorgegangen ist das '''Repertorium Saracenorum''' aus einem von der Deutschen Forschungsgemeinschaft zwischen 2013 und 2017 geförderten Projekt "''Saraceni'', ''Agareni'', ''Mauri'', … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts" an der Rheinischen Friedrich-Wilhelms-Universität Bonn, Abteilung für Mittelalterliche Geschichte unter Leitung von Herrn Prof. Dr. Matthias Becher.
+
+Das '''Repertorium Saracenorum''' entsteht als Semantic MediaWiki in Kooperation mit dem Cologne Center for eHumanities (CCeH) der Universität zu Köln.
+&lt;/div&gt;
+&lt;/div&gt;
+
+|-
+| colspan="2" style="padding:0;" |
+
+&lt;div id="hauptseite-footer" class="hauptseite-unten"&gt;
+&lt;h2&gt;About&lt;/h2&gt;
+&lt;div class="inhalt"&gt;
+Dinge
+&lt;/div&gt;
+&lt;/div&gt;
+
+|}
+&lt;/div&gt;
+
+
+        </text>
+        <sha1/>
+    </revision>
+</page>
+    <page>
+        <title>Kategorie:Werk</title>
+        <ns>0</ns>
+        <id>180</id>
+        <revision>
+            <id>3429</id>
+            <parentid>3420</parentid>
+            <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
+            <contributor>
+                <username>Administrator</username>
+                <id>1</id>
+            </contributor>
+            <comment>/* Zum Projekt */</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="2079">
+                
+                {{#ask:
+                [[Kategorie:Werk]]
+                |?Verfasser
+|?Abfassungszeit#
+|?Berichtszeitraum#
+|?Abfassungsort
+                |limit=1000|format=table}}
+                [[Kategorie:Repertorium Saracenorum]]
+            </text>
+            <sha1/>
+        </revision>
+    </page>
+ <page>
+  <title>MediaWiki:Common.css</title>
+  <ns>0</ns>
+  <id>183</id>
+  <revision>
+   <id>3433</id>
+   <parentid>3423</parentid>
+   <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
+   <contributor>
+    <username>Administrator</username>
+    <id>1</id>
+   </contributor>
+   <comment>/* Zum Projekt */</comment>
+   <model>wikitext</model>
+   <format>text/x-wiki</format>
+   <text xml:space="preserve" bytes="2079">
+     {{#css:
+     /* Quellenstellen */
+            		table{
+            			border: 1px solid black;
+            		}
+            		td{
+            			padding: 5px;
+            		}
+            		.infobox {
+            		float:right;
+            		margin-right:50px;
+            		}
+            		h3 {
+            		clear:both;
+            		}
+            		
+            		/* Werksseiten */
+            		table{
+            			border: 1px solid black;
+            			float:left;
+            		}
+            		td{
+            			padding: 5px;
+            		}
+            		svg {
+            			margin-left: 35px;
+            		}
+            		.timeline {
+            			width: 1200px;
+            			margin-left: 30px;
+            		}
+            		.time{
+	            		width: 1000px;
+	            		height: 30px;
+	            		border-top: 1px solid black;
+	            		padding-top: 10px;
+	            		margin-top: 20px;
+            		}
+            		.year{
+	            		width: 140px;
+	            		text-align: center;
+	            		display: inline;
+	            		margin-right: 150px;
+	            		margin-left: 15px;
+	            		font-size: 9pt;
+            		}
+            		.label{
+            			font-size: 7pt;
+            		}
+            		p {
+            		clear:both; }
+            		#leiste {
+            		width:66%;
+            		float:right;
+            		}
+            		/* Hauptseite */
+
+.hauptseite-rechts {
+    margin-left: .5em;
+}
+
+.hauptseite-links {
+    margin-right: .5em;
+}
+
+.hauptseite-oben h2, .hauptseite-unten h2 {
+    text-align: center;
+}
+
+.hauptseite-links h2, .hauptseite-rechts h2 {
+    text-indent: .8em;
+}
+
+.hauptseite-oben, .hauptseite-links, .hauptseite-rechts {
+    margin-bottom: 1em;
+}
+
+#hauptseite .inhalt {
+    background: #fff;
+    border: 1px solid #8898bf;
+        border-top-color: rgb(136, 152, 191);
+        border-top-style: solid;
+        border-top-width: 1px;
+    border-top: 0;
+    min-height: 0;
+    padding: .3em .8em .4em;
+}
+
+#hauptseite h2 {
+    background: #d8e8ff;
+    border: 1px solid #8898bf;
+    font-family: inherit;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.5;
+    margin: 0;
+    padding: .1em 0;
+}
+
+            	}}
+    
+            </text>
+   <sha1/>
+  </revision>
+ </page>
+ <page>
+  <title>Kategorie:Repertorium Saracenorum</title>
+  <ns>0</ns>
+  <id>181</id>
+  <revision>
+   <id>3430</id>
+   <parentid>3421</parentid>
+   <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
+   <contributor>
+    <username>Administrator</username>
+    <id>1</id>
+   </contributor>
+   <comment>/* Zum Projekt */</comment>
+   <model>wikitext</model>
+   <format>text/x-wiki</format>
+   <text xml:space="preserve" bytes="2079">
+            </text>
+   <sha1/>
+  </revision>
+ </page>
+ <page>
+  <title>MediaWiki:Sidebar</title>
+  <ns>8</ns>
+  <id>57</id>
+  <revision>
+   <id>1802</id>
+   <parentid>1799</parentid>
+   <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
+   <contributor>
+    <username>Administrator</username>
+    <id>1</id>
+   </contributor>
+   <model>wikitext</model>
+   <format>text/x-wiki</format>
+   <text xml:space="preserve" bytes="479">* sarazenen
+** Repertorium Saracenorum|Repertorium Saracenorum
+*** werke|Werke
+*** Kategorie:Quelle|Quellenstellen
+* navigation
+** Repertorium Saracenorum|Repertorium Saracenorum
+&lt;!-- ** mainpage|mainpage-description --&gt;
+*** Kategorie:werk|Werke
+*** Kategorie:Region|Regionen
+*** Kategorie:VerfasserIn|VerfasserInnen
+*** zeiträume|Zeiträume
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES</text>
+   <sha1>n61lexohy2ihfi5ztuvb5hu377idmc0</sha1>
+  </revision>
+ </page>
+    <page>
+    <title>Vorlage:WikiProject Transwiki/Template:Infobox</title>
+    <ns>10</ns>
+    <id>383</id>
+    <revision>
+      <id>2275</id>
+      <parentid>2274</parentid>
+      <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version importiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40049">&lt;noinclude&gt;
+=Usage=
+==Parameters==
+There are some general 'styling' parameters, some 'title' and subtitle parameters, some 'image' parameters', and then parameters for each of the 80 possible 'rows'
+===Style===
+* bodyclass
+* bodystyle
+===Title===
+* title
+* titleclass
+* titlestyle
+* above
+* aboveclass
+* abovestyle
+* subheader
+* subheaderclass
+* subheaderstyle
+
+===Image===
+* image
+* imageclass
+* imagestyle
+* caption
+* captionstyle
+===Rows===
+====For all rows====
+* headerstyle
+* labelstyle
+* datastyle
+====For specific rows====
+For each of the 80 possible rows, replace the 'N' below with the number (e.g. 'header3', 'header80')
+* headerN
+* labelN
+* dataN
+* classN
+
+=Example=
+{| class="wikitable" width="100%"
+! Code
+! Output
+|-
+| &lt;code&gt;&lt;pre&gt;
+{{Wikipedia:WikiProject_Transwiki/Template:Infobox|title=TITLE
+|above=ABOVE
+|subheader=SUBHEADER
+|image=[[Image:Some_image.jpg]]
+|caption=IMAGE_CAPTION
+|header1=HEADER_1
+|label1=LABEL_1
+|data1=DATA_1
+}}
+&lt;/pre&gt;&lt;/code&gt;
+| {{Wikipedia:WikiProject_Transwiki/Template:Infobox|title=TITLE
+|above=ABOVE
+|subheader=SUBHEADER
+|image=[[Image:Some_image.jpg]]
+|caption=IMAGE_CAPTION
+|header1=HEADER_1
+|label1=LABEL_1
+|data1=DATA_1
+}}
+|}
+
+&lt;/noinclude&gt;
+
+{{{!}} class="infobox {{{bodyclass|}}}" cellspacing="5" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; {{{bodystyle|}}}"&lt;!--
+ Caption
+--&gt;{{#if:{{{title|}}}|&lt;nowiki/&gt;
+{{!}}+ 
+{{!}}class="{{{titleclass|}}}" style="font-size: 125%; font-weight: bold; {{{titlestyle|}}}"{{!}}{{{title}}} }}&lt;!--
+ Header
+--&gt;{{#if:{{{above|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{aboveclass|}}}" style="text-align:center; font-size: 125%; font-weight: bold; {{{abovestyle|}}}"{{!}}{{{above}}} }}&lt;!--
+ Subheader
+--&gt;{{#if:{{{subheader|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{subheaderclass|}}}" style="text-align:center; {{{subheaderstyle|}}}"{{!}}{{{subheader}}} }}&lt;!--
+ Image
+--&gt;{{#if:{{{image|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{imageclass|}}}" style="text-align:center; {{{imagestyle|}}}"{{!}} {{{image}}} {{#if:{{{caption|}}}|&lt;br /&gt;
+&lt;span style="{{{captionstyle|}}}"&gt;{{{caption}}}&lt;/span&gt; }} }}&lt;!--
+ Row 1
+--&gt;{{#if:{{{header1|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header1|}}} }}&lt;!--
+--&gt;{{#if:{{{label1|}}}|{{#if:{{{data1|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label1|}}}
+{{!}} class="{{{class1|}}}" style="{{{datastyle|}}}"{{!}}{{{data1|}}} }}|  {{#if:{{{data1|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class1|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data1|}}} }} }}&lt;!--
+ Row 2
+--&gt;{{#if:{{{header2|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header2|}}} }}&lt;!--
+--&gt;{{#if:{{{label2|}}}|{{#if:{{{data2|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label2|}}}
+{{!}} class="{{{class2|}}}" style="{{{datastyle|}}}"{{!}}{{{data2|}}} }}|  {{#if:{{{data2|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class2|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data2|}}} }} }}&lt;!--
+ Row 3
+--&gt;{{#if:{{{header3|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header3|}}} }}&lt;!--
+--&gt;{{#if:{{{label3|}}}|{{#if:{{{data3|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label3|}}}
+{{!}} class="{{{class3|}}}" style="{{{datastyle|}}}"{{!}}{{{data3|}}} }}|  {{#if:{{{data3|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class3|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data3|}}} }} }}&lt;!--
+ Row 4
+--&gt;{{#if:{{{header4|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header4|}}} }}&lt;!--
+--&gt;{{#if:{{{label4|}}}|{{#if:{{{data4|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label4|}}}
+{{!}} class="{{{class4|}}}" style="{{{datastyle|}}}"{{!}}{{{data4|}}} }}|  {{#if:{{{data4|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class4|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data4|}}} }} }}&lt;!--
+ Row 5
+--&gt;{{#if:{{{header5|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header5|}}} }}&lt;!--
+--&gt;{{#if:{{{label5|}}}|{{#if:{{{data5|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label5|}}}
+{{!}} class="{{{class5|}}}" style="{{{datastyle|}}}"{{!}}{{{data5|}}} }}|  {{#if:{{{data5|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class5|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data5|}}} }} }}&lt;!--
+ Row 6
+--&gt;{{#if:{{{header6|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header6|}}} }}&lt;!--
+--&gt;{{#if:{{{label6|}}}|{{#if:{{{data6|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label6|}}}
+{{!}} class="{{{class6|}}}" style="{{{datastyle|}}}"{{!}}{{{data6|}}} }}|  {{#if:{{{data6|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class6|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data6|}}} }} }}&lt;!--
+ Row 7
+--&gt;{{#if:{{{header7|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header7|}}} }}&lt;!--
+--&gt;{{#if:{{{label7|}}}|{{#if:{{{data7|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label7|}}}
+{{!}} class="{{{class7|}}}" style="{{{datastyle|}}}"{{!}}{{{data7|}}} }}|  {{#if:{{{data7|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class7|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data7|}}} }} }}&lt;!--
+ Row 8
+--&gt;{{#if:{{{header8|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header8|}}} }}&lt;!--
+--&gt;{{#if:{{{label8|}}}|{{#if:{{{data8|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label8|}}}
+{{!}} class="{{{class8|}}}" style="{{{datastyle|}}}"{{!}}{{{data8|}}} }}|  {{#if:{{{data8|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class8|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data8|}}} }} }}&lt;!--
+ Row 9
+--&gt;{{#if:{{{header9|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header9|}}} }}&lt;!--
+--&gt;{{#if:{{{label9|}}}|{{#if:{{{data9|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label9|}}}
+{{!}} class="{{{class9|}}}" style="{{{datastyle|}}}"{{!}}{{{data9|}}} }}|  {{#if:{{{data9|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class9|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data9|}}} }} }}&lt;!--
+ Row 10
+--&gt;{{#if:{{{header10|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header10|}}} }}&lt;!--
+--&gt;{{#if:{{{label10|}}}|{{#if:{{{data10|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label10|}}}
+{{!}} class="{{{class10|}}}" style="{{{datastyle|}}}"{{!}}{{{data10|}}} }}|  {{#if:{{{data10|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class10|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data10|}}} }} }}&lt;!--
+ Row 11
+--&gt;{{#if:{{{header11|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header11|}}} }}&lt;!--
+--&gt;{{#if:{{{label11|}}}|{{#if:{{{data11|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label11|}}}
+{{!}} class="{{{class11|}}}" style="{{{datastyle|}}}"{{!}}{{{data11|}}} }}|  {{#if:{{{data11|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class11|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data11|}}} }} }}&lt;!--
+ Row 12
+--&gt;{{#if:{{{header12|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header12|}}} }}&lt;!--
+--&gt;{{#if:{{{label12|}}}|{{#if:{{{data12|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label12|}}}
+{{!}} class="{{{class12|}}}" style="{{{datastyle|}}}"{{!}}{{{data12|}}} }}|  {{#if:{{{data12|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class12|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data12|}}} }} }}&lt;!--
+ Row 13
+--&gt;{{#if:{{{header13|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header13|}}} }}&lt;!--
+--&gt;{{#if:{{{label13|}}}|{{#if:{{{data13|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label13|}}}
+{{!}} class="{{{class13|}}}" style="{{{datastyle|}}}"{{!}}{{{data13|}}} }}|  {{#if:{{{data13|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class13|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data13|}}} }} }}&lt;!--
+ Row 14
+--&gt;{{#if:{{{header14|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header14|}}} }}&lt;!--
+--&gt;{{#if:{{{label14|}}}|{{#if:{{{data14|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label14|}}}
+{{!}} class="{{{class14|}}}" style="{{{datastyle|}}}"{{!}}{{{data14|}}} }}|  {{#if:{{{data14|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class14|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data14|}}} }} }}&lt;!--
+ Row 15
+--&gt;{{#if:{{{header15|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header15|}}} }}&lt;!--
+--&gt;{{#if:{{{label15|}}}|{{#if:{{{data15|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label15|}}}
+{{!}} class="{{{class15|}}}" style="{{{datastyle|}}}"{{!}}{{{data15|}}} }}|  {{#if:{{{data15|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class15|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data15|}}} }} }}&lt;!--
+ Row 16
+--&gt;{{#if:{{{header16|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header16|}}} }}&lt;!--
+--&gt;{{#if:{{{label16|}}}|{{#if:{{{data16|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label16|}}}
+{{!}} class="{{{class16|}}}" style="{{{datastyle|}}}"{{!}}{{{data16|}}} }}|  {{#if:{{{data16|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class16|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data16|}}} }} }}&lt;!--
+ Row 17
+--&gt;{{#if:{{{header17|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header17|}}} }}&lt;!--
+--&gt;{{#if:{{{label17|}}}|{{#if:{{{data17|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label17|}}}
+{{!}} class="{{{class17|}}}" style="{{{datastyle|}}}"{{!}}{{{data17|}}} }}|  {{#if:{{{data17|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class17|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data17|}}} }} }}&lt;!--
+ Row 18
+--&gt;{{#if:{{{header18|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header18|}}} }}&lt;!--
+--&gt;{{#if:{{{label18|}}}|{{#if:{{{data18|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label18|}}}
+{{!}} class="{{{class18|}}}" style="{{{datastyle|}}}"{{!}}{{{data18|}}} }}|  {{#if:{{{data18|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class18|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data18|}}} }} }}&lt;!--
+ Row 19
+--&gt;{{#if:{{{header19|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header19|}}} }}&lt;!--
+--&gt;{{#if:{{{label19|}}}|{{#if:{{{data19|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label19|}}}
+{{!}} class="{{{class19|}}}" style="{{{datastyle|}}}"{{!}}{{{data19|}}} }}|  {{#if:{{{data19|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class19|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data19|}}} }} }}&lt;!--
+ Row 20
+--&gt;{{#if:{{{header20|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header20|}}} }}&lt;!--
+--&gt;{{#if:{{{label20|}}}|{{#if:{{{data20|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label20|}}}
+{{!}} class="{{{class20|}}}" style="{{{datastyle|}}}"{{!}}{{{data20|}}} }}|  {{#if:{{{data20|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class20|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data20|}}} }} }}&lt;!--
+ Row 21
+--&gt;{{#if:{{{header21|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header21|}}} }}&lt;!--
+--&gt;{{#if:{{{label21|}}}|{{#if:{{{data21|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label21|}}}
+{{!}} class="{{{class21|}}}" style="{{{datastyle|}}}"{{!}}{{{data21|}}} }}|  {{#if:{{{data21|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class21|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data21|}}} }} }}&lt;!--
+ Row 22
+--&gt;{{#if:{{{header22|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header22|}}} }}&lt;!--
+--&gt;{{#if:{{{label22|}}}|{{#if:{{{data22|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label22|}}}
+{{!}} class="{{{class22|}}}" style="{{{datastyle|}}}"{{!}}{{{data22|}}} }}|  {{#if:{{{data22|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class22|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data22|}}} }} }}&lt;!--
+ Row 23
+--&gt;{{#if:{{{header23|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header23|}}} }}&lt;!--
+--&gt;{{#if:{{{label23|}}}|{{#if:{{{data23|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label23|}}}
+{{!}} class="{{{class23|}}}" style="{{{datastyle|}}}"{{!}}{{{data23|}}} }}|  {{#if:{{{data23|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class23|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data23|}}} }} }}&lt;!--
+ Row 24
+--&gt;{{#if:{{{header24|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header24|}}} }}&lt;!--
+--&gt;{{#if:{{{label24|}}}|{{#if:{{{data24|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label24|}}}
+{{!}} class="{{{class24|}}}" style="{{{datastyle|}}}"{{!}}{{{data24|}}} }}|  {{#if:{{{data24|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class24|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data24|}}} }} }}&lt;!--
+ Row 25
+--&gt;{{#if:{{{header25|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header25|}}} }}&lt;!--
+--&gt;{{#if:{{{label25|}}}|{{#if:{{{data25|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label25|}}}
+{{!}} class="{{{class25|}}}" style="{{{datastyle|}}}"{{!}}{{{data25|}}} }}|  {{#if:{{{data25|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class25|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data25|}}} }} }}&lt;!--
+ Row 26
+--&gt;{{#if:{{{header26|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header26|}}} }}&lt;!--
+--&gt;{{#if:{{{label26|}}}|{{#if:{{{data26|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label26|}}}
+{{!}} class="{{{class26|}}}" style="{{{datastyle|}}}"{{!}}{{{data26|}}} }}|  {{#if:{{{data26|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class26|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data26|}}} }} }}&lt;!--
+ Row 27
+--&gt;{{#if:{{{header27|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header27|}}} }}&lt;!--
+--&gt;{{#if:{{{label27|}}}|{{#if:{{{data27|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label27|}}}
+{{!}} class="{{{class27|}}}" style="{{{datastyle|}}}"{{!}}{{{data27|}}} }}|  {{#if:{{{data27|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class27|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data27|}}} }} }}&lt;!--
+ Row 28
+--&gt;{{#if:{{{header28|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header28|}}} }}&lt;!--
+--&gt;{{#if:{{{label28|}}}|{{#if:{{{data28|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label28|}}}
+{{!}} class="{{{class28|}}}" style="{{{datastyle|}}}"{{!}}{{{data28|}}} }}|  {{#if:{{{data28|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class28|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data28|}}} }} }}&lt;!--
+ Row 29
+--&gt;{{#if:{{{header29|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header29|}}} }}&lt;!--
+--&gt;{{#if:{{{label29|}}}|{{#if:{{{data29|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label29|}}}
+{{!}} class="{{{class29|}}}" style="{{{datastyle|}}}"{{!}}{{{data29|}}} }}|  {{#if:{{{data29|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class29|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data29|}}} }} }}&lt;!--
+ Row 30
+--&gt;{{#if:{{{header30|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header30|}}} }}&lt;!--
+--&gt;{{#if:{{{label30|}}}|{{#if:{{{data30|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label30|}}}
+{{!}} class="{{{class30|}}}" style="{{{datastyle|}}}"{{!}}{{{data30|}}} }}|  {{#if:{{{data30|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class30|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data30|}}} }} }}&lt;!--
+ Row 31
+--&gt;{{#if:{{{header31|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header31|}}} }}&lt;!--
+--&gt;{{#if:{{{label31|}}}|{{#if:{{{data31|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label31|}}}
+{{!}} class="{{{class31|}}}" style="{{{datastyle|}}}"{{!}}{{{data31|}}} }}|  {{#if:{{{data31|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class31|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data31|}}} }} }}&lt;!--
+ Row 32
+--&gt;{{#if:{{{header32|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header32|}}} }}&lt;!--
+--&gt;{{#if:{{{label32|}}}|{{#if:{{{data32|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label32|}}}
+{{!}} class="{{{class32|}}}" style="{{{datastyle|}}}"{{!}}{{{data32|}}} }}|  {{#if:{{{data32|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class32|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data32|}}} }} }}&lt;!--
+ Row 33
+--&gt;{{#if:{{{header33|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header33|}}} }}&lt;!--
+--&gt;{{#if:{{{label33|}}}|{{#if:{{{data33|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label33|}}}
+{{!}} class="{{{class33|}}}" style="{{{datastyle|}}}"{{!}}{{{data33|}}} }}|  {{#if:{{{data33|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class33|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data33|}}} }} }}&lt;!--
+ Row 34
+--&gt;{{#if:{{{header34|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header34|}}} }}&lt;!--
+--&gt;{{#if:{{{label34|}}}|{{#if:{{{data34|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label34|}}}
+{{!}} class="{{{class34|}}}" style="{{{datastyle|}}}"{{!}}{{{data34|}}} }}|  {{#if:{{{data34|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class34|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data34|}}} }} }}&lt;!--
+ Row 35
+--&gt;{{#if:{{{header35|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header35|}}} }}&lt;!--
+--&gt;{{#if:{{{label35|}}}|{{#if:{{{data35|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label35|}}}
+{{!}} class="{{{class35|}}}" style="{{{datastyle|}}}"{{!}}{{{data35|}}} }}|  {{#if:{{{data35|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class35|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data35|}}} }} }}&lt;!--
+ Row 36
+--&gt;{{#if:{{{header36|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header36|}}} }}&lt;!--
+--&gt;{{#if:{{{label36|}}}|{{#if:{{{data36|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label36|}}}
+{{!}} class="{{{class36|}}}" style="{{{datastyle|}}}"{{!}}{{{data36|}}} }}|  {{#if:{{{data36|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class36|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data36|}}} }} }}&lt;!--
+ Row 37
+--&gt;{{#if:{{{header37|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header37|}}} }}&lt;!--
+--&gt;{{#if:{{{label37|}}}|{{#if:{{{data37|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label37|}}}
+{{!}} class="{{{class37|}}}" style="{{{datastyle|}}}"{{!}}{{{data37|}}} }}|  {{#if:{{{data37|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class37|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data37|}}} }} }}&lt;!--
+ Row 38
+--&gt;{{#if:{{{header38|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header38|}}} }}&lt;!--
+--&gt;{{#if:{{{label38|}}}|{{#if:{{{data38|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label38|}}}
+{{!}} class="{{{class38|}}}" style="{{{datastyle|}}}"{{!}}{{{data38|}}} }}|  {{#if:{{{data38|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class38|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data38|}}} }} }}&lt;!--
+ Row 39
+--&gt;{{#if:{{{header39|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header39|}}} }}&lt;!--
+--&gt;{{#if:{{{label39|}}}|{{#if:{{{data39|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label39|}}}
+{{!}} class="{{{class39|}}}" style="{{{datastyle|}}}"{{!}}{{{data39|}}} }}|  {{#if:{{{data39|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class39|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data39|}}} }} }}&lt;!--
+ Row 40
+--&gt;{{#if:{{{header40|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header40|}}} }}&lt;!--
+--&gt;{{#if:{{{label40|}}}|{{#if:{{{data40|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label40|}}}
+{{!}} class="{{{class40|}}}" style="{{{datastyle|}}}"{{!}}{{{data40|}}} }}|  {{#if:{{{data40|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class40|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data40|}}} }} }}&lt;!--
+ Row 41
+--&gt;{{#if:{{{header41|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header41|}}} }}&lt;!--
+--&gt;{{#if:{{{label41|}}}|{{#if:{{{data41|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label41|}}}
+{{!}} class="{{{class41|}}}" style="{{{datastyle|}}}"{{!}}{{{data41|}}} }}|  {{#if:{{{data41|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class41|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data41|}}} }} }}&lt;!--
+ Row 42
+--&gt;{{#if:{{{header42|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header42|}}} }}&lt;!--
+--&gt;{{#if:{{{label42|}}}|{{#if:{{{data42|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label42|}}}
+{{!}} class="{{{class42|}}}" style="{{{datastyle|}}}"{{!}}{{{data42|}}} }}|  {{#if:{{{data42|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class42|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data42|}}} }} }}&lt;!--
+ Row 43
+--&gt;{{#if:{{{header43|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header43|}}} }}&lt;!--
+--&gt;{{#if:{{{label43|}}}|{{#if:{{{data43|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label43|}}}
+{{!}} class="{{{class43|}}}" style="{{{datastyle|}}}"{{!}}{{{data43|}}} }}|  {{#if:{{{data43|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class43|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data43|}}} }} }}&lt;!--
+ Row 44
+--&gt;{{#if:{{{header44|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header44|}}} }}&lt;!--
+--&gt;{{#if:{{{label44|}}}|{{#if:{{{data44|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label44|}}}
+{{!}} class="{{{class44|}}}" style="{{{datastyle|}}}"{{!}}{{{data44|}}} }}|  {{#if:{{{data44|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class44|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data44|}}} }} }}&lt;!--
+ Row 45
+--&gt;{{#if:{{{header45|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header45|}}} }}&lt;!--
+--&gt;{{#if:{{{label45|}}}|{{#if:{{{data45|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label45|}}}
+{{!}} class="{{{class45|}}}" style="{{{datastyle|}}}"{{!}}{{{data45|}}} }}|  {{#if:{{{data45|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class45|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data45|}}} }} }}&lt;!--
+ Row 46
+--&gt;{{#if:{{{header46|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header46|}}} }}&lt;!--
+--&gt;{{#if:{{{label46|}}}|{{#if:{{{data46|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label46|}}}
+{{!}} class="{{{class46|}}}" style="{{{datastyle|}}}"{{!}}{{{data46|}}} }}|  {{#if:{{{data46|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class46|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data46|}}} }} }}&lt;!--
+ Row 47
+--&gt;{{#if:{{{header47|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header47|}}} }}&lt;!--
+--&gt;{{#if:{{{label47|}}}|{{#if:{{{data47|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label47|}}}
+{{!}} class="{{{class47|}}}" style="{{{datastyle|}}}"{{!}}{{{data47|}}} }}|  {{#if:{{{data47|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class47|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data47|}}} }} }}&lt;!--
+ Row 48
+--&gt;{{#if:{{{header48|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header48|}}} }}&lt;!--
+--&gt;{{#if:{{{label48|}}}|{{#if:{{{data48|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label48|}}}
+{{!}} class="{{{class48|}}}" style="{{{datastyle|}}}"{{!}}{{{data48|}}} }}|  {{#if:{{{data48|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class48|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data48|}}} }} }}&lt;!--
+ Row 49
+--&gt;{{#if:{{{header49|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header49|}}} }}&lt;!--
+--&gt;{{#if:{{{label49|}}}|{{#if:{{{data49|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label49|}}}
+{{!}} class="{{{class49|}}}" style="{{{datastyle|}}}"{{!}}{{{data49|}}} }}|  {{#if:{{{data49|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class49|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data49|}}} }} }}&lt;!--
+ Row 50
+--&gt;{{#if:{{{header50|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header50|}}} }}&lt;!--
+--&gt;{{#if:{{{label50|}}}|{{#if:{{{data50|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label50|}}}
+{{!}} class="{{{class50|}}}" style="{{{datastyle|}}}"{{!}}{{{data50|}}} }}|  {{#if:{{{data50|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class50|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data50|}}} }} }}&lt;!--
+ Row 51
+--&gt;{{#if:{{{header51|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header51|}}} }}&lt;!--
+--&gt;{{#if:{{{label51|}}}|{{#if:{{{data51|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label51|}}}
+{{!}} class="{{{class51|}}}" style="{{{datastyle|}}}"{{!}}{{{data51|}}} }}|  {{#if:{{{data51|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class51|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data51|}}} }} }}&lt;!--
+ Row 52
+--&gt;{{#if:{{{header52|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header52|}}} }}&lt;!--
+--&gt;{{#if:{{{label52|}}}|{{#if:{{{data52|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label52|}}}
+{{!}} class="{{{class52|}}}" style="{{{datastyle|}}}"{{!}}{{{data52|}}} }}|  {{#if:{{{data52|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class52|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data52|}}} }} }}&lt;!--
+ Row 53
+--&gt;{{#if:{{{header53|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header53|}}} }}&lt;!--
+--&gt;{{#if:{{{label53|}}}|{{#if:{{{data53|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label53|}}}
+{{!}} class="{{{class53|}}}" style="{{{datastyle|}}}"{{!}}{{{data53|}}} }}|  {{#if:{{{data53|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class53|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data53|}}} }} }}&lt;!--
+ Row 54
+--&gt;{{#if:{{{header54|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header54|}}} }}&lt;!--
+--&gt;{{#if:{{{label54|}}}|{{#if:{{{data54|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label54|}}}
+{{!}} class="{{{class54|}}}" style="{{{datastyle|}}}"{{!}}{{{data54|}}} }}|  {{#if:{{{data54|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class54|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data54|}}} }} }}&lt;!--
+ Row 55
+--&gt;{{#if:{{{header55|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header55|}}} }}&lt;!--
+--&gt;{{#if:{{{label55|}}}|{{#if:{{{data55|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label55|}}}
+{{!}} class="{{{class55|}}}" style="{{{datastyle|}}}"{{!}}{{{data55|}}} }}|  {{#if:{{{data55|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class55|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data55|}}} }} }}&lt;!--
+ Row 56
+--&gt;{{#if:{{{header56|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header56|}}} }}&lt;!--
+--&gt;{{#if:{{{label56|}}}|{{#if:{{{data56|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label56|}}}
+{{!}} class="{{{class56|}}}" style="{{{datastyle|}}}"{{!}}{{{data56|}}} }}|  {{#if:{{{data56|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class56|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data56|}}} }} }}&lt;!--
+ Row 57
+--&gt;{{#if:{{{header57|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header57|}}} }}&lt;!--
+--&gt;{{#if:{{{label57|}}}|{{#if:{{{data57|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label57|}}}
+{{!}} class="{{{class57|}}}" style="{{{datastyle|}}}"{{!}}{{{data57|}}} }}|  {{#if:{{{data57|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class57|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data57|}}} }} }}&lt;!--
+ Row 58
+--&gt;{{#if:{{{header58|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header58|}}} }}&lt;!--
+--&gt;{{#if:{{{label58|}}}|{{#if:{{{data58|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label58|}}}
+{{!}} class="{{{class58|}}}" style="{{{datastyle|}}}"{{!}}{{{data58|}}} }}|  {{#if:{{{data58|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class58|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data58|}}} }} }}&lt;!--
+ Row 59
+--&gt;{{#if:{{{header59|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header59|}}} }}&lt;!--
+--&gt;{{#if:{{{label59|}}}|{{#if:{{{data59|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label59|}}}
+{{!}} class="{{{class59|}}}" style="{{{datastyle|}}}"{{!}}{{{data59|}}} }}|  {{#if:{{{data59|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class59|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data59|}}} }} }}&lt;!--
+ Row 60
+--&gt;{{#if:{{{header60|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header60|}}} }}&lt;!--
+--&gt;{{#if:{{{label60|}}}|{{#if:{{{data60|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label60|}}}
+{{!}} class="{{{class60|}}}" style="{{{datastyle|}}}"{{!}}{{{data60|}}} }}|  {{#if:{{{data60|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class60|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data60|}}} }} }}&lt;!--
+ Row 61
+--&gt;{{#if:{{{header61|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header61|}}} }}&lt;!--
+--&gt;{{#if:{{{label61|}}}|{{#if:{{{data61|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label61|}}}
+{{!}} class="{{{class61|}}}" style="{{{datastyle|}}}"{{!}}{{{data61|}}} }}|  {{#if:{{{data61|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class61|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data61|}}} }} }}&lt;!--
+ Row 62
+--&gt;{{#if:{{{header62|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header62|}}} }}&lt;!--
+--&gt;{{#if:{{{label62|}}}|{{#if:{{{data62|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label62|}}}
+{{!}} class="{{{class62|}}}" style="{{{datastyle|}}}"{{!}}{{{data62|}}} }}|  {{#if:{{{data62|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class62|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data62|}}} }} }}&lt;!--
+ Row 63
+--&gt;{{#if:{{{header63|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header63|}}} }}&lt;!--
+--&gt;{{#if:{{{label63|}}}|{{#if:{{{data63|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label63|}}}
+{{!}} class="{{{class63|}}}" style="{{{datastyle|}}}"{{!}}{{{data63|}}} }}|  {{#if:{{{data63|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class63|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data63|}}} }} }}&lt;!--
+ Row 64
+--&gt;{{#if:{{{header64|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header64|}}} }}&lt;!--
+--&gt;{{#if:{{{label64|}}}|{{#if:{{{data64|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label64|}}}
+{{!}} class="{{{class64|}}}" style="{{{datastyle|}}}"{{!}}{{{data64|}}} }}|  {{#if:{{{data64|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class64|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data64|}}} }} }}&lt;!--
+ Row 65
+--&gt;{{#if:{{{header65|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header65|}}} }}&lt;!--
+--&gt;{{#if:{{{label65|}}}|{{#if:{{{data65|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label65|}}}
+{{!}} class="{{{class65|}}}" style="{{{datastyle|}}}"{{!}}{{{data65|}}} }}|  {{#if:{{{data65|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class65|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data65|}}} }} }}&lt;!--
+ Row 66
+--&gt;{{#if:{{{header66|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header66|}}} }}&lt;!--
+--&gt;{{#if:{{{label66|}}}|{{#if:{{{data66|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label66|}}}
+{{!}} class="{{{class66|}}}" style="{{{datastyle|}}}"{{!}}{{{data66|}}} }}|  {{#if:{{{data66|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class66|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data66|}}} }} }}&lt;!--
+ Row 67
+--&gt;{{#if:{{{header67|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header67|}}} }}&lt;!--
+--&gt;{{#if:{{{label67|}}}|{{#if:{{{data67|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label67|}}}
+{{!}} class="{{{class67|}}}" style="{{{datastyle|}}}"{{!}}{{{data67|}}} }}|  {{#if:{{{data67|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class67|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data67|}}} }} }}&lt;!--
+ Row 68
+--&gt;{{#if:{{{header68|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header68|}}} }}&lt;!--
+--&gt;{{#if:{{{label68|}}}|{{#if:{{{data68|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label68|}}}
+{{!}} class="{{{class68|}}}" style="{{{datastyle|}}}"{{!}}{{{data68|}}} }}|  {{#if:{{{data68|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class68|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data68|}}} }} }}&lt;!--
+ Row 69
+--&gt;{{#if:{{{header69|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header69|}}} }}&lt;!--
+--&gt;{{#if:{{{label69|}}}|{{#if:{{{data69|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label69|}}}
+{{!}} class="{{{class69|}}}" style="{{{datastyle|}}}"{{!}}{{{data69|}}} }}|  {{#if:{{{data69|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class69|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data69|}}} }} }}&lt;!--
+ Row 70
+--&gt;{{#if:{{{header70|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header70|}}} }}&lt;!--
+--&gt;{{#if:{{{label70|}}}|{{#if:{{{data70|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label70|}}}
+{{!}} class="{{{class70|}}}" style="{{{datastyle|}}}"{{!}}{{{data70|}}} }}|  {{#if:{{{data70|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class70|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data70|}}} }} }}&lt;!--
+ Row 71
+--&gt;{{#if:{{{header71|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header71|}}} }}&lt;!--
+--&gt;{{#if:{{{label71|}}}|{{#if:{{{data71|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label71|}}}
+{{!}} class="{{{class71|}}}" style="{{{datastyle|}}}"{{!}}{{{data71|}}} }}|  {{#if:{{{data71|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class71|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data71|}}} }} }}&lt;!--
+ Row 72
+--&gt;{{#if:{{{header72|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header72|}}} }}&lt;!--
+--&gt;{{#if:{{{label72|}}}|{{#if:{{{data72|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label72|}}}
+{{!}} class="{{{class72|}}}" style="{{{datastyle|}}}"{{!}}{{{data72|}}} }}|  {{#if:{{{data72|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class72|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data72|}}} }} }}&lt;!--
+ Row 73
+--&gt;{{#if:{{{header73|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header73|}}} }}&lt;!--
+--&gt;{{#if:{{{label73|}}}|{{#if:{{{data73|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label73|}}}
+{{!}} class="{{{class73|}}}" style="{{{datastyle|}}}"{{!}}{{{data73|}}} }}|  {{#if:{{{data73|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class73|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data73|}}} }} }}&lt;!--
+ Row 74
+--&gt;{{#if:{{{header74|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header74|}}} }}&lt;!--
+--&gt;{{#if:{{{label74|}}}|{{#if:{{{data74|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label74|}}}
+{{!}} class="{{{class74|}}}" style="{{{datastyle|}}}"{{!}}{{{data74|}}} }}|  {{#if:{{{data74|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class74|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data74|}}} }} }}&lt;!--
+ Row 75
+--&gt;{{#if:{{{header75|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header75|}}} }}&lt;!--
+--&gt;{{#if:{{{label75|}}}|{{#if:{{{data75|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label75|}}}
+{{!}} class="{{{class75|}}}" style="{{{datastyle|}}}"{{!}}{{{data75|}}} }}|  {{#if:{{{data75|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class75|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data75|}}} }} }}&lt;!--
+ Row 76
+--&gt;{{#if:{{{header76|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header76|}}} }}&lt;!--
+--&gt;{{#if:{{{label76|}}}|{{#if:{{{data76|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label76|}}}
+{{!}} class="{{{class76|}}}" style="{{{datastyle|}}}"{{!}}{{{data76|}}} }}|  {{#if:{{{data76|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class76|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data76|}}} }} }}&lt;!--
+ Row 77
+--&gt;{{#if:{{{header77|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header77|}}} }}&lt;!--
+--&gt;{{#if:{{{label77|}}}|{{#if:{{{data77|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label77|}}}
+{{!}} class="{{{class77|}}}" style="{{{datastyle|}}}"{{!}}{{{data77|}}} }}|  {{#if:{{{data77|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class77|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data77|}}} }} }}&lt;!--
+ Row 78
+--&gt;{{#if:{{{header78|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header78|}}} }}&lt;!--
+--&gt;{{#if:{{{label78|}}}|{{#if:{{{data78|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label78|}}}
+{{!}} class="{{{class78|}}}" style="{{{datastyle|}}}"{{!}}{{{data78|}}} }}|  {{#if:{{{data78|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class78|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data78|}}} }} }}&lt;!--
+ Row 79
+--&gt;{{#if:{{{header79|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header79|}}} }}&lt;!--
+--&gt;{{#if:{{{label79|}}}|{{#if:{{{data79|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label79|}}}
+{{!}} class="{{{class79|}}}" style="{{{datastyle|}}}"{{!}}{{{data79|}}} }}|  {{#if:{{{data79|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class79|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data79|}}} }} }}&lt;!--
+ Row 80
+--&gt;{{#if:{{{header80|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header80|}}} }}&lt;!--
+--&gt;{{#if:{{{label80|}}}|{{#if:{{{data80|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label80|}}}
+{{!}} class="{{{class80|}}}" style="{{{datastyle|}}}"{{!}}{{{data80|}}} }}|  {{#if:{{{data80|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class80|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data80|}}} }} }}&lt;!--
+ Below
+--&gt;{{#if:{{{below|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" style="text-align:center; {{{belowstyle|}}}"{{!}}{{{below|}}} }}&lt;!--
+
+--&gt;{{#if:{{{name|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}style="text-align:right;" colspan=2"{{!}}{{Tnavbar|{{{name}}}|noedit={{{noedit|0}}}}} }}
+{{!}}}</text>
+      <sha1>0hxp5pcm99s9lfzd5pnjt57tf4beewo</sha1>
+    </revision>
+  </page>
+</mediawiki>

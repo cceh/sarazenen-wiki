@@ -6,6 +6,565 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
 <!DOCTYPE Sarazenen SYSTEM "sarazenen_masterfassung.dtd">
 
 <Sarazenen>
+  <VerfasserInnen>               
+        <Verfasser>
+             <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
+             <Name>VerfasserIn unbekannt</Name>
+             <Alternativnamen/>       
+             <Lebensdaten date=""/>
+        </Verfasser>
+        <Verfasser>
+            <Id>3c7e0f93-c523-4340-91e0-d06bc5704d73</Id>
+            <Name>Abbo von Saint-Germain</Name>
+            <Alternativnamen>
+              <Name>Abbo Cernuus</Name>
+              <Name>Abbo Parisiensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="845-926">Um 850-nach 921</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>a2836ba0-dcfd-4638-9bfe-4cb611936525</Id>
+            <Name>Abt Hairulf von Oudenbourg</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="1050-1199">11./12. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>fe3467d7-ee66-49fd-a048-7b8e7eda6b05</Id>
+            <Name>Adam von Bremen</Name>
+            <Alternativnamen>
+              <Name>Adam Bremensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1000-1081">gestorben nach 12.10.1081</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>77af21e6-b3e3-4029-9a87-34bcdd4dbd1b</Id>
+            <Name>Ado von Vienne</Name>
+            <Alternativnamen>
+              <Name>S. Ado Archiepiscopus Viennensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="800-875">Gest. 16. Dezember 875</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>cdcc01b5-d4e2-4ccb-983f-21cb0550b6a4</Id>
+            <Name>Adso von Montiér-en-Der</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="900-999">10. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>db3be3d6-6bb3-4a1d-a8c7-fd1f7623ae3e</Id>
+            <Name>Agius, Bruder der Äbtissin Hathumod</Name>
+            <Alternativnamen>
+              <Name>Agius frater Hathumodae abbatissae</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="850-900">Zweite Hälfte des 9. Jahrhunderts</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>d7b2cd00-ab45-44a3-9bb7-8f142e7bc02a</Id>
+            <Name>Aimoin von Fleury</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="900-1000">10. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>6093fb82-a7bc-414c-8ee2-5622dbc00bba</Id>
+            <Name>Aimoin von Saint-Germain-des-Prés</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="849-896">vor 854-896</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>67fb0a85-e2ce-4145-8227-f48eecee0ec2</Id>
+            <Name>Alkuin von Tours</Name>
+            <Alternativnamen>
+              <Name>Alcuinus abbas S. Martini Turonensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="725-804">Um 730-804</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>e8f617be-5769-48a1-8077-8d82baa95690</Id>
+            <Name>Altfried von Münster</Name>
+            <Alternativnamen>
+              <Name>Altfridus episcopus Mimigardenfordensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="750-849">Gest. 849</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>704f34a3-130d-4846-89a5-08742af48039</Id>
+            <Name>Andreas von Bergamo</Name>
+            <Alternativnamen>
+              <Name>Andreas Bergomas</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="850-900">um 875</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>7df56551-b3d4-4a57-908f-668aca97cbd6</Id>
+            <Name>Ansgar von Bremen</Name>
+            <Alternativnamen>
+              <Name>Ansgar archiepiscopus Bremensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="795-865">Um 800-865</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>30d161b5-e580-4ab0-99ba-c4e71d854693</Id>
+            <Name>Beda Venerabilis</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="673-735">673-735</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>bca44a0b-e9fc-4a07-a6f9-50d8f1d43113</Id>
+            <Name>Bernold von Konstanz</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="1045-1100">Um 1050-16.09.1100</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>7f8ff30e-dc76-4c70-8868-9e88ae66bcae</Id>
+            <Name>Berthold von Reichenau</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="1000-1088">gest. 12.03.1088</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>8585928c-27cb-435b-8243-68c1be3aeebf</Id>
+            <Name>Bf. Lisiard von Soissons</Name>
+            <Alternativnamen>
+              <Name>Lisiardus Suessionensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1050-1126">gest. 1126</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>936806e5-bf4a-46a3-8486-e14d41aca80a</Id>
+            <Name>Bruno von Merseburg</Name>
+            <Alternativnamen>
+              <Name>Bruno clericus Merseburgensis</Name>
+              <Name> Bruno von Magdeburg</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1060-1100">1060er-1090er</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>936806e5-bf4a-46a3-8486-e14d41aca80a</Id>
+            <Name>Bruun</Name>
+            <Alternativnamen>
+              <Name>Candidus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="750-845">Gest. 845</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>bca44a0b-e9fc-4a07-a6f9-50d8f1d43113</Id>
+            <Name>Eigil von Fulda</Name>
+            <Alternativnamen>
+              <Name>Eigil abbas Fuldensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="745-822">Um 750-822</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>7f8ff30e-dc76-4c70-8868-9e88ae66bcae</Id>
+            <Name>Einhard</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="765-840">um 770-840</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>8585928c-27cb-435b-8243-68c1be3aeebf</Id>
+            <Name>Ekkehard IV. von St. Gallen</Name>
+            <Alternativnamen>
+              <Name>Ekkehardus IV</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="980-1062">980/990-nach 1057</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>6bf63fa1-88ca-449a-840a-69e30b3eef7c</Id>
+            <Name>Erchanbert</Name>
+            <Alternativnamen>
+              <Name>Erchanbertus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="700-900">8./9. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>5e594535-9822-47c9-b6d8-e0a560658a44</Id>
+            <Name>Erchanrad von Le Mans</Name>
+            <Alternativnamen>
+              <Name>Erconradus diaconus Cenomanensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="800-900">9. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>5cee1ca1-d7fe-44cc-939c-f5888b40c71e</Id>
+            <Name>Erchembert</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="800-900">9. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>9c7ccf41-2f08-4580-9021-1e8a687d7037</Id>
+            <Name>Ermenrich von Ellwangen</Name>
+            <Alternativnamen>
+              <Name>Ermenricus Elwangensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="809-874">Um 814-874</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>14ecaffa-e285-4e36-bc7c-a8c99525c521</Id>
+            <Name>Ermoldus Nigellus</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="800-900">9. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>6f5ea5b1-9564-4ca1-a8a3-052aaa259d76</Id>
+            <Name>Flodoard von Reims</Name>
+            <Alternativnamen>
+              <Name>Flodoardus canonicus Remensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="893-966">893/894 - 28. März 966</Lebensdaten>
+        </Verfasser>               
+       <Verfasser>
+            <Id>06064b96-2c39-48be-819e-4de25b56ea0b</Id>
+            <Name>Gerhard von Augsburg</Name>
+            <Alternativnamen>
+              <Name>Gerhardus praepositus Augustanus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="900-995">gestorben wohl um 990</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>b28473e2-229b-49d5-b046-d52ebe98917a</Id>
+            <Name>Hermann von Reichenau</Name>
+            <Alternativnamen>
+              <Name>Hermannus Contractus</Name>
+              <Name> Hermann der Lahme</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1013-1054">18.07.1013-24.09.1054</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>7d7844a4-8c11-49b1-a44d-54c08689ff90</Id>
+            <Name>Hilduin von St. Denis</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="814-841">814-841</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>af5f89a8-0c52-42f0-a463-d73f295ced99</Id>
+            <Name>Hinkmar von Reims</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="801-882">um 806-21.12.882</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>6e784acb-4fe2-467f-83ab-4f08258b2dc5</Id>
+            <Name>Hrotsvit von Gandersheim</Name>
+            <Alternativnamen>
+              <Name>Hrotsvita sanctimonialis Gandersheimensis</Name>
+              <Name> Roswitha von Gandersheim</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="930-978">um 935-nach 973?</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>1b37072d-86dd-4f1a-95c8-e71df0d8cd42</Id>
+            <Name>Hucbald von St. Armand</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="835-930">Um 840-930</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>168ab45e-a127-47d6-83e6-b29da4fc6616</Id>
+            <Name>Hugeburg von Heidenheim</Name>
+            <Alternativnamen>
+              <Name>Hugeburc von Heidenheim</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="725-778">um 730 - nach 778</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>fe45bb88-d8a2-432e-84cb-0fc359c7a31f</Id>
+            <Name>Hugo von Farfa</Name>
+            <Alternativnamen>
+              <Name>Ugo Farfensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="973-1039">April 973-1036/1039</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>746712a4-53e8-43fa-8531-0d8d088b8297</Id>
+            <Name>Ionas</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="">unbekannt</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>d7f12c92-0b44-44fd-81ef-37373e5bcb1b</Id>
+            <Name>Isidor von Sevilla</Name>
+            <Alternativnamen>
+              <Name>Isidor episcopus Hispalensis</Name>
+              <Name> Isidor Junior</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="555-636">Ca. 560-636</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>aaf3a6bb-9b60-4319-ba42-6b00c912f404</Id>
+            <Name>Iso von St. Gallen</Name>
+            <Alternativnamen>
+              <Name>Iso magister et monachus Sangallensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="800-871">Gest. 871</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>cfe0fd51-cfae-420e-8dee-a83d0dc0b9ba</Id>
+            <Name>Johannes von St. Arnulf in Metz</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="900-984">gest. (vor) 984</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>c281ba81-7f26-4a77-b941-c35fa395f75e</Id>
+            <Name>Konrad von Pfäfers</Name>
+            <Alternativnamen>
+              <Name>Conradus de Fabaria</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1200-1300">13. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>ec555393-3897-4ec6-8288-5b58cc7440ac</Id>
+            <Name>Lampert von Hersfeld</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="1023-1086">vor 1028 - nach 1081</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>c4b22351-047a-42ff-b771-0fce3ed48f1b</Id>
+            <Name>Liudger von Münster</Name>
+            <Alternativnamen>
+              <Name>Liudgerus episcopus Mimigardenfordensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="737-809">Um 742-809</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>193a5ab0-963c-4eca-b314-b0155a16da9f</Id>
+            <Name>Liudprand von Cremona</Name>
+            <Alternativnamen>
+              <Name>Liutprand von Cremona</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="915-972">um 920-972</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>6a32e15e-4a7d-47e1-ab62-ba0d54cb9976</Id>
+            <Name>Marianus Scottus</Name>
+            <Alternativnamen>
+              <Name>Moél Brigte</Name>
+              <Name> Calvus Brigitae</Name>
+              <Name> Máel Brigte</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1028-1082">1028-1082</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>f63122ea-d239-438f-b7d7-53490ecdda01</Id>
+            <Name>Meginhard von Fulda</Name>
+            <Alternativnamen>
+              <Name>Meginhardus monachus Fuldensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="846-888">vor 851-888</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>55910ea1-a57d-42b7-9cfc-e82ffed8da85</Id>
+            <Name>Nagold</Name>
+            <Alternativnamen>
+              <Name>Nalgodus monachus</Name>
+              <Name> Nalgodus Cluniacensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="906-994">906/915-994</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>b51267c9-75aa-40e9-9add-108c25314fa9</Id>
+            <Name>Nithard</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="795-844">um 800-Juni 844</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>ba4318c4-747b-4b11-815f-f1006fce984d</Id>
+            <Name>Norbert von Iburg</Name>
+            <Alternativnamen>
+              <Name>Norbertus abbas Iburgensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1050-1117">Gest. 1117</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>9bf0d236-3876-4dc4-b296-627eb3327295</Id>
+            <Name>Notker der Stammler</Name>
+            <Alternativnamen>
+              <Name>Notkerus Balbulus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="835-912">Um 840-06.04.912</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>e611a3a3-79d5-474e-9a48-8a6cdad114cb</Id>
+            <Name>Odilo von Cluny</Name>
+            <Alternativnamen>
+              <Name>Odilo abbas Clunicensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="961-1049">961/962-1049</Lebensdaten>
+        </Verfasser>               
+       <Verfasser>
+           <Id>813c7191-ac3f-4a0f-ae1f-359af8f1280f</Id>
+            <Name>Paulus Diaconus</Name>
+            <Alternativnamen>
+              <Name>Paulus Warnefridus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="715-799">um 720/730-799</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>011b65d5-5ae7-4f43-a361-e659b373a4b3</Id>
+            <Name>Prudentius von Troyes</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="841-861">vor 846-861</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>a4c3cf7d-8abf-4bcb-8c30-037fc2d02da5</Id>
+            <Name>Rainald von Vézelay</Name>
+            <Alternativnamen>
+              <Name>Rainaldus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1050-1129">Gest. 1129</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>9e2c17cc-1894-4ad3-b786-4032b987ga9b</Id>
+            <Name>Ratpert von Corbie</Name>
+            <Alternativnamen>
+              <Name>Paschasius Radbertus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="785-859">Um 790-856/859</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>8a6e701a-63fe-4d3f-9c38-28c19db82261</Id>
+            <Name>Ratpert von St. Gallen</Name>
+            <Alternativnamen>
+              <Name>Ratbertus monachus Sangallensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="840-905">840/850-um 900</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>70d89408-6267-4eb3-93ec-e9c0e8367417</Id>
+            <Name>Regino von Prüm</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="887-915">vor 892-915</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>dea813ac-5b51-4984-ba26-484a6e0906d1</Id>
+            <Name>Richbod von Lorsch</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="779-804">vor 784-1.10.804</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>36359b9b-ae3b-4754-9346-fb374089de12</Id>
+            <Name>Richer von Saint-Remi</Name>
+            <Alternativnamen>
+              <Name>Richer von Reims</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="900-998">gest. nach 998</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>355b5d57-a521-4169-bc3b-f6480472d9ff</Id>
+            <Name>Rimbert von Hambrug-Bremen</Name>
+            <Alternativnamen>
+              <Name>Rimbert archiepiscopus Hammaburgensis et Bremensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="825-888">Um 830-888</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>73d3f608-346b-4ace-933b-6cd26ff34c41</Id>
+            <Name>Rodulf der Kahle</Name>
+            <Alternativnamen>
+              <Name>Rodulfus Glaber</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="980-1047">980/985-1047</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>z7t3787s-lb3t-baq0-0sp7-bpzne43r0s3l</Id>
+            <Name>Rudolf von Fulda</Name>
+            <Alternativnamen>
+              <Name>Rudolfus monachus Fuldensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="795-865">Vor 800-865</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>71090c91-f756-4144-92af-07b510628aeb</Id>
+            <Name>Ruotger</Name>
+            <Alternativnamen>
+              <Name>Ruotgerus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="900-1000">10. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>88641ab6-9502-499e-9776-d677f59d725d</Id>
+            <Name>Syrus von Cluny</Name>
+            <Alternativnamen>
+              <Name>Syrus</Name>
+              <Name> Syrus monachus Cluniacensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1000-1100">11. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>1h97t0kr-6lr4-kx4r-jp60-5waxstw490so</Id>
+            <Name>Thangmar von Hildesheim</Name>
+            <Alternativnamen>
+              <Name>Thangmarus presb. Hildesheimensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="950-1025">Gest. nach 1019</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>x3z33wjc-nxnd-j1rk-lt1i-4bbnuwmqc0sq</Id>
+            <Name>Thegan</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="795-853">Vor 800 bis 849/853</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>y5a6neek-hz0i-fke2-hzhk-yve3rwp0fc9r</Id>
+            <Name>Thietmar von Merseburg</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="975-1018">975-1018</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>ubdv3osg-xuf0-eudd-gyhm-vde5cuf5yogs</Id>
+            <Name>Uffing von Werden</Name>
+            <Alternativnamen>
+              <Name>Uffingus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="900-1000">10. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>z1quqd50-bzz2-0cwu-q5x5-yz4en70a7vmp</Id>
+            <Name>Ursinus von Ligugé</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="700-900">8.-9. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>l3qi7sck-m5en-g5is-t7lv-l0vrf5n80yql</Id>
+            <Name>Walahfrid</Name>
+            <Alternativnamen>
+              <Name>Walafridus Strabo</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="808-849">808/809-849</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>rxvoxqf1-ytlk-9hih-zd9h-y317cvtd4fd9</Id>
+            <Name>Wetti von der Reichenau</Name>
+            <Alternativnamen>
+              <Name>Wettinus monachus Augiensis</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="775-824">Um 780-824</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>ahvg3o2f-shst-ajr8-cr7g-gib1z028o894</Id>
+            <Name>Widukind von Corvey</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="900-1000">10. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>jxk2spuw-n4oy-n5iy-qgl2-7x0qww61707m</Id>
+            <Name>Willibald von Mainz</Name>
+            <Alternativnamen>
+              <Name>Willibaldus presbyter Moguntinus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="700-800">8. Jahrhundert</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>eixb9fki-4o1t-h7lq-0wf8-j5boanfe1bki</Id>
+            <Name>Wolfher von Hildesheim</Name>
+            <Alternativnamen>
+              <Name>Wolfherus</Name>
+            </Alternativnamen>         
+            <Lebensdaten date="1000-1050">Erste Hälfte des 11. Jahrhunderts</Lebensdaten>
+        </Verfasser>               
+        <Verfasser>
+            <Id>hqkmo27k-wyrh-cuse-48jb-8ubnjiv401zr</Id>
+            <Name>sog. Astronomus</Name>
+            <Alternativnamen/>         
+            <Lebensdaten date="800-900">9. Jahrhundert</Lebensdaten>
+        </Verfasser>
+   </VerfasserInnen>
   <Personen>
     <Person>
       <Id>bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9</Id>
@@ -140,6 +699,15 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Name>Markgraf Adalbert I. von Ivrea</Name>
         <Name>Adalbert von Ivrea</Name>
         <Name>Adhelbertus</Name>
+      </Alternativnamen>
+    </Person>
+    <Person>
+      <Id>3797cb59-2c80-4b4d-95f4-cb44ea98a4d3</Id>
+      <Name>Graf Borrell II. von Barcelona</Name>
+      <Rolle>Graf von Barcelona</Rolle>
+      <Alternativnamen>
+        <Name>Borrell II. von Barcelona</Name>
+        <Name>Borrello</Name>
       </Alternativnamen>
     </Person>
     <Person>
@@ -1340,7 +1908,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Name>König Abd ar-Rahman</Name>
       </Alternativnamen>
     </Person>
-    <!-- Person taucht nur in Quelle 0029 auf, die nicht in XML-Version aufgenommen wurde.
     <Person>
       <Id>ae483367-3e9b-408f-9c28-b11d534de217</Id>
       <Name>Robert II.</Name>
@@ -1349,8 +1916,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Name>König Robert II. von Frankreich</Name>
       </Alternativnamen>
     </Person>
-    -->
-    <!-- Person taucht nur in Quelle 0029 auf, die nicht in XML-Version aufgenommen wurde.
     <Person>
       <Id>ce4efe06-cee4-4148-b262-699aadc2d730</Id>
       <Name>Hugo Capet</Name>
@@ -1359,7 +1924,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Name>König von Frankreich</Name>
       </Alternativnamen>
     </Person>
-    -->
     <Person>
       <Id>db5f00ce-2f78-4d03-a94b-948a1835a2b8</Id>
       <Name>Pippin I.</Name>
@@ -1435,7 +1999,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Name>regem</Name>
       </Alternativnamen>
     </Person>
-  <!-- Person taucht nur in Quelle 0029 auf, die nicht in XML-Version aufgenommen wurde.
     <Person>
       <Id>f66a2182-965d-4875-b648-0d1dd29c5b1f</Id>
       <Name>Ebf. Adalbero von Reims</Name>
@@ -1444,7 +2007,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Name>Remorum metropolitanum</Name>
       </Alternativnamen>
     </Person>
-     -->
     <Person>
       <Id>0bf181ba-9d6b-450b-b234-d62b5eb30fdd</Id>
       <Name>Inger</Name>
@@ -5200,7 +5762,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       </Alternativnamen>
       <getty_Id>7010786</getty_Id>
     </Ort>
-    <!-- Ort taucht nur in Quelle 0029 auf, die nicht in XML-Version aufgenommen ist.
     <Ort>
       <Id>ff6ef5b2-c6c0-4c9c-9231-6185f2e5cb5b</Id>
       <Name>Noyon</Name>
@@ -5210,8 +5771,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Name>Noviomum</Name>
       </Alternativnamen>
       <getty_Id>7010580</getty_Id>
-    </Ort> -->
- <!-- Ort wird in keiner Quelle aufgeführt.
+    </Ort>
     <Ort>
       <Id>e526286b-bdc1-4d38-acd1-0e43977d4f38</Id>
       <Name>Orléans</Name>
@@ -5222,7 +5782,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       </Alternativnamen>
       <getty_Id>7008337</getty_Id>
     </Ort>
-     -->
     <Ort>
       <Id>0f00434f-70a1-4e8a-82c5-def9d0e6552e</Id>
       <Name>Deutz</Name>
@@ -6330,7 +6889,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Titel>Geschichte der Sachsen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Thietmar von Merseburg</Autor>
+      <Autor Id="y5a6neek-hz0i-fke2-hzhk-yve3rwp0fc9r">Thietmar von Merseburg</Autor>
     </Autoren>
     <LebensdatenVerfasser>975-1018</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -6659,7 +7218,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
       <Titel>Die Zerstörung des Klosters Farfa</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Ugo Farfensis">Hugo von Farfa</Autor>
+      <Autor Id="fe45bb88-d8a2-432e-84cb-0fc359c7a31f" alt="Ugo Farfensis">Hugo von Farfa</Autor>
     </Autoren>
     <LebensdatenVerfasser>April 973-1036/1039</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -6760,7 +7319,7 @@ Zur Datierung vgl. Jean-Marie Sansterre, “Destructio” et “diminution” d�
       <Titel>Buch der Vergeltung</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
+      <Autor Id="193a5ab0-963c-4eca-b314-b0155a16da9f" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 920-972</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -7765,7 +8324,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
       <Titel>Sachsengeschichte</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Widukind von Corvey</Autor>
+      <Autor Id="ahvg3o2f-shst-ajr8-cr7g-gib1z028o894">Widukind von Corvey</Autor>
     </Autoren>
     <LebensdatenVerfasser>10. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -7971,7 +8530,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Widukindus monachus Corbe
       <Titel>Fortsetzung der St. Galler Klostergeschichten</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Ekkehardus IV">Ekkehard IV. von St. Gallen</Autor>
+      <Autor Id="8585928c-27cb-435b-8243-68c1be3aeebf" alt="Ekkehardus IV">Ekkehard IV. von St. Gallen</Autor>
     </Autoren>
     <LebensdatenVerfasser>980/990-nach 1057</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -8127,7 +8686,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Ekkeardus IV, Casuum S. G
       <Titel>Leben Karls des Großen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Einhard</Autor>
+      <Autor Id="7f8ff30e-dc76-4c70-8868-9e88ae66bcae">Einhard</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 770-840</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -8378,7 +8937,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Einhardus, Vita Karoli Ma
       <Titel>Ostfränkische Reichsannalen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -9901,7 +10460,7 @@ Insgesamt wurden mehrere Versuche von fränkischer Seite unternommen Tortosa zu 
       <Titel>Chronik</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Regino von Prüm</Autor>
+      <Autor Id="70d89408-6267-4eb3-93ec-e9c0e8367417">Regino von Prüm</Autor>
     </Autoren>
     <LebensdatenVerfasser>vor 892-915</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -11480,7 +12039,7 @@ Vgl. hierzu [0008]-[0015].</Anmerkungen>
       <Titel>Geschichte der Jahre 900 bis 1044 in fünf Büchern</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Rodulfus Glaber">Rodulf der Kahle</Autor>
+      <Autor Id="73d3f608-346b-4ace-933b-6cd26ff34c41" alt="Rodulfus Glaber">Rodulf der Kahle</Autor>
     </Autoren>
     <LebensdatenVerfasser>980/985-1047</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -11724,7 +12283,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo, des Syrus und des 
         <Zitation>Rodulfus Glaber, Historiarum libri quinque II, IX, 18, ed. France 1989, S. 82.</Zitation>
         <ZeitangabeQuelle>um 1003/1004</ZeitangabeQuelle>
         <Inhaltsangabe>Sarazenen aus Afrika besetzen um 1003/1004 [1000-1002] unter Abu Amir al-Mansūr große Teile Spaniens und töten dabei viele Christen. Sancho III. der Große [s. Anm.] stellt sich ihnen erfolgreich entgegen. Beide Seiten haben schwere Verluste hinzunehmen.</Inhaltsangabe>
-        <VolltextOriginalsprache>Subsequente namque tempore gens Sarracenorum cum rege suo, Almuzor nomine [Abu Amir al-Mansūr], egressa est ex Africanis [Afrika] partibus, ocupans pene uniuersam Hispanie [Spanien] regionem usque in australes Galliarum [Gallien] fines, plurimasque Christianorum dedere strages. Sed licet inpar exercitu, sepius tamen iniit cum eis prelia Willelmus dux Nauarrie, cognomento Sanctus [Sancho III. der Große?, s. Anm.]. Tunc etiam ob exercitus raritatem conpulsi sunt regionis illius monachi sumere arma bellica. Cese denique grauiter utreque partes; tandem concessa Christianis uictoria, post grande suorum dispendium, qui superfuere Sarracenorum ad Africam [Afrika] fecere confugium. Sed et in illis diutinis conflictibus preliorum constat Christianorum religiosos plures ocubuisse, qui potius ob fraterne caritatis amorem cupierant decertare quam propter aliquam gloriolam laudis ponpatice.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Subsequente namque tempore gens Sarracenorum cum rege suo, Almuzor nomine [Abu Amir al-Mansūr], egressa est ex Africanis [Afrika] partibus, ocupans pene uniuersam Hispanie [Spanien] regionem usque in australes Galliarum [Gallien] fines, plurimasque Christianorum dedere strages. Sed licet inpar exercitu, sepius tamen iniit cum eis prelia Willelmus dux Nauarrie, cognomento Sanctus [Sancho III. der Große] [s. Anm.]. Tunc etiam ob exercitus raritatem conpulsi sunt regionis illius monachi sumere arma bellica. Cese denique grauiter utreque partes; tandem concessa Christianis uictoria, post grande suorum dispendium, qui superfuere Sarracenorum ad Africam [Afrika] fecere confugium. Sed et in illis diutinis conflictibus preliorum constat Christianorum religiosos plures ocubuisse, qui potius ob fraterne caritatis amorem cupierant decertare quam propter aliquam gloriolam laudis ponpatice.</VolltextOriginalsprache>
         <VolltextUebersetzung>Shortly afterwards the Saracens, with their king al-Mansūr [Abu Amir al-Mansūr], surged forth from Africa [Afrika] and seized almost all Spain [Spanien] as far as the southern boundaries of Gaul [Gallien], massacring many Christians. William duke of Navarre, called Sancho [Sancho III. der Große?], did not hesitate to challenge him frequently in battle, although his army was nowhere near as big. Indeed the army was so small that the monks of that area were compelled to take up arms. After great losses on both sides victory went to Christians, while the surviving Saracens, after heavy casualities, retreated to Africa [Afrika]. During these long wars many religious in the Christian armies were killed; they had longed to fight for love of their brothers, not for any vain glory of renown and pomp.</VolltextUebersetzung>
         <ZitationUebersetzung>Rodulfus Glaber, Historiarum libri quinque II, IX, 18, ed. France 1989, S. 83.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -11791,7 +12350,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo, des Syrus und des 
             <Name>Gallien</Name>
           </Entitaet>
           <Entitaet Id="26f9ea12-4bd4-4d9e-b573-35a9037c4000" Type="Person">
-            <Name>Sancho III. der Große?</Name>
+            <Name>Sancho III. der Große</Name>
           </Entitaet>
         </Entitaeten>
       </Quelle>
@@ -12026,9 +12585,9 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo, des Syrus und des 
       <Titel>Jahrbücher von St. Bertin</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
-      <Autor>Prudentius von Troyes</Autor>
-      <Autor>Hinkmar von Reims</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
+      <Autor Id="011b65d5-5ae7-4f43-a361-e659b373a4b3">Prudentius von Troyes</Autor>
+      <Autor Id="af5f89a8-0c52-42f0-a463-d73f295ced99">Hinkmar von Reims</Autor>
     </Autoren>
     <LebensdatenVerfasser>Prudentius von Troyes: vor 846-861
 Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasser>
@@ -13628,7 +14187,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Jan Prelog, Art. Annalen 
       <Titel>Das Leben Kaiser Ludwigs</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>sog. Astronomus</Autor>
+      <Autor Id="hqkmo27k-wyrh-cuse-48jb-8ubnjiv401zr">sog. Astronomus</Autor>
     </Autoren>
     <LebensdatenVerfasser>9. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -14630,7 +15189,7 @@ Vgl. [0042]-[0004].</Anmerkungen>
         <Zitation>Vita Hludovici imperatoris 37, ed. Tremp 1995, S. 422.</Zitation>
         <ZeitangabeQuelle>823</ZeitangabeQuelle>
         <Inhaltsangabe>Die Grafen Eblus und Asinarius ziehen 823 [824] auf Befehl Kaiser Ludwigs I. des Frommen über die Pyrenäen. Auf dem Rückweg werden sie gefangen genommen und Eblus wird zum Emir Abd ar-Rahman II. nach Cordoba geschickt.</Inhaltsangabe>
-        <VolltextOriginalsprache>Qui [Graf Eblus; Graf Asinarius] cum magnis copiis usque ad Pampilonam [Pamplona] issent et inde negotio peracto redirent […], omnibus amissis copiis in inimicorum devenere manus. Qui Eblum [Graf Eblus] quidem Cordubam [Cordoba] regi Sarracenorum miserunt, Asinario [Graf Asinarius] vero, tamquam qui eos adfinitate sanguinis tangeret, pepercerunt.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Qui [Graf Eblus] [Graf Asinarius] cum magnis copiis usque ad Pampilonam [Pamplona] issent et inde negotio peracto redirent […], omnibus amissis copiis in inimicorum devenere manus. Qui Eblum [Graf Eblus] quidem Cordubam [Cordoba] regi Sarracenorum miserunt, Asinario [Graf Asinarius] vero, tamquam qui eos adfinitate sanguinis tangeret, pepercerunt.</VolltextOriginalsprache>
         <VolltextUebersetzung>Als sie [Graf Eblus; Graf Asinarius] mit vielen Truppen bis nach Pamplona [Pamplona] gekommen waren und nach Erledigung ihres Auftrages von dort zurückkehrten, […], verloren sie ihr ganzes Heer und fielen in die Hände der Feinde. Den Eblus [Graf Eblus] schickten diese nach Cordoba [Cordoba] zu dem Sarazenenkönig, Asinarius [Graf Asinarius] jedoch als ihr Blutsverwandter wurde geschont.</VolltextUebersetzung>
         <ZitationUebersetzung>Vita Hludovici imperatoris 37, ed. Tremp 1995, S. 423.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -15170,7 +15729,7 @@ Vgl. [0042]-[0004].</Anmerkungen>
       <Titel>De Carolo Magno</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Notkerus Balbulus">Notker der Stammler</Autor>
+      <Autor Id="9bf0d236-3876-4dc4-b296-627eb3327295" alt="Notkerus Balbulus">Notker der Stammler</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 840-06.04.912</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -15463,7 +16022,7 @@ Vgl. [0006]-[0002]; [0007]-[0016], [0007]-[0021], [0008]-[0014], [0008]-[0021], 
       <Titel>Jahrbücher von Hildesheim</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>Unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -15743,7 +16302,7 @@ Vgl. zur Datierung [0013]-[0001].</Anmerkungen>
         <Zitation>Annales Hildesheimenses 11, ed. Waitz 1878, S. 13.</Zitation>
         <ZeitangabeQuelle>768-814</ZeitangabeQuelle>
         <Inhaltsangabe>König/Kaiser Karl I. der Große nimmt zwischen 768-814 Pamplona ein und erhält Stadt sowie Geiseln vom Emir Abu Tawr von Huesca. Anschließend zieht Karl I. der Große weiter nach Saragossa zu dem Statthalter von Saragossa Ibin al Arabi.</Inhaltsangabe>
-        <VolltextOriginalsprache>Karolus [Karl I. der Große] contra Saracenos Pampalonam [Pamplona] civitatem capit. Abitaurus Saracenorum rex [Emir Abu Tawr von Huesca, s. Anm.] dedit obsides fratrem suum et filium, reddit civitates, quas tenebat. Inde proficiscitur ad Caesaraugustam [Saragossa], adducit secum Ibiinlarbi [Statthalter Ibin al Arabi von Saragossa] regem Saracenorum.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Karolus [Karl I. der Große] contra Saracenos Pampalonam [Pamplona] civitatem capit. Abitaurus Saracenorum rex [Emir Abu Tawr von Huesca] [s. Anm.] dedit obsides fratrem suum et filium, reddit civitates, quas tenebat. Inde proficiscitur ad Caesaraugustam [Saragossa], adducit secum Ibiinlarbi [Statthalter Ibin al Arabi von Saragossa] regem Saracenorum.</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft />
@@ -16107,7 +16666,7 @@ Vgl. [0006]-[0002]; [0007]-[0016], [0007]-[0021], [0008]-[0014], [0008]-[0021], 
       <Titel>Fränkische Reichsannalen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -18274,7 +18833,7 @@ Zu dem Westgoten Aizo vgl.[0014]-[0025].</Anmerkungen>
       <Titel>Jahrbücher von Niederaltaich</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -18701,7 +19260,7 @@ Vgl. zu dieser Quellenstelle ebenfalls [0017]-[0006], [0021]-[0019], [0039]-[000
       <Titel>Jahrbücher</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Lampert von Hersfeld</Autor>
+      <Autor Id="ec555393-3897-4ec6-8288-5b58cc7440ac">Lampert von Hersfeld</Autor>
     </Autoren>
     <LebensdatenVerfasser>vor 1028 - nach 1081</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -18995,7 +19554,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Tilman Struve, Art. Lampert v
         <Zitation>Lampert von Hersfeld, Annales Hersfeldensis a. 1065, ed. Holder-Egge 1894, S. 93-99.</Zitation>
         <ZeitangabeQuelle>1065</ZeitangabeQuelle>
         <Inhaltsangabe>Erzbischof Siegfried von Mainz und die Bischöfe Gunther von Bamberg, Otto von Regensburg und Wilhelm von Utrecht geraten [vom 25.03. bis zum 27.03.] 1065 auf ihrem Weg nach Jerusalem in einen Kampf mit Sarazenen, die sie drei Tage lang in Kfar Saba bei Ramleh festsetzen, bestürmen und belagern. Erst durch das Einschreiten eines arabischen Fürsten aus Ramleh können sie schließlich ungehindert weiterziehen.</Inhaltsangabe>
-        <VolltextOriginalsprache>Interea predicti episcopi [Ebf. Siegfried von Mainz; Bf. Gunther von Bamberg; Bf. Otto von Regensburg; Bf. Wilhelm von Utrecht] Ierosolimam [Jerusalem] pergentes, dum magnitudinem opum suarum gentibus, per quas iter habebant, inconsultius ostentarent, ultimum sibi periculum consciverant, nisi rem humana temeritate prolapsam divina misericordia restituisset. Nam barbaros, qui ex urbibus et agris ad spectandos tam illustres viros catervatim profluebant, primo peregrini cultus ac magnifici apparatus ingens miraculum, dein, ut fit, non minor predae spes ac desiderium cepit. Itaque cum transita Licia [Kilikien] fines Sarracenorum introissent et iam a civitate cui Ramulo [Ramleh] nomen est una vel paulo plus mansione abessent, proximo parasceue ante pascha circa terciam diei horam incursionem passi sunt ab Arabitis, qui comperto tam insignium virorum adventu undique ad spolia diripienda frequentes armatique confluxerant. Plerique christianorum religiosum putantes manu sibi auxilium ferre et salutem suam, quam peregre proficiscentes Deo devoverant, armis corporalibus tueri, prima statim congressione prostrati, vulneribus multis confecti et omnibus quae habebant a filo subteminis usque ad corrigiam caligae exspoliati sunt. Inter quos Willihelmus quoque Traiectensis episcopus, brachio pene plagis debilitato, nudus ac semivivus relictus est. Caeteri christiani iactu lapidum, quod genus teli forte locus ipse affatim ministrabat, non tam periculum propulsabant, quam mortem, quae presens urgebat, differre conabantur. Pedem etiam paulatim subtrahendo ad villam declinabant, quae ab ipso itinere spacio mediocri distabat. Capharnaum [Kfar Saba] hanc fuisse ex similitudine vocabuli coniciebant. Quam ut ingressi sunt, episcopi omnes atrium quoddam occupant, humili septum maceria et tam fragili, ut, etiamsi nulla vis adhiberetur, sola vetustate facile corrueret. In cuius medio domus erat, cenaculum habens satis editum et ad repugnandum quasi ex industria preparatum. Huius superiora episcopus Mogontinus et Babenbergensis cum clericis suis, inferiora caeteri episcopi sibi vendicant. Laici omnes ad arcendam vim hostium et maceriam defendendam impigre discurrunt, et primam quidem certaminis procellam lapidum iactu, ut predictum est, sustinuere. Dein cum barbari magnam telorum nubem in castra coniecissent, et ipsi plerumque impressione in eos facta clipeos et gladios manibus eorum vi extorsissent, non solum iam maceriam tueri sufficiunt, sed portis etiam interdum erumpere et pugnam comminus lacessere audent. Quorum impetum dum Arabes nullo iam loco, nulla acie sustinere possent, consilium tandem a tumultuaria congressione ad obsidionem vertunt et inedia atque lassitudine conficere aggrediuntur, quos ferro expugnare non poterant. Itaque multitudinem, qua superabundabant, conglobatis scilicet circiter XII milibus, partiuntur, ut alii aliis vicissim ad obpugnationis studium succedentes nullam illis vel paululum respirandi copiam facerent, suspicantes, quod propter inopiam rerum omnium, quibus vita humana sustentari solet, dimicandi laborem non diu tolleraturi forent. Ita christiani toto parasceue, toto sabbato sancto usque ad terciam fere horam paschalis diei sine intermissione oppugnabantur; nec eis hostilis improbitas vel modicum temporis punctum, quo saltem somni perceptione corpora recrearent, indulgebat. Nam cibum et potum nec, mortem pre oculis habentes, desiderabant nec, si magnopere desideraretur, quid sumerent, omnium inopes habebant. Cumque die tercio labore et inedia exhausti ad extremum pervenissent, et fortia plerumque conatos virtus ieiunio infracta frustraretur, quidam ex numero presbiterorum exclamavit non recte eos agere, quod in armis suis plus quam in Deo spei ac roboris ponerent et calamitatem, quam eo permittente incidissent, propriis viribus propulsare conarentur; propterea placere sibi, ut se dederent, presertim cum triduana iam abstinentia militaribus rebus eos inutiles prorsus reddidisset. Non esse Deo difficile, ut deditis eis et ab hoste sub iugum missis misericordiam prestaret, qui suos totiens etiam in ultima necessitate conclusos mirabiliter liberasset. Ut hoc quoque inferret: barbaros nequaquam propter ipsos occidendos tanto molimine grassari, sed ut pecunias eorum auferrent; quibus si potiti fuissent, liberos eos deinceps intactosque sine vi, sine molestia abire passuros. Placuit consilium omnibus, statimque ab armis ad preces versi, per interpretem, ut in deditionem acciperentur, orabant. Quo comperto, dux Arabum citato equo in primos advolat et caeteros quidem longius summovet, cavens, ne temere admissa multitudine preda confuse distraheretur. Ipse decem et septem honoratissimos gentis suae secum assumens castra ingressus est patentia, relicto ad portas presidii causa filio suo, ne quis forte predae avidus post se non vocatus irrumperet. Cumque admotis scalis in cenaculum, ubi Mogontinus et Babenbergensis episcopi latitabant, cum paucis ascendisset, Babenbergensis episcopus, cui, licet iunior aetate esset, tamen propter virtutum prerogativam et tocius corporis admirandam dignitatem precipuus a cunctis honor deferebatur , rogare eum cepit, ut, omnibus quae haberent usque ad novissimum quadrantem sublatis, nudos se abire sineret. Ille et victoria elatus et preter ingenitam morum barbariem accepta quoque tot congressionibus clade nimium efferatus ait se adversus eos iam triduo non sine grandi damno exercitus sui ea mente bellum gessisse, ut suis condicionibus erga victos uteretur, non quas ipsi constituissent; ne ergo falsa spe eluderentur, se, omnibus quae haberent sublatis, carnes eorum comesturum et sanguinem bibiturum. Nec moratus, linteum, quo caput more gentis obvolverat, expediens, facto vinculo in collum episcopi iniecit. Episcopus, ut erat vir liberalis verecundiae et maturae admodum gravitatis, ignominiam non ferens, tanto nisu pugnum ei dedit in faciem, ut uno ictu consternatum ad pavimentum usque precipitem daret, vociferans insuper prius eum penas pro impietate daturum, quod impuras manus in sacerdotem Christi profanus et idolatra mittere presumpsisset. Irruunt protinus alii clerici et laici et tam huic quam caeteris qui in cenaculum ascenderant adeo artis nexibus manus a tergo constringunt, ut sanguis plerisque rupta cute per ungues proflueret. Perlato audacis facti indicio ad eos qui in inferiori parte domus consistebant, ipsi quoque his qui apud se erant Arabum principibus idem faciunt. Dein laici omnes sublato in altum clamore vocatoque in auxilium sibi omnium rerum opifice Deo rursus arma capessunt, maceriam occupant, presidium, quod circa portas erat, conserta manu fundunt fugantque, et sic alacres, sic innovatis inopino successu viribus ubique rem peragunt, ut nihil lassitudinis, nihil incommodi ex triduana eis inedia et labore accessisse putares. Alacritatem tantam, repente ex trepidis rebus et ultima desperatione coortam, nimium admirati Arabes, nec aliam novitatis huius causam suspicati, quam quod de principibus suis sumptum fuisset supplicium, infestissimis animis in pugnam ruunt et facto grege per arma, per viros in castra perrumpere parant. Et acta res foret, nisi mature orto consilio christiani vinctos eo loco principes statuerent, ubi atrocissima vis hostium et creberrimus telorum imber incumbebat, apposito super capita eorum spiculatore, qui districtum in manibus gladium tenens clamitabat per interpretem, nisi ab obpugnatione quiescerent, non armis se adversum eos, sed principum capitibus dimicaturos. Tum ipsi principes, quos preter vinculorum acerbitatem imminens quoque cervicibus gladius vehementer angebat, cum magno eiulatu suos obtestabantur, ut moderatius agerent, ne obstinate certamen hostibus inferentes eos ad supplicium necemque suam, cum incisa spes esset veniae, inflammarent. Patris periculo attonitus filius ducis Arabum, quem ad portam atrii a patre causa presidii relictum supra memoravi, citato gradu in confertissimos suorum cuneos se dedit et furentis exercitus impetum voce et manu increpitans retinuit et tela in hostes iacere prohibuit, quae non hostes, ut ipsi putarent, sed principes sui propriis pectoribus toribus excepturi forent. Per hanc occasionem paululum ab armis et incursione vacatione data, nuncius venit in castra ad christianos, missus ab his qui in parasceue omnibus amissis nudi et saucii usque Ramulo [Ramleh] pertenderant. Is amaritudine et metu confectis mentibus magnum attulit refrigerium, indicans ducem predictae civitatis, licet paganum, divino tamen, ut putabatur, instinctu animatum, cum ingentibus copiis ad ipsos liberandos advenire. Nec latere potuit Arabitas advenientium hostium fama. Statimque omnes, aversis ab aliorum oppugnatione ad se ipsos salvandos cogitationibus, precipiti fuga, quo quemque spes evadendi vocabat, dilabuntur. In ea trepidatione, dum alii ad alia curanda discurrerent, unus vinctorum evasit, opera usus Sarraceni cuiusdam, quem ducem itineris christiani habebant, tanto omnium dolore, tanto gemitu, ut ab eo, cuius indulgentia dimissus fuerat, vix manus inhiberent.
+        <VolltextOriginalsprache>Interea predicti episcopi [Ebf. Siegfried von Mainz] [Bf. Gunther von Bamberg] [Bf. Otto von Regensburg] [Bf. Wilhelm von Utrecht] Ierosolimam [Jerusalem] pergentes, dum magnitudinem opum suarum gentibus, per quas iter habebant, inconsultius ostentarent, ultimum sibi periculum consciverant, nisi rem humana temeritate prolapsam divina misericordia restituisset. Nam barbaros, qui ex urbibus et agris ad spectandos tam illustres viros catervatim profluebant, primo peregrini cultus ac magnifici apparatus ingens miraculum, dein, ut fit, non minor predae spes ac desiderium cepit. Itaque cum transita Licia [Kilikien] fines Sarracenorum introissent et iam a civitate cui Ramulo [Ramleh] nomen est una vel paulo plus mansione abessent, proximo parasceue ante pascha circa terciam diei horam incursionem passi sunt ab Arabitis, qui comperto tam insignium virorum adventu undique ad spolia diripienda frequentes armatique confluxerant. Plerique christianorum religiosum putantes manu sibi auxilium ferre et salutem suam, quam peregre proficiscentes Deo devoverant, armis corporalibus tueri, prima statim congressione prostrati, vulneribus multis confecti et omnibus quae habebant a filo subteminis usque ad corrigiam caligae exspoliati sunt. Inter quos Willihelmus quoque Traiectensis episcopus, brachio pene plagis debilitato, nudus ac semivivus relictus est. Caeteri christiani iactu lapidum, quod genus teli forte locus ipse affatim ministrabat, non tam periculum propulsabant, quam mortem, quae presens urgebat, differre conabantur. Pedem etiam paulatim subtrahendo ad villam declinabant, quae ab ipso itinere spacio mediocri distabat. Capharnaum [Kfar Saba] hanc fuisse ex similitudine vocabuli coniciebant. Quam ut ingressi sunt, episcopi omnes atrium quoddam occupant, humili septum maceria et tam fragili, ut, etiamsi nulla vis adhiberetur, sola vetustate facile corrueret. In cuius medio domus erat, cenaculum habens satis editum et ad repugnandum quasi ex industria preparatum. Huius superiora episcopus Mogontinus et Babenbergensis cum clericis suis, inferiora caeteri episcopi sibi vendicant. Laici omnes ad arcendam vim hostium et maceriam defendendam impigre discurrunt, et primam quidem certaminis procellam lapidum iactu, ut predictum est, sustinuere. Dein cum barbari magnam telorum nubem in castra coniecissent, et ipsi plerumque impressione in eos facta clipeos et gladios manibus eorum vi extorsissent, non solum iam maceriam tueri sufficiunt, sed portis etiam interdum erumpere et pugnam comminus lacessere audent. Quorum impetum dum Arabes nullo iam loco, nulla acie sustinere possent, consilium tandem a tumultuaria congressione ad obsidionem vertunt et inedia atque lassitudine conficere aggrediuntur, quos ferro expugnare non poterant. Itaque multitudinem, qua superabundabant, conglobatis scilicet circiter XII milibus, partiuntur, ut alii aliis vicissim ad obpugnationis studium succedentes nullam illis vel paululum respirandi copiam facerent, suspicantes, quod propter inopiam rerum omnium, quibus vita humana sustentari solet, dimicandi laborem non diu tolleraturi forent. Ita christiani toto parasceue, toto sabbato sancto usque ad terciam fere horam paschalis diei sine intermissione oppugnabantur; nec eis hostilis improbitas vel modicum temporis punctum, quo saltem somni perceptione corpora recrearent, indulgebat. Nam cibum et potum nec, mortem pre oculis habentes, desiderabant nec, si magnopere desideraretur, quid sumerent, omnium inopes habebant. Cumque die tercio labore et inedia exhausti ad extremum pervenissent, et fortia plerumque conatos virtus ieiunio infracta frustraretur, quidam ex numero presbiterorum exclamavit non recte eos agere, quod in armis suis plus quam in Deo spei ac roboris ponerent et calamitatem, quam eo permittente incidissent, propriis viribus propulsare conarentur; propterea placere sibi, ut se dederent, presertim cum triduana iam abstinentia militaribus rebus eos inutiles prorsus reddidisset. Non esse Deo difficile, ut deditis eis et ab hoste sub iugum missis misericordiam prestaret, qui suos totiens etiam in ultima necessitate conclusos mirabiliter liberasset. Ut hoc quoque inferret: barbaros nequaquam propter ipsos occidendos tanto molimine grassari, sed ut pecunias eorum auferrent; quibus si potiti fuissent, liberos eos deinceps intactosque sine vi, sine molestia abire passuros. Placuit consilium omnibus, statimque ab armis ad preces versi, per interpretem, ut in deditionem acciperentur, orabant. Quo comperto, dux Arabum citato equo in primos advolat et caeteros quidem longius summovet, cavens, ne temere admissa multitudine preda confuse distraheretur. Ipse decem et septem honoratissimos gentis suae secum assumens castra ingressus est patentia, relicto ad portas presidii causa filio suo, ne quis forte predae avidus post se non vocatus irrumperet. Cumque admotis scalis in cenaculum, ubi Mogontinus et Babenbergensis episcopi latitabant, cum paucis ascendisset, Babenbergensis episcopus, cui, licet iunior aetate esset, tamen propter virtutum prerogativam et tocius corporis admirandam dignitatem precipuus a cunctis honor deferebatur , rogare eum cepit, ut, omnibus quae haberent usque ad novissimum quadrantem sublatis, nudos se abire sineret. Ille et victoria elatus et preter ingenitam morum barbariem accepta quoque tot congressionibus clade nimium efferatus ait se adversus eos iam triduo non sine grandi damno exercitus sui ea mente bellum gessisse, ut suis condicionibus erga victos uteretur, non quas ipsi constituissent; ne ergo falsa spe eluderentur, se, omnibus quae haberent sublatis, carnes eorum comesturum et sanguinem bibiturum. Nec moratus, linteum, quo caput more gentis obvolverat, expediens, facto vinculo in collum episcopi iniecit. Episcopus, ut erat vir liberalis verecundiae et maturae admodum gravitatis, ignominiam non ferens, tanto nisu pugnum ei dedit in faciem, ut uno ictu consternatum ad pavimentum usque precipitem daret, vociferans insuper prius eum penas pro impietate daturum, quod impuras manus in sacerdotem Christi profanus et idolatra mittere presumpsisset. Irruunt protinus alii clerici et laici et tam huic quam caeteris qui in cenaculum ascenderant adeo artis nexibus manus a tergo constringunt, ut sanguis plerisque rupta cute per ungues proflueret. Perlato audacis facti indicio ad eos qui in inferiori parte domus consistebant, ipsi quoque his qui apud se erant Arabum principibus idem faciunt. Dein laici omnes sublato in altum clamore vocatoque in auxilium sibi omnium rerum opifice Deo rursus arma capessunt, maceriam occupant, presidium, quod circa portas erat, conserta manu fundunt fugantque, et sic alacres, sic innovatis inopino successu viribus ubique rem peragunt, ut nihil lassitudinis, nihil incommodi ex triduana eis inedia et labore accessisse putares. Alacritatem tantam, repente ex trepidis rebus et ultima desperatione coortam, nimium admirati Arabes, nec aliam novitatis huius causam suspicati, quam quod de principibus suis sumptum fuisset supplicium, infestissimis animis in pugnam ruunt et facto grege per arma, per viros in castra perrumpere parant. Et acta res foret, nisi mature orto consilio christiani vinctos eo loco principes statuerent, ubi atrocissima vis hostium et creberrimus telorum imber incumbebat, apposito super capita eorum spiculatore, qui districtum in manibus gladium tenens clamitabat per interpretem, nisi ab obpugnatione quiescerent, non armis se adversum eos, sed principum capitibus dimicaturos. Tum ipsi principes, quos preter vinculorum acerbitatem imminens quoque cervicibus gladius vehementer angebat, cum magno eiulatu suos obtestabantur, ut moderatius agerent, ne obstinate certamen hostibus inferentes eos ad supplicium necemque suam, cum incisa spes esset veniae, inflammarent. Patris periculo attonitus filius ducis Arabum, quem ad portam atrii a patre causa presidii relictum supra memoravi, citato gradu in confertissimos suorum cuneos se dedit et furentis exercitus impetum voce et manu increpitans retinuit et tela in hostes iacere prohibuit, quae non hostes, ut ipsi putarent, sed principes sui propriis pectoribus toribus excepturi forent. Per hanc occasionem paululum ab armis et incursione vacatione data, nuncius venit in castra ad christianos, missus ab his qui in parasceue omnibus amissis nudi et saucii usque Ramulo [Ramleh] pertenderant. Is amaritudine et metu confectis mentibus magnum attulit refrigerium, indicans ducem predictae civitatis, licet paganum, divino tamen, ut putabatur, instinctu animatum, cum ingentibus copiis ad ipsos liberandos advenire. Nec latere potuit Arabitas advenientium hostium fama. Statimque omnes, aversis ab aliorum oppugnatione ad se ipsos salvandos cogitationibus, precipiti fuga, quo quemque spes evadendi vocabat, dilabuntur. In ea trepidatione, dum alii ad alia curanda discurrerent, unus vinctorum evasit, opera usus Sarraceni cuiusdam, quem ducem itineris christiani habebant, tanto omnium dolore, tanto gemitu, ut ab eo, cuius indulgentia dimissus fuerat, vix manus inhiberent.
 Nec multo post dux ipse, ut nunciatum fuerat, cum exercitu advenit, pacificeque in atrium a christianis susceptus est, suspensis tamen omnibus inter spem et metum, ne forte non sublata calamitas, sed hostis tantum mutatus esset, et propter novitatem rei difficile credentibus, quod Satanas Satanan eicere, hoc est paganus paganum ab infestatione christianorum cohibere vellet. Primo omnium vinctos sibi presentari iussit. Quos cum aspexisset et quae facta fuerant ordine audisset, maximas christianis gratias egit pro magnifice gestis rebus et expugnatis rei publicae acerrimis hostibus, qui regnum Babilonium [Babylon] iam per multos annos assiduis populationibus infestassent et magnas plerumque adversum se instructas acies commisso certamine obtrivissent. Traditos eos custodibus regi Babiloniorum vivos servari precepit. Ipse, accepta a christianis quanta convenerat pecunia, secum eos Ramulo [Ramleh] perduxit, Inde adhibito eis expeditorum iuvenum presidio, ne qua denuo latronum incursione periclitarentur, usque Ierosolimam [Jerusalem] eos perduci iussit. Nihil deinceps difficultatis in eundo, nihil in redeundo perpessi Liciam [Kilikien] pervenerunt, gratias Deo referentes, quod emensis tot rerum asperitatibus vivos eos et incolumes in tutum restituisset. Ex hoc per christianorum fines reditum facientibus omnia cedebant ex sententia.</VolltextOriginalsprache>
         <VolltextUebersetzung>Inzwischen waren die oben genannten Bischöfe [Ebf. Siegfried von Mainz; Bf. Gunther von Bamberg; Bf. Otto von Regensburg; Bf. Wilhelm von Utrecht] weiter gen Jerusalem [Jerusalem] gezogen; als sie den Völkern, durch deren Länder sie der Weg führte, unüberlegt ihren großen Reichtum zur Schau stellten, wären sie in schwerste Lebensgefahr geraten, hätte sie nicht die göttliche Barmherzigkeit in dieser durch menschliche Unbesonnenheit bedrohlich gewordenen Lage gerettet. Denn die Barbaren, die aus Stadt und Land scharenweise herbeiströmten, um so erlauchte Männer zu sehen, erfaßte zunächst gewaltiges Staunen über die fremdartige Kleidung und prächtige Ausrüstung und dann, wie es zu gehen pflegt, ebenso starke Hoffnung auf Beute und Verlangen danach. Als sie nun nach dem Durchmarsch durch Kilikien [Kilikien] in sarazenisches Gebiet eingerückt waren und nur noch einige Tagereisen oder wenig mehr von der Stadt Ramleh [Ramleh] entfernt waren, wurden sie am Karfreitag um die dritte Tagesstunde von Arabern überfallen, die auf die Kunde von der Ankunft so prächtig ausgestatteter Männer von allen Seiten in großer Zahl bewaffnet herbeigeströmt waren, um Beute zu machen.
 Die meisten Christen hielten es für nicht vereinbar mit ihrem Glauben, sich mit der Faust zu wehren und ihr Leben, das sie zu Beginn der Pilgerfahrt Gott geweiht hatten, mit irdischen Waffen zu schützen: so wurden sie gleich beim ersten Angriff niedergestreckt und, durch viele Wunden erschöpft, vom Faden bis zum Schuhriemen ausgeplündert. Unter ihnen blieb auch Bischof Wilhelm von Utrecht, dessen Arm von Schlägen fast gelähmt war, nackt und halbtot liegen. Die übrigen Christen wehrten sich mit Geschossen, die der Kampfplatz zufällig in Menge darbot, mit Steinwürfen, konnten zwar damit die Gefahr nicht abwenden, versuchten aber wenigstens so, den unmittelbar drohenden Tod hinauszuschieben. Auch zogen sie sich allmählich auf ein Dorf zurück, das nicht weit vom Wege ab lag: nach der Ähnlichkeit des Namens vermuteten sie, es sei Kapernaum [Kfar Saba].
@@ -19108,7 +19667,7 @@ Vgl. zu dieser Quellenstelle ebenfalls [0016]-[0007]; [0021]-[0019]; [0039]-[000
       <Titel>Einhards Jahrbücher, Einhardsannalen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -19197,7 +19756,7 @@ Vgl. hierzu [0014]-[0001] und [0044]-[0003].</Anmerkungen>
         <Zitation>Annales qui dicuntur Einhardi a. 778, ed. Pertz 1895, S. 51.</Zitation>
         <ZeitangabeQuelle>778</ZeitangabeQuelle>
         <Inhaltsangabe>König Karl der Große zieht 778 in Absprache mit Sulaiman Ebn al Arabi, dem Statthalter von Barcelona und Gerona, und dessem Sohn Iussef Ben Abdur Rahman el Fehri nach Spanien, erobert Pamplona sowie Saragossa und empfängt Geiseln.</Inhaltsangabe>
-        <VolltextOriginalsprache>Tunc ex persuasione praedicti Sarraceni [Sulaiman Ebn al Arabi von Barcelona und Gerona; Jussuf ibn-Abdérman al-Fihri] spem capiendarum quarundam in Hispania [Spanien] civitatum haud frustra concipiens congregato exercitu profectus est superatoque in regione Wasconum [Gascogne] Pyrinei [Pyrenäen] iugo, primo Pompelonem [Pamplona] Navarrorum [Navarra] oppidum adgressus in deditionem accepit [Karl I. der Große]. Inde Hiberum [Ebro] amnem vado traiciens Caesaraugustam [Saragossa] praecipuam illarum partium civitatem accessit acceptisque, quos Ibin al Arabi et Abuthaur quosque alii quidam Sarraceni obtulerunt, obsidibus Pompelonem [Pamplona] revertitur.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Tunc ex persuasione praedicti Sarraceni [Sulaiman Ebn al Arabi von Barcelona und Gerona] [Jussuf ibn-Abdérman al-Fihri] spem capiendarum quarundam in Hispania [Spanien] civitatum haud frustra concipiens congregato exercitu profectus est superatoque in regione Wasconum [Gascogne] Pyrinei [Pyrenäen] iugo, primo Pompelonem [Pamplona] Navarrorum [Navarra] oppidum adgressus in deditionem accepit [Karl I. der Große]. Inde Hiberum [Ebro] amnem vado traiciens Caesaraugustam [Saragossa] praecipuam illarum partium civitatem accessit acceptisque, quos Ibin al Arabi et Abuthaur quosque alii quidam Sarraceni obtulerunt, obsidibus Pompelonem [Pamplona] revertitur.</VolltextOriginalsprache>
         <VolltextUebersetzung>Nach den ihm [Karl I. der Große] von den obengenannten Sarrazenen [Sulaiman Ebn al Arabi von Barcelona und Gerona; Jussuf ibn-Abdérman al-Fihri] gegebenen Versicherungen machte er sich damals und nicht umsonst Hoffnung auf die Gewinnung einiger Städte in Spanien; er bot ein Heer auf, zog im Lande der Waskonen [Gascogne] über die Pyrenäen [Pyrenäen] und eroberte zuerst Pamplona [Pamplona], eine Stadt der Navarrer [Navarra]. Von da setzte er in einer Furt über den Ebro [Ebro], rückte vor Saragossa [Saragossa], die vornehmste Stadt in jenen Gegenden, nahm daselbst die Geiseln in Empfang, die ihm Ibinalarabi, Abuthaur und einige andere Sarrazenen anboten, und kehrte nach Pamplona [Pamplona] zurück.</VolltextUebersetzung>
         <ZitationUebersetzung>Die Reichsannalen mit Zusätzen aus den sog. Einhardsannalen a. 778, in: Quellen zur karolingischen Reichsgeschichte 1, bearb. von Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 5), Darmstadt 2008, S. 37.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -19671,7 +20230,7 @@ Vgl. zu diesem Bericht auch [0008]-[0013], [0014]-[0003], [0020]-[0001], [0035]-
       <Titel>Die Taten Kaiser Ludwigs</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Thegan</Autor>
+      <Autor Id="x3z33wjc-nxnd-j1rk-lt1i-4bbnuwmqc0sq">Thegan</Autor>
     </Autoren>
     <LebensdatenVerfasser>Vor 800 bis 849/853</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -19742,7 +20301,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Wolfgang Eggert, Art. Thegan 
       <Titel>Xantener Jahrbücher</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -20200,7 +20759,7 @@ Vgl. zu diesem Bericht auch: [0008]-[0013]; [0014]-[0003]; [0018]-[0004]; [0035]
       <Titel>Chronik</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Bernold von Konstanz</Autor>
+      <Autor Id="bca44a0b-e9fc-4a07-a6f9-50d8f1d43113">Bernold von Konstanz</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 1050-16.09.1100</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -21466,7 +22025,7 @@ Zur Datierung vgl. Bernold, Chronik a. 1096, ed. Robinson, S. 528, Anm. 611; Ber
       <Titel>Elegisches Gedicht zu Ehren des allerchristlichsten Kaisers Ludwig</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Ermoldus Nigellus</Autor>
+      <Autor Id="14ecaffa-e285-4e36-bc7c-a8c99525c521">Ermoldus Nigellus</Autor>
     </Autoren>
     <LebensdatenVerfasser>9. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -21719,7 +22278,7 @@ Obengemeldeter Stadt stürmen, die Wehr in der Hand."</VolltextUebersetzung>
         <Zitation>Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti I, ed. Dümmler 1884, S. 11-13, Z. 209-258.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Bericht über die Ansiedlung von Mönchen in Aquitanien [799-801]. Infolge eines Überfalls der Mauren wird Datus zum Mönch.</Inhaltsangabe>
-        <VolltextOriginalsprache>Hic quoque dum patrias servaret [der spätere Mönch Datus] ab hostibus aedes,
+        <VolltextOriginalsprache>Hic quoque dum patrias servaret [Datus] ab hostibus aedes,
 Sospite matre sibi consociante domo,
 Protinus heu pagum nimio vallante tumultu
 Rotinicum [Rouergue] Mauri destituere  nimis.
@@ -22138,7 +22697,7 @@ Der Suchbegriff ‚Hispania; Spanien‘ taucht in den ausgelassenen Passagen auf
             <Name>Cordoba</Name>
           </Entitaet>
           <Entitaet Id="5cdbb0fa-af75-4469-9cc1-c1ce6372aa5b" Type="Person">
-            <Name>Graf Wilhelm von Toulouse</Name>
+            <Name>Graf Wilhelm von Toulouse:</Name>
           </Entitaet>
         </Entitaeten>
       </Quelle>
@@ -22152,7 +22711,7 @@ Der Suchbegriff ‚Hispania; Spanien‘ taucht in den ausgelassenen Passagen auf
 Paruit, atque meum edidit imperium.
 Semper amore dei ecclesiarum iura novavit,
 Credita regna sibi contulit in melius.
-Vidistis, quae olim Maurorum funere [in Barcelona] misit [Ludwig I. der Fromme],
+Vidistis, quae olim Maurorum funere [Barcelona] misit [Ludwig I. der Fromme],
 Regem [Sa’dun al-Ru’aini], arma et vinctos, magna trophea simul.
 Vos mihi consilium fido de pectore, Franci,
 Dicite; nos promte mox peragamus idem.’</VolltextOriginalsprache>
@@ -22229,7 +22788,7 @@ Rathen und schleunig sodann will ich es richten ins Werk.</VolltextUebersetzung>
       <Titel>Geschichte der Langobarden</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Paulus Warnefridus">Paulus Diaconus</Autor>
+      <Autor Id="813c7191-ac3f-4a0f-ae1f-359af8f1280f" alt="Paulus Warnefridus">Paulus Diaconus</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 720/730-799</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -22946,7 +23505,7 @@ Die Perser waren zu diesem Zeitpunkt noch nicht muslimisch (erst ab 661).</Anmer
       <Titel>Chronik von den sechs Weltaltern</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Hermannus Contractus; Hermann der Lahme">Hermann von Reichenau</Autor>
+      <Autor Id="b28473e2-229b-49d5-b046-d52ebe98917a" alt="Hermannus Contractus; Hermann der Lahme">Hermann von Reichenau</Autor>
     </Autoren>
     <LebensdatenVerfasser>18.07.1013-24.09.1054</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -24252,7 +24811,7 @@ Zu Statthalter Hassan von Huesca vgl. Ernst Alexander Schmidt, Geschichte Aragon
       <Titel>-</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Ermoldus Nigellus</Autor>
+      <Autor Id="14ecaffa-e285-4e36-bc7c-a8c99525c521">Ermoldus Nigellus</Autor>
     </Autoren>
     <LebensdatenVerfasser>9. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -24317,7 +24876,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Dieter Schaller, Art. Ermoldu
       <Titel>Geschichte Ottos</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
+      <Autor Id="193a5ab0-963c-4eca-b314-b0155a16da9f" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 920-972</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -24408,7 +24967,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Ernst Karpf, Art. Liutprand v
       <Titel>Legatio Liutprandi Cremonensis episcopi ad imperatorem Constantinopolitanum Nicephorum Phocam pro Ottonibus Augustis et Adelheida</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
+      <Autor Id="193a5ab0-963c-4eca-b314-b0155a16da9f" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 920-972</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -24966,7 +25525,7 @@ Vgl. hierzu [0027]-[0006]</Anmerkungen>
       <Titel>Historia ecclesiastica, Bremensium praesulum historia, Taten der Bischöfe von Hamburg, Hamburgische Kirchengeschichte, Geschichte der Kirchenprovinz Hamburg in vier Büchern</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Adam Bremensis">Adam von Bremen</Autor>
+      <Autor Id="fe3467d7-ee66-49fd-a048-7b8e7eda6b05" alt="Adam Bremensis">Adam von Bremen</Autor>
     </Autoren>
     <LebensdatenVerfasser>gestorben nach 12.10.1081</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -25166,7 +25725,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Franz-Josef Schmale, Art. Ada
         <Zitation>Adam, Gesta Hammaburgensis 4, 31 (30), ed. Schmeidler 1917, S. 263f.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Der Verfasser berichtet, dass das Vieh in Norwegen wie bei den Arabern in Einöden gehalten wird.</Inhaltsangabe>
-        <VolltextOriginalsprache>Quorum armenta ritu Arabum longe in desertis stabulant [in Norwegen].</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Quorum armenta ritu Arabum longe in desertis stabulant [Norwegen].</VolltextOriginalsprache>
         <VolltextUebersetzung>Man weidet dort [in Norwegen] wie bei den Arabern die Herden in entlegenen Einöden […].</VolltextUebersetzung>
         <ZitationUebersetzung>Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, in: Quellen des 9. und 11. Jahrhunderts zur Geschichte der Hamburgischen Kirche und des Reiches, hg. von Werner Trillmich – Rudolf Buchner (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 11), Darmstadt 72000, S. 137-503, S. 477.</ZitationUebersetzung>
         <ZeitangabeWissenschaft />
@@ -25206,7 +25765,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Franz-Josef Schmale, Art. Ada
       <Titel>Jahrbücher von Quedlinburg</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -25528,7 +26087,7 @@ Vgl. mit Hinweisen für weiterführende Literatur, insbesondere zur Verfasserfra
       <Titel>Fredegarii Chronicon</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -26498,8 +27057,8 @@ Nach Heinard Steiger, Die Ordnung der Welt. Eine Völkerrechtsgeschichte des kar
       <Titel>Fragmentum Chesnianum (nach A. Duchesne)</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Richbod von Lorsch</Autor>
-      <Autor>unbekannt</Autor>
+      <Autor Id="dea813ac-5b51-4984-ba26-484a6e0906d1">Richbod von Lorsch</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>vor 784-1.10.804</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -26980,7 +27539,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hubertus Seibert, Art. Lorsch
       <Titel>Jahrbücher von St. Amand</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -27235,7 +27794,7 @@ Zur Datierung vgl. Annales Sancti Amandi, ed. Georg Heinrich Pertz, in: MGH SS 1
       <Titel>Jahrbücher des Jean du Tillet</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -27743,7 +28302,7 @@ Die Jahresangaben in runden Klammern beziehen sich wohl auf Unterschiede in der 
       <Titel>Alemannische Annalen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -28098,7 +28657,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales Alamannici, in: Reper
       <Titel>Pelagius-Legende</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Hrotsvita sanctimonialis Gandersheimensis; Roswitha von Gandersheim">Hrotsvit von Gandersheim</Autor>
+      <Autor Id="6e784acb-4fe2-467f-83ab-4f08258b2dc5" alt="Hrotsvita sanctimonialis Gandersheimensis; Roswitha von Gandersheim">Hrotsvit von Gandersheim</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 935-nach 973?</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -28192,7 +28751,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hrotsvita sanctimonialis Gand
       <Titel>Vier Bücher Geschichten</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Nithard</Autor>
+      <Autor Id="b51267c9-75aa-40e9-9add-108c25314fa9">Nithard</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 800-Juni 844</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -28271,7 +28830,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hans-Werner Goetz, Art. Nitha
       <Titel>Chronik</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Berthold von Reichenau</Autor>
+      <Autor Id="7f8ff30e-dc76-4c70-8868-9e88ae66bcae">Berthold von Reichenau</Autor>
     </Autoren>
     <LebensdatenVerfasser>gest. 12.03.1088</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -28369,10 +28928,10 @@ Vgl. zu dieser Quellenstelle ebenfalls [0016]-[0007], [0017]-[0006], [0021]-[001
       <Titel>Taten des Frankenkönigs Dagobert I.</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Hilduin von St. Denis</Autor>
-      <Autor>Hinkmar von Reims</Autor>
+      <Autor Id="7d7844a4-8c11-49b1-a44d-54c08689ff90">Hilduin von St. Denis</Autor>
+      <Autor Id="af5f89a8-0c52-42f0-a463-d73f295ced99">Hinkmar von Reims</Autor>
     </Autoren>
-    <LebensdatenVerfasser>Hilduin (814-841), Hinkmar: Unbekannt</LebensdatenVerfasser>
+    <LebensdatenVerfasser>Hilduin (814-841), Hinkmar: um 806-21.12.882</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="830-835">830-835</Datum>
     </Abfassungszeitraum>
@@ -28465,7 +29024,7 @@ Für den Bericht Fredegars wird neben den 630er Jahren auch eine Datierung in di
       <Titel>Größere Jahrbücher von St. Gallen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -28940,7 +29499,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales Sangallenses maiores,
       <Titel>Taten der heiligen Väter im Kloster St. Wandrille</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -29042,7 +29601,7 @@ Zur Datierung vgl. Ulrich Nonn, Art. Karl Martell, in: Lexikon des Mittelalters 
         <Zitation>Gesta sanctorum patrum Fontanellensis coenobii 6,4, ed. Padrié 1999, S. 84.</Zitation>
         <ZeitangabeQuelle>737</ZeitangabeQuelle>
         <Inhaltsangabe>Nachdem Sarazenen Gotien und Septimanien eingenommen haben, fallen sie 737 in der Provence ein und erobern die Stadt Avignon. Der fränkische Hausmeier Karl Martell zieht daraufhin nach Avignon, belagert die Stadt und besiegt die sarazenischen Besatzer. In der Folge wendet er sich nach Narbonne, wo er ein sarazenisches Heer belagert. Ein zweites sarazenisches Heer unter Omar ibn Chaled eilt den Eingeschlossenen aus Spanien zur Hilfe. Karl gelingt es, dieses an der Berre vernichtend zu schlagen, wobei auch Omar ibn Chaled getötet wird. Anschließend kehrt Karl siegreich ins Frankenreich zurück.</Inhaltsangabe>
-        <VolltextOriginalsprache>Huius anno IIII, qui est dominicae Incarnationis D CC XXXVII nunciatum est inuicto Karolo [Karl Martell] principi, quod saeua gens Sarracenorum, obtenta Septimania [Septimanien] et Gotia [Gothien], in partes iam Prouinciae [Provence] irruissent castrumque munitissimum Auinionem [Avignon] per fraudem quorumdam Prouincilaium comitatum illum obtinuissent. Quapropter exercitum congregans, illuc iter dirigebat [Karl Martell], praemissisque quibusdam exercitus sui principibus, qui castrum obsiderent, ipse prosecutus est praedictamque urbem obsidione circumdat; machinisque compositis urbem munitissimam diruit ipsamque cum habitatoribus suis igne et gladio consumit. Rodanum [Rhône] dehinc fluuium transiit, Gothorum fines penetrauit, Narbonam [Narbonne], urbem celeberrimam, castris circumcinxit, regem Sarracenorum nomine Adthima [Jussuf ibn-Abdéraman, Statthalter der Gallia Narbonensis] cum satellitibus suis ibidem reclusit. Haec audientes maiores natu Sarracenorum, qui morabantur in regione Hispaniae [Spanien], collecto exercitu, cum alio rege nomine Amormacha [Omar ibn Chaled] aduersus Karolum arma corripiunt. Contra quos inuictus princeps Karolus, ciuitate Narbona sub custodia derelicta, in loco qui uocatur Birra [Berre] septimo ab urbe miliario intrepidus occurrit; ubi, diuina misericordia succurrente, pugna acerrima commissa, Karolus princeps uictor extitit, regem praefatum Sarracenorum interemit, exercitumque eius penitus usque ad internitionem deleuit, spoliis innumerabilibus ditatus, cuncta depopulata Gotia diruptisque ciuitatibus, deuictisque uniuersis hostibus, praeter eos quos in Narbona incluserat, urbe eadem sub custodia derelicta, cum magno triumpho remeauit in Frantiam [Frankenreich].</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Huius anno IIII, qui est dominicae Incarnationis D CC XXXVII nunciatum est inuicto Karolo [Karl Martell] principi, quod saeua gens Sarracenorum, obtenta Septimania [Septimanien] et Gotia [Gothien], in partes iam Prouinciae [Provence] irruissent castrumque munitissimum Auinionem [Avignon] per fraudem quorumdam Prouincilaium comitatum illum obtinuissent. Quapropter exercitum congregans, illuc iter dirigebat [Karl Martell], praemissisque quibusdam exercitus sui principibus, qui castrum obsiderent, ipse prosecutus est praedictamque urbem obsidione circumdat; machinisque compositis urbem munitissimam diruit ipsamque cum habitatoribus suis igne et gladio consumit. Rodanum [Rhône] dehinc fluuium transiit, Gothorum fines penetrauit, Narbonam [Narbonne], urbem celeberrimam, castris circumcinxit, regem Sarracenorum nomine Adthima [Jussuf ibn-Abdérman al-Fihri] cum satellitibus suis ibidem reclusit. Haec audientes maiores natu Sarracenorum, qui morabantur in regione Hispaniae [Spanien], collecto exercitu, cum alio rege nomine Amormacha [Omar ibn Chaled] aduersus Karolum arma corripiunt. Contra quos inuictus princeps Karolus, ciuitate Narbona sub custodia derelicta, in loco qui uocatur Birra [Berre] septimo ab urbe miliario intrepidus occurrit; ubi, diuina misericordia succurrente, pugna acerrima commissa, Karolus princeps uictor extitit, regem praefatum Sarracenorum interemit, exercitumque eius penitus usque ad internitionem deleuit, spoliis innumerabilibus ditatus, cuncta depopulata Gotia diruptisque ciuitatibus, deuictisque uniuersis hostibus, praeter eos quos in Narbona incluserat, urbe eadem sub custodia derelicta, cum magno triumpho remeauit in Frantiam [Frankenreich].</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -29279,7 +29838,7 @@ Zur Datierung vgl. ebenfalls [0011]-[0012].</Anmerkungen>
       <Titel>Translatio sanctorum martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios a. 858</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Aimoin von Saint-Germain-des-Prés</Autor>
+      <Autor Id="6093fb82-a7bc-414c-8ee2-5622dbc00bba">Aimoin von Saint-Germain-des-Prés</Autor>
     </Autoren>
     <LebensdatenVerfasser>vor 854-896</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -29375,7 +29934,7 @@ Zur Datierung vgl. auch Juan Carlos Lara Olmo, El relato del translado de los sa
         <Zitation>De translatione ss. martyrium Georgii monachi 4, ed. Migne 1881, Sp. 943A-943B.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Sunifred, der spätere Abt von Sainte-Marie in Arles, kritisiert die Ermordungen von zahlreichen christlichen Gläubigen, welche im Zuge der Christenverfolgungen durch Emir Abd ar-Rahman II. von Cordoba stattgefunden haben, und führt beispielhaft die Martyrien von Georg und Aurelius [vom 27.07.852] an.</Inhaltsangabe>
-        <VolltextOriginalsprache>Interea contigit ut idem Sunifridus [Abt Sunifred von Sainte-Marie in Arles] de enormi fidelium interfectione, sub Abdiramae regis Cordubae [Emir Abd ar-Rahman II.] persecutione nuper facta sermonem sumeret, exponens eorum quosdam et maxime quos tenemus Georgium atque Aurelium, ea ipsa tempestate nobiliter passos, ac sanguine triumphali acie passionis coruscante, magnifice laureatos, aeterni Regis palatium victoriose subiisse.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Interea contigit ut idem Sunifridus [Sunifred] de enormi fidelium interfectione, sub Abdiramae regis Cordubae [Emir Abd ar-Rahman II.] persecutione nuper facta sermonem sumeret, exponens eorum quosdam et maxime quos tenemus Georgium atque Aurelium, ea ipsa tempestate nobiliter passos, ac sanguine triumphali acie passionis coruscante, magnifice laureatos, aeterni Regis palatium victoriose subiisse.</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -29890,8 +30449,8 @@ Eine spanische Übersetzung findet sich bei Juan Carlos Lara Olmo, El relato del
       <Titel>Chronik</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="S. Ado Archiepiscopus Viennensis">Ado von Vienne</Autor>
-      <Autor>unbekannt</Autor>
+      <Autor Id="77af21e6-b3e3-4029-9a87-34bcdd4dbd1b" alt="S. Ado Archiepiscopus Viennensis">Ado von Vienne</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>Gest. 16. Dezember 875</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -30676,7 +31235,7 @@ Vgl. [0044]-[0008] und [0044]-[0009].</Anmerkungen>
       <Titel>Jahrbücher von Lobbes</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -31253,9 +31812,9 @@ Vgl. [0014]-[0004].</Anmerkungen>
       <Titel>Taten der Bischöfe von Metz</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Paulus Warnefridus">Paulus Diaconus</Autor>
+      <Autor Id="813c7191-ac3f-4a0f-ae1f-359af8f1280f" alt="Paulus Warnefridus">Paulus Diaconus</Autor>
     </Autoren>
-    <LebensdatenVerfasser>8. Jahrhundert</LebensdatenVerfasser>
+    <LebensdatenVerfasser>um 720/730-799</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="780-790">um 784</Datum>
     </Abfassungszeitraum>
@@ -31399,7 +31958,7 @@ Hic me spe cuius freti posuere parentes.</VolltextOriginalsprache>
       <Titel>Annalen der Abtei Bèze</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -31480,7 +32039,7 @@ Weitere Berichte über Sarazenen jedoch außerhalb des Untersuchungszeitraums fi
       <Titel>The Reckoning of Time</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Beda Venerabilis</Autor>
+      <Autor Id="30d161b5-e580-4ab0-99ba-c4e71d854693">Beda Venerabilis</Autor>
     </Autoren>
     <LebensdatenVerfasser>673-735</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -31767,7 +32326,7 @@ Zum Kauf der Gebeine des Hl. Augustinus vgl. die kurze Anmerkung bei Matthias Ha
       <Titel>Kurze Geschichte der Langobarden</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Andreas Bergomas">Andreas von Bergamo</Autor>
+      <Autor Id="704f34a3-130d-4846-89a5-08742af48039" alt="Andreas Bergomas">Andreas von Bergamo</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 875</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -31960,7 +32519,7 @@ Zum Angriff der aus Afrika kommenden Sarazenen vgl. die Regesten Ludwigs II. RI 
       <Titel>Annalen von Bari</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -32277,7 +32836,7 @@ Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protos
       <Titel>Laus Spaniae</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Isidor episcopus Hispalensis; Isidor Junior">Isidor von Sevilla</Autor>
+      <Autor Id="d7f12c92-0b44-44fd-81ef-37373e5bcb1b" alt="Isidor episcopus Hispalensis; Isidor Junior">Isidor von Sevilla</Autor>
     </Autoren>
     <LebensdatenVerfasser>Ca. 560 - 636</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -32349,7 +32908,7 @@ An dieser Stelle ist nicht direkt von Sarazenen die Rede, jedoch von heidnischen
       <Titel>Chronik vom Heiligen Benedikt</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -32443,7 +33002,7 @@ Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Bened
         <Zitation>Cronicae Sancti Benedicti Casinensis I,6, ed. Berto 2006, S. 4ff.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Nach zahlreichen Niederlagen gegen die eingefallenen Sarazenen entsenden Langobarden [866] Boten an Kaiser Ludwig II. und bitten um dessen militärische Unterstützung, woraufhin dieser ein Dekret zur Vorbereitung eines Heereszugs nach Italien erteilt und zu den Hilfesuchenden eilt.</Inhaltsangabe>
-        <VolltextOriginalsprache>Langobardi vero dum nimia suis pro factis pericula sustinerent, ob hoc nimium afflicti necessitatemque compulsi, Franciam [Westfrankenreich] legatos dirigunt atque gloriosi imperatoris Hludowici [Ludwig II.] implorant augusti clementiam, ut patria sua cum gente veniens eos omnino a Saracenis quantocius eriperet. Qui beniens, hoc decretum sue reliquid patrię.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Langobardi vero dum nimia suis pro factis pericula sustinerent, ob hoc nimium afflicti necessitatemque compulsi, Franciam [Westfrankenreich (Frankreich)] legatos dirigunt atque gloriosi imperatoris Hludowici [Ludwig II.] implorant augusti clementiam, ut patria sua cum gente veniens eos omnino a Saracenis quantocius eriperet. Qui beniens, hoc decretum sue reliquid patrię.</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -32646,7 +33205,7 @@ Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Bened
             <Name>Bari</Name>
           </Entitaet>
           <Entitaet Id="bd9db32a-0480-4278-a041-8a742c660937" Type="Ort">
-            <Name>Montecassino</Name>
+            <Name>Region um Montecassino</Name>
           </Entitaet>
           <Entitaet Id="74ad8a19-569f-494b-b715-3750db1f2ab3" Type="Person">
             <Name>Khalfun</Name>
@@ -32797,7 +33356,7 @@ Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Bened
         <Zitation>Cronicae Sancti Benedicti Casinensis II,14, ed. Berto 2006, S. 24.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>König Ludwig II. von Italien zieht [im Frühjahr 848] auf Bitten Papst Leos IV. nach Italien, bekämpft erfolgreich die mit Fürst Radelchis von Benevent paktierenden Sarazenen und befreit die Städte Bari und Benevent. Ein Anführer der Sarazenen namens Massar wird [im Mai 848] enthauptet.</Inhaltsangabe>
-        <VolltextOriginalsprache>[14.] Per idem tempus Bassacius abbas [Abt Bassacius von Montecassino], rogatus a primatibus patrię [Papst Leo IV.], adiit Franciam [Frankenreich], qui obsecrans gloriosum imperatorem Hludowicum [Ludwig II.]. Veniens Barim [Bari] et in quantum possibilitas fuit totis viribus cum Saracenis dimicabit. Post complures autem dies venit Beneventum [Benevent]. Igitur sabbato vigilia sanctum pentecosten infra Beneventanam [Benevent] urbem interempti Saraceni, Radelchisi principatum [Fürst Radelchis I. von Benevent] gerens, Massari [Anführer der Sarazenen] capitur, ad imperatorem adductus capite plectitur. Hludowicus exin repedavit in patriam.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>[14.] Per idem tempus Bassacius abbas [Abt Bassacius von Montecassino], rogatus a primatibus patrię [Papst Leo IV.], adiit Franciam [Frankenreich], qui obsecrans gloriosum imperatorem Hludowicum [Ludwig II.]. Veniens Barim [Bari] et in quantum possibilitas fuit totis viribus cum Saracenis dimicabit. Post complures autem dies venit Beneventum [Benevent]. Igitur sabbato vigilia sanctum pentecosten infra Beneventanam [Benevent] urbem interempti Saraceni, Radelchisi principatum [Fürst Radelchis I. von Benevent] gerens, Massari [Masar] capitur, ad imperatorem adductus capite plectitur. Hludowicus exin repedavit in patriam.</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -32849,15 +33408,18 @@ Zum Bündnis zwischen Fürst Radelchis von Benevent und den Sarazenen vgl. [0053
           <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
             <Name>Italien</Name>
           </Entitaet>
+          <Entitaet Id="185f2a86-d713-4d5c-9d94-c23a830d0ef4" Type="Person">
+            <Name>Masar</Name>
+          </Entitaet>
           <Entitaet Id="0d3f8a97-ae19-40a0-89ce-664d07818a73" Type="Person">
             <Name>Abt Bassacius von Montecassino</Name>
           </Entitaet>
           <Entitaet Id="8dc0fb82-8147-4216-ad80-c6ceacc01b97" Type="Person">
             <Name>Papst Leo IV.</Name>
           </Entitaet>
-          <!-- <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
+          <Entitaet Id="776d9240-2902-42ea-bf0f-08cdfecd4a76" Type="Ort">
             <Name>Frankenreich</Name>
-          </Entitaet> klären: was ist in der Quellenstelle mit Frankenreich gemeint und ist die Inhaltsangabe inhaltlich korrekt!! -->
+          </Entitaet>
           <Entitaet Id="613fe211-ab76-4dae-9e76-37ed97f8cd89" Type="Person">
             <Name>Ludwig II.</Name>
           </Entitaet>
@@ -33300,7 +33862,7 @@ Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Bened
       <Titel>Geschichte der Langobarden von Benevent</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Erchembert</Autor>
+      <Autor Id="5cee1ca1-d7fe-44cc-939c-f5888b40c71e">Erchembert</Autor>
     </Autoren>
     <LebensdatenVerfasser>9. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -33533,7 +34095,7 @@ Vgl. zudem [0053]-[0004].</Anmerkungen>
         <Zitation>Erchemperto, Piccola Storia dei Longobardi di Benevento 18, ed. Berto 2013, S. 116.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Sarazenen verwüsten [um 843] unter der Führung eines gewissen Massar die Gegend um Benevent, während sich die Fürsten Siconulf von Salerno und Radelchis von Benevent gegenseitig bekämpfen.</Inhaltsangabe>
-        <VolltextOriginalsprache>Set cum iugiter civili bello invicem inter se lacerarentur [Fürst Siconulf von Salerno; Fürst Radelchis I. von Benevent] essetque omnium pernicies et ut, ita dicam anime, et cordis extrema perditio, maxime quia Saraceni Benevento [Benevent] degentes, quorum rex erat Massari [Masar], infra extraque omnia funditus devastavit, ita ut etiam optimates illius pro nichilo ducerent atque ut ineptos servulos taureis duriter flagellarent.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Set cum iugiter civili bello invicem inter se lacerarentur [Fürst Siconulf von Salerno] [Fürst Radelchis I. von Benevent] essetque omnium pernicies et ut, ita dicam anime, et cordis extrema perditio, maxime quia Saraceni Benevento [Benevent] degentes, quorum rex erat Massari [Masar], infra extraque omnia funditus devastavit, ita ut etiam optimates illius pro nichilo ducerent atque ut ineptos servulos taureis duriter flagellarent.</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -33701,7 +34263,7 @@ Vgl. zudem [0053]-[0004].</Anmerkungen>
 Vgl. auch [0053]-[0009].</Anmerkungen>
         <Entitaeten>
           <Entitaet Id="c10e9a69-a7ba-469c-bac9-211127dbdec8" Type="Ort">
-            <Name>Ariano Irpino</Name>
+            <Name>Ariano Irpino?</Name>
           </Entitaet>
           <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
             <Name>Italien</Name>
@@ -33828,7 +34390,7 @@ Vgl. ferner [0053]-[0003].</Anmerkungen>
         <Zitation>Erchemperto, Piccola Storia dei Longobardi di Benevento 35, ed. Berto 2013, S. 146.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Sarazenen belagern [871] die italienische Stadt Salerno und verwüsten die Regionen von Benevent, Capua und Neapel, werden jedoch [872] unter zahlreichen Verlusten von einem Heeresaufgebot des Fürsten Adelchis von Benevent aus der Region vertrieben. Da dieser im Anschluss hieran selbst Salerno belagert, entsendet Kaiser Ludwig II. [873] auf Vorschlag des Bischofs und Grafen Landulf von Capua eine Streitmacht gegen den kriegerischen Herzog [s. Anm.].</Inhaltsangabe>
-        <VolltextOriginalsprache>Absolutus autem, Domino iubente, cesar [Ludwig II.] insons, statim Sarraceni Salernum [Salerno] applicuerunt quasi XXX milia; quam graviter obsidentes, hinc et inde cuncta forinsecus stirpitus deleverunt, occisis in ea innumerabilibus colonis et depopulati sunt ex parte Neapolim [Neapel], Beneventum [Benevent] et Capuam [Capua]. Quo tempore ambo Lamberti comites [Herzog Lambert I. von Spoleto; Lambert der Kahle] augusti furorem metuentes, Beneventum [Benevent] recesserunt et ab Adelgiso [Fürst Adelchis von Benevent] honorifice suscepti sunt. Quorum auxilio fretus, super Saracenorum scaram irruit et viriliter stravit, occisis ex eis pene tribus milibus viris Quibus etiam diebus Capuam [Capua] iuxta Suessulam [Suessula] mille ex eis peremerunt. Cumque in hac obsidione prope terminaretur annus, misso exercitu iam dictus augustus per sugestionem Landulfi presulis [Bf. und Graf Landulf von Capua], hoc enim solummodo memorabile bonum gessit a die ortus sui, et peremit ex prophanis in Capua [Capua] ferme novem milia viros. Post hec per semetipsum dignatus est advenire Capuam. Cuius advento cognito, Sarraceni Salernum [Salerno] relinquentes, Calabriam [Kalabrien] adeunt, eamque intra se divisam repperientes, funditus depopularunt, ita ut deserta sit veluti in diluvio.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Absolutus autem, Domino iubente, cesar [Ludwig II.] insons, statim Sarraceni Salernum [Salerno] applicuerunt quasi XXX milia; quam graviter obsidentes, hinc et inde cuncta forinsecus stirpitus deleverunt, occisis in ea innumerabilibus colonis et depopulati sunt ex parte Neapolim [Neapel], Beneventum [Benevent] et Capuam [Capua]. Quo tempore ambo Lamberti comites [Herzog Lambert I. von Spoleto] [Lambert der Kahle] augusti furorem metuentes, Beneventum [Benevent] recesserunt et ab Adelgiso [Fürst Adelchis von Benevent] honorifice suscepti sunt. Quorum auxilio fretus, super Saracenorum scaram irruit et viriliter stravit, occisis ex eis pene tribus milibus viris Quibus etiam diebus Capuam [Capua] iuxta Suessulam [Suessula] mille ex eis peremerunt. Cumque in hac obsidione prope terminaretur annus, misso exercitu iam dictus augustus per sugestionem Landulfi presulis [Bf. und Graf Landulf von Capua], hoc enim solummodo memorabile bonum gessit a die ortus sui, et peremit ex prophanis in Capua [Capua] ferme novem milia viros. Post hec per semetipsum dignatus est advenire Capuam. Cuius advento cognito, Sarraceni Salernum [Salerno] relinquentes, Calabriam [Kalabrien] adeunt, eamque intra se divisam repperientes, funditus depopularunt, ita ut deserta sit veluti in diluvio.</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -34062,7 +34624,7 @@ Zur Rebellion der italienischen Fürsten vgl. [0055]-[0008].</Anmerkungen>
         <Zitation>Erchemperto, Piccola Storia dei Longobardi di Benevento 38, ed. Berto 2013, S. 152.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Nachdem der sarazenische Anführer Uthman aus Afrika gekommen ist und mit einer Streitmacht die italienischen Städte Benevent, Telese und Alife überfallen hat, entsendet er die Getreuen Annoso [?] und Abd-el-Hakk [?] nach Bari. Zeitgleich versöhnt sich Emir Sawdan von Bari [vor 871] mit Fürst Adelchis von Benevent und bittet den griechischen Heerführer Gregor mit einer Streitmacht nach Bari zu kommen.</Inhaltsangabe>
-        <VolltextOriginalsprache>Quo tempore Utmagnus [Uthman], qui ad Saugdan [Emir Sawdan von Bari] exul fuerat, ab Africa [Afrika] cum Annoso veniens, Tarentum [Tarent] intravit, rex effectus est egressusque Beneventum [Benevent] graviter depredavit et Telesam [Telese] et Alipham [Alife]. Tantaque victoria adeptus est, ut Saugdanem iam sepe dictum potestatem ab Adelgiso [Fürst Adelchis von Benevent] recolligeret; nam Annosum [Annoso] et Abdelbach [Abd-el-Hakk] ante apocrisarios miserat. Hoc audientes, qui Barim [Bari] residebant, Gregorium, baiulum imperiale Grecorum [Gregor von Griechenland ?], qui tunc in Odronto [Otranto] degebat, cum multis exercitibus asciverunt et Barim introduxerunt ob Sarracenorum metum. Qui statim apprehensum gastaldeum illiusque primores Constantinopolim [Konstantinopel] misit, ut quibus iureiurandum fidem dederat.</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Quo tempore Utmagnus [Uthman], qui ad Saugdan [Emir Sawdan von Bari] exul fuerat, ab Africa [Afrika] cum Annoso veniens, Tarentum [Tarent] intravit, rex effectus est egressusque Beneventum [Benevent] graviter depredavit et Telesam [Telese] et Alipham [Alife]. Tantaque victoria adeptus est, ut Saugdanem iam sepe dictum potestatem ab Adelgiso [Fürst Adelchis von Benevent] recolligeret; nam Annosum [Annoso] et Abdelbach [Abd-el-Hakk] ante apocrisarios miserat. Hoc audientes, qui Barim [Bari] residebant, Gregorium, baiulum imperiale Grecorum [Gregor von Griechenland?], qui tunc in Odronto [Otranto] degebat, cum multis exercitibus asciverunt et Barim introduxerunt ob Sarracenorum metum. Qui statim apprehensum gastaldeum illiusque primores Constantinopolim [Konstantinopel] misit, ut quibus iureiurandum fidem dederat.</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -34148,7 +34710,7 @@ Zur Rebellion der italienischen Fürsten vgl. [0055]-[0008].</Anmerkungen>
             <Name>Bari</Name>
           </Entitaet>
           <Entitaet Id="f9f5d820-8cab-4cfa-b85c-4dd342326353" Type="Person">
-            <Name>Gregor von Griechenland</Name>
+            <Name>Gregor von Griechenland?</Name>
           </Entitaet>
           <Entitaet Id="6dec638d-46a4-4da0-806a-075a0d56a55b" Type="Ort">
             <Name>Otranto</Name>
@@ -35511,7 +36073,7 @@ Zur Werbung der Sarazenen durch Bischof Athanasius II. von Neapel und Graf Pando
       <Titel>Continuatio Isidoriana Byzantia-Arabica</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -37142,7 +37704,7 @@ Grund für die Verteidigung von Damaskus ist das Vorrücken sarazenischer Truppe
       <Titel>Jahrbücher des Denis Pétau</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -37420,9 +37982,9 @@ Die Jahresangabe in Klammern ist lediglich im Codex Pithoei überliefert, vgl. A
       <Titel>Jahrbücher</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Flodoardus canonicus Remensis">Flodoard von Reims</Autor>
+      <Autor Id="6f5ea5b1-9564-4ca1-a8a3-052aaa259d76" alt="Flodoardus canonicus Remensis">Flodoard von Reims</Autor>
     </Autoren>
-    <LebensdatenVerfasser>893/894-966</LebensdatenVerfasser>
+    <LebensdatenVerfasser>893/894 - 28. März 966</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="919-978">919-966, Postume Fortsetzung bis 978</Datum>
     </Abfassungszeitraum>
@@ -38123,7 +38685,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Peter Christian Jacobsen, Art
       <Titel>Die Geschichte vom Leben des Johannes</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Johannes von St. Arnulf in Metz</Autor>
+      <Autor Id="cfe0fd51-cfae-420e-8dee-a83d0dc0b9ba">Johannes von St. Arnulf in Metz</Autor>
     </Autoren>
     <LebensdatenVerfasser>gest. (vor) 984</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -38240,7 +38802,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Michel Parisse, Art. Johann, 
       <Titel>Die Lebensbeschreibung des Griechen Symeon</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -38453,7 +39015,7 @@ Vgl. [0060]-[0003].</Anmerkungen>
       <Titel>Enzyklopädie</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Isidor episcopus Hispalensis; Isidor Junior">Isidor von Sevilla</Autor>
+      <Autor Id="d7f12c92-0b44-44fd-81ef-37373e5bcb1b" alt="Isidor episcopus Hispalensis; Isidor Junior">Isidor von Sevilla</Autor>
     </Autoren>
     <LebensdatenVerfasser>ca. 560-636</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -39110,7 +39672,7 @@ Vgl. [0061]-[0006].</Anmerkungen>
       <Titel>Leben des hl. Ulrich</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Gerhardus praepositus Augustanus">Gerhard von Augsburg</Autor>
+      <Autor Id="06064b96-2c39-48be-819e-4de25b56ea0b" alt="Gerhardus praepositus Augustanus">Gerhard von Augsburg</Autor>
     </Autoren>
     <LebensdatenVerfasser>gestorben wohl um 990</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -39267,7 +39829,7 @@ Zum Italienzug vgl. Friedrich Zoepfl, Das Bistum Augsburg und seine Bischöfe im
       <Titel>Leben des hl. Maiolus</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Odilo abbas Clunicensis">Odilo von Cluny</Autor>
+      <Autor Id="e611a3a3-79d5-474e-9a48-8a6cdad114cb" alt="Odilo abbas Clunicensis">Odilo von Cluny</Autor>
     </Autoren>
     <LebensdatenVerfasser>961/962-1049</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -39371,7 +39933,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Syrus und des Nagold, [00
       <Titel>Lebensbeschreibung des heiligen Maiolus</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Syrus; Syrus monachus Cluniacensis">Syrus von Cluny</Autor>
+      <Autor Id="88641ab6-9502-499e-9776-d677f59d725d" alt="Syrus; Syrus monachus Cluniacensis">Syrus von Cluny</Autor>
     </Autoren>
     <LebensdatenVerfasser>11. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -39507,7 +40069,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo und des Nagold, [00
       <Titel>Hodoeporicon</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Hugeburc von Heidenheim">Hugeburg von Heidenheim</Autor>
+      <Autor Id="168ab45e-a127-47d6-83e6-b29da4fc6616" alt="Hugeburc von Heidenheim">Hugeburg von Heidenheim</Autor>
     </Autoren>
     <LebensdatenVerfasser>um 730 - nach 778</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -39991,7 +40553,7 @@ Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibal
       <Titel>Lebensbeschreibung des heiligen Maiolus</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Nalgodus monachus; Nalgodus Cluniacensis">Nagold</Autor>
+      <Autor Id="55910ea1-a57d-42b7-9cfc-e82ffed8da85" alt="Nalgodus monachus; Nalgodus Cluniacensis">Nagold</Autor>
     </Autoren>
     <LebensdatenVerfasser>906/915-994</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -40167,7 +40729,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo und des Syrus, [006
       <Titel>Geschichte der Reimser Kirche</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Flodoardus canonicus Remensis">Flodoard von Reims</Autor>
+      <Autor Id="6f5ea5b1-9564-4ca1-a8a3-052aaa259d76" alt="Flodoardus canonicus Remensis">Flodoard von Reims</Autor>
     </Autoren>
     <LebensdatenVerfasser>893/894 - 28. März 966</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -40311,7 +40873,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: P. Chr. Jacobsen, Art. Flodoa
         <Zitation>Flodoard von Reims, Die Geschichte der Reimser Kirche IV, 2, ed. Stratmann 1998, S. 372.</Zitation>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Papst Formosus berichtet 892 Erzbischof Fulko von Reims, dass Gesandte aus dem Orient und Afrika zu ihm geschickt wurden, um ein Schisma unter den Bischöfen dieser Provinzen zu beseitigen.</Inhaltsangabe>
-        <VolltextOriginalsprache>Dicitque [Papst Formosus; Ebf. Fulco von Reims] longo retroacto tempore perniciosas hereses Orientem confundere et Constantinopolitanam [Konstantinopel] ecclesiam nociva scismata perturbare, simul etiam regionis Affricane [Afrika] legatos insistere, responsa petentes pro dudum exorto inter episcopos ipsarum provinciarum scismate; […].</VolltextOriginalsprache>
+        <VolltextOriginalsprache>Dicitque [Papst Formosus] [Ebf. Fulco von Reims] longo retroacto tempore perniciosas hereses Orientem confundere et Constantinopolitanam [Konstantinopel] ecclesiam nociva scismata perturbare, simul etiam regionis Affricane [Afrika] legatos insistere, responsa petentes pro dudum exorto inter episcopos ipsarum provinciarum scismate; […].</VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
@@ -40434,7 +40996,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: P. Chr. Jacobsen, Art. Flodoa
       <Titel>Chronik</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Moél Brigte; Calvus Brigitae; Máel Brigte">Marianus Scottus</Autor>
+      <Autor Id="6a32e15e-4a7d-47e1-ab62-ba0d54cb9976" alt="Moél Brigte; Calvus Brigitae; Máel Brigte">Marianus Scottus</Autor>
     </Autoren>
     <LebensdatenVerfasser>1028-1082</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41090,7 +41652,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Älteste Jahrbücher von Fulda</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41115,7 +41677,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher von St. Vaast</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41140,7 +41702,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Zwei Gedichte zu Ehren des ruhmreichen Königs Pippin</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Ermoldus Nigellus</Autor>
+      <Autor Id="14ecaffa-e285-4e36-bc7c-a8c99525c521">Ermoldus Nigellus</Autor>
     </Autoren>
     <LebensdatenVerfasser>9. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41165,9 +41727,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben der Kaiserin Adelheid</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Odilo abbas Cluniacensis">Odilo von Cluny</Autor>
+      <Autor Id="e611a3a3-79d5-474e-9a48-8a6cdad114cb" alt="Odilo abbas Cluniacensis">Odilo von Cluny</Autor>
     </Autoren>
-    <LebensdatenVerfasser>961/62-1049</LebensdatenVerfasser>
+    <LebensdatenVerfasser>961/962-1049</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="995-1005, 1024-1026">Um 1000, 1024-1026</Datum>
     </Abfassungszeitraum>
@@ -41191,7 +41753,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Wunder des hl. Willehad</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Ansgar archiepiscopus Bremensis">Ansgar von Bremen</Autor>
+      <Autor Id="7df56551-b3d4-4a57-908f-668aca97cbd6" alt="Ansgar archiepiscopus Bremensis">Ansgar von Bremen</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 800-865</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41216,9 +41778,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Die Anfänge des Klosters Gandersheim</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Hrotsvita sanctimonialis Gandersheimensis; Roswitha von Gandersheim">Hrotsvit von Gandersheim</Autor>
+      <Autor Id="6e784acb-4fe2-467f-83ab-4f08258b2dc5" alt="Hrotsvita sanctimonialis Gandersheimensis; Roswitha von Gandersheim">Hrotsvit von Gandersheim</Autor>
     </Autoren>
-    <LebensdatenVerfasser>Um 935-nach 973</LebensdatenVerfasser>
+    <LebensdatenVerfasser>Um 935-nach 973?</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="955-973">Um 960-973</Datum>
     </Abfassungszeitraum>
@@ -41242,7 +41804,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Der Sachsenkrieg</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Bruno clericus Merseburgensis; Bruno von Magdeburg">Bruno von Merseburg</Autor>
+      <Autor Id="936806e5-bf4a-46a3-8486-e14d41aca80a" alt="Bruno clericus Merseburgensis; Bruno von Magdeburg">Bruno von Merseburg</Autor>
     </Autoren>
     <LebensdatenVerfasser>1060er-1090er</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41267,10 +41829,10 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Übertragung des hl. Alexander</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Rudolfus monachus Fuldensis">Rudolf von Fulda</Autor>
-      <Autor alt="Meginhardus monachus Fuldensis">Meginhard von Fulda</Autor>
+      <Autor Id="z7t3787s-lb3t-baq0-0sp7-bpzne43r0s3l" alt="Rudolfus monachus Fuldensis">Rudolf von Fulda</Autor>
+      <Autor Id="f63122ea-d239-438f-b7d7-53490ecdda01" alt="Meginhardus monachus Fuldensis">Meginhard von Fulda</Autor>
     </Autoren>
-    <LebensdatenVerfasser>Rudolf: 800-865; Meginhard: vor 851-888</LebensdatenVerfasser>
+    <LebensdatenVerfasser>Rudolf: Vor 800-865; Meginhard: vor 851-888</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="850-865">850-865</Datum>
     </Abfassungszeitraum>
@@ -41293,7 +41855,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Übertragung des hl. Liborius</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Erconradus diaconus Cenomanensis">Erchanrad von Le Mans</Autor>
+      <Autor Id="5e594535-9822-47c9-b6d8-e0a560658a44" alt="Erconradus diaconus Cenomanensis">Erchanrad von Le Mans</Autor>
     </Autoren>
     <LebensdatenVerfasser>9. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41318,7 +41880,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben Ansgars</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Rimbert archiepiscopus Hammaburgensis et Bremensis">Rimbert von Hambrug-Bremen</Autor>
+      <Autor Id="355b5d57-a521-4169-bc3b-f6480472d9ff" alt="Rimbert archiepiscopus Hammaburgensis et Bremensis">Rimbert von Hambrug-Bremen</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 830-888</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41344,7 +41906,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des Bischofs Bernward von Hildesheim</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Thangmarus presb. Hildesheimensis">Thangmar von Hildesheim</Autor>
+      <Autor Id="1h97t0kr-6lr4-kx4r-jp60-5waxstw490so" alt="Thangmarus presb. Hildesheimensis">Thangmar von Hildesheim</Autor>
     </Autoren>
     <LebensdatenVerfasser>Gest. nach 1019</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41369,7 +41931,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des Erzbischofs Brun von Köln</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Ruotgerus">Ruotger</Autor>
+      <Autor Id="71090c91-f756-4144-92af-07b510628aeb" alt="Ruotgerus">Ruotger</Autor>
     </Autoren>
     <LebensdatenVerfasser>10. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41394,7 +41956,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben und Sterben Hathumods, der ersten Äbtissin von Gandersheim</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Agius frater Hathumodae abbatissae">Agius, Bruder der Äbtissin Hathumod</Autor>
+      <Autor Id="db3be3d6-6bb3-4a1d-a8c7-fd1f7623ae3e" alt="Agius frater Hathumodae abbatissae">Agius, Bruder der Äbtissin Hathumod</Autor>
     </Autoren>
     <LebensdatenVerfasser>Zweite Hälfte des 9. Jahrhunderts</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41419,7 +41981,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des Abtes Gregor von Utrecht</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Liudgerus episcopus Mimigardenfordensis">Liudger von Münster</Autor>
+      <Autor Id="c4b22351-047a-42ff-b771-0fce3ed48f1b" alt="Liudgerus episcopus Mimigardenfordensis">Liudger von Münster</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 742-809</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41444,7 +42006,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher von Brauweiler</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41470,7 +42032,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher von Fleury</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41495,7 +42057,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher von Limoges</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41520,7 +42082,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher Alkuins</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Alcuinus abbas S. Martini Turonensis">Alkuin von Tours</Autor>
+      <Autor Id="67fb0a85-e2ce-4145-8227-f48eecee0ec2" alt="Alcuinus abbas S. Martini Turonensis">Alkuin von Tours</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 730-804</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41545,7 +42107,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Kurze Jahrbücher von St. Amand</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41570,7 +42132,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher von St. Bavo in Gent</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41595,7 +42157,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher von St. Maximin in Trier</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41621,7 +42183,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>De bellis Parisiacae urbis</Titel>
     </Alternativtitel>
     <Autoren>
-       <Autor alt="Abbo Cernuus; Abbo Parisiensis">Abbo von Saint-Germain</Autor>
+      <Autor Id="3c7e0f93-c523-4340-91e0-d06bc5704d73" alt="Abbo Cernuus; Abbo Parisiensis">Abbo von Saint-Germain</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 850-nach 921</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41646,10 +42208,10 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Kurze Geschichte der Frankenkönige</Titel>
     </Alternativtitel>
     <Autoren>
-       <Autor alt="Erchanbertus">Erchanbert</Autor>
-       <Autor alt="Notkerus Balbulus">Notker der Stammler</Autor>
+      <Autor Id="6bf63fa1-88ca-449a-840a-69e30b3eef7c" alt="Erchanbertus">Erchanbert</Autor>
+      <Autor Id="9bf0d236-3876-4dc4-b296-627eb3327295" alt="Notkerus Balbulus">Notker der Stammler</Autor>
     </Autoren>
-    <LebensdatenVerfasser>Erchanbert: 8./9. Jahrhundert; Notker: um 840-912</LebensdatenVerfasser>
+    <LebensdatenVerfasser>Erchanbert: 8./9. Jahrhundert; Notker: um 840-06.04.912</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="826, 875-915">826, um 881-912</Datum>
     </Abfassungszeitraum>
@@ -41673,9 +42235,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Dichtung von den Taten Kaiser Ottos I.</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Hrotsvita sanctimonialis Gandersheimensis; Roswitha von Gandersheim">Hrotsvit von Gandersheim</Autor>
+      <Autor Id="6e784acb-4fe2-467f-83ab-4f08258b2dc5" alt="Hrotsvita sanctimonialis Gandersheimensis; Roswitha von Gandersheim">Hrotsvit von Gandersheim</Autor>
     </Autoren>
-    <LebensdatenVerfasser>Um 935-nach 973</LebensdatenVerfasser>
+    <LebensdatenVerfasser>Um 935-nach 973?</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="960-973">960-973</Datum>
     </Abfassungszeitraum>
@@ -41699,7 +42261,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Aachener Karlsepos</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41726,7 +42288,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>St. Galler Klostergeschichte</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Ratbertus monachus Sangallensis">Ratpert von St. Gallen</Autor>
+      <Autor Id="8a6e701a-63fe-4d3f-9c38-28c19db82261" alt="Ratbertus monachus Sangallensis">Ratpert von St. Gallen</Autor>
     </Autoren>
     <LebensdatenVerfasser>840/850-um 900</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41752,7 +42314,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Zweite Fortsetzung zu den St. Galler Klostergeschichten</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41777,7 +42339,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Dritte Fortsetzung der St. Galler Klostergeschichte</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Conradus de Fabaria">Konrad von Pfäfers</Autor>
+      <Autor Id="c281ba81-7f26-4a77-b941-c35fa395f75e" alt="Conradus de Fabaria">Konrad von Pfäfers</Autor>
     </Autoren>
     <LebensdatenVerfasser>13. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41802,7 +42364,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Geschichte der Franken</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41826,7 +42388,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
     <WerkTitel>Historia Daretis Frigii de origine Francorum</WerkTitel>
     <Alternativtitel/>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41851,7 +42413,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben Leobas</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Rudolf</Autor>
+      <Autor Id="z7t3787s-lb3t-baq0-0sp7-bpzne43r0s3l" alt="Rudolfus monachus Fuldensis">Rudolf von Fulda</Autor>
     </Autoren>
     <LebensdatenVerfasser>Vor 800-865</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41876,7 +42438,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben der Königin Mathilde</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41901,7 +42463,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Abtes Adalhard von Corbie</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Paschasius Radbertus">Ratpert von Corbie</Autor>
+      <Autor Id="9e2c17cc-1894-4ad3-b786-4032b987ga9b" alt="Paschasius Radbertus">Ratpert von Corbie</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 790-856/859</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41927,8 +42489,8 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Arnulf von Soissons</Titel>
     </Alternativtitel>
     <Autoren>
-       <Autor alt="Lisiardus Suessionensis">Bf. Lisiard von Soissons</Autor>
-       <Autor>Abt Hairulf von Oudenbourg</Autor>
+      <Autor Id="8585928c-27cb-435b-8243-68c1be3aeebf" alt="Lisiardus Suessionensis">Bf. Lisiard von Soissons</Autor>
+       <Autor Id="a2836ba0-dcfd-4638-9bfe-4cb611936525">Abt Hairulf von Oudenbourg</Autor>
     </Autoren>
     <LebensdatenVerfasser>Lisiard: gest. 1126</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41954,7 +42516,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Bischofs Benno II. von Osnabrück</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Norbertus abbas Iburgensis">Norbert von Iburg</Autor>
+      <Autor Id="ba4318c4-747b-4b11-815f-f1006fce984d" alt="Norbertus abbas Iburgensis">Norbert von Iburg</Autor>
     </Autoren>
     <LebensdatenVerfasser>Gest. 1117</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -41979,7 +42541,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Abtes Eigil von Fulda</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Candidus">Bruun</Autor>
+      <Autor Id="936806e5-bf4a-46a3-8486-e14d41aca80a" alt="Candidus">Bruun</Autor>
     </Autoren>
     <LebensdatenVerfasser>Gest. 845</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42005,7 +42567,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Lebensbeschreibung des Abtes Hugo von Cluny</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Rainaldus">Rainald von Vézelay</Autor>
+      <Autor Id="a4c3cf7d-8abf-4bcb-8c30-037fc2d02da5" alt="Rainaldus">Rainald von Vézelay</Autor>
     </Autoren>
     <LebensdatenVerfasser>Gest. 1129</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42031,7 +42593,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Lebensbeschreibung des hl. Lebuin</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Hucbald von St. Armand</Autor>
+      <Autor Id="1b37072d-86dd-4f1a-95c8-e71df0d8cd42">Hucbald von St. Armand</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 840-930</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42057,7 +42619,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Bischofs Liudger von Münster</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Altfridus episcopus Mimigardenfordensis">Altfried von Münster</Autor>
+      <Autor Id="e8f617be-5769-48a1-8077-8d82baa95690" alt="Altfridus episcopus Mimigardenfordensis">Altfried von Münster</Autor>
     </Autoren>
     <LebensdatenVerfasser>Gest. 849</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42082,7 +42644,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Sturmi, Abt von Fulda</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Eigil abbas Fuldensis">Eigil von Fulda</Autor>
+      <Autor Id="bca44a0b-e9fc-4a07-a6f9-50d8f1d43113" alt="Eigil abbas Fuldensis">Eigil von Fulda</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 750-822</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42107,7 +42669,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Godehard</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Wolfherus">Wolfher von Hildesheim</Autor>
+      <Autor Id="eixb9fki-4o1t-h7lq-0wf8-j5boanfe1bki" alt="Wolfherus">Wolfher von Hildesheim</Autor>
     </Autoren>
     <LebensdatenVerfasser>Erste Hälfte des 11. Jahrhunderts</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42136,7 +42698,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Leodegar von Autun</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Ursinus von Ligugé</Autor>
+      <Autor Id="z1quqd50-bzz2-0cwu-q5x5-yz4en70a7vmp">Ursinus von Ligugé</Autor>
     </Autoren>
     <LebensdatenVerfasser>8.-9. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42161,7 +42723,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Otmar</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Walafridus Strabo">Walahfrid</Autor>
+      <Autor Id="l3qi7sck-m5en-g5is-t7lv-l0vrf5n80yql" alt="Walafridus Strabo">Walahfrid</Autor>
     </Autoren>
     <LebensdatenVerfasser>808/809-849</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42186,7 +42748,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Bericht über die Wunder des hl. Othmar</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Iso magister et monachus Sangallensis">Iso von St. Gallen</Autor>
+      <Autor Id="aaf3a6bb-9b60-4319-ba42-6b00c912f404" alt="Iso magister et monachus Sangallensis">Iso von St. Gallen</Autor>
     </Autoren>
     <LebensdatenVerfasser>Gest. 871</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42211,9 +42773,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Verse über den hl. Otmar</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Ekkehardus IV">Ekkehard IV. von St. Gallen</Autor>
+      <Autor Id="8585928c-27cb-435b-8243-68c1be3aeebf" alt="Ekkehardus IV">Ekkehard IV. von St. Gallen</Autor>
     </Autoren>
-    <LebensdatenVerfasser>Vor 1000-nach 1057</LebensdatenVerfasser>
+    <LebensdatenVerfasser>980/990-nach 1057</LebensdatenVerfasser>
     <Abfassungszeitraum>
       <Datum date="1000-1057">1000-1057</Datum>
     </Abfassungszeitraum>
@@ -42236,7 +42798,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Bischofs Willibrord von Utrecht</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Alcuinus abbas S. Martini Turonensis">Alkuin von Tours</Autor>
+      <Autor Id="67fb0a85-e2ce-4145-8227-f48eecee0ec2" alt="Alcuinus abbas S. Martini Turonensis">Alkuin von Tours</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 730-804</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42261,7 +42823,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Gallus</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Wettinus monachus Augiensis">Wetti von der Reichenau</Autor>
+      <Autor Id="rxvoxqf1-ytlk-9hih-zd9h-y317cvtd4fd9" alt="Wettinus monachus Augiensis">Wetti von der Reichenau</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 780-824</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42289,7 +42851,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Brief an Abt Grimald</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Ermenricus Elwangensis">Ermenrich von Ellwangen</Autor>
+      <Autor Id="9c7ccf41-2f08-4580-9021-1e8a687d7037" alt="Ermenricus Elwangensis">Ermenrich von Ellwangen</Autor>
     </Autoren>
     <LebensdatenVerfasser>Um 814-874</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42315,7 +42877,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Chronik der sechs Weltzeitalter</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42340,7 +42902,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Katalog der Äbte von St. Gallen</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42365,7 +42927,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Katalog der Äbte des Klosters Reichenau</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42390,7 +42952,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Katalog der Bischöfe von Konstanz</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42415,7 +42977,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Bonifatius</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Willibaldus presbyter Moguntinus">Willibald von Mainz</Autor>
+      <Autor Id="jxk2spuw-n4oy-n5iy-qgl2-7x0qww61707m" alt="Willibaldus presbyter Moguntinus">Willibald von Mainz</Autor>
     </Autoren>
     <LebensdatenVerfasser>8. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42441,7 +43003,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Aquitanische Chronik</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42466,7 +43028,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben der hl. Ida</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor alt="Uffingus">Uffing von Werden</Autor>
+      <Autor Id="ubdv3osg-xuf0-eudd-gyhm-vde5cuf5yogs" alt="Uffingus">Uffing von Werden</Autor>
     </Autoren>
     <LebensdatenVerfasser>10. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42492,7 +43054,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben der hl. Chrotildis</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Adso von Montiér-en-Der</Autor>
+      <Autor Id="cdcc01b5-d4e2-4ccb-983f-21cb0550b6a4">Adso von Montiér-en-Der</Autor>
     </Autoren>
     <LebensdatenVerfasser>10. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42518,7 +43080,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Arnulf von Metz</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42543,7 +43105,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Regum Francorum genealogiae</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42568,7 +43130,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
     <WerkTitel>Vitae sanctorum Columbani</WerkTitel>
     <Alternativtitel/>
     <Autoren>
-      <Autor>Ionas</Autor>
+      <Autor Id="746712a4-53e8-43fa-8531-0d8d088b8297">Ionas</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42594,7 +43156,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Chronik von Groß St. Martin in Köln</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42620,7 +43182,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Kurze Annalen von Fulda</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42646,7 +43208,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Erzbischofs Rimbert von Hamburg</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42672,7 +43234,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Geschichte der Translation der hl. Pusinna</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42700,7 +43262,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Geschichte der Translation des hl. Vitus</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42727,7 +43289,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Passion des hl. König Sigismund</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42754,7 +43316,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Taten König Theoderichs. Die Lebensbeschreibung aus Aimoin geschöpft</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Aimoin von Fleury</Autor>
+      <Autor Id="d7b2cd00-ab45-44a3-9bb7-8f142e7bc02a">Aimoin von Fleury</Autor>
     </Autoren>
     <LebensdatenVerfasser>10. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42781,7 +43343,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben der hl. Radegundis</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42808,7 +43370,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des hl. Chlodovald</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42835,7 +43397,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben der hl. Gertrud</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42862,7 +43424,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben der hl. Balthilde</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42888,7 +43450,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Leben des Frankenkönigs Dagobert III.</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42914,7 +43476,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Jahrbücher von St. Alban in Mainz</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42939,7 +43501,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Vita Theoderici regis; Taten König Theoderichs. Die Fuldaer Lebensbeschreibung</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -42965,7 +43527,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Geschichte der Franken</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>Aimoin von Fleury</Autor>
+      <Autor Id="d7b2cd00-ab45-44a3-9bb7-8f142e7bc02a">Aimoin von Fleury</Autor>
     </Autoren>
     <LebensdatenVerfasser>10. Jahrhundert</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -43169,7 +43731,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
         <ZeitangabeQuelle>-</ZeitangabeQuelle>
         <Inhaltsangabe>Der in der Astrologie kundige byzantinische Kaiser Herakleios sieht [629] in den Sternen vorher, dass sein Reich von beschnittenen Völkern zerstört werden wird, und deutet, dass es sich bei diesen Völkern um die Juden handele. Aus diesem Grund ersucht er den fränkischen König Dagobert I., gegen die Juden in dessen Reich vorzugehen. Jedoch zeigt sich, dass mit den beschnittenen Völkern die Sarazenen gemeint waren, die kurz darauf in das Reich des Herakleios einfallen und es verwüsten. Herakleios führt sein Heer durch die Kaspische Pforte, um sich den Sarazenen entgegen zu stellen, doch stirbt der Großteil seines Heeres in der Nacht vor der Schlacht im Lager, so dass Herakleios abziehen muss. Nachdem die Sarazenen weite Teile Asiens erobert haben und bereits Jerusalem bedrohen, gibt der Kaiser die Hoffnung auf, Widerstand leisten zu können und stirbt schließlich [641].</Inhaltsangabe>
         <VolltextOriginalsprache>De Heraclii [Herakleios] forma, et praesagii quo se a circumcisis pellendum viderat errore. Nam Judaeos propterea persequebatur, e Franciaque pellendos curavit; cum a Sarracenis fuerit pellendus. De eorum itaque agitur praelio et Heraclii morte. 
-          Fuit autem vultu decorus, visu hilaris, mediocris statura, egregiaeque fortitudinis; qui et leones saepe in arena, et plures, solus interfecerit. Cumque litteris abunde esset instructus, ad ultimum astrologus efficitur. Agnoscens itaque in signis siderum, imperium suum a circumcisa gente vastandum, et autumans id de Judaeis fuisse praemonstratum, per internuntios Dagobertum [Dagobert I.] rogavit regem Francorum, ut cunctos Judaicae stirpis, qui in provinciis illi subjectis manebant, Christianos fieri praeciperet; eos vero qui nollent aut exsilio aut morte damnari. Quod Dagobertus volens effecit, omnes qui noluerunt baptisma suscipere procul a finibus eliminans Franciae. Porro Heraclio non de Judaeis, sed de Sarracenis fuerat praeostensum. Agareni siquidem (qui et Sarraceni) gens perfida, ab Abraham [Abraham] cum origine ritum trahens circumcisionis, a radice Caucasi montis [Kaukasus] progressa, terras Heraclii [Byzantinisches Reich] populatum venerunt. Contra quos lecta militum manus, a Caesare [Konstantin] directa, graviter est ab hostibus caesa. Nam centum quinquaginta millia ex militibus interiisse referuntur. Spolia caesorum victores rapta Augusto, per legatos recipienda, miserunt. At ille qui ultionem potius meditaretur, non solum oblata respuit, verum ipsa legatione Alanos in adjutorium sui, reseratis portis quas Alexander Magnus [Alexander III. der Große] Caspio monti [Kaspische Pforte] imposuerat, ad centum quinquaginta ferme armatorum millia pretio eduxit. Sarracenorum duo duces erant, qui ducenta millia armis instructa in bella ducebant. Cumque uterque exercitus procul a se invicem castra posuisset, nocte, quae diem belli praecedebat, subita in castris Craecorum quinquaginta duo millia pugnatorum exanimata in stratis reperta sunt. Qua de re reliqui, metu percussi, in diversa fugerunt, regnum suum depopulandum adversariis relinquentes. Qui, quasi accepta injuria quod obviare ausi hostes fuissent, vehementius vastationi institerunt. Tantae cladis nuntio Heraclius accepto, diffidens se posse resistere, cum jam illi majore, prope Asiae [Asien] porte pervasa, Hierosolymam [Jerusalem] infestare disponerent, in morbum incidit, et procedente in deterius corporis aegritudine, usque ad languorem animae, videlicet in Eutychis [Eutyches] delapsus est sectam. Sociata quoquc [sic!] jure connubii sororis suae sibi filia, XXVI susceptae potestatis anno diem clausit ultimum. Cui successit Heraclona [Heraklonas] filius cum matre Martina [Martina]. Hic etiam, duobus annis rerum summa potitus, fratri Constantino [Konstantin III.] jura reliquit imperii.
+          Fuit autem vultu decorus, visu hilaris, mediocris statura, egregiaeque fortitudinis; qui et leones saepe in arena, et plures, solus interfecerit. Cumque litteris abunde esset instructus, ad ultimum astrologus efficitur. Agnoscens itaque in signis siderum, imperium suum a circumcisa gente vastandum, et autumans id de Judaeis fuisse praemonstratum, per internuntios Dagobertum [Dagobert I.] rogavit regem Francorum, ut cunctos Judaicae stirpis, qui in provinciis illi subjectis manebant, Christianos fieri praeciperet; eos vero qui nollent aut exsilio aut morte damnari. Quod Dagobertus volens effecit, omnes qui noluerunt baptisma suscipere procul a finibus eliminans Franciae. Porro Heraclio non de Judaeis, sed de Sarracenis fuerat praeostensum. Agareni siquidem (qui et Sarraceni) gens perfida, ab Abraham [Abraham] cum origine ritum trahens circumcisionis, a radice Caucasi montis [Kaukasus (Russland)] progressa, terras Heraclii [Byzantinisches Reich (Türkei)] populatum venerunt. Contra quos lecta militum manus, a Caesare [Konstantin] directa, graviter est ab hostibus caesa. Nam centum quinquaginta millia ex militibus interiisse referuntur. Spolia caesorum victores rapta Augusto, per legatos recipienda, miserunt. At ille qui ultionem potius meditaretur, non solum oblata respuit, verum ipsa legatione Alanos in adjutorium sui, reseratis portis quas Alexander Magnus [Alexander III. der Große] Caspio monti [Kaspische Pforte] imposuerat, ad centum quinquaginta ferme armatorum millia pretio eduxit. Sarracenorum duo duces erant, qui ducenta millia armis instructa in bella ducebant. Cumque uterque exercitus procul a se invicem castra posuisset, nocte, quae diem belli praecedebat, subita in castris Craecorum quinquaginta duo millia pugnatorum exanimata in stratis reperta sunt. Qua de re reliqui, metu percussi, in diversa fugerunt, regnum suum depopulandum adversariis relinquentes. Qui, quasi accepta injuria quod obviare ausi hostes fuissent, vehementius vastationi institerunt. Tantae cladis nuntio Heraclius accepto, diffidens se posse resistere, cum jam illi majore, prope Asiae [Asien] porte pervasa, Hierosolymam [Jerusalem] infestare disponerent, in morbum incidit, et procedente in deterius corporis aegritudine, usque ad languorem animae, videlicet in Eutychis [Eutyches] delapsus est sectam. Sociata quoquc [sic!] jure connubii sororis suae sibi filia, XXVI susceptae potestatis anno diem clausit ultimum. Cui successit Heraclona [Heraklonas] filius cum matre Martina [Martina]. Hic etiam, duobus annis rerum summa potitus, fratri Constantino [Konstantin III.] jura reliquit imperii.
         </VolltextOriginalsprache>
         <VolltextUebersetzung>-</VolltextUebersetzung>
         <ZitationUebersetzung>-</ZitationUebersetzung>
@@ -43288,7 +43850,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Titel>Chronik von Novalesa</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -43409,7 +43971,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Laura Morreale, Art. Chronico
         <Anmerkungen>Zur Datierung der Zerstörung des Klosters: Die Jahreszahlen gibt Bethmann in Chronicon Novaliciense IV, 26, ed. Bethmann 1846, S. 108 für eine andere Stelle an, die ebenfalls von diesem Ereignis handelt (vgl. [0030]-[0011]), er entnimmt diese offenbar einem dritten Bericht über diese Ereignisse in Chronicon Novaliciense IV, 30, ed. Bethmann 1846, S. 109 (s. [0030]-[0011]) sowie der Chronologie der Äbte von Novalesa (s. [0030]-[0017]). In der (neueren) Sekundärliteratur wird für das Ereignis nur vage der Anfang des 10. Jahrhunderts angegeben, vgl. etwa Max Manitius, Geschichte der lateinischen Literatur des Mittelalters, Bd. 2, München 1923, S. 294; Giuseppe Sergi, Art. Novalesa, in: Lexikon des Mittelalters 6, Sp. 1299-1300 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-03]. </Anmerkungen>
         <Entitaeten>
           <Entitaet Id="7d7844a4-8c11-49b1-a44d-54c08689ff90" Type="Ort">
-            <Name>Novalesa</Name>
+            <Name>Kloster Novalesa</Name>
           </Entitaet>
           <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
             <Name>Italien</Name>
@@ -44361,7 +44923,7 @@ Aimo, der als Hauptverantwortlicher für den Sieg über die Sarazenen genannt wi
     <Titel>Chronik von Moissac</Titel>
   </Alternativtitel>
   <Autoren>
-    <Autor>unbekannt</Autor>
+    <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
   </Autoren>
   <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
   <Abfassungszeitraum>
@@ -45360,7 +45922,7 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
     <WerkTitel>Historiarum libri IV</WerkTitel>
     <Alternativtitel/>
     <Autoren>
-      <Autor alt="Richer von Reims">Richer von Saint-Remi</Autor>
+      <Autor Id="36359b9b-ae3b-4754-9346-fb374089de12" alt="Richer von Reims">Richer von Saint-Remi</Autor>
     </Autoren>
     <LebensdatenVerfasser>gest. nach 998</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -45559,7 +46121,7 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
           <Entitaet Id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" Type="Ort">
             <Name>Spanien</Name>
           </Entitaet>
-          <Entitaet Id="" Type="Person">
+          <Entitaet Id="3797cb59-2c80-4b4d-95f4-cb44ea98a4d3" Type="Person">
             <Name>Graf Borrell II. von Barcelona</Name>
           </Entitaet>
           <Entitaet Id="3e9ca6a5-4860-45ff-be26-49bb12879dfe" Type="Ort">
@@ -45599,7 +46161,7 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
       <Titel>Mozarabische Chronik von 754</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -49972,7 +50534,7 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
       <Titel>Vita prior</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -50076,7 +50638,7 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
       <Titel>Vita posterior</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>
@@ -50173,7 +50735,7 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
       <Titel>Ältere Jahrbücher von Metz</Titel>
     </Alternativtitel>
     <Autoren>
-      <Autor>unbekannt</Autor>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
     </Autoren>
     <LebensdatenVerfasser>unbekannt</LebensdatenVerfasser>
     <Abfassungszeitraum>

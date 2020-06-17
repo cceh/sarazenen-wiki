@@ -2,7 +2,6 @@
 <xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-    xmlns="http://www.mediawiki.org/xml/export-0.10/"
     exclude-result-prefixes="#all" version="2.0">    
     <xsl:output method="xml" version="1.1" encoding="UTF-8" indent="yes" omit-xml-declaration="yes" undeclare-prefixes="yes"  exclude-result-prefixes="#all"/>    
     <xsl:param name="fid">300</xsl:param>
@@ -12,16 +11,13 @@
     <xsl:template match="/">
         <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd"
+            xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
             version="0.10" xml:lang="de">
             <siteinfo>
                 <sitename>Sarazenen Wiki</sitename>
                 <dbname>sarazenen-bonn</dbname>
-                <!--<base>http://cceh.uni-koeln.de/projekte/sarazenen/sarazenen_wiki/index.php/SARAZENEN_WIKI</base>-->
-                <!--<base>http://cceh.uni-koeln.de/projekte/sarazenen/sarazenen_wiki/index.php/Repertorium_Saracenorum</base>-->
                 <base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base>
-                <!--<generator>MediaWiki 1.27.3</generator>-->
-                <generator>MediaWiki 1.27.4</generator>                
+                <generator>MediaWiki 1.27.4</generator>
                 <case>first-letter</case>
                 <namespaces>
                     <namespace key="-2" case="first-letter">Medium</namespace>
@@ -56,73 +52,6 @@
             </siteinfo>
             <xsl:apply-templates/>
         </mediawiki>
-        <!--
-        <xsl:variable name="dates" xml:space="default">
-            <xsl:for-each select="(.//Abfassungszeitraum/Datum/@date,.//Berichtszeitraum/Datum/@date,.//Quellen/Quelle/ZeitangabeWissenschaft/Datum/@date)">
-                <xsl:if test="contains(.,',')">
-                    <xsl:for-each select="tokenize(.,',')">
-                        <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
-                            <item> <xsl:value-of select="substring-before(replace(.,' ','') ,'-')"/></item>
-                            <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
-                        </xsl:if>
-                        <xsl:if test="contains(.,'-') and starts-with(.,'-')">
-                            <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
-                            <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
-                        </xsl:if>
-                        <xsl:if test="not(contains(.,'-'))">
-                            <item><xsl:value-of select="replace(.,' ','')"/></item>
-                        </xsl:if>
-                    </xsl:for-each>
-                </xsl:if>
-                <xsl:if test="not(contains(.,','))">
-                    <xsl:if test="contains(.,'-') and not(starts-with(.,'-'))">
-                        <item> <xsl:value-of select="substring-before(replace(.,' ',''),'-')"/></item>
-                        <item> <xsl:value-of select="substring-after(replace(.,' ',''),'-')"/></item>
-                    </xsl:if>
-                    <xsl:if test="contains(.,'-') and starts-with(.,'-')">
-                        <item><xsl:value-of select="concat('-',substring-before(substring-after(replace(.,' ',''),'-'),'-'))"/></item>
-                        <item><xsl:value-of select="substring-after(substring-after(replace(.,' ',''),'-'),'-')"/></item>
-                    </xsl:if>
-                    <xsl:if test="not(contains(.,'-'))">
-                        <item><xsl:value-of select="replace(.,' ','')"/></item>
-                    </xsl:if>
-                </xsl:if>                        
-            </xsl:for-each>
-        </xsl:variable>
-        <xsl:variable name="int" xml:space="default">
-            <xsl:for-each select="$dates/node()">
-                <xsl:sort order="ascending"/> 
-                <xsl:if test=" matches(.,'[0-9]')">
-                    <item>
-                        <xsl:value-of select="xs:integer(.)"/>
-                    </item>
-                </xsl:if>               
-            </xsl:for-each>
-        </xsl:variable>
-        <xsl:variable name="sortet">
-            <xsl:for-each select="$int/node()">
-                <xsl:sort order="ascending" select="number(.)"/> 
-                <item>
-                    <xsl:value-of select="."/>
-                </item>
-            </xsl:for-each>
-        </xsl:variable>
-        <xsl:for-each select="distinct-values($sortet/node())">
-            <item>
-                <xsl:value-of select="."/>
-            </item>
-        </xsl:for-each>
-        <xsl:value-of select="$sortet"/>
-        <xsl:value-of select="$sortet/node()[1]"/>
-        <xsl:value-of select=" $sortet/node()[count($sortet/node())]"/>
-        
-        
-        
-            		#leiste pre {
-                        width: 450px;
-                        height: 115px;
-                    }   
-        -->
     </xsl:template>
     <xsl:template match="Dokumente" xml:space="default">
         <page>
@@ -131,11 +60,11 @@
             </title>
             <ns>0</ns>
             <id>
-                <xsl:value-of select="WerkId + $fid"/>
+                <xsl:value-of select="position()+$sid"/>
             </id>
             <revision>
                 <id>
-                    <xsl:value-of select="WerkId + $sid"/>
+                    <xsl:value-of select="position() + $sid"/>
                 </id>
                 <parentid>
                     <xsl:value-of select="WerkId"/>
@@ -148,49 +77,9 @@
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
                 <text xml:space="preserve" bytes="3441">
-                    {{#css:
-            		table{
-            			border: 1px solid black;
-            			float:left;
-            		}
-            		td{
-            			padding: 5px;
-            		}
-            		svg {
-            			margin-left: 35px;
-            		}
-            		.timeline {
-            			width: 1200px;
-            			margin-left: 30px;
-            		}
-            		.time{
-	            		width: 1000px;
-	            		height: 30px;
-	            		border-top: 1px solid black;
-	            		padding-top: 10px;
-	            		margin-top: 20px;
-            		}
-            		.year{
-	            		width: 140px;
-	            		text-align: center;
-	            		display: inline;
-	            		margin-right: 150px;
-	            		margin-left: 15px;
-	            		font-size: 9pt;
-            		}
-            		.label{
-            			font-size: 7pt;
-            		}
-            		p {
-            		clear:both; }
-            		#leiste {
-            		width:66%;
-            		float:right;
-            		}
-            	}}
 {{WikiProject_Transwiki/Template:Infobox
 |title=
-<xsl:text>|above=</xsl:text><xsl:value-of select="WerkTitel"/>
+<xsl:text>|above=</xsl:text>[[Werk::<xsl:value-of select="WerkTitel"/>]]
                     <xsl:choose>
                         <xsl:when test="exists(Alternativtitel/Titel)">
                             <xsl:text>|subheader=</xsl:text><xsl:value-of select="string-join(Alternativtitel/Titel,'/')"/>
@@ -211,67 +100,75 @@
 
 |label1=Werknummer
 |data1=<xsl:value-of select="WerkId"/>
-|label2=Verfasser
+|label2=VerfasserIn
 |data2=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
                             <xsl:for-each select="./Autoren/Autor">
                                 <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:text>[[:Kategorie:</xsl:text> <xsl:value-of select="."/> | <xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
+                                <xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
                             </xsl:for-each>
                         </xsl:when>
                             <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
-                                <xsl:text>[[:Kategorie: unbekannt | unbekannt]]</xsl:text>
+                                <xsl:text>[[VerfasserIn::VerfasserIn unbekannt]]</xsl:text>
                             </xsl:when>
-                            <xsl:otherwise> <xsl:text>[[:Kategorie: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
+                            <xsl:otherwise><xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
                         </xsl:choose></xsl:value-of>
-                    <!--<xsl:choose><xsl:when test="Autoren/Autor[4]"><xsl:value-of select="Autoren/Autor[1]"/>/<xsl:value-of select="Autoren/Autor[2]"/>/<xsl:value-of select="Autoren/Autor[3]"/>/<xsl:value-of select="Autoren/Autor[4]"/></xsl:when>
-<xsl:when test="Autoren/Autor[3]"><xsl:value-of select="Autoren/Autor[1]"/>/<xsl:value-of select="Autoren/Autor[2]"/>/<xsl:value-of select="Autoren/Autor[3]"/></xsl:when>
-<xsl:when test="Autoren/Autor[2]"><xsl:value-of select="Autoren/Autor[1]"/>/<xsl:value-of select="Autoren/Autor[2]"/></xsl:when>
-<xsl:otherwise><xsl:value-of select="Autoren/Autor[1]"/></xsl:otherwise>
-</xsl:choose>
--->
 |label3=Abfassungszeit
 |data3=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 |label4=Berichtszeitraum
 |data4=<xsl:value-of select="Berichtszeitraum/Datum/data(.)"/>
 |label5=Abfassungsort
-|data5=<xsl:value-of select="Abfassungsort"/>
+|data5=[[Abfassungsort::<xsl:value-of select="Abfassungsort"/>]]
 |label6=Lebensdaten des Verfassers
-|data6=<xsl:value-of select="LebensdatenVerfasser"/>
+|data6=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
+                            <xsl:for-each select="./Autoren/Autor">
+                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
+                                <xsl:value-of select="."/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./data(.)"/><xsl:text> |?Lebensdaten | link=none}};</xsl:text>           
+                            </xsl:for-each>
+                        </xsl:when>
+                            <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
+                                <xsl:text>unbekannt</xsl:text>
+                            </xsl:when>
+                            <xsl:otherwise><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> |?Lebensdaten | link=none}}</xsl:text></xsl:otherwise>
+                        </xsl:choose></xsl:value-of>
 }}
 <xsl:call-template name="svg" xml:space="default"><!-- Timeline einbindung --></xsl:call-template>
-<xsl:value-of select="Werkinformation"/>
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
+|Berichtszeitraum=<xsl:value-of select="Berichtszeitraum/Datum/data(.)"/>
+|Werknummer=<xsl:value-of select="WerkId"/>
+}}
+<xsl:value-of select="replace(Werkinformation,'--','')"/>
 
 &lt;br/&gt;
 
 === Editionshinweise ===
-    <xsl:value-of select="Editionshinweise"/>
-    <xsl:apply-templates select="EditionLink"/>
-=== Quellenstellen ===<xsl:apply-templates select=".//Quelle" />       
+<xsl:value-of xml:space="default">
+<xsl:value-of select="Editionshinweise"/>
+<xsl:apply-templates select="EditionLink"/>
+</xsl:value-of>
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[Werk::<xsl:value-of select="WerkTitel"/>]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?Datierung#
+                    |format=table
+                    |headers=plain
+}}
+&lt;br/&gt;
+=== Kategorisierung ===
                     &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Abfassungszeitraum | Abfassungszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Abfassungszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;
                     &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Berichtszeitraum | Berichtszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Berichtszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;     
-<xsl:value-of xml:space="default">   
-   <xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
-                            <xsl:for-each select="./Autoren/Autor">
-                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:text>[[Kategorie:</xsl:text> <xsl:value-of select="."/> | <xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
-                            </xsl:for-each>
-                        </xsl:when>
-                            <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
-                                <xsl:text>[[Kategorie: unbekannt | unbekannt]]</xsl:text>
-                            </xsl:when>
-                            <xsl:otherwise> <xsl:text>[[Kategorie: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> | </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
-                        </xsl:choose>[[Kategorie: Werk]]<xsl:value-of xml:space="default">
-    <xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>
-  
-</xsl:value-of>
+<xsl:value-of xml:space="default">[[Kategorie: Werk]]</xsl:value-of>  
+<xsl:value-of xml:space="default"><xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>
                         </text>
                 <sha1></sha1>
             </revision>
         </page>
     </xsl:template>
-    <xsl:template match="Dokument" name="svg"  xml:space="default">
-        
-        
+    <xsl:template match="Dokument" name="svg"  xml:space="default">       
               <xsl:variable name="dates" xml:space="default">
             <xsl:for-each select="(./Abfassungszeitraum/Datum/@date,./Berichtszeitraum/Datum/@date,./Quellen/Quelle/ZeitangabeWissenschaft/Datum/@date)">
                 <xsl:if test="contains(.,',')">
@@ -389,10 +286,8 @@
                           &lt;g&gt; 
            <xsl:apply-templates select="./Quellen/Quelle/ZeitangabeWissenschaft/Datum"/>
                         &lt;/g&gt; 
-                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;
-                 
-                    </xsl:if>
-                    
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    </xsl:if>                    
     </xsl:template>
     <xsl:template match="Quelle" >
         <xsl:variable name="zeitangabe">
@@ -413,8 +308,7 @@
             </xsl:for-each>
             <xsl:text>...</xsl:text>
         </xsl:variable>
-        <xsl:value-of xml:space="default">
-            &lt;span&gt;[[<xsl:value-of select="./parent::Quellen/preceding-sibling::WerkTitel"/><xsl:text>-</xsl:text><xsl:value-of select="QuellenId"/>|<xsl:value-of select="$zeitangabe"/>]]<xsl:value-of select="$tex"/><xsl:text> [</xsl:text><xsl:value-of select="./QuellenId"/><xsl:text>]</xsl:text>&lt;span&gt;</xsl:value-of>
+        <xsl:value-of xml:space="default">&lt;li&gt;[[<xsl:value-of select="./parent::Quellen/preceding-sibling::WerkTitel"/><xsl:text>-</xsl:text><xsl:value-of select="QuellenId"/>|<xsl:value-of select="$zeitangabe"/>]]<xsl:value-of select="$tex"/><xsl:text> [</xsl:text><xsl:value-of select="./QuellenId"/><xsl:text>]</xsl:text>&lt;/li&gt;</xsl:value-of>
   </xsl:template>
   
     <xsl:template name="split-numbers-kategorien">         

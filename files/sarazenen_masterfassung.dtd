@@ -1,9 +1,9 @@
 <?xml encoding="UTF-8"?>
 
-<!ELEMENT Sarazenen (Personen,Orte,Dokumente+)>
+<!ELEMENT Sarazenen (VerfasserInnen,Personen,Orte,Dokumente+)>
 
 <!ELEMENT Personen (Person)+>
-
+<!ELEMENT VerfasserInnen (Verfasser+) >
 <!ELEMENT Orte (Ort)+>
 
 <!ELEMENT Dokumente (WerkId,WerkTitel,Alternativtitel,Autoren,
@@ -12,6 +12,7 @@
                      Quellen)>
 
 <!ELEMENT Person (Id,Name,Rolle+,Alternativnamen?)>
+<!ELEMENT Verfasser (Id,Name,Alternativnamen?,Lebensdaten)>
 
 <!ELEMENT WerkId (#PCDATA)>
 
@@ -43,7 +44,8 @@
 
 <!ELEMENT Autor (#PCDATA)>
 <!ATTLIST Autor
-  alt CDATA #IMPLIED>
+  alt CDATA #IMPLIED
+   Id CDATA #REQUIRED>
 
 <!ELEMENT Region (#PCDATA)>
 
@@ -101,7 +103,6 @@
 <!ELEMENT Name (#PCDATA)>
 
 <!ELEMENT Alternativnamen (Name)*>
-
 <!ELEMENT Ort (#PCDATA|Alternativnamen|Id|Name|Typ|getty_Id)*>
 
 <!ELEMENT Typ (#PCDATA)>
@@ -114,4 +115,9 @@
 
 <!ELEMENT Datum (#PCDATA)>
 <!ATTLIST Datum
+  date CDATA #REQUIRED>
+  
+  
+<!ELEMENT Lebensdaten (#PCDATA)>
+<!ATTLIST Lebensdaten
   date CDATA #REQUIRED>
