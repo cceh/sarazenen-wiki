@@ -1,4 +1,5 @@
 ### Sarazenen Wiki ###
+<<<<<<< HEAD
 #### Wiki Header ####
 ``` xml
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
@@ -75,3 +76,6 @@
             </revision>
     </page>
 ```
+=======
+https://cloud.cceh.uni-koeln.de/index.php/f/404526
+>>>>>>> 990b11621f915c076b9afe89b2dec29a1ff0b287
