@@ -2,6 +2,7 @@
 <xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    xmlns="http://www.mediawiki.org/xml/export-0.10/"
     exclude-result-prefixes="#all" version="2.0">    
     <xsl:output method="xml" version="1.1" encoding="UTF-8" indent="yes" omit-xml-declaration="yes" undeclare-prefixes="yes"  exclude-result-prefixes="#all"/>    
     <xsl:param name="fid">300</xsl:param>
@@ -54,6 +55,12 @@
         </mediawiki>
     </xsl:template>
     <xsl:template match="Dokumente" xml:space="default">
+        <xsl:variable name="abfssungsort"><xsl:choose>
+            <xsl:when test="./Abfassungsort[1] eq ''">Abfassungsort Unbekannt</xsl:when>
+            <xsl:when test="./Abfassungsort[1] eq '-'">Abfassungsort Unbekannt</xsl:when>
+            <xsl:when test="./Abfassungsort[1] eq 'unbekannt'">Abfassungsort Unbekannt</xsl:when>
+            <xsl:otherwise><xsl:value-of select="./Abfassungsort/data(.)"/></xsl:otherwise>
+        </xsl:choose></xsl:variable>
         <page>
             <title>
                 <xsl:value-of select="WerkTitel"/>
@@ -63,12 +70,7 @@
                 <xsl:value-of select="position()+$sid"/>
             </id>
             <revision>
-                <id>
-                    <xsl:value-of select="position() + $sid"/>
-                </id>
-                <parentid>
-                    <xsl:value-of select="WerkId"/>
-                </parentid>
+                <id>0</id>
                 <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
                 <contributor>
                     <username>Administrator</username>
@@ -76,7 +78,7 @@
                 </contributor>
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
-                <text xml:space="preserve" bytes="3441">
+                <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
 {{WikiProject_Transwiki/Template:Infobox
 |title=
 <xsl:text>|above=</xsl:text>[[Werk::<xsl:value-of select="WerkTitel"/>]]
@@ -117,19 +119,26 @@
 |label4=Berichtszeitraum
 |data4=<xsl:value-of select="Berichtszeitraum/Datum/data(.)"/>
 |label5=Abfassungsort
-|data5=[[Abfassungsort::<xsl:value-of select="Abfassungsort"/>]]
+|data5=[[Abfassungsort::<xsl:value-of select="$abfssungsort"/>]]
 |label6=Lebensdaten des Verfassers
-|data6=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
+|data6=<xsl:value-of xml:space="default">
+
+    <xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
                             <xsl:for-each select="./Autoren/Autor">
                                 <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:value-of select="."/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./data(.)"/><xsl:text> |?Lebensdaten | link=none}};</xsl:text>           
+                                <xsl:choose>
+                                    <xsl:when test=". eq 'VerfasserIn unbekannt'"><xsl:value-of select="."/><xsl:text>: unbekannt</xsl:text></xsl:when>
+                                    <xsl:otherwise><xsl:value-of select="."/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./data(.)"/><xsl:text> |?Lebensdaten | link=none}}</xsl:text></xsl:otherwise>
+                                </xsl:choose>
                             </xsl:for-each>
                         </xsl:when>
-                            <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
+                            <xsl:when test="./Autoren/Autor[1] eq 'VerfasserIn unbekannt'">
                                 <xsl:text>unbekannt</xsl:text>
                             </xsl:when>
                             <xsl:otherwise><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> |?Lebensdaten | link=none}}</xsl:text></xsl:otherwise>
-                        </xsl:choose></xsl:value-of>
+                        </xsl:choose>
+
+</xsl:value-of>
 }}
 <xsl:call-template name="svg" xml:space="default"><!-- Timeline einbindung --></xsl:call-template>
 &lt;br/&gt;
@@ -137,16 +146,21 @@
 Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 |Berichtszeitraum=<xsl:value-of select="Berichtszeitraum/Datum/data(.)"/>
 |Werknummer=<xsl:value-of select="WerkId"/>
+                    <xsl:for-each select="Regionen/Region">|Abfassungsregion= <xsl:value-of select="."/></xsl:for-each>
+
+<xsl:call-template name="normDate"><xsl:with-param name="date" select="Berichtszeitraum/Datum/@date"/><xsl:with-param name="attr" select="'BerichtszeitraumDate'"/></xsl:call-template>
+<xsl:call-template name="normDate"><xsl:with-param name="date" select="Abfassungszeitraum/Datum/@date"/><xsl:with-param name="attr" select="'AbfassungszeitraumDate'"/></xsl:call-template>
 }}
-<xsl:value-of select="replace(Werkinformation,'--','')"/>
+&lt;poem&gt;<xsl:value-of select="replace(Werkinformation,'--','')"/>&lt;/poem&gt;
 
 &lt;br/&gt;
 
 === Editionshinweise ===
-<xsl:value-of xml:space="default">
-<xsl:value-of select="Editionshinweise"/>
-<xsl:apply-templates select="EditionLink"/>
+<xsl:value-of xml:space="default">&lt;poem&gt;<xsl:value-of select="Editionshinweise"/>
+<xsl:text> </xsl:text><xsl:if test="exists(EditionLink/@url)"> <xsl:for-each select="EditionLink"><xsl:if test="./@url != ''"><xsl:value-of select="concat(' [',./@url,' ',./data(.))"/>]</xsl:if></xsl:for-each>
+</xsl:if>&lt;/poem&gt;
 </xsl:value-of>
+                    <xsl:if test="exists(./Quellen/Quelle)">                        
 === Quellenstellen ===
 {{#ask:
 [[Kategorie:Quelle]]
@@ -157,16 +171,56 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
                     |format=table
                     |headers=plain
 }}
-&lt;br/&gt;
+<!--[[Kategorie:Sarazenenbezug]]-->
+=== Datierung ===
+{{#ask:
+[[Werk::<xsl:value-of select="WerkTitel"/>]]
+                        [[Zeitangabe::+]]
+|?Zeitangabe  
+  |sort=Zeitangabe
+ |order=descending
+ |format=eventline
+ |timelinebands= YEAR, DECADE,CENTURY
+ |timelineposition=start
+ |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    </xsl:if>
+                    <xsl:if test="not(exists(./Quellen/Quelle))">
+                        <!--[[Kategorie:Kein Sarazenenbezug]]-->
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    </xsl:if>
+=== Zitationshinweis ===
+<xsl:text>{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).</xsl:text>
+<!--
 === Kategorisierung ===
                     &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Abfassungszeitraum | Abfassungszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Abfassungszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;
                     &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Berichtszeitraum | Berichtszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Berichtszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;     
+-->
 <xsl:value-of xml:space="default">[[Kategorie: Werk]]</xsl:value-of>  
 <xsl:value-of xml:space="default"><xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>
                         </text>
                 <sha1></sha1>
             </revision>
         </page>
+    </xsl:template>
+    
+    <xsl:template name="normDate">
+        <xsl:param name="attr"/>
+        <xsl:param name="date"/>
+        <xsl:variable name="first">
+            <xsl:if test="$date != ''">
+                <xsl:choose>
+                    <xsl:when test="starts-with($date,'-')">-<xsl:value-of select="substring-before(substring-after($date,'-'),'-')"/></xsl:when>
+                    <xsl:otherwise><xsl:value-of select="substring-before($date,'-')"/></xsl:otherwise>
+                </xsl:choose>
+            </xsl:if>
+        </xsl:variable>
+        <xsl:value-of select="concat('|',$attr,'=',$first)" xml:space="default"/>
+        <xsl:value-of select="concat(' |',$attr,'=',substring-after($date,concat($first,'-')))" xml:space="default"/>      
     </xsl:template>
     <xsl:template match="Dokument" name="svg"  xml:space="default">       
               <xsl:variable name="dates" xml:space="default">
@@ -439,13 +493,29 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
             </xsl:choose>
         </xsl:variable>
         <xsl:variable name="width">
+            <xsl:choose>
+                <xsl:when test="$x1 &#60; 0">
+                    <xsl:value-of select="($x1 * -1)+$x2"/>
+                </xsl:when>
+                <xsl:when test="$x1 >= 0 and $x2 &#60;= 1150"><xsl:value-of select="$x2 -$x1"/></xsl:when>
+                <xsl:when test="$x2 >= 1150"><xsl:value-of select="1155 - $x1"/></xsl:when>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="markX">
+            <xsl:choose>
+                <xsl:when test="$x2 >= 1150">1155
+                </xsl:when>
+                <xsl:otherwise><xsl:value-of select="$x2"/></xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <!--
             <xsl:if test="$x1 &#60; 0">
                 <xsl:value-of select="($x1 * -1)+$x2"/>
             </xsl:if>
-            <xsl:if test="$x1 > 0">
+            <xsl:if test="$x1 >= 0">
                 <xsl:value-of select="$x2 -$x1"/>
-            </xsl:if>                     
-        </xsl:variable>
+            </xsl:if>      
+            -->
         <xsl:variable name="start">
             <xsl:if test="$x1 > -400">
                 <xsl:value-of select="$x1"/>
@@ -459,7 +529,7 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
         <!-- Beschriftung der Balken: -->
         <xsl:variable name="to" select="number(substring-after(.,'-'))"/>
         &lt;text x="<xsl:value-of select="$start"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: end"><xsl:value-of select="$x1"/>&lt;/text&gt;
-        &lt;text x="<xsl:value-of select="$x2"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: start"><xsl:value-of select="$x2"/>&lt;/text&gt;
+        &lt;text x="<xsl:value-of select="$markX"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: start"><xsl:value-of select="$x2"/>&lt;/text&gt;
         &lt;/g&gt;
     </xsl:template>
     <!-- rudimentäre darstellung vom Abfassungszeitraum -->
@@ -494,6 +564,7 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
+        <!--
         <xsl:variable name="width">
             <xsl:if test="$x1 &#60; 0">
                 <xsl:value-of select="($x1 * -1)+$x2"/>
@@ -501,6 +572,15 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
             <xsl:if test="$x1 > 0">
                 <xsl:value-of select="$x2 -$x1"/>
             </xsl:if>                     
+        </xsl:variable>-->
+        <xsl:variable name="width">
+            <xsl:choose>
+                <xsl:when test="$x1 &#60; 0">
+                    <xsl:value-of select="($x1 * -1)+$x2"/>
+                </xsl:when>
+                <xsl:when test="$x1 >= 0 and $x2 &#60;= 1150"><xsl:value-of select="$x2 -$x1"/></xsl:when>
+                <xsl:when test="$x2 >= 1150"><xsl:value-of select="1155 - $x1"/></xsl:when>
+            </xsl:choose>
         </xsl:variable>
         <xsl:variable name="start">
             <xsl:if test="$x1 > -400">

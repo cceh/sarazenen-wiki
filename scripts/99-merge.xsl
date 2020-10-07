@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    xmlns="http://www.mediawiki.org/xml/export-0.10/"
     exclude-result-prefixes="#all" version="2.0">
     
+    
+    <xsl:variable name="all" select="count(collection('../output?select=*.xml')//*:page)" />
     <xsl:template match="/">
         <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -44,8 +47,8 @@
                     <namespace key="828" case="first-letter">Modul</namespace>
                     <namespace key="829" case="first-letter">Modul Diskussion</namespace>
                 </namespaces>
-            </siteinfo>
-            <xsl:for-each select="collection('../output?select=*.xml')//*:page">
+            </siteinfo>            
+            <xsl:for-each select="collection('../output?select=*.xml')//page" xpath-default-namespace="http://www.mediawiki.org/xml/export-0.10/">
                 <xsl:copy>
                     <xsl:apply-templates select="@* | node()"/>
                 </xsl:copy>  
@@ -58,4 +61,5 @@
             <xsl:apply-templates select="@* | node()"/>
         </xsl:copy>
     </xsl:template>
+    
 </xsl:stylesheet>

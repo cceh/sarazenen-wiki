@@ -1,81 +1,86 @@
-### Sarazenen Wiki ###
-<<<<<<< HEAD
-#### Wiki Header ####
-``` xml
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd"
-            version="0.10" xml:lang="de">
-            <siteinfo>
-                <sitename>Sarazenen Wiki</sitename>
-                <dbname>sarazenen-bonn</dbname>
-                <base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base>
-                <generator>MediaWiki 1.27.4</generator>                
-                <case>first-letter</case>
-                <namespaces>
-                    <namespace key="-2" case="first-letter">Medium</namespace>
-                    <namespace key="-1" case="first-letter">Spezial</namespace>
-                    <namespace key="0" case="first-letter"/>
-                    <namespace key="1" case="first-letter">Diskussion</namespace>
-                    <namespace key="2" case="first-letter">Benutzer</namespace>
-                    <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
-                    <namespace key="4" case="first-letter">Sarazenen Wiki</namespace>
-                    <namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace>
-                    <namespace key="6" case="first-letter">Datei</namespace>
-                    <namespace key="7" case="first-letter">Datei Diskussion</namespace>
-                    <namespace key="8" case="first-letter">MediaWiki</namespace>
-                    <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
-                    <namespace key="10" case="first-letter">Vorlage</namespace>
-                    <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
-                    <namespace key="12" case="first-letter">Hilfe</namespace>
-                    <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
-                    <namespace key="14" case="first-letter">Kategorie</namespace>
-                    <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
-                    <namespace key="102" case="first-letter">Attribut</namespace>
-                    <namespace key="103" case="first-letter">Attribut Diskussion</namespace>
-                    <namespace key="106" case="first-letter">Formular</namespace>
-                    <namespace key="107" case="first-letter">Formular Diskussion</namespace>
-                    <namespace key="108" case="first-letter">Konzept</namespace>
-                    <namespace key="109" case="first-letter">Konzept Diskussion</namespace>
-                    <namespace key="170" case="first-letter">Filter</namespace>
-                    <namespace key="171" case="first-letter">Filter Diskussion</namespace>
-                    <namespace key="828" case="first-letter">Modul</namespace>
-                    <namespace key="829" case="first-letter">Modul Diskussion</namespace>
-                </namespaces>
-            </siteinfo>
-            <page/>
-        </mediawiki>
+# Sarazenen Wiki #
+## Inhalt ##
+
+## Einleitung ##
+Das Repertorium Saracenorum bietet eine Sammlung von mittelalterlichen Berichten über Saraceni, Agareni, Mauri…. Jeder thematisch relevante Bericht ist als Quellenstelle auf einer eigenen Seite aufgenommen, diese wiederum einem Werk und sofern möglich einer Verfasserin bzw. einem Verfasser zugeordnet worden. Mit Hilfe von Kategorien und Attributen wurden sowohl die Werkseiten als auch die Quellenstellenseiten verschlagwortet. 
+
+## Semantische Suche ##
+[Semantische Suche Link](http://saraceni.uni-koeln.de/wiki/index.php?title=Spezial:Semantische_Suche)
+Die Semantische Suche bietet mehrere möglichkeiten, Kategorien und Attribute zu verknüpfen.
+
+Bsp.: 
+[Link](http://saraceni.uni-koeln.de/wiki/index.php?title=Spezial:Semantische_Suche&q=%5B%5BAuff%C3%A4lligkeit%3A%3A%C3%9Cberfall%5D%5D%0A%5B%5BZeitangabe%3A%3A%3E890%5D%5D%0A%5B%5BOrt%3A%3AItalien%5D%5D&p=format%3Dtagcloud%2Flink%3Dall%2Fheaders%3Dshow%2Fsearchlabel%3D%E2%80%A6-20weitere-20Ergebnisse%2Ftagorder%3Dalphabetical%2Fincrease%3Dlog%2Fclass%3Dsortable-20wikitable-20smwtable%2Ffont%3Dimpact%2Fheight%3D400%2Fwidth%3D400%2Fmincount%3D1%2Fminsize%3D77%2Fmaxsize%3D242%2Fmaxtags%3D1000&po=%3FAuff%C3%A4lligkeit%0A%3FOrt%0A%3FSuchbegriffe%0A&sort=&order=asc%2Casc&eq=no&offset=0&limit=100)
+
+Hierbei ist in der Linken Spalte:
 ```
-#### Seiten / Page ####
+[[Auffälligkeit::Überfall]]
+[[Zeitangabe::>890]]
+[[Ort::Italien]]
 ```
-    <page>
-            <title>
-                <xsl:value-of select="WerkTitel"/>
-            </title>
-            <ns>0</ns>
-            <id>
-                <xsl:value-of select="WerkId + $fid"/>
-            </id>
-            <revision>
-                <id>
-                    <xsl:value-of select="WerkId + $sid"/>
-                </id>
-                <parentid>
-                    <xsl:value-of select="WerkId"/>
-                </parentid>
-                <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
-                <contributor>
-                    <username>Administrator</username>
-                    <id>1</id>
-                </contributor>
-                <model>wikitext</model>
-                <format>text/x-wiki</format>
-                <text xml:space="preserve" bytes="3441">
-                </text>
-                <sha1></sha1>
-            </revision>
-    </page>
+und in der rechten
 ```
-=======
-https://cloud.cceh.uni-koeln.de/index.php/f/404526
->>>>>>> 990b11621f915c076b9afe89b2dec29a1ff0b287
+?Auffälligkeit
+?Ort
+?Suchbegriffe
+```
+Die linke Spalte defeniert welche Dokumente abgefragt werden sollen und verfeinert die Suche. Anhand des Beispiel werden alle Seiten mit dem Attribut "Auffälligkeit" mit dem Wert "Überfall" erfasst. Das Attributt "Zeitangabe" ist vom Typ "date", wodurch mit ">890" bestimmt werden kann alle Seiten nach 890 zu erhalten.
+
+## Installation ##
+### Mediawiki ###
+#### LocalSettings.php ####
+Damit das Mediawiki wie gewüncht funktioniert muss die datei LocalSettings.php mit eingebunden werden. 
+
+```php
+L64    $wgDBpassword = "";
+```
+SQL Passwort ist im internen Wiki gespeichert.
+
+
+Eingebundene Extensions
+```php
+wfLoadExtension( 'Cite' );
+wfLoadExtension( 'CiteThisPage' );
+wfLoadExtension( 'ConfirmEdit' );
+wfLoadExtension( 'Gadgets' );
+wfLoadExtension( 'ImageMap' );
+wfLoadExtension( 'InputBox' );
+wfLoadExtension( 'Interwiki' );
+wfLoadExtension( 'LocalisationUpdate' );
+wfLoadExtension( 'Nuke' );
+wfLoadExtension( 'ParserFunctions' );
+wfLoadExtension( 'PdfHandler' );
+wfLoadExtension( 'Poem' );
+wfLoadExtension( 'Renameuser' );
+wfLoadExtension( 'SpamBlacklist' );
+wfLoadExtension( 'SyntaxHighlight_GeSHi' );
+wfLoadExtension( 'TitleBlacklist' );
+wfLoadExtension( 'WikiEditor' );
+```
+
+### AFS ###
+#### htaccess ####
+Die htaccess Datei unter 
+```
+//afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/wiki//images/
+``` 
+wurde gelöscht, da es zu problemen beim darstellen hochgeladener Bilder gab.
+
+Wichtig ist mit 
+> fs la
+
+zu prüfen ob die Schreib und Leserechte richtig sind
+```
+-bash-4.1$ cd //afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/wiki
+-bash-4.1$ fs la
+Access list for . is
+Normal rights:
+  webpro0:pro_sarazenen_n rlidwk
+  webpro0:pro_sarazenen_a rlidwka
+  wwwadm1:wm rlidwka
+  system:administrators rlidwka
+  wwwadm1 rlidwka
+  webpro0 rlidwka
+  w-saraze rlidwk
+```
+
+

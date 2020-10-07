@@ -1,29 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><mediawiki>
-<page>
+<?xml version="1.0" encoding="UTF-8"?><mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="de">
+ <page>
     <title>Repertorium Saracenorum</title>
     <ns>0</ns>
-    <id>179</id>
+    <id>16347</id>
     <revision>
-        <id>3428</id>
-        <parentid>3420</parentid>
-        <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
-        <contributor>
-            <username>Administrator</username>
-            <id>1</id>
-        </contributor>
-        <comment>/* Zum Projekt */</comment>
-        <model>wikitext</model>
-        <format>text/x-wiki</format>
-        <text xml:space="preserve" bytes="2079">
-         __NOTOC__
-
-         _&lt;div id="hauptseite"&gt;
+      <id>144037</id>
+      <parentid>144024</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14696">         __NOTOC__
+         &lt;div id="hauptseite"&gt;
 {| style="border-collapse:collapse; width:100%;"
 | colspan="2" style="padding:0;" |
 
 &lt;div id="hauptseite-willkommen" class="hauptseite-oben"&gt;
 == Willkommen im Repertorium Saracenorum ==
-&lt;div class="inhalt" style="text-align:center;"&gt;
+&lt;div class="inhalt" style="text-align:center;margin-bottom:1em;"&gt;
 ; Ein Wiki zu ''Saraceni'', ''Agareni'', ''Mauri'', ... in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts
 
 Im Zuge der Expansion der Araber, die ihren Anfang im 7.
@@ -39,270 +36,356 @@ Gesandtschafts- oder Pilgerreisen, aber auch durch
 ihren Niederschlag auch in der lateinisch-christlichen
 Geschichtsschreibung des früheren Mittelalters.
 
-Im digitalen '''Repertorium Saracenorum''' werden Berichte über ''Saraceni'',
+Im '''Repertorium Saracenorum''' werden Berichte über ''Saraceni'',
 ''Agareni'', ''Mauri'', … in lateinisch-christlichen Quellen des
 7. bis 11. Jahrhunderts zusammengetragen, in aufbereiteter
 Form online veröffentlicht und so für Interessierte
 zugänglich gemacht, um weitere Untersuchungen zu
 befördern.
 &lt;/div&gt;
+
+== Hinweise zur Benutzung ==
+&lt;div class="inhalt"&gt;
+Das Repertorium Saracenorum bietet eine Sammlung von mittelalterlichen Berichten über ''Saraceni'', ''Agareni'', ''Mauri''…. Jeder thematisch relevante Bericht ist als Quellenstelle auf einer eigenen Seite aufgenommen, diese wiederum einem Werk und sofern möglich einer Verfasserin bzw. einem Verfasser zugeordnet worden. Mit Hilfe von Kategorien und Attributen wurden sowohl die Werkseiten als auch die Quellenstellenseiten verschlagwortet. 
+
+Die Ansicht einer '''Werkseite''' bietet allgemeine Informationen zur Quelle und ihrer Abfassung. Auf dieser Seite finden Sie zunächst eine Infobox, die wesentliche Hinweise (Werktitel und –alternativtitel, eine interne Werknummer, VerfasserIn, Abfassungszeit, Berichtszeitraum, Abfassungsort und Lebensdaten des Verfassers/der Verfasserin) auf einen Blick bietet. Daneben haben wir die Berichtszeit (blau), Abfassungszeit (gelb) und alle relevanten Berichte (schwarz) in einer Graphik dargestellt. Neben den Editionshinweisen und einem kleinen einführenden Text werden außerdem alle in diesem Werk enthaltenen Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… aufgelistet unter Angabe der Datierung und der Inhaltsangabe. Über einen Link gelangen Sie leicht auf die ausgewählte Quellenstellenseite.
+
+Die '''Quellenstellenseiten''' bieten dann wiederum in einer Infobox übersichtlich Informationen zur Quellenstelle und ihrer Zitation. Eine deutsche Inhaltsangabe bietet einen ersten Zugriff auf den Inhalt des Berichts. Aufgeführt sind weiterhin der Bericht als Volltext und meist in einer deutschen Übersetzung unter weiteren Angaben zur Überlieferung (Anmerkungen). Es folgen die weiteren Quellenstellen, die zu diesem Werk aufgenommen wurden. Am Ende der Seite sind alle Kategorien aufgeführt und die Attribute in einer Faktenbox transparent zusammengetragen.
+
+Auf weiteren thematischen Seiten finden sich Übersichten, die den Einstieg in die Berichte über verschiedenen Schlagworte und Suchbegriffe ermöglichen.
+
+Um den Einstieg in das Repertorium Saracenorum insgesamt zu erleichtern, stehen Ihnen mehrere Einstiegsmöglichkeiten und Suchoptionen auf Ebene der Werke sowie auf inhaltlicher Ebene zur Verfügung.
 &lt;/div&gt;
 
 |-
 | style="padding:0; vertical-align:top; width:50%;" |
 
 &lt;div id="hauptseite-artikel" class="hauptseite-links"&gt;
-== Inhalte ==
-&lt;div class="inhalt"&gt;
-[[:Kategorie:Werk | Werke]]
-&lt;br /&gt;
-[[:Kategorie:Region | Regionen]]
-&lt;br /&gt;
-[[:Kategorie:VerfasserIn | VerfasserInnen]]
-&lt;br /&gt;
-[[:Kategorie:Person | Personen]]
-&lt;br /&gt;
-[[:Kategorie:Geographie | Geographie]]
-&lt;br/&gt;
-[[:Kategorie:Auffälligkeiten | Auffälligkeiten]]
-&lt;br/&gt;
-[[:Kategorie:Suchbegriffe der Stelle | Suchbegriffe]]
-&lt;br /&gt;
-[[Zeiträume]]
+
+== Volltextsuche ==
+&lt;div class="inhalt" style="margin-bottom:1em;"&gt;
+{{#tag:inputbox|
+bgcolor=transparent
+type=fulltext
+prefix={{{root|{{FULLPAGENAME}}}}}{{#switch:{{{noslash}}}|yes=|no=/|{{{noslash}}}=/}}
+break={{{search-break|no}}}
+{{#ifeq:{{{search-width|}}}|auto||
+width={{{search-width|30}}} }}
+searchbuttonlabel={{{search-button-label|Suchen}}}
+}}
 &lt;/div&gt;
+
+== Zentrale Inhalte auf einen Blick ==
+&lt;div class="inhalt" style="margin-bottom:1em;"&gt;
+* [[:Kategorie:Werk | Werke]]
+* [[:Kategorie:VerfasserIn | VerfasserInnen]]
+* [[:Kategorie:Person | Personen]]
+* [[:Kategorie:Geographie | Geographie]]
+* [[:Kategorie:Abfassungsregion | Abfassungsregion]]
+* [[:Kategorie:Auffälligkeit | Auffälligkeiten]]
+* [[:Kategorie:Suchbegriffe | Suchbegriffe]]
+* [[Datierung]]
+&lt;/div&gt;
+
+== Einstieg auf Quellenebenen: Werke, VerfasserInnen, Regionen ==
+&lt;div class="inhalt" style="margin-bottom:1em;"&gt;
+Der erste Zugang zu den Berichten über ''Saraceni'', ''Agareni'', ''Mauri''… in den lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts n. Chr. sind die überlieferten Texte selbst. Über '''[[:Kategorie:Werk|Werke]]''' gelangen Sie zu allen Quellen, die im Repertorium Saracenorum bislang aufgenommen wurden. Hierbei ist zu unterscheiden zwischen solchen Werken, die einen sog. Sarazenenbezug haben und jenen, in denen keine Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… überliefert sind. Letztere wurden trotz ihrer ‚Irrelevanz‘ ins Wiki aufgenommen, um die Transparenz der unternommenen Arbeiten zu erhöhen. So kann das Wiki auch dazu dienen, zu untersuchen, dass in bestimmten Werken keine Berichte überliefert wurden.
+
+Ähnlich führt der Einstieg über VerfasserInnen zu allen mittelalterlichen '''[[:Kategorie:VerfasserIn|Verfasserinnen und Verfassern]]''', deren Werke in das Repertorium Saracenorum aufgenommen wurden. Die Auswahl einer Verfasserin oder eines Verfassers führt weiter zu deren/dessen Werken und anschließend zu den im Werk überlieferten Berichten über ''Saraceni'', ''Agareni'', ''Mauri''….
+
+Der Einstieg über '''[[:Kategorie:Abfassungsregion|Abfassungsregion]]''' ermöglicht es, die Auswahl der Werke anhand ihres Abfassungsortes bzw. ihrer Abfassungsregion einzugrenzen. Im Zuge der Bearbeitung wurden alle Werke einer europäischen Region zugeordnet: ''Britische Inseln, Iberische Halbinsel, Italienische Halbinsel sowie West- und Mitteleuropa''. Für Werke, die auf dem Gebiet des Fränkischen Reiches nach der Teilung von 843 verfasst wurden, erfolgte noch einmal eine Einteilung in ''West- und Mitteleuropa – Ostfrankenreich'' sowie ''West- und Mitteleuropa – Westfrankenreich''.
 &lt;/div&gt;
 
 | style="padding:0; vertical-align:top; width:50%;" |
 
 &lt;div id="hauptseite-artikel" class="hauptseite-rechts"&gt;
-== DFG-Projekt ==
-&lt;div class="inhalt"&gt;
-Hervorgegangen ist das '''Repertorium Saracenorum''' aus einem von der Deutschen Forschungsgemeinschaft zwischen 2013 und 2017 geförderten Projekt "''Saraceni'', ''Agareni'', ''Mauri'', … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts" an der Rheinischen Friedrich-Wilhelms-Universität Bonn, Abteilung für Mittelalterliche Geschichte unter Leitung von Herrn Prof. Dr. Matthias Becher.
+== Einstieg auf Inhaltsebene: Personen, Geographie, Auffälligkeiten, Suchbegriffe, Zeiträume ==
+&lt;div class="inhalt" style="margin-bottom:1em;"&gt;
+Mit Hilfe der den Werken und Quellenstellen zugeordneten Kategorien und Attribute kann auf die Berichte inhaltlich zugegriffen werden. Dies ist entweder über die Quellenstellenseite möglich oder mittels einer der Suchfunktionen, die Semantic MediaWiki bietet, z. B. die Volltextsuche oder das Semantische Browsen (unter Spezialseiten, s. Navigation), das eigenen Fragestellungen an das Wiki zulässt (hier ein paar [[Suchfunktionen im Repertorium Saracenorum|Beispiele]] dazu). Zu allen Kategorien wurden zudem Übersichtsseiten angelegt, auf denen etwa für Personen und Orte neben Alternativnamen sämtliche Erwähnungen in Quellenstellen tabellarisch aufgeführt werden.
 
-Das '''Repertorium Saracenorum''' entsteht als Semantic MediaWiki in Kooperation mit dem Cologne Center for eHumanities (CCeH) der Universität zu Köln.
+Am Ende einer jeden Werk- und Quellenstellenseite werden die Kategorien aufgelistet und die Attribute in einer Faktenbox transparent angezeigt. Folgen Sie hierin dem Link, der dem Wort (z.B. Spanien) hinterlegt ist, gelangen Sie auf eine Seite mit Informationen zum Wert (hier: Spanien) des Attributs (hier: Ort), seinen Alternativbezeichnungen und einem Link zum Getty Thesaurus of Geographic Names Online. Folgen Sie der angezeigten Lupe, so gelangen Sie auf eine Seite, auf der die Ergebnisse des Semantischen Browsens abgebildet sind.
+
+Über das Attribut '''[[:Kategorie:Person|Person]]''' gelangen Sie zu sämtlichen historischen Persönlichkeiten, die im Kontext der Berichte über Saraceni, Agareni, Mauri… erwähnt werden. Die Auswahl einer Person führt zu einer Auflistung der entsprechenden Berichte, in denen die Person genannt wird.
+
+Ähnlich besteht die Möglichkeit, über das Attribut '''[[:Kategorie:Geographie|Geographie]]''' alle Berichte aufzurufen, die sich auf einen geographischen Raum beziehen oder diesen erwähnen. Bei diesen geographischen Angaben wird unterschieden zwischen Bergen/Gebirgen, Flüssen, Klöstern, Regionen und Städten. Neben den entsprechenden Berichten gelangen Sie hier über einen Link zu weiterführenden Informationen im Getty Thesaurus of Geographic Names Online.
+
+Mithilfe eines zugeordneten Werts des Attributs '''[[:Kategorie:Auffälligkeiten|Auffälligkeiten]]''' wurden die aufgenommenen Berichte inhaltlich verschlagwortet (z. B. Gefangennahme, Kampfhandlung oder auch Herrscherwechsel). Damit besteht die Möglichkeit eines thematischen Zugriffs auf die Berichte. Sämtliche Quellenstellen, die über inhaltlich vergleichbares berichten, können hierüber aufgerufen werden.
+
+Unter dem Attribut '''[[:Kategorie:Suchbegriffe|Suchbegriffe]]''' sind solche lateinischen wie deutschen Schlagworte gelistet, die von den mittelalterlichen Verfasserinnen und Verfassern häufig in Berichten über Saraceni, Agareni, Mauri… genutzt wurden. Sie dienten bei der Bearbeitung dazu, relevante Quellenstellen in den Werken ausfindig zu machen. Im Wiki sind sie aufgeführt, um zum einen diesen Bearbeitungsschritt transparent widerzuspiegeln, zum anderen um auch die Erforschung der verwendeten Begrifflichkeiten zu ermöglichen. Neben den Begriffen ‚Saracenus/Sarazene‘, ‚Maurus/Maure‘, ‚Agarenus/Agarene‘ finden sich hier etwa auch ‚Persus/Perser‘ oder ‚Ismaelitus/Ismaelit‘ sowie Personen- und Ortsnamen.
+
+Auch die '''[[Datierung]]''' von Werken und Quellenstellen ist erfasst: Auf jeder Werk-Seite findet sich rechts neben der Infobox eine statische Timeline, die Auskunft über die Berichtszeit (blau) und Abfassungszeit (gelb) sowie über die Datierung (schwarz) aller als relevant aufgenommenen Berichte eines Werkes gibt. Als Jahre angegeben werden Anfang und Ende des Bercihtszeitraums.
+Am unteren Ende jeder Seite eines Werkes findet sich eine weitere, dynamische Timeline (SIMILE-Timeline), auf der alle Berichte als Quellenstellen hinterlegt sind. Jede Quellenstelle ist als ''Zeitraum/mit Anfangs- und Endpunkt'' des Berichts angegeben. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen. 
+
+Die drei Ebenen der Timeline (Jahre, Dekaden, Jahrhunderte) lassen eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timeline (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an.
+
+Ein Hinweis auf berichtete Ereignisse: Sofern mehrere Werke über das selbe Ereignis berichten, so sind häufig Querverweise zu weiteren Quellenstellen unter 'Anmerkungen' hinterlegt.
+
 &lt;/div&gt;
+
 &lt;/div&gt;
 
 |-
 | colspan="2" style="padding:0;" |
 
 &lt;div id="hauptseite-footer" class="hauptseite-unten"&gt;
-&lt;h2&gt;About&lt;/h2&gt;
+
+== Über das Projekt ==
+&lt;div class="inhalt" style="margin-bottom:1em;"&gt;
+Hervorgegangen ist das '''Repertorium Saracenorum''' aus einem von der Deutschen Forschungsgemeinschaft (DFG) zwischen 2013 und 2017 geförderten Projekt ''Saraceni'', ''Agareni'', ''Mauri'', … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts" an der Rheinischen Friedrich-Wilhelms-Universität Bonn, [https://www.igw.uni-bonn.de/de/abteilungsseiten/mittelalter '''Abteilung für Mittelalterliche Geschichte'''] unter Leitung von Herrn Prof. Dr. Matthias Becher.
+
+Das '''Repertorium Saracenorum''' entsteht als Semantic MediaWiki in Kooperation mit dem [https://cceh.uni-koeln.de/ '''Cologne Center for eHumanities (CCeH)'''] der Universität zu Köln.
+&lt;/div&gt;
+== Dank ==
+&lt;div class="inhalt" style="margin-bottom:1em;"&gt;
+Besonderer Dank sei den Mitarbeiter*innen und Hilfskräften der '''Abteilung für Mittelalterliche Geschichte in Bonn''' und des '''Cologne Center for eHumanities in Köln''' ausgesprochen, die über viele Jahre das Projekt vorbereitet, unterstützt und bearbeitet haben, insbesondere sei gedankt: Lukas Müller für die Abteilung für Mittelalterliche Geschichte und Patrick Sahle, Jonathan Blumtritt sowie Ben Bigalke, Dana Persch und Adalbert Wrona für das CCeH.
+Weiterhin haben von Bonner Seite mitgewirkt Christine Beyer, Daniel Colmenero López, Florian Dahmen, Valentina von Finckenstein, Julia Gehrke, David Gillengerten, Lea Herzog, Florian Hartmann, Ole Höffken, Hendrik Hess, Markus Knipp, Kilian Langmesser, Esther Lindenlauf, Julius Lübbersmann, Philipp Merkel, Inga Mehlert-Garms, Alheydis Plassmann, David Renger, Max Schranner, Anja Lisa Schroll, Lea Weitekamp und Juliet Ziegenbein.
+Die im Projekt erzielten Daten und der Umgang mit ihnen war Thema eines Hauptseminars geleitet von Øyvind Eide und Katharina Gahbler an der Universität Köln im Wintersemester 2016/17. Allen beteiligten Studierenden, die zum Teil auch über das Seminar hinaus zum Gelingen des Projektes beigetragen haben, sei herzlich für ihr Interesse und ihre Mitarbeit gedankt: Alex Abboud, Andreas Gálffy, Britta Hermans, Stefan Kreinberg, Dominik Leyendecker, Johannes Mertens, Anne Pietsch, Nasrin Saef, Fabian Scheller, Julian Schraven, Kevin Schwarz, Gwenlyn Tiedemann, Maria Wagner, Christian Weitz und Adalbert Wrona.
+
+Das '''Repertorium Saracenorum''' bildet nur einen kleinen Ausschnitt aus allen mittelalterlichen Berichten, die über ''Saraceni'', ''Agareni'', ''Mauri''… verfasst wurden und überliefert sind. Es ist trotz sorgfältiger redaktioneller Überarbeitungen nicht fehlerfrei. Die Sammlung soll weiter wachsen. Sie lebt daher von den wertvollen Hinweisen, Kommentaren und der konstruktiven Mitarbeit aller Nutzer*innen! Schreiben Sie uns (abteilung.mittelalter@uni-bonn.de) – vielen Dank!
+&lt;/div&gt;
+== Zitierhinweis für das Repertorium Saracenorum ==
 &lt;div class="inhalt"&gt;
-Dinge
+[Titel des Werkes – Nummer der Quellenstelle], in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [URL] (zuletzt abgerufen am [aktuelles Datum]). 
+
+z.B. Annales Flodoardi-0001, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: http://saraceni.uni-koeln.de/wiki/Annales_Flodoardi-0001 (zuletzt abgerufen am 09.07.2020).
 &lt;/div&gt;
 &lt;/div&gt;
 
 |}
-&lt;/div&gt;
 
 
-        </text>
-        <sha1/>
+&lt;/div&gt;</text>
+      <sha1>nsfv81qnxy0vhvw2mw5r3z7f2honybn</sha1>
     </revision>
-</page>
-    <page>
-        <title>Kategorie:Werk</title>
-        <ns>0</ns>
-        <id>180</id>
-        <revision>
-            <id>3429</id>
-            <parentid>3420</parentid>
-            <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
-            <contributor>
-                <username>Administrator</username>
-                <id>1</id>
-            </contributor>
-            <comment>/* Zum Projekt */</comment>
-            <model>wikitext</model>
-            <format>text/x-wiki</format>
-            <text xml:space="preserve" bytes="2079">
+  </page>
+  <page>
+    <title>Kategorie:Werk</title>
+    <ns>14</ns>
+    <id>16348</id>
+    <revision>
+      <id>144027</id>
+      <parentid>131437</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="957">Übersicht über alle im '''Repertorium Saracenorum''' aufgenommenen Werke mit Hinweis auf Relevanz (Sarazenenbezug), Verfasserinnen oder Verfasser, Abfassungs- und Berichtszeitraum sowie den Abfassungsort des Werkes. Die Tabelle kann nach Bedarf durch Klick auf einen der Pfeile in jeder Spaltenüberschrift aufsteigend oder absteigend sortiert werden. 
+
+Weiter unten befindet sich eine alphabetische Auflistung aller Werke. Über die Auswahl eines Werkes gelangt man zu den Quellenstellen.
+
+Zu unterscheiden ist zwischen Werken, die einen sog. Sarazenenbezug haben und jenen, in denen keine Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… überliefert sind.
                 
                 {{#ask:
                 [[Kategorie:Werk]]
-                |?Verfasser
+                |?Sarazenenbezug#
+                |?VerfasserIn
 |?Abfassungszeit#
 |?Berichtszeitraum#
 |?Abfassungsort
                 |limit=1000|format=table}}
-                [[Kategorie:Repertorium Saracenorum]]
-            </text>
-            <sha1/>
-        </revision>
-    </page>
- <page>
-  <title>MediaWiki:Common.css</title>
-  <ns>0</ns>
-  <id>183</id>
-  <revision>
-   <id>3433</id>
-   <parentid>3423</parentid>
-   <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
-   <contributor>
-    <username>Administrator</username>
-    <id>1</id>
-   </contributor>
-   <comment>/* Zum Projekt */</comment>
-   <model>wikitext</model>
-   <format>text/x-wiki</format>
-   <text xml:space="preserve" bytes="2079">
-     {{#css:
-     /* Quellenstellen */
-            		table{
-            			border: 1px solid black;
-            		}
-            		td{
-            			padding: 5px;
-            		}
-            		.infobox {
-            		float:right;
-            		margin-right:50px;
-            		}
-            		h3 {
-            		clear:both;
-            		}
-            		
-            		/* Werksseiten */
-            		table{
-            			border: 1px solid black;
-            			float:left;
-            		}
-            		td{
-            			padding: 5px;
-            		}
-            		svg {
-            			margin-left: 35px;
-            		}
-            		.timeline {
-            			width: 1200px;
-            			margin-left: 30px;
-            		}
-            		.time{
-	            		width: 1000px;
-	            		height: 30px;
-	            		border-top: 1px solid black;
-	            		padding-top: 10px;
-	            		margin-top: 20px;
-            		}
-            		.year{
-	            		width: 140px;
-	            		text-align: center;
-	            		display: inline;
-	            		margin-right: 150px;
-	            		margin-left: 15px;
-	            		font-size: 9pt;
-            		}
-            		.label{
-            			font-size: 7pt;
-            		}
-            		p {
-            		clear:both; }
-            		#leiste {
-            		width:66%;
-            		float:right;
-            		}
-            		/* Hauptseite */
+                [[Kategorie:Repertorium Saracenorum]]</text>
+      <sha1>qdo2oi6ehbrdynr1pox2jmfwpaltijq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Auffälligkeit</title>
+    <ns>14</ns>
+    <id>18358</id>
+    <revision>
+      <id>144028</id>
+      <parentid>136116</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="254">Übersicht über alle Auffälligkeiten, die den einzelnen Berichten zugeordnet wurden. Über diese Schlagworte gelangt ein thematischer Zugriff auf die einzelnen Berichte sowie auf inhaltlich vergleichbare Berichte.
 
-.hauptseite-rechts {
-    margin-left: .5em;
-}
+[[Kategorie:Repertorium Saracenorum]]</text>
+      <sha1>7o0vnco7sfcmhv5rkbi4j6cw5ahftwt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Suchbegriffe</title>
+    <ns>14</ns>
+    <id>18347</id>
+    <revision>
+      <id>144030</id>
+      <parentid>144029</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="389">Alphabetische Übersicht über alle Suchbegriffe, die bei der Bearbeitung der Werke Hinweise auf Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… lieferten. Sie sind für jede Quellenstelle in der orthographisch originalen lateinischen Schreibweise, einer standardisierten lateinischen Schreibweise, sowie in deutscher Übersetzung aufgenommen.
 
-.hauptseite-links {
-    margin-right: .5em;
-}
+[[Kategorie:Repertorium Saracenorum]]</text>
+      <sha1>g88sgu79ni713o6k9d51a2qvl6bme70</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:VerfasserIn</title>
+    <ns>14</ns>
+    <id>17120</id>
+    <revision>
+      <id>144036</id>
+      <parentid>144031</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="922">Alphabetische Übersicht über alle mittelalterlichen Verfasserinnen und Verfassern, deren Werke in das Repertorium Saracenorum aufgenommen wurden. Die Auswahl einer Verfasserin oder eines Verfassers führt weiter zu deren/dessen Werken und anschließend zu den im Werk überlieferten Berichten über ''Saraceni'', ''Agareni'', ''Mauri''…. 
 
-.hauptseite-oben h2, .hauptseite-unten h2 {
-    text-align: center;
-}
+Zu alle Verfasserinnen und Verfasser sind Links zur [http://lobid.org/gnd Gemeinsamen Normdatei] [https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html (GND – DNB)] hinterlegt, über die weitergehende Informationen abgerufen werden können. 
 
-.hauptseite-links h2, .hauptseite-rechts h2 {
-    text-indent: .8em;
-}
+Als Verfasserinnen und Verfasser aufgenommene Personen sind nicht unter der Kategorie [[:Kategorie:Person|Person]] aufgenommen. Unbekannte Verfasser und Verfasserinnen sind unter der Kategorie [[VerfasserIn unbekannt]] zusammengefasst.
 
-.hauptseite-oben, .hauptseite-links, .hauptseite-rechts {
-    margin-bottom: 1em;
-}
 
-#hauptseite .inhalt {
-    background: #fff;
-    border: 1px solid #8898bf;
-        border-top-color: rgb(136, 152, 191);
-        border-top-style: solid;
-        border-top-width: 1px;
-    border-top: 0;
-    min-height: 0;
-    padding: .3em .8em .4em;
-}
+                    
+                    [[Kategorie:Repertorium Saracenorum]]</text>
+      <sha1>7euxoysfftawmxd2pvhuhftml9g2qd5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Person</title>
+    <ns>14</ns>
+    <id>17119</id>
+    <revision>
+      <id>144032</id>
+      <parentid>137953</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="678">Alphabetische Übersicht über alle als Person aufgenommenen historischen Persönlichkeiten und in Berichten erwähnte Personen oder Charaktere. Die Auswahl einer Person führt zu einer Auflistung der entsprechenden Berichte, in denen die Person genannt wird.
 
-#hauptseite h2 {
-    background: #d8e8ff;
-    border: 1px solid #8898bf;
-    font-family: inherit;
-    font-size: 1em;
-    font-weight: bold;
-    line-height: 1.5;
-    margin: 0;
-    padding: .1em 0;
-}
+Zu alle Personen sind (sofern verfügbar) [http://lobid.org/gnd Gemeinsamen Normdatei] [https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html (GND – DNB)] hinterlegt, über die weitergehende Informationen abgerufen werden können.
 
-            	}}
-    
-            </text>
-   <sha1/>
-  </revision>
- </page>
- <page>
-  <title>Kategorie:Repertorium Saracenorum</title>
-  <ns>0</ns>
-  <id>181</id>
-  <revision>
-   <id>3430</id>
-   <parentid>3421</parentid>
-   <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
-   <contributor>
-    <username>Administrator</username>
-    <id>1</id>
-   </contributor>
-   <comment>/* Zum Projekt */</comment>
-   <model>wikitext</model>
-   <format>text/x-wiki</format>
-   <text xml:space="preserve" bytes="2079">
-            </text>
-   <sha1/>
-  </revision>
- </page>
- <page>
-  <title>MediaWiki:Sidebar</title>
-  <ns>8</ns>
-  <id>57</id>
-  <revision>
-   <id>1802</id>
-   <parentid>1799</parentid>
-   <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
-   <contributor>
-    <username>Administrator</username>
-    <id>1</id>
-   </contributor>
-   <model>wikitext</model>
-   <format>text/x-wiki</format>
-   <text xml:space="preserve" bytes="479">* sarazenen
+Aufgenommen wurden hier keine [[:Kategorie:VerfasserIn|Verfasserinnen und Verfassern]].
+                    
+                    [[Kategorie:Repertorium Saracenorum]]</text>
+      <sha1>1j2803ajt7tufw8z76yo2fg6zbt8s7y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Geographie</title>
+    <ns>14</ns>
+    <id>17118</id>
+    <revision>
+      <id>144034</id>
+      <parentid>137951</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="500">Übersicht über alle im Repertorium Saracenorum hinterlegten geographischen Unterkategorien. Über die Auswahl einer geographischen Kategorie können alle Berichte abgerufen werden, zu denen ein Bezug zu dieser Kategorie hinterlegt wurde.
+
+Außerdem sind alle geographischen Räume mit Normdaten des [http://www.getty.edu/research/tools/vocabularies/tgn/index.html Getty Thesaurus of Geographic Names Online] verknüpft.
+                    
+                    [[Kategorie:Repertorium Saracenorum]]</text>
+      <sha1>o7fy6wq7o46r8ph18jslh52t11f7ylp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datierung</title>
+    <ns>0</ns>
+    <id>18345</id>
+    <revision>
+      <id>144035</id>
+      <parentid>144020</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1005">Diese Timeline bietet einen Überblick über die zeitliche Verteilung aller im Repertorium Saracenorum aufgenommenen Quellenstellen. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen. 
+
+Die drei Ebenen der Timeline (Jahre, Dekaden, Jahrhunderte) lässt eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timeline (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an.
+
+                {{#ask:
+[[Zeitangabe::+]]
+|?Zeitangabe         
+|timelinesize=800px
+  |sort=Zeitangabe
+ |order=descending
+ |format=timeline
+ |timelinebands= YEAR, DECADE,CENTURY
+ |timelineposition=end
+ |limit=1000
+}}</text>
+      <sha1>ta7dvrilcc0831r3z2lf83dzhku20zl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sidebar</title>
+    <ns>8</ns>
+    <id>16350</id>
+    <revision>
+      <id>136117</id>
+      <parentid>133317</parentid>
+      <timestamp>2020-10-07T14:24:51Z</timestamp>
+      <contributor>
+        <username>Administrator</username>
+        <id>1</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="529">* sarazenen
 ** Repertorium Saracenorum|Repertorium Saracenorum
-*** werke|Werke
-*** Kategorie:Quelle|Quellenstellen
 * navigation
-** Repertorium Saracenorum|Repertorium Saracenorum
 &lt;!-- ** mainpage|mainpage-description --&gt;
 *** Kategorie:werk|Werke
-*** Kategorie:Region|Regionen
 *** Kategorie:VerfasserIn|VerfasserInnen
-*** zeiträume|Zeiträume
+*** Kategorie:Person | Personen
+*** Kategorie:Geographie | Geographie
+*** Kategorie:Abfassungsregion | Abfassungsregion
+*** Kategorie:Auffälligkeit | Auffälligkeiten
+*** Kategorie:Suchbegriffe | Suchbegriffe
+*** Datierung|Datierung
 ** recentchanges-url|recentchanges
 ** randompage-url|randompage
 ** helppage|help
 * SEARCH
 * TOOLBOX
 * LANGUAGES</text>
-   <sha1>n61lexohy2ihfi5ztuvb5hu377idmc0</sha1>
+      <sha1>1la3jo07p83ia6pxyctxuv15ksamuto</sha1>
+    </revision>
+  </page>
+ <page>
+  <title>Kategorie:Repertorium Saracenorum</title>
+  <ns>0</ns>
+  <id>181</id>
+  <revision>
+   <id>0</id>   
+   <timestamp>2020-10-07T14:24:51Z</timestamp>
+   <contributor>
+    <username>Administrator</username>
+    <id>1</id>
+   </contributor>
+   <comment>/* Zum Projekt */</comment>
+   <model>wikitext</model>
+   <format>text/x-wiki</format>
+   <text xml:space="preserve" bytes="2079">
+            </text>
+   <sha1/>
   </revision>
  </page>
     <page>
@@ -310,9 +393,8 @@ Dinge
     <ns>10</ns>
     <id>383</id>
     <revision>
-      <id>2275</id>
-      <parentid>2274</parentid>
-      <timestamp xmlns="http://www.mediawiki.org/xml/export-0.10/">2020-06-17T11:00:31Z</timestamp>
+     <id>0</id>
+     <timestamp>2020-10-07T14:24:51Z</timestamp>
       <contributor>
         <username>Administrator</username>
         <id>1</id>

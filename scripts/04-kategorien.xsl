@@ -50,114 +50,11 @@
                     <namespace key="829" case="first-letter">Modul Diskussion</namespace>
                 </namespaces>
             </siteinfo>
-         
-         
-         
-            <xsl:variable name="orte" select="./Sarazenen/Orte/Ort"/>
-            <!--  <xsl:variable name="suchworte" select="distinct-values(.//Suchwort)"/>
-                            <xsl:variable name="auffaeligkeiten" select="distinct-values(.//Schlagwort)"/>
-         -->  
-
-            <xsl:variable name="person" select="./Sarazenen/Personen/Person"/>
-
-            <xsl:apply-templates select="./Sarazenen/Personen/Person"></xsl:apply-templates>
-            <xsl:apply-templates select="./Sarazenen/Orte/Ort"><xsl:with-param name="start" select="count($person)"></xsl:with-param></xsl:apply-templates>
-            <xsl:variable name="max" select="count(($person,$orte))"/>
-            <xsl:apply-templates select="./Sarazenen/VerfasserInnen/Verfasser"><xsl:with-param name="start" select="$max"></xsl:with-param></xsl:apply-templates>
-            <xsl:variable name="Autoren" select="./Sarazenen/VerfasserInnen/Verfasser"/>
-            <xsl:variable name="max" select="count(($person,$orte,$Autoren))"/>
-          <!--
-            <xsl:for-each select="$suchworte">
-                <page>
-                    <title>
-                        <xsl:value-of select="."/>
-                    </title>
-                    <ns>0</ns>
-                    <id>
-                        <xsl:value-of select="position() + $fid + $max"/>
-                    </id>
-                    <revision>
-                        <id>
-                            <xsl:value-of select="position()+ $fid + $max"/>
-                        </id>
-                        <parentid>
-                            <xsl:value-of select="position()"/>
-                        </parentid>
-                        <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
-                        <contributor>
-                            <username>Administrator</username>
-                            <id>1</id>
-                        </contributor>
-                        <model>wikitext</model>
-                        <format>text/x-wiki</format>
-                        <text xml:space="preserve" bytes="3441">
-                            {{#ask: 
-                            [[Kategorie:Quelle]]
-                            [[Suchbegriffe::<xsl:value-of select="."/>]]                    
-                            |?Interaktion# 
-                            |?Verfasser 
-                            |?Werk
-                            |?Datierung#
-                            |?QuellenAngabe#
-                            |?Abfassungsort
-                            |format=table
-                            |mainlabel=Quelle
-                            }}
-                    [[Kategorie:Suchbegriffe der Stelle]]
-            </text>
-                        <sha1></sha1>
-                    </revision>
-                </page>
-            </xsl:for-each>
-            
-            <xsl:variable name="max" select="count(($person,$orte,$Autoren,$suchworte))"/>
-            <xsl:for-each select="$auffaeligkeiten">
-                <page>
-                    <title>
-                        <xsl:value-of select="."/>
-                    </title>
-                    <ns>0</ns>
-                    <id>
-                        <xsl:value-of select="position() + $fid + $max"/>
-                    </id>
-                    <revision>
-                        <id>
-                            <xsl:value-of select="position()+ $fid + $max"/>
-                        </id>
-                        <parentid>
-                            <xsl:value-of select="position() + $fid"/>
-                        </parentid>
-                        <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
-                        <contributor>
-                            <username>Administrator</username>
-                            <id>1</id>
-                        </contributor>
-                        <model>wikitext</model>
-                        <format>text/x-wiki</format>
-                        <text xml:space="preserve" bytes="3441">
-                            {{#ask: 
-                            [[Kategorie:Quelle]]
-                            [[Auffälligkeiten::<xsl:value-of select="."/>]]                    
-                            |?Interaktion# 
-                            |?Verfasser 
-                            |?Werk
-                            |?Datierung#
-                            |?QuellenAngabe#
-                            |?Abfassungsort
-                            |format=table
-                            |mainlabel=Quelle
-                            }}
-                    [[Kategorie:Auffälligkeiten]]
-            </text>
-                        <sha1></sha1>
-                    </revision>
-                </page>
-            </xsl:for-each>
-                        <xsl:variable name="max" select="count(($person,$orte,$Autoren,$suchworte,$auffaeligkeiten))"/>
-
-            -->
-          
+          <xsl:variable name="max">0</xsl:variable>
+            <!--
             <xsl:variable name="sec" select="('Geographie','Person','VerfasserIn','Quelle')"/>
+            -->
+            <xsl:variable name="sec" select="('Quelle')"/>
             <xsl:for-each select="$sec">
                 <xsl:call-template name="kateg">
                     <xsl:with-param name="data" select="."/>
@@ -167,6 +64,7 @@
                 </xsl:call-template>
             </xsl:for-each>
             <xsl:variable name="max" select="$max + count($sec)"/>
+           
             <xsl:variable name="places" select="distinct-values(./Sarazenen/Orte/Ort/Typ/data(.))"/>
             <xsl:for-each select="$places">
                 <xsl:call-template name="kateg">
@@ -176,19 +74,42 @@
                     <xsl:with-param name="parent"><xsl:text>Geographie</xsl:text></xsl:with-param>
                 </xsl:call-template>
             </xsl:for-each> 
+            
             <xsl:variable name="max" select="$max + count($places)"/>
+            <!--
+            <xsl:variable name="regionen" select=".//Regionen/Region/data(.)"/>
+            <xsl:for-each select="distinct-values($regionen)">
+                <xsl:call-template name="kateg">
+                    <xsl:with-param name="data" select="."/>
+                    <xsl:with-param name="pos" select="position() + $fid + $max"/>
+                    <xsl:with-param name="pos2" select="position() + $fid"/>
+                    <xsl:with-param name="parent"><xsl:text>Abfassungsregion</xsl:text></xsl:with-param>
+                </xsl:call-template>
+            </xsl:for-each> 
+                <xsl:variable name="max" select="$max + count($regionen)"/>
+           
+                            Auskommentiert, da die Kategorieseiten mit Erklärtexten gefüllt sind
+
+            <item><i>Werk</i><e>page</e></item>
+            <item><i>Auffälligkeit</i><e>text</e></item>
+            <item><i>Suchbegriffe</i><e>text</e></item>
+            <item><i>VerfasserIn</i><e>page</e></item>
+            <item><i>Person</i><e>page</e></item>
+            -->
             <xsl:variable name="attre"><list><item><i>Abfassungsort</i><e>text</e></item>
-                <item><i>Auffäligkeiten</i><e>text</e></item>
                 <item><i>Datierung</i><e>text</e></item>
                 <item><i>Inhaltsangabe</i><e>text</e></item>
-                <item><i>Interaktion</i><e>boolean</e></item>
-                <item><i>Ort</i><e>page</e></item>
-                <item><i>Person</i><e>page</e></item>
-                <item><i>QuellenAngabe</i><e>text</e></item>
-                <item><i>Suchbegriffe</i><e>text</e></item>
-                <item><i>VerfasserIn</i><e>page</e></item>
-                <item><i>Zitation</i><e>text</e></item>
-                <item><i>Werk</i><e>page</e></item></list></xsl:variable>
+                <item><i>Interaktion</i><e>text</e></item>
+                <item><i>Ort</i><e>page</e></item>                
+                <item><i>QuellenAngabe</i><e>text</e></item>               
+                <item><i>Zitation</i><e>text</e></item>                
+                <item><i>Sarazenenbezug</i><e>text</e></item>
+                <item><i>Zeitangabe</i><e>date</e></item>
+                <item><i>Kollektive</i><e>text</e></item>
+                <item><i>Individuen</i><e>text</e></item>
+                <item><i>BerichtszeitraumDate</i><e>date</e></item>
+                <item><i>AbfassungszeitraumDate</i><e>date</e></item>
+            </list></xsl:variable>
          
             <xsl:for-each select="$attre/node()/node()">
                 <xsl:call-template name="attri">
@@ -214,12 +135,7 @@
                 <xsl:value-of select="$pos"/>
             </id>
             <revision>
-                <id>
-                    <xsl:value-of select="$pos"/>
-                </id>
-                <parentid>
-                    <xsl:value-of select="$pos2"/>
-                </parentid>
+                <id>0</id>
                 <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
                 <contributor>
                     <username>Administrator</username>
@@ -228,6 +144,7 @@
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
                 <text xml:space="preserve" bytes="3441">
+                    <xsl:if test="$parent eq 'Abfassungsregion'">#REDIRECT [[<xsl:value-of select="$data"/>]]</xsl:if>
                     [[Kategorie:<xsl:value-of select="$parent"/>]]
             </text>
                 <sha1></sha1>
@@ -302,7 +219,7 @@ Alternativnamen: <xsl:value-of select="$va"/>
                             [[Kategorie:Quelle]]
                             [[Person::<xsl:value-of select="./Name"/>]]
                             |?Interaktion# 
-                            |?Verfasser 
+                            |?VerfasserIn
                             |?Werk
                             |?Datierung#
                             |?QuellenAngabe#
@@ -352,7 +269,7 @@ Alternativnamen: <xsl:value-of select="$va"/>
 Alternativnamen: <xsl:value-of select="$va"/>
                     {{#ask: 
                     [[Kategorie:Werk]]
-                    [[Verfasser::<xsl:value-of select="./Name"/>]]                    
+                    [[VerfasserIn::<xsl:value-of select="./Name"/>]]                    
                     |?Abfassungszeit#
                     |?Berichtszeitraum#
                     |?Abfassungsort
@@ -398,7 +315,7 @@ Alternativnamen: <xsl:value-of select="$va"/>
                             [[Kategorie:Quelle]]
                             [[Ort::<xsl:value-of select="./Name"/>]]
                             |?Interaktion# 
-                            |?Verfasser 
+                            |?VerfasserIn 
                             |?Werk
                             |?Datierung#
                             |?QuellenAngabe#

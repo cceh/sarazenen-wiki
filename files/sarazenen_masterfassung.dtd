@@ -3,16 +3,16 @@
 <!ELEMENT Sarazenen (VerfasserInnen,Personen,Orte,Dokumente+)>
 
 <!ELEMENT Personen (Person)+>
-<!ELEMENT VerfasserInnen (Verfasser+) >
+<!ELEMENT VerfasserInnen (VerfasserIn+) >
 <!ELEMENT Orte (Ort)+>
 
 <!ELEMENT Dokumente (WerkId,WerkTitel,Alternativtitel,Autoren,
-                     LebensdatenVerfasser,Abfassungszeitraum,Abfassungsort+,Regionen,Berichtszeitraum,
+                     LebensdatenVerfasserIn,Abfassungszeitraum,Abfassungsort+,Regionen,Berichtszeitraum,
                      Editionshinweise,EditionLink+,Werkinformation,
                      Quellen)>
 
-<!ELEMENT Person (Id,Name,Rolle+,Alternativnamen?)>
-<!ELEMENT Verfasser (Id,Name,Alternativnamen?,Lebensdaten)>
+<!ELEMENT Person (Id,Name,Rolle+,Alternativnamen?,gnd_Id)>
+<!ELEMENT VerfasserIn (Id,Name,Alternativnamen?,Lebensdaten,gnd_Id)>
 
 <!ELEMENT WerkId (#PCDATA)>
 
@@ -22,7 +22,7 @@
 
 <!ELEMENT Autoren (Autor)+>
 
-<!ELEMENT LebensdatenVerfasser (#PCDATA)>
+<!ELEMENT LebensdatenVerfasserIn (#PCDATA)>
 
 <!ELEMENT Abfassungsort (#PCDATA)>
 
@@ -121,3 +121,5 @@
 <!ELEMENT Lebensdaten (#PCDATA)>
 <!ATTLIST Lebensdaten
   date CDATA #REQUIRED>
+  
+<!ELEMENT gnd_Id (#PCDATA)>

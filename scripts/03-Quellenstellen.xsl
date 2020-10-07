@@ -110,6 +110,58 @@
                 <xsl:otherwise><xsl:text>Keine Zeitangabe</xsl:text></xsl:otherwise>
             </xsl:choose>
         </xsl:variable>    
+        <xsl:variable name="abfssungsort"><xsl:choose>
+            <xsl:when test="$parent/Abfassungsort eq ''">Abfassungsort Unbekannt</xsl:when>
+            <xsl:when test="$parent/Abfassungsort eq '-'">Abfassungsort Unbekannt</xsl:when>
+            <xsl:when test="$parent/Abfassungsort eq 'unbekannt'">Abfassungsort Unbekannt</xsl:when>
+            <xsl:otherwise><xsl:value-of select="$parent/Abfassungsort"/></xsl:otherwise>
+        </xsl:choose></xsl:variable>
+        <xsl:variable name="zeitangabe">
+            <xsl:for-each select="./ZeitangabeWissenschaft/Datum">
+                <xsl:call-template name="normDate"><xsl:with-param name="date" select="./@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template>
+            </xsl:for-each>            
+        </xsl:variable>
+        <xsl:variable name="individuen"><xsl:for-each select="./Beteiligte/Beteiligter">
+            <xsl:if test="ends-with(.,'I')"><item><xsl:choose>
+                <xsl:when test=". eq 'sI'">| Individuen=Sarazenische Individuen</xsl:when>
+                <xsl:when test=". eq 'aI'">| Individuen=Andere Individuen</xsl:when>                
+                <xsl:when test=". eq 'sK'">| Kollektive=Sarazenische Kollektive</xsl:when>
+                <xsl:when test=". eq 'aK'">| Kollektive=Andere Kollektive</xsl:when>
+                <xsl:otherwise></xsl:otherwise>
+            </xsl:choose></item>
+            </xsl:if>                            
+        </xsl:for-each></xsl:variable>
+        <!--
+        <xsl:variable name="kollektive">
+            <xsl:for-each select="./Beteiligte/Beteiligter">
+                <xsl:if test="ends-with(.,'K')">
+                    <item>
+                        <xsl:choose>
+                            <xsl:when test=". eq 'sK'">| Kollektive=Sarazenische Kollektive</xsl:when>
+                            <xsl:when test=". eq 'aK'">| Kollektive=Andere Kollektive</xsl:when>
+                            <xsl:otherwise></xsl:otherwise>
+                        </xsl:choose>
+                    </item>
+                </xsl:if>                            
+            </xsl:for-each>
+            
+        </xsl:variable>    -->
+        <xsl:variable name="eintitat" select="./Entitaeten"/>
+        <xsl:variable name="index"><xsl:if test="./Inhaltsangabe != '' and ./Inhaltsangabe != '-'">
+=== Inhaltsangabe ===<xsl:apply-templates select="./Inhaltsangabe" xml:space="default"/>
+        </xsl:if>
+            <xsl:if test="./VolltextOriginalsprache != '' and ./VolltextOriginalsprache != '-'">
+=== Volltext ===<xsl:apply-templates select="./VolltextOriginalsprache" xml:space="default"/>              
+            </xsl:if>
+            <xsl:if test="./VolltextUebersetzung != '' and ./VolltextUebersetzung != '-'">
+=== Deutsche Übersetzung ===<xsl:apply-templates select="./VolltextUebersetzung" xml:space="default"/>              
+            </xsl:if>
+            <xsl:if test="./ZitationUebersetzung != '' and ./ZitationUebersetzung != '-'">
+=== Hinweise zur Übersetzung ===<xsl:apply-templates select="./ZitationUebersetzung" xml:space="default"/>
+            </xsl:if>
+            <xsl:if test="./Anmerkungen != '' and ./Anmerkungen != '-'">
+=== Anmerkungen ===<xsl:apply-templates select="./Anmerkungen" xml:space="default"/>
+            </xsl:if></xsl:variable>
         <page>
             <title><xsl:value-of select="concat($parent/WerkTitel,'-',./QuellenId)"/>
             </title>
@@ -117,13 +169,8 @@
             <id>
                 <xsl:value-of select="$parent/position() + ./QuellenId + $fid"/>
             </id>
-            <revision>
-                <id>
-                    <xsl:value-of select="$parent/position() +./QuellenId + $sid"/>
-                </id>
-                <parentid>
-                    <xsl:value-of select="$parent/position()+./QuellenId"/>
-                </parentid>
+            <revision>                
+                <id>0</id>
                 <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
                 <contributor>
                     <username>Administrator</username>
@@ -131,7 +178,7 @@
                 </contributor>
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
-                <text xml:space="preserve" bytes="3441">
+                <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:right;margin-right:50px;}}
 &lt;div&gt;[[<xsl:value-of select="$parent/WerkTitel"/>|Zurück zum Werk (<xsl:value-of select="$parent/WerkTitel"/>)]]&lt;/div&gt;
 {{WikiProject_Transwiki/Template:Infobox
 |title=|above=<xsl:value-of xml:space="default">
@@ -161,41 +208,53 @@
                                 <xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
                             </xsl:for-each>
                         </xsl:when>
-                            <xsl:when test="$parent/Autoren/Autor[1] eq 'unbekannt'">
+                            <xsl:when test="$parent/Autoren/Autor[1] eq 'VerfasserIn unbekannt'">
                                 <xsl:text>[[VerfasserIn::VerfasserIn unbekannt]]</xsl:text>
                             </xsl:when>
                             <xsl:otherwise> <xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="$parent/Autoren/Autor/data(.)"/>]]</xsl:otherwise>
                         </xsl:choose></xsl:value-of>
 |label7=Abfassungsort
-|data7=[[Abfassungsort::<xsl:value-of select="$parent/Abfassungsort"/>]]
+|data7=[[Abfassungsort::<xsl:value-of select="$abfssungsort"/>]]
 }}
-&lt;br/&gt;
 <xsl:variable name="inhalt" xml:space="default"><xsl:for-each select="tokenize(./Inhaltsangabe,' ')">
                 <xsl:if test="position() &#60; 20">
                     <xsl:value-of select="."/>
                     <xsl:text> </xsl:text>
                 </xsl:if>
+                <xsl:if test="position() eq 20"><xsl:text>...</xsl:text></xsl:if>
             </xsl:for-each></xsl:variable>
 {{#set: 
     Zitation=<xsl:value-of select="./Zitation"/>
-                    | Datierung=<xsl:value-of select="$datierung"/>
+                   <xsl:value-of select="$zeitangabe"/>
+                    | Interaktion=<xsl:choose>
+                            <xsl:when test="./Interaktion/data(.) eq 'j'">ja</xsl:when>
+                            <xsl:otherwise>nein</xsl:otherwise>
+                        </xsl:choose>
+                    <xsl:value-of select="$individuen/node()"/>
+<!--                   <xsl:value-of select="$kollektive/node()"/> -->
+                    <xsl:call-template name="kategorien" xml:space="default">
+                        <xsl:with-param name="data" select="./Auffaelligkeiten/Schlagwort" xml:space="default"/>
+                            <xsl:with-param name="type">Auffälligkeit</xsl:with-param>
+                            <xsl:with-param name="enti" select="$eintitat"/>
+                    </xsl:call-template>
+                    <xsl:value-of  xml:space="default">                            
+                            <xsl:call-template name="kategorien" xml:space="default">
+                        <xsl:with-param name="data" select="./GeographischesStichwort/Ort" xml:space="default"/>
+                                <xsl:with-param name="type">Ort</xsl:with-param>
+                                <xsl:with-param name="enti" select="$eintitat"/>
+                    </xsl:call-template>
+                        </xsl:value-of>  
+                     <xsl:call-template name="kategorien" xml:space="default">
+                        <xsl:with-param name="data" select="./Suchbegriffe/Suchwort" xml:space="default"/>
+          	         <xsl:with-param name="type">Suchbegriffe</xsl:with-param>
+          	         <xsl:with-param name="enti" select="$eintitat"/>
+                    </xsl:call-template>
+                    | Datierung= <xsl:value-of select="$datierung"/>
                     | QuellenAngabe=<xsl:value-of select="$datierungQuelle"/>
                     | Inhaltsangabe=<xsl:value-of select="replace(replace($inhalt,'\&#93;',''),'\&#91;','')"/>
                     }}
-=== Inhaltsangabe ===
-<xsl:apply-templates select="./Inhaltsangabe"/>
-=== Volltext ===
-<xsl:apply-templates select="./VolltextOriginalsprache"/>              
-=== Deutsche Übersetzung ===
-<xsl:apply-templates select="./VolltextUebersetzung"/>              
-
-
-=== Hinweise zur Übersetzung ===
-<xsl:apply-templates select="./ZitationUebersetzung"/>
-<xsl:if test="./Anmerkungen != ''">
-=== Anmerkungen ===
-<xsl:value-of select="./Anmerkungen"/>
-</xsl:if>
+                    
+<xsl:value-of select="$index"/>
 === Weitere Quellenstellen ===
 {{#ask:
 [[Kategorie:Quelle]]
@@ -208,145 +267,35 @@
 }}                
 &lt;div&gt;[[<xsl:value-of select="$parent/WerkTitel"/>|Zurück zum Werk (<xsl:value-of select="$parent/WerkTitel"/>)]]&lt;/div&gt;
 &lt;br/&gt;
-=== Kategorisierung ===
-                    &lt;div id='catlinks' class='catlinks'&gt;&lt;div id="mw-normal-catlinks" class="mw-normal-catlinks"&gt;
-                    &lt;li&gt;[[:Kategorie: Interaktion | Interaktion]]: [[Interaktion::<xsl:value-of xml:space="default"> 
-                        <xsl:choose>
-                            <xsl:when test="./Interaktion/data(.) eq 'j'">ja</xsl:when>
-                            <xsl:otherwise>nein</xsl:otherwise>
-                        </xsl:choose>]]
-                    </xsl:value-of>&lt;/li&gt;
-                    &lt;/div&gt;&lt;/div&gt;
-                    &lt;div id='catlinks' class='catlinks'&gt;&lt;div id="mw-normal-catlinks" class="mw-normal-catlinks"&gt;
-                        &lt;li&gt;[[:Kategorie: Individuen | Individuen]]:<xsl:value-of xml:space="default">
-                       <xsl:variable name="individuen"><xsl:for-each select="./Beteiligte/Beteiligter">
-                            <xsl:if test="ends-with(.,'I')"><item><xsl:choose>
-                                <xsl:when test=". eq 'sI'">[[:Kategorie: Sarazenische Individuen | Sarazenische Individuen]]</xsl:when>
-                                <xsl:when test=". eq 'aI'">[[:Kategorie: Andere Individuen | Andere Individuen]]</xsl:when>
-                                <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
-                            </xsl:choose>&lt;/li&gt;&lt;li&gt;</item>
-                            </xsl:if>                            
-                        </xsl:for-each></xsl:variable>
-                            <xsl:value-of select="$individuen/node()"/>
-                    </xsl:value-of>
-                     &lt;/div&gt;&lt;/div&gt;
-                     &lt;div id='catlinks' class='catlinks'&gt;&lt;div id="mw-normal-catlinks" class="mw-normal-catlinks"&gt;
-                      &lt;li&gt;[[:Kategorie: Kollektive | Kollektive]]: <xsl:value-of xml:space="default">
-                    <xsl:variable name="kollektive">
-                        <xsl:for-each select="./Beteiligte/Beteiligter">
-                                                <xsl:if test="ends-with(.,'K')">
-                                                    <item>
-                                                <xsl:choose>
-                                                    <xsl:when test=". eq 'sK'">[[:Kategorie: Sarazenische Kollektive | Sarazenische Kollektive]]</xsl:when>
-                                                    <xsl:when test=". eq 'aK'">[[:Kategorie: Andere Kollektive | Andere Kollektive]]</xsl:when>
-                                                    <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
-                                                </xsl:choose>&lt;/li&gt;&lt;li&gt;
-                                                    </item>
-                                                </xsl:if>                            
-                                            </xsl:for-each>
-                    </xsl:variable>         
-                        <xsl:value-of select="$kollektive/node()"/></xsl:value-of> 
-                    &lt;/div&gt;&lt;/div&gt;
-                    <xsl:variable name="eintitat" select="./Entitaeten"/>
-                    &lt;div  class='catlinks'&gt;&lt;div  class="mw-normal-catlinks"&gt;
-                    <xsl:value-of  xml:space="default">
-                    <xsl:text>&lt;li&gt;[[:Kategorie: Auffälligkeiten | Auffälligkeiten]]:</xsl:text>
-                        <xsl:call-template name="kategorien" xml:space="default">
-                        <xsl:with-param name="data" select="./Auffaelligkeiten/Schlagwort" xml:space="default"/>
-                            <xsl:with-param name="type">Auffälligkeiten</xsl:with-param>
-                            <xsl:with-param name="enti" select="$eintitat"/>
-                    </xsl:call-template>
-                    </xsl:value-of>          
-                    &lt;/div&gt;&lt;/div&gt;
-                    &lt;div  class='catlinks'&gt;&lt;div  class="mw-normal-catlinks"&gt;
-                    <xsl:value-of  xml:space="default">
-                            <xsl:text> &lt;li&gt;[[:Kategorie: Geographie | Geographie]]: </xsl:text>
-                            <xsl:call-template name="kategorien" xml:space="default">
-                        <xsl:with-param name="data" select="./GeographischesStichwort/Ort" xml:space="default"/>
-                                <xsl:with-param name="type">Ort</xsl:with-param>
-                                <xsl:with-param name="enti" select="$eintitat"/>
-                    </xsl:call-template>
-                        </xsl:value-of>                                        
-                    &lt;/div&gt;&lt;/div&gt;
-                    &lt;div  class='catlinks'&gt;&lt;div  class="mw-normal-catlinks"&gt;
-                    <xsl:value-of  xml:space="default">
-                        <xsl:text>&lt;li&gt;[[:Kategorie: Suchbegriffe der Stelle | Suchbegriffe der Stelle]]: </xsl:text>
-          	     <xsl:call-template name="kategorien" xml:space="default">
-                        <xsl:with-param name="data" select="./Suchbegriffe/Suchwort" xml:space="default"/>
-          	         <xsl:with-param name="type">Suchbegriffe</xsl:with-param>
-          	         <xsl:with-param name="enti" select="$eintitat"/>
-                    </xsl:call-template>
-          	     </xsl:value-of>
-                &lt;/div&gt;&lt;/div&gt;                
-                <xsl:for-each select="./Beteiligte/Beteiligter">
-                                                <xsl:if test="ends-with(.,'K')">
-                                                <xsl:choose>
-                                                    <xsl:when test=". eq 'sK'">[[Kategorie: Sarazenische Kollektive ]]</xsl:when>
-                                                    <xsl:when test=". eq 'aK'">[[Kategorie: Andere Kollektive ]]</xsl:when>
-                                                    <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
-                                                </xsl:choose>
-                                                </xsl:if>                            
-                                            </xsl:for-each>
-                    <xsl:for-each select="./Beteiligte/Beteiligter">
-                            <xsl:if test="ends-with(.,'I')"><xsl:choose>
-                                <xsl:when test=". eq 'sI'">[[Kategorie: Sarazenische Individuen ]]</xsl:when>
-                                <xsl:when test=". eq 'aI'">[[Kategorie: Andere Individuen ]]</xsl:when>
-                                <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
-                            </xsl:choose>
-                            </xsl:if>                            
-                        </xsl:for-each>
-              <xsl:call-template name="kategorienHidden" xml:space="default">
-                        <xsl:with-param name="data" select="./Suchbegriffe/Suchwort" xml:space="default"/>
-                    </xsl:call-template>
-                 <xsl:call-template name="kategorienHidden" xml:space="default">
-                        <xsl:with-param name="data" select="./GeographischesStichwort/Ort" xml:space="default"/>
-                    </xsl:call-template>
-                     <xsl:call-template name="kategorienHidden" xml:space="default">
-                        <xsl:with-param name="data" select="./Auffaelligkeiten/Schlagwort" xml:space="default"/>
-                    </xsl:call-template>
-                     <xsl:call-template name="kategorienHidden" xml:space="default">
-                        <xsl:with-param name="data" select="./Berichtszeitraum/Datum" xml:space="default"/>
-                    </xsl:call-template>
+=== Zitationshinweis ===
+<xsl:text>{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).</xsl:text>
+
                 
                     [[Kategorie:Quelle]]
                     __SHOWFACTBOX__
                         </text>
-                <sha1></sha1>
+                <sha1></sha1>a
             </revision>
         </page>
     </xsl:template>
     
-    <!--
-                <xsl:if test="functx:contains-any-of(.,$enti/Entitaet/Name/data(.))">
-                    found
-                </xsl:if>
-                <item>[[<xsl:value-of select="$type"/>::<xsl:value-of select="."/>]]&lt;/li&gt;&lt;li&gt;</item>
-                <xsl:value-of select="$lists//node()[./Id/data(.) = ./@Id]"></xsl:value-of>
-                -->
+    <xsl:template match="Anmerkungen">
+&lt;poem&gt;<xsl:variable name="na" select="."/>
+            <xsl:analyze-string select="." regex="\[(\d\d\d\d)\]\-\[(\d\d\d\d)\]">
+                <xsl:matching-substring xml:space="default">[[<xsl:value-of select="normalize-space($na/parent::node()/parent::node()/parent::node()/parent::node()/Dokumente[./WerkId eq regex-group(1)]/WerkTitel)"/><xsl:text>-</xsl:text><xsl:value-of select="regex-group(2)"/>]]</xsl:matching-substring>
+                <xsl:non-matching-substring>
+                   <xsl:value-of select="."/>
+                </xsl:non-matching-substring>
+            </xsl:analyze-string>&lt;/poem&gt;
+    </xsl:template>
+    
     <xsl:template name="kategorien" xml:space="default">
         <xsl:param name="data"/>
         <xsl:param name="type"/>
         <xsl:param name="enti"/>
         <xsl:variable name="items" xml:space="default">
             <xsl:for-each select="$data" xml:space="default">
-                <xsl:choose>
-                    <xsl:when test="functx:contains-any-of(.,$enti/Entitaet/Name/data(.))">          
-                        <xsl:variable name="se" select="."/>
-                        <xsl:variable name="id">
-                            <xsl:for-each select="$enti/Entitaet">
-                               <xsl:if test="./Name eq $se">
-                                   <xsl:variable name="id2" select="./@Id"/>
-                                   <xsl:for-each select="$lists/node()">
-                                       <xsl:if test="./Id/data(.) = $id2">
-                                           <xsl:value-of select="./Name/data(.)"/>
-                                       </xsl:if>
-                                   </xsl:for-each>                                   
-                               </xsl:if>
-                            </xsl:for-each>
-                        </xsl:variable>
-                        <item>[[<xsl:value-of select="$type"/>::<xsl:value-of select="$id"/> | <xsl:value-of select="."/>]]&lt;/li&gt;&lt;li&gt;</item></xsl:when>
-                    <xsl:otherwise><item>[[<xsl:value-of select="$type"/>::<xsl:value-of select="."/>]]&lt;/li&gt;&lt;li&gt;</item></xsl:otherwise>
-                </xsl:choose>
+                <item>| <xsl:value-of select="$type"/>=<xsl:value-of select="."/></item>
             </xsl:for-each>
         </xsl:variable>
         <xsl:value-of select="$items/node()" xml:space="default"/>
@@ -363,6 +312,7 @@
         <xsl:variable name="terms">
             <xsl:for-each select="parent::node()/Entitaeten/Entitaet">
                 <item><xsl:attribute name="type" select="./@Type"/>##<xsl:value-of select="./Name/data(.)"/>#</item>
+                <item><xsl:attribute name="type" select="./@Type"/>##<xsl:value-of select="./Name/data(.)"/>:#</item>
             </xsl:for-each>
             <xsl:for-each select="parent::node()/Suchbegriffe/Suchwort">
                 <item><xsl:attribute name="type">Suchbegriffe</xsl:attribute>##<xsl:value-of select="./data(.)"/>#</item>
@@ -370,20 +320,34 @@
         </xsl:variable>
         <xsl:variable name="replacment">
             <xsl:for-each select="$terms/node()">
-                <xsl:variable name="sel">[&#x200b;[[<xsl:value-of select="./@type"/>::<xsl:value-of select="substring-before(substring-after(.,'##'),'#')"/>]]&#x200b;]</xsl:variable>
+                <xsl:variable name="sel"><xsl:choose>
+                    <xsl:when test="contains(.,':')">[&#x200b;[[<xsl:value-of select="./@type"/>::<xsl:value-of select="substring-before(substring-after(.,'##'),':#')"/>]]&#x200b;:]</xsl:when>
+                    <xsl:otherwise>[&#x200b;[[<xsl:value-of select="./@type"/>::<xsl:value-of select="substring-before(substring-after(.,'##'),'#')"/>]]&#x200b;]</xsl:otherwise>
+                </xsl:choose>
+                </xsl:variable>
                 <item><xsl:value-of select="$sel"/></item>
             </xsl:for-each>
-        </xsl:variable>
-          
+        </xsl:variable>          
        <xsl:variable name="tex" select="replace(replace(./text(),'\&#93;','#'),'\&#91;','##')"/>
         <xsl:variable name="repl" select="functx:replace-multi($tex,$terms/node(),$replacment/node())"/>       
-        <xsl:value-of select="replace(replace(replace($repl,'##','&#91;'),'#','&#93;'),'\\n','\\n \\n')"/>
+&lt;poem&gt;<xsl:value-of select="replace(replace(replace($repl,'##','&#91;'),'#','&#93;'),'\\n','\\n \\n')"/>&lt;/poem&gt;
     </xsl:template>
-    
-    <xsl:template match="EditionLink">        
-        <xsl:if test="EditionLink/@url != ''">
-            [<xsl:value-of select="EditionLink/@url"/> <xsl:value-of select="EditionLink/data(.)"/>]
+    <xsl:template name="normDate">
+        <xsl:param name="attr"/>
+        <xsl:param name="date"/>
+        
+        <xsl:if test="$date != ''">
+            <xsl:variable name="first">
+                    <xsl:choose>
+                        <xsl:when test="starts-with($date,'-')">-<xsl:value-of select="substring-before(substring-after($date,'-'),'-')"/></xsl:when>
+                        <xsl:otherwise><xsl:value-of select="substring-before($date,'-')"/></xsl:otherwise>
+                    </xsl:choose>                
+            </xsl:variable>
+            <xsl:value-of select="concat('|',$attr,'=',$first)" xml:space="default"/>
+            <xsl:if test="not($first eq substring-after($date,concat($first,'-')))">
+                <xsl:value-of select="concat(' |',$attr,'Ende=',substring-after($date,concat($first,'-')))" xml:space="default"/>                      
+            </xsl:if>
         </xsl:if>
-    </xsl:template>    
+    </xsl:template>
     <xsl:template match="text()"></xsl:template>
 </xsl:stylesheet>
