@@ -1,8 +1,36 @@
-# Test #
-## Test ##
-## Test ## 
-### Mediawiki Transformation ###
-#### Wiki Header ####
+ Wiki Import Doku 
+======
+- [Mediawiki Transofrmation](#transformation)
+    -  [Wiki Header](#wikiheader)
+
+
+
+<a name="transformation"></a>
+## Mediawiki Transformation ##
+Einige der Hauptprobleme bei der Transformation von XML zu Mediawiki sind Leerzeichen und Vergleichszeichen.
+
+### Leerzeichen ###
+Häufig kommt es durch Leerzeichen innerhalb des XSLT Codes zu einer falschen Transformation innerhalb des MediaWiki. 
+Eine möglichkeit das zu umgehen, ist teile der zur erstellenden Syntax in Variablen zu speichern und mit <xsl:value-of select="$someAttr" xml:space="default"/> aufzurufen
+
+
+Bsp.:
+```xsl
+<xsl:variable name="someAttribute"><xsl:text>Some Text</xsl:text></xsl:variable>
+<xsl:value-of select="$someAttr" xml:space="default"/>
+```
+
+Durch Einrückungen kann es zu Absätzen innerhalb der Wikiseiten kommen, dass lässt sich auch verhindern wie oben im Beispiel oder indem die XSL Funktionen keine Einrückungen haben.
+
+### Vergleichszeichen ( < | > ) ###
+Um HTML und/oder Mediawiki Elemente einzubinden, müssen die Vergleichszeichen innerhalb des <text> Elements mit ASCII Code ausgetauscht werden
+> &lt; = <
+> 
+> &gt; = >
+
+
+<a name="wikiheader"></a>
+### Wiki Header ###
 ```xml
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -48,22 +76,23 @@
             <page/>
         </mediawiki>
 ```
-#### Seiten / Page ####
+### Seiten / Page ###
+
 ```xml
     <page>
             <title>
-                <xsl:value-of select="WerkTitel"/>
+                   SEITENNAME
             </title>
             <ns>0</ns>
             <id>
-                <xsl:value-of select="WerkId + $fid"/>
+                SEITENID    
             </id>
             <revision>
                 <id>
-                    <xsl:value-of select="WerkId + $sid"/>
+                    REVISIONSID
                 </id>
                 <parentid>
-                    <xsl:value-of select="WerkId"/>
+                    PARENTID                
                 </parentid>
                 <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
                 <contributor>
