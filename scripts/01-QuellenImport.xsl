@@ -148,8 +148,9 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 |Werknummer=<xsl:value-of select="WerkId"/>
                     <xsl:for-each select="Regionen/Region">|Abfassungsregion= <xsl:value-of select="."/></xsl:for-each>
 
-<xsl:call-template name="normDate"><xsl:with-param name="date" select="Berichtszeitraum/Datum/@date"/><xsl:with-param name="attr" select="'BerichtszeitraumDate'"/></xsl:call-template>
+<!-- <xsl:call-template name="normDate"><xsl:with-param name="date" select="Berichtszeitraum/Datum/@date"/><xsl:with-param name="attr" select="'BerichtszeitraumDate'"/></xsl:call-template>
 <xsl:call-template name="normDate"><xsl:with-param name="date" select="Abfassungszeitraum/Datum/@date"/><xsl:with-param name="attr" select="'AbfassungszeitraumDate'"/></xsl:call-template>
+-->
 }}
 &lt;poem&gt;<xsl:value-of select="replace(Werkinformation,'--','')"/>&lt;/poem&gt;
 
@@ -320,7 +321,13 @@ Sarazenenbezug=ja
                 &lt;html id='preHtml'&gt;
                             &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/> 0 <xsl:value-of select="($en1 + $st2 +1) * 50"/> 100" width="3000" height="200"&gt;
                         &lt;g&gt;  
-                    &lt;line id="x-axis" x1="<xsl:value-of select="$st1 * 50"/>"  y1="80" x2="<xsl:value-of select="$en1 * 50"/>" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="<xsl:value-of select="$st1 * 50"/>"  y1="80" x2="<xsl:value-of select="$en1 * 50"/>" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     <xsl:for-each select="($st1 to $en1)" xml:space="default">
                         <xsl:if test=". = 0">
                              &lt;line  x1="0" y1="0" x2="0" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      

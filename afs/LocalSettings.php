@@ -148,6 +148,7 @@ wfLoadSkin( 'Vector' );
 # wfLoadExtensions('ExtensionName');
 # to LocalSettings.php. Check specific extension documentation for more details.
 # The following extensions were automatically enabled:
+
 wfLoadExtension( 'Cite' );
 wfLoadExtension( 'CiteThisPage' );
 wfLoadExtension( 'ConfirmEdit' );
@@ -165,33 +166,6 @@ wfLoadExtension( 'SpamBlacklist' );
 wfLoadExtension( 'SyntaxHighlight_GeSHi' );
 wfLoadExtension( 'TitleBlacklist' );
 wfLoadExtension( 'WikiEditor' );
-#wfLoadExtension( 'NukeDPL' );
-
-
-# End of automatically generated settings.
-# Add more configuration options below.
-
-
-//for mw.v 1.25.x or above
-// if (!wgCommandLineMode) {
-   // wfLoadExtension ( 'Scribunto' );
-   // wfLoadExtension( 'SemanticMediaWiki' );
-   // wfLoadExtension( 'SemanticMaps' );
-   // wfLoadExtension( 'SemanticForms' );
-   // wfLoadExtension( 'NukeDPL' );
-   // wfLoadExtension( 'DynamicPageList' );
-   
-// }
-
-#wfLoadExtension("InteractiveTimeline");
-
-#wfLoadExtension( 'PageForms' );
-
-#wfLoadExtension('Scribunto');
-#$wgScribuntoDefaultEngine = 'luastandalone';
-
-#wfLoadExtension('SemanticMediaWik');
-#enableSemantics( 'http://saraceni.uni-koeln.de' );
 
 
 wfLoadExtension('AdminLinks');
@@ -199,8 +173,6 @@ wfLoadExtension('AdminLinks');
 require_once "$IP/extensions/CategorySortHeaders/CategorySortHeaders.php";
 require_once "$IP/extensions/ChapTimeline/ChapTimeline.php";
 wfLoadExtension('ExternalData');
-
-#require_once ("$IP/extensions/DynamicPageList/DynamicPageList.php");
 
 
 wfLoadExtension('DataTransfer');
@@ -215,18 +187,6 @@ require_once "$IP/extensions/HTMLTags/HTMLTags.php";
 wfLoadExtension('NativeSvgHandler');
 
 wfLoadExtension('CSS');
-
-#wfLoadExtension('SVGEdit');
-
-#wfLoadExtension('TranslateSvg');
-
-
-#include_once ("$IP/extensions/SemanticMediaWiki/SemanticMediaWiki.php");
-#enableSemantics( 'example.org' );
-
-#include_once("$IP/extensions/SemanticCompoundQueries/SemanticCompoundQueries.php");
-
-#include_once("$IP/extensions/SemanticInternalObjects/SemanticInternalObjects.php");
 
 ## To enable image uploads, make sure the 'images' directory
 ## is writable, then set this to true:
@@ -248,74 +208,13 @@ $wgNativeSvgHandlerEnableLinks = true;
 #$wgSVGEditEditor = 'http://tools.wmflabs.org/svgedit/editor/svg-editor.html';
 
 $wgFileExtensions[] = 'svg';
-/*
-$wgStrictFileExtensions = true;
-$wgAllowTitlesInSVG = true;
-$wgSVGConverter = 'ImageMagick'; */
-
-// ## use ImageMagick in mediawiki
-// $wgUseImageResize = true;
-// $wgUseImageMagick = true;
-// ## Enable applicable one for windows
-// # If you have installed ImageMagick in windows comment out below
-// $wgImageMagickConvertCommand = "C:/Program Files/ImageMagick-6.9.10-Q16-HDRI/convert";
-// # If you have portable version of ImageMagick. Show the path properly & comment out below line. In this case Portable ImageMagick was copied to mediawiki/extra folder. So path is shown this way.
-// $wgImageMagickConvertCommand = "$IP/extra/convert";
-// ## Enable this for Linux
-// #$wgImageMagickConvertCommand = "/usr/bin/convert";
-// $wgImageMagickConvertCommand = 'C:/Program Files/ImageMagick-6.9.10-Q16-HDRI/convert.exe';
-
-
-// # For SVG image support
-// $wgFileExtensions[] = 'svg';
-// $wgAllowTitlesInSVG = true;
-// $wgSVGConverter = 'ImageMagick';
-// $wgSVGConverters = array(
-    // 'ImageMagick' => '"C:/Program Files/ImageMagick-6.9.10-Q16-HDRI/convert" -background white -geometry $width $input $output',
-  // );
-  
-  
-  // // Create a local backend with a null lock manager
-// $wgFileBackends[] = array(
-        // 'name'        => 'local-backend',
-        // 'class'       => 'FSFileBackend',
-        // 'lockManager' => 'nullLockManager',
-        // 'containerPaths' => array(
-                // 'local-public'  => "{$wgUploadDirectory}",
-                // 'local-thumb'   => "{$wgUploadDirectory}/thumb",
-                // 'local-transcoded' => "{$wgUploadDirectory}/transcoded",
-                // 'local-deleted' => $wgDeletedDirectory,
-                // 'local-temp'    => "{$wgUploadDirectory}/temp",
-        // ),
-        // 'fileMode'    => 0644,
-// );
-
-// // Define a standard file repository that uses the local backend defined before
-// $wgLocalFileRepo = array (
-        // 'class'             => 'LocalRepo',
-        // 'name'              => 'local',
-        // 'directory'         => $wgUploadDirectory,
-        // 'scriptDirUrl'      => $wgScriptPath,
-        // 'scriptExtension'   => $wgScriptExtension,
-        // 'url'               => $wgUploadBaseUrl ? $wgUploadBaseUrl . $wgUploadPath : $wgUploadPath,
-        // 'hashLevels'        => $wgHashedUploadDirectory ? 2 : 0,
-        // 'thumbScriptUrl'    => $wgThumbnailScriptPath,
-        // 'transformVia404'   => !$wgGenerateThumbnailOnParse,
-        // 'deletedDir'        => $wgDeletedDirectory,
-        // 'deletedHashLevels' => $wgHashedUploadDirectory ? 3 : 0,
-        // 'backend'           => 'local-backend',
-// );
-
-// $wgHashedUploadDirectory = false;
-
 $wgUseTidy=false;
 $wgRawHtml=true;
 
 
-// TEST
 wfLoadExtension('SemanticResultFormats');
-enableSemantics( 'example.org' );
+enableSemantics( 'saraceni.uni-koeln.de' );
 wfLoadExtension( 'CategoryTree' );
-
+wfLoadExtension( 'Maps' );
 
 

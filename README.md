@@ -55,7 +55,21 @@ wfLoadExtension( 'SpamBlacklist' );
 wfLoadExtension( 'SyntaxHighlight_GeSHi' );
 wfLoadExtension( 'TitleBlacklist' );
 wfLoadExtension( 'WikiEditor' );
+
+wfLoadExtension('SemanticResultFormats');
+enableSemantics( 'saraceni.uni-koeln.de' );
+wfLoadExtension( 'CategoryTree' );
+
 ```
+https://www.mediawiki.org/wiki/Extension:Admin_Links
+https://www.mediawiki.org/wiki/Extension:CategorySortHeaders
+https://www.mediawiki.org/wiki/Extension:Data_Transfer
+https://www.mediawiki.org/wiki/Extension:External_Data
+https://www.mediawiki.org/wiki/Extension:Page_Schemas
+https://www.mediawiki.org/wiki/Extension:Semantic_Compound_Queries
+https://www.mediawiki.org/wiki/Extension:Semantic_Drilldown
+https://www.mediawiki.org/wiki/Extension:Semantic_Internal_Objects
+https://www.mediawiki.org/wiki/Extension:HTML_Tags
 
 ### AFS ###
 #### htaccess ####
@@ -82,5 +96,20 @@ Normal rights:
   webpro0 rlidwka
   w-saraze rlidwk
 ```
+#### Export ####
+Repertorium Saracenorum
+Kategorie:Werk
+Kategorie:Auffälligkeit
+Kategorie:Suchbegriffe
+Kategorie:VerfasserIn
+Kategorie:Person
+Kategorie:Geographie
+Kategorie:Repertorium_Saracenorum
+Kategorie:Abfassungsregion
+Datierung
+MediaWiki:Sidebar
+Vorlage:WikiProject Transwiki/Template:Infobox
+MediaWiki:Common.css
 
 
+DELETE FROM page;

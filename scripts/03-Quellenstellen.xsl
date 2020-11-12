@@ -7,10 +7,13 @@
     <xsl:output method="xml" version="1.1"  indent="yes" omit-xml-declaration="yes" undeclare-prefixes="yes"  exclude-result-prefixes="#all"/>    
     <xsl:param name="fid">300</xsl:param>
     <xsl:param name="sid">2</xsl:param>
+    <xsl:param name="werkeN">200</xsl:param>
     <xsl:preserve-space elements=""/>
     <xsl:strip-space elements=""/>
     
-    <xsl:variable name="lists" select="(Sarazenen/Personen,Sarazenen/Orte)"/>
+    <xsl:variable name="lists">
+        <xsl:copy-of select="(Sarazenen/Personen,Sarazenen/Orte)"/>
+    </xsl:variable>
     <xsl:function name="functx:if-absent" as="item()*"
         xmlns:functx="http://www.functx.com">
         <xsl:param name="arg" as="item()*"/>
@@ -93,6 +96,7 @@
                     <namespace key="829" case="first-letter">Modul Diskussion</namespace>
                 </namespaces>
             </siteinfo>
+            
             <xsl:apply-templates/>       
        </mediawiki>
     </xsl:template> 
@@ -100,7 +104,7 @@
         <xsl:variable name="parent" select="parent::node()/parent::node()"/>
         <xsl:variable name="datierung" xml:space="default">
             <xsl:choose>
-                <xsl:when test="exists(./ZeitangabeWissenschaft/Datum)"><xsl:value-of select="./ZeitangabeWissenschaft/Datum[1]/data(.)"/></xsl:when>
+                <xsl:when test="exists(./ZeitangabeWissenschaft/Datum)"><xsl:value-of select="string-join(./ZeitangabeWissenschaft/Datum/data(.),', ')"/></xsl:when>
                 <xsl:otherwise><xsl:text>Keine Zeitangabe</xsl:text></xsl:otherwise>
             </xsl:choose>
         </xsl:variable>    
@@ -117,9 +121,8 @@
             <xsl:otherwise><xsl:value-of select="$parent/Abfassungsort"/></xsl:otherwise>
         </xsl:choose></xsl:variable>
         <xsl:variable name="zeitangabe">
-            <xsl:for-each select="./ZeitangabeWissenschaft/Datum">
-                <xsl:call-template name="normDate"><xsl:with-param name="date" select="./@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template>
-            </xsl:for-each>            
+            <xsl:call-template name="normDate"><xsl:with-param name="date" select="./ZeitangabeWissenschaft/Datum[1]/@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template>
+           
         </xsl:variable>
         <xsl:variable name="individuen"><xsl:for-each select="./Beteiligte/Beteiligter">
             <xsl:if test="ends-with(.,'I')"><item><xsl:choose>
@@ -131,21 +134,16 @@
             </xsl:choose></item>
             </xsl:if>                            
         </xsl:for-each></xsl:variable>
-        <!--
-        <xsl:variable name="kollektive">
-            <xsl:for-each select="./Beteiligte/Beteiligter">
-                <xsl:if test="ends-with(.,'K')">
-                    <item>
-                        <xsl:choose>
-                            <xsl:when test=". eq 'sK'">| Kollektive=Sarazenische Kollektive</xsl:when>
-                            <xsl:when test=". eq 'aK'">| Kollektive=Andere Kollektive</xsl:when>
-                            <xsl:otherwise></xsl:otherwise>
-                        </xsl:choose>
-                    </item>
-                </xsl:if>                            
-            </xsl:for-each>
-            
-        </xsl:variable>    -->
+        
+        <xsl:variable name="inhalt" xml:space="default"><xsl:for-each select="tokenize(./Inhaltsangabe,' ')">
+            <xsl:if test="position() &#60; 20">
+                <xsl:value-of select="."/>
+                <xsl:text> </xsl:text>
+            </xsl:if>
+            <xsl:if test="position() eq 20"><xsl:text>...</xsl:text></xsl:if>
+        </xsl:for-each></xsl:variable>
+        <xsl:variable name="quellentitle" select="concat($parent/WerkTitel,' ',./QuellenId)"/>
+        <xsl:variable name="quellenId" select="$parent/position() + ./QuellenId + $fid + $werkeN"/>
         <xsl:variable name="eintitat" select="./Entitaeten"/>
         <xsl:variable name="index"><xsl:if test="./Inhaltsangabe != '' and ./Inhaltsangabe != '-'">
 === Inhaltsangabe ===<xsl:apply-templates select="./Inhaltsangabe" xml:space="default"/>
@@ -163,8 +161,7 @@
 === Anmerkungen ===<xsl:apply-templates select="./Anmerkungen" xml:space="default"/>
             </xsl:if></xsl:variable>
         <page>
-            <title><xsl:value-of select="concat($parent/WerkTitel,'-',./QuellenId)"/>
-            </title>
+            <title><xsl:value-of select="$quellentitle"/></title>
             <ns>0</ns>
             <id>
                 <xsl:value-of select="$parent/position() + ./QuellenId + $fid"/>
@@ -216,16 +213,9 @@
 |label7=Abfassungsort
 |data7=[[Abfassungsort::<xsl:value-of select="$abfssungsort"/>]]
 }}
-<xsl:variable name="inhalt" xml:space="default"><xsl:for-each select="tokenize(./Inhaltsangabe,' ')">
-                <xsl:if test="position() &#60; 20">
-                    <xsl:value-of select="."/>
-                    <xsl:text> </xsl:text>
-                </xsl:if>
-                <xsl:if test="position() eq 20"><xsl:text>...</xsl:text></xsl:if>
-            </xsl:for-each></xsl:variable>
 {{#set: 
     Zitation=<xsl:value-of select="./Zitation"/>
-                   <xsl:value-of select="$zeitangabe"/>
+                   <!--<xsl:value-of select="$zeitangabe/node()/node()/data(.)"/>-->
                     | Interaktion=<xsl:choose>
                             <xsl:when test="./Interaktion/data(.) eq 'j'">ja</xsl:when>
                             <xsl:otherwise>nein</xsl:otherwise>
@@ -269,20 +259,31 @@
 &lt;br/&gt;
 === Zitationshinweis ===
 <xsl:text>{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).</xsl:text>
-
+<xsl:variable name="times" xml:space="default">
+    <xsl:for-each select="./ZeitangabeWissenschaft/Datum">
+                     <xsl:variable name="res"><xsl:call-template name="normDate"><xsl:with-param name="date" select="./@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template></xsl:variable>
+                     {{#subobject:
+        <xsl:value-of select="$res/node()/node()[1]/data(.)"/> 
+                    <xsl:if test="exists($res/node()/node()[2]/data(.))"><xsl:value-of select="$res/node()/node()[2]/data(.)"/></xsl:if>}}
+            </xsl:for-each>     
+</xsl:variable>
+                    <xsl:value-of select="$times" xml:space="default"/>
+                           
                 
                     [[Kategorie:Quelle]]
                     __SHOWFACTBOX__
+                    
+                    
                         </text>
-                <sha1></sha1>a
+                <sha1></sha1>
             </revision>
         </page>
-    </xsl:template>
+         </xsl:template>
     
     <xsl:template match="Anmerkungen">
 &lt;poem&gt;<xsl:variable name="na" select="."/>
             <xsl:analyze-string select="." regex="\[(\d\d\d\d)\]\-\[(\d\d\d\d)\]">
-                <xsl:matching-substring xml:space="default">[[<xsl:value-of select="normalize-space($na/parent::node()/parent::node()/parent::node()/parent::node()/Dokumente[./WerkId eq regex-group(1)]/WerkTitel)"/><xsl:text>-</xsl:text><xsl:value-of select="regex-group(2)"/>]]</xsl:matching-substring>
+                <xsl:matching-substring xml:space="default">[[<xsl:value-of select="normalize-space($na/parent::node()/parent::node()/parent::node()/parent::node()/Dokumente[./WerkId eq regex-group(1)]/WerkTitel)"/><xsl:text> </xsl:text><xsl:value-of select="regex-group(2)"/>]]</xsl:matching-substring>
                 <xsl:non-matching-substring>
                    <xsl:value-of select="."/>
                 </xsl:non-matching-substring>
@@ -307,14 +308,20 @@
             [[Kategorie: <xsl:value-of select="."/>]]
         </xsl:for-each>
     </xsl:template>
-    
+    <xsl:template match="entity">
+        <xsl:variable name="ia" select="./@id/data(.)"/> 
+        <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]&#x200b;]</xsl:text>
+    </xsl:template>
     <xsl:template match="VolltextOriginalsprache | VolltextUebersetzung | Inhaltsangabe | ZitationUebersetzung" xml:space="default" >
+ <!--
+     ./parent::node()/parent::node()/parent::node()/parent::node()/parent::node()/Personen/Person
         <xsl:variable name="terms">
             <xsl:for-each select="parent::node()/Entitaeten/Entitaet">
                 <item><xsl:attribute name="type" select="./@Type"/>##<xsl:value-of select="./Name/data(.)"/>#</item>
                 <item><xsl:attribute name="type" select="./@Type"/>##<xsl:value-of select="./Name/data(.)"/>:#</item>
             </xsl:for-each>
-            <xsl:for-each select="parent::node()/Suchbegriffe/Suchwort">
+           
+           <xsl:for-each select="parent::node()/Suchbegriffe/Suchwort">
                 <item><xsl:attribute name="type">Suchbegriffe</xsl:attribute>##<xsl:value-of select="./data(.)"/>#</item>
             </xsl:for-each>
         </xsl:variable>
@@ -331,23 +338,26 @@
        <xsl:variable name="tex" select="replace(replace(./text(),'\&#93;','#'),'\&#91;','##')"/>
         <xsl:variable name="repl" select="functx:replace-multi($tex,$terms/node(),$replacment/node())"/>       
 &lt;poem&gt;<xsl:value-of select="replace(replace(replace($repl,'##','&#91;'),'#','&#93;'),'\\n','\\n \\n')"/>&lt;/poem&gt;
+    -->
+        &lt;poem&gt;<xsl:apply-templates/>&lt;/poem&gt;
     </xsl:template>
+    <xsl:template match="VolltextOriginalsprache/text() | VolltextUebersetzung/text() | Inhaltsangabe/text() | ZitationUebersetzung/text()"><xsl:value-of select="."/></xsl:template>
     <xsl:template name="normDate">
         <xsl:param name="attr"/>
-        <xsl:param name="date"/>
-        
-        <xsl:if test="$date != ''">
+        <xsl:param name="date"/>        
+        <xsl:if test="$date != ''"><time>
             <xsl:variable name="first">
                     <xsl:choose>
                         <xsl:when test="starts-with($date,'-')">-<xsl:value-of select="substring-before(substring-after($date,'-'),'-')"/></xsl:when>
                         <xsl:otherwise><xsl:value-of select="substring-before($date,'-')"/></xsl:otherwise>
-                    </xsl:choose>                
+                    </xsl:choose>              
             </xsl:variable>
-            <xsl:value-of select="concat('|',$attr,'=',$first)" xml:space="default"/>
+            <from><tag><xsl:value-of select="concat(' |',$attr,'Beginn=')" xml:space="default"/></tag><num><xsl:value-of select="$first"/></num></from>
             <xsl:if test="not($first eq substring-after($date,concat($first,'-')))">
-                <xsl:value-of select="concat(' |',$attr,'Ende=',substring-after($date,concat($first,'-')))" xml:space="default"/>                      
-            </xsl:if>
+                <to><tag><xsl:value-of select="concat(' |',$attr,'Ende=')" xml:space="default"/></tag><num><xsl:value-of select="substring-after($date,concat($first,'-'))"/></num></to>             
+            </xsl:if></time>
         </xsl:if>
     </xsl:template>
+    
     <xsl:template match="text()"></xsl:template>
 </xsl:stylesheet>

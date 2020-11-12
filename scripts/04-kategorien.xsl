@@ -98,13 +98,18 @@
             -->
             <xsl:variable name="attre"><list><item><i>Abfassungsort</i><e>text</e></item>
                 <item><i>Datierung</i><e>text</e></item>
+                <item><i>Werk</i><e>text</e></item>
+                <item><i>Auffälligkeit</i><e>text</e></item>
+                <item><i>Suchbegriffe</i><e>text</e></item>
+                <item><i>VerfasserIn</i><e>text</e></item>
                 <item><i>Inhaltsangabe</i><e>text</e></item>
                 <item><i>Interaktion</i><e>text</e></item>
                 <item><i>Ort</i><e>page</e></item>                
                 <item><i>QuellenAngabe</i><e>text</e></item>               
                 <item><i>Zitation</i><e>text</e></item>                
                 <item><i>Sarazenenbezug</i><e>text</e></item>
-                <item><i>Zeitangabe</i><e>date</e></item>
+                <item><i>ZeitangabeBeginn</i><e>date</e></item>
+                <item><i>ZeitangabeEnde</i><e>date</e></item>
                 <item><i>Kollektive</i><e>text</e></item>
                 <item><i>Individuen</i><e>text</e></item>
                 <item><i>BerichtszeitraumDate</i><e>date</e></item>

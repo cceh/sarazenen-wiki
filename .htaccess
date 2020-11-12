@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} !^www\.saraceni.uni-koeln\.de$ [NC]
+RewriteRule ^(.*)$ http://saraceni.uni-koeln.de/wiki/Repertorium_Saracenorum [R=301,L]

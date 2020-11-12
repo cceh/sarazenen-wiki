@@ -128,6 +128,7 @@
                             <xsl:if test="exists(./Lebensdaten)"><Lebensdaten><xsl:value-of select="./Lebensdaten/text()"/></Lebensdaten></xsl:if>
                             <xsl:if test="exists(./Rolle)"><xsl:for-each select="./Rolle"><Rolle><xsl:value-of select="."/></Rolle></xsl:for-each></xsl:if>
                             <xsl:if test="exists(./getty_Id)"><getty_Id><xsl:value-of select="./getty_Id"/></getty_Id></xsl:if>
+                            <xsl:if test="exists(geo_getty)"><xsl:copy-of select="geo_getty"/></xsl:if>
                             <xsl:if test="exists(./gnd_Id)"><gnd_Id><xsl:value-of select="./gnd_Id"/></gnd_Id></xsl:if>
                             <xsl:if test="exists(./Typ)"><xsl:for-each select="./Typ"><Typ><xsl:value-of select="."/></Typ></xsl:for-each></xsl:if>
                         </entity>
@@ -146,6 +147,7 @@
                 <xsl:if test="exists(current-group()/Rolle)"><xsl:for-each select="distinct-values(current-group()/Rolle)"><Rolle><xsl:value-of select="."/></Rolle></xsl:for-each></xsl:if>
                 <xsl:if test="exists(current-group()/getty_Id)"><getty_Id><xsl:value-of select="distinct-values(current-group()/getty_Id)"/></getty_Id></xsl:if>
                 <xsl:if test="exists(current-group()/gnd_Id)"><gnd_Id><xsl:value-of select="distinct-values(current-group()/gnd_Id)"/></gnd_Id></xsl:if>
+                <xsl:if test="exists(current-group()/geo_getty)"><geo_getty><longitude><xsl:value-of select="distinct-values(current-group()/geo_getty/longitude)"/></longitude><latitude><xsl:value-of select="distinct-values(current-group()/geo_getty/latitude)"/></latitude></geo_getty></xsl:if>
                 <xsl:if test="exists(current-group()/Typ)"><xsl:for-each select="distinct-values(current-group()/Typ)"><Typ><xsl:value-of select="."/></Typ></xsl:for-each></xsl:if>
                 <xsl:for-each-group select="current-group()/mentioned" group-by="./name">
                     <xsl:for-each select="current-group()">
@@ -221,9 +223,19 @@
                     <namespace key="828" case="first-letter">Modul</namespace>
                     <namespace key="829" case="first-letter">Modul Diskussion</namespace>
                 </namespaces>
-            </siteinfo>
+            </siteinfo>            
             <xsl:for-each select="($list4/entity,$menti/entity)">
-            <xsl:variable name="name" select="main"/>
+            
+                <xsl:variable name="name" select="main"/>
+            
+                <!--
+                <xsl:variable name="name">
+                    <xsl:choose>
+                        <xsl:when test="./@id != ''"><xsl:value-of select="substring-after(./@id,'-')"/></xsl:when>
+                        <xsl:otherwise><xsl:value-of select="main"/></xsl:otherwise>
+                    </xsl:choose>
+                </xsl:variable>
+                -->
             <xsl:variable name="set">
                 <xsl:if test="exists(./Lebensdaten)"><item>Lebensdaten=<xsl:value-of select="./Lebensdaten"/></item></xsl:if>
                 <xsl:if test="exists(./Rolle)"><xsl:for-each select="Rolle"><item>Rolle=<xsl:value-of select="."/></item></xsl:for-each></xsl:if>
@@ -255,6 +267,33 @@
                     <format>text/x-wiki</format>
                     <text xml:space="default" bytes="3441">
 <xsl:if test="exists(link)"><xsl:value-of select="link"/></xsl:if>
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=<xsl:value-of select="$name"/>
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=<xsl:value-of select="./geo_getty"/>
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        <xsl:if test="exists(./geo_getty)">
+                            {{#display_map:center=<xsl:value-of select="./geo_getty/latitude"/>,<xsl:value-of select="./geo_getty/longitude"/>}}
+{{#set:
+|latitude=<xsl:value-of select="./geo_getty/latitude"/>
+                            |longitude=<xsl:value-of select="./geo_getty/longitude"/>
+}}
+                        </xsl:if>
                         {{#set:
                         <xsl:value-of select="string-join($set/node(),' |')"/>
                         }}
@@ -352,7 +391,7 @@
                                          }}
                                      </xsl:when>
                                      <xsl:when test=". eq 'Auffälligkeit'">
-=== Auffälligkeit ===
+=== Vorkommen ===
                                          {{#ask: 
                                          [[Kategorie:Quelle]]
                                          [[Auffälligkeit::<xsl:value-of select="$name"/>]]
@@ -446,7 +485,7 @@
                                         }}
                                     </xsl:when>
                                     <xsl:when test="./@second eq 'Auffälligkeit'">
-=== Auffälligkeit <xsl:value-of select="."/> ===
+=== Vorkommen <xsl:value-of select="."/> ===
                                         {{#ask: 
                                         [[Kategorie:Quelle]]
                                         [[Auffälligkeit::<xsl:value-of select="."/>]]
@@ -514,6 +553,7 @@
             <xsl:if test="exists(Lebensdaten)"><Lebensdaten><xsl:value-of select="Lebensdaten/text()"/></Lebensdaten></xsl:if>
             <xsl:if test="exists(Rolle)"><xsl:for-each select="./Rolle"><Rolle><xsl:value-of select="."/></Rolle></xsl:for-each></xsl:if>
             <xsl:if test="exists(getty_Id)"><getty_Id><xsl:value-of select="getty_Id"/></getty_Id></xsl:if>
+            <xsl:if test="exists(geo_getty)"><xsl:copy-of select="geo_getty"/></xsl:if>
             <xsl:if test="exists(gnd_Id) and gnd_Id != ''"><gnd_Id><xsl:value-of select="gnd_Id"/></gnd_Id></xsl:if>
             <xsl:if test="exists(Typ)"><xsl:for-each select="Typ"><Typ><xsl:value-of select="."/></Typ></xsl:for-each></xsl:if>
             <mentioned><xsl:value-of select="name()"/></mentioned>
