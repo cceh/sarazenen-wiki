@@ -2,6 +2,7 @@
 ## Changes
 ### Person | VerfasserIn | Ort
 ### VolltextOriginalsprache | VolltextUebersetzung | ZitationUebersetzung
+### Entitaeten
 ### Editionshinweise
 ## Scripts 
 ### 1-generateTags

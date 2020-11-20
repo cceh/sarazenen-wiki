@@ -76,4 +76,5 @@
                 </xsl:analyze-string>
         </xsl:element>
       </xsl:template>
+    <xsl:template match="Entitaeten"></xsl:template>
 </xsl:stylesheet>
