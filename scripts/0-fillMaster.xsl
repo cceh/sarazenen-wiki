@@ -3,6 +3,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:schema="http://schema.org/"
     xmlns:sparql="http://www.w3.org/2005/sparql-results#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:gvp="http://vocab.getty.edu/ontology#"
     exclude-result-prefixes="#all"
     version="2.0">
     
@@ -15,33 +17,27 @@
     <xsl:template match="Orte/Ort">
         <Ort>
             <xsl:attribute name="id" select="./@id"></xsl:attribute>
-            <xsl:copy-of select="./node()"/>
+            <xsl:attribute name="updated" select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/>
+            <xsl:apply-templates/>
             <xsl:if test="not(./getty_Id eq '0')">
-            <xsl:variable name="getty" select="doc(concat('http://vocab.getty.edu/tgn/',replace(./getty_Id/text(),' ',''),'.rdf'))"/>
-             <geo_getty>
-                <latitude><xsl:value-of select="$getty//schema:geo//schema:latitude"/></latitude>
-                <longitude><xsl:value-of select="$getty//schema:geo//schema:longitude"/></longitude>
-             </geo_getty>
+                <xsl:variable name="getty" select="doc(concat('http://vocab.getty.edu/tgn/',replace(./getty_Id/text(),' ',''),'.rdf'))"/>
+                 <getty>
+                     <coordinates>
+                        <xsl:attribute name="latitude" select="$getty//schema:geo//schema:latitude"/>
+                        <xsl:attribute name="longitude" select="$getty//schema:geo//schema:longitude"></xsl:attribute>
+                        <xsl:value-of select="$getty//schema:geo//schema:latitude"/>,<xsl:value-of select="$getty//schema:geo//schema:longitude"/>                
+                     </coordinates>
+                     <ScopeNote>
+                         <xsl:value-of select="$getty//gvp:ScopeNote/rdf:value"/>
+                     </ScopeNote>
+                 </getty>
             </xsl:if>
-           <!--
-            <xsl:variable name="i"><xsl:text>"</xsl:text>7008799<xsl:text>"</xsl:text></xsl:variable>
-            <xsl:variable name="tet" select="concat('https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=SELECT%20%3Fid%20WHERE%20%7B%20%3Fitem%20wdt:P1667%20%22','7005233','%22%20.%20%3Fitem%20wdt:','P227','%20%3Fid%20%7D')"/> 
-            <xsl:copy-of select="doc($tet)//literal" xpath-default-namespace="http://www.w3.org/2005/sparql-results#"/>
-           
-                
-https://query.wikidata.org/bigdata/namespace/wdq/sparql%3Fquery=SELECT %3Fid WHERE%20%7B %3Fitem wdt:P1667 ',$i,' . %3Fitem wdt:P214 %3Fid%7D'
-            <xsl:value-of select=" doc-available(concat('https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=SELECT%20?id%20WHERE%20{%20?item%20wdt:P1667%20%22','7008799','%22%20.%20?item%20wdt:','P227','%20?id%20}'))"/>
-           https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=SELECT ?id WHERE%20{ ?item wdt:P1667 "7008799" . ?item wdt:P214 ?id}
-           https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=SELECT%20?id%20WHERE%20{%20?item%20wdt:P1667%20%227008799%22%20.%20?item%20wdt:P227%20?id%20}
-            -->
-            <ids>
-            <viaf_id><xsl:call-template name="sparql"><xsl:with-param name="lib">P214</xsl:with-param><xsl:with-param name="id" select="./getty_Id"></xsl:with-param></xsl:call-template></viaf_id>
-                <gnd_id><xsl:call-template name="sparql"><xsl:with-param name="lib">P227</xsl:with-param><xsl:with-param name="id" select="./getty_Id"></xsl:with-param></xsl:call-template></gnd_id>
-            </ids>
-            
-            </Ort>
-        
+                <getty_id><xsl:value-of select="./getty_Id"/></getty_id>
+                <viaf_id><xsl:call-template name="sparql"><xsl:with-param name="lib">P214</xsl:with-param><xsl:with-param name="id" select="./getty_Id"></xsl:with-param></xsl:call-template></viaf_id>
+                <gnd_id><xsl:call-template name="sparql"><xsl:with-param name="lib">P227</xsl:with-param><xsl:with-param name="id" select="./getty_Id"></xsl:with-param></xsl:call-template></gnd_id> 
+            </Ort>        
     </xsl:template>
+    <xsl:template match="getty_Id"></xsl:template>
     <xsl:template name="sparql">
         <xsl:param name="lib"/>
         <xsl:param name="id"/>

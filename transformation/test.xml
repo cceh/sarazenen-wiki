@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
 Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen Änderungen haben Auswirkungen auf die Transformationen!
---><Sarazenen>
+-->
+
+<!DOCTYPE Sarazenen SYSTEM "sarazenen_masterfassung.dtd">
+
+<Sarazenen>
     <VerfasserInnen>               
         <VerfasserIn>
             <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
@@ -29,7 +34,11 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Id>bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9</Id>
             <Name>Vinzenz</Name>
             <Rolle>Heiliger</Rolle>
-            <Alternativnamen><Name>Vinzenz von Saragossa</Name><Name>Vinzenz von Valencia</Name><Name>Vicente de Huesca</Name></Alternativnamen>
+            <Alternativnamen>
+                <Name>Vinzenz von Saragossa</Name>
+                <Name>Vinzenz von Valencia</Name>
+                <Name>Vicente de Huesca</Name>
+            </Alternativnamen>
             <gnd_Id/>
             <wikidata_Id/>
             <viaf_Id/>
@@ -37,7 +46,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
         <Person>
             <Id>1975d1e5-746e-45cc-8dff-060249603f68</Id>
             <Name>Basiliscus</Name>
-          <Alternativnamen><Name>Basiliscusuuuu</Name><Name>Basiliscus</Name><Name>Basiliscsus</Name><Name>Basiliscusususu</Name></Alternativnamen>
             <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
             <gnd_Id/>
             <wikidata_Id/>
@@ -55,7 +63,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
                 <Name>Tripoli</Name>
                 <Name>Tripolis (Libanon)</Name>
             </Alternativnamen>
-            <getty_Id>7002314</getty_Id>
+          <getty_Id>7002314</getty_Id>
         </Ort>
         <Ort>
             <Id>7f5ce30a-4607-4cce-9f6d-d38ee6c9c3e1</Id>
@@ -65,7 +73,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
                 <Name>Cadiz</Name>
                 <Name>Gaditanum</Name>
             </Alternativnamen>
-            <getty_Id>7007512</getty_Id>
+          <getty_Id>7008799</getty_Id>
         </Ort>
         <Ort>
             <Id>00070550-190f-431b-84b4-9c6591b1c146</Id>
@@ -129,8 +137,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Zitation>Thietmar, Chronicon II, 25, ed. Holtzmann 1935, S. 68-71.</Zitation>
         <ZeitangabeQuelle>970</ZeitangabeQuelle>
         <Inhaltsangabe>Kurz bevor Sarazenen die Stadt Jerusalem einnehmen, stirbt Hidda, die Mutter von Erzbischof Gero von Köln, um 970 [965/69] während einer Pilgerfahrt.</Inhaltsangabe>
-        <VolltextOriginalsprache>Huius <entity id="1975d1e5-746e-45cc-8dff-060249603f68">Basiliscusuuuu</entity><entity id="1975d1e5-746e-45cc-8dff-060249603f68">Basiliscus</entity><entity id="1975d1e5-746e-45cc-8dff-060249603f68">Basiliscsus</entity><entity id="7d8390d6-bd06-4702-8b36-1da196a9105f" type="Person">Ebf. Gero von Köln</entity> sancta mater, Hidda nomine, Ierusalem <entity id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" type="Ort">Jerusalem</entity> orationis gratia petens infirmata, hanc suis legationem pedissequis commendavit: ‘Egredienti animae meimet prolongato huius exilii incolatu, corpus meum matri terre celeriter tradite et, mox euntes, haec filio nunciate Geroni, quo peregrinae genitrici suae talem in terris non deneget honorem, qualem pius in caelis dare dignatus est Deus, et altare mihi in aecclesia sanctae constituat Ceciliae.’ Talibus preceptis devotae obtemperantes famule dominam suam post haec feliciter exspirantem sepelierunt et statim recendetes miseriam insciae effugierunt subsecuturam. Nam Saraceni Ierusolimam tunc invadentes nil reliquere vicits, quod sancta eis clam tunc predixit matrona, cum se mortuam iussit propere tumulari et suas abire.</VolltextOriginalsprache>
-        <VolltextUebersetzung>Seine <entity id="7d8390d6-bd06-4702-8b36-1da196a9105f" type="Person">Ebf. Gero von Köln</entity> fromme Mutter Hidda war nach Jerusalem <entity id="107ceb7a-8e2a-4ce7-847a-8ada274b5ed5" type="Ort">Jerusalem</entity> gezogen um zu beten, und dort erkrankt. Da trug sie ihren Begleiterinnen folgende Botschaft auf: „Wenn meine Seele den Wohnort ihres langen Pilgerlebens verläßt, übergibt meinen Leib schnell der Mutter Erde und brecht sofort mit der Nachricht zu meinem Sohne Gero auf, damit er der fernen Mutter auf Erden nicht die Ehren verweigere, deren mich der gütige Gott im Himmel gewürdigt hat; in der Kirche der hl. Cäcilie soll er mir einen Altar errichten.“ Diesen Anweisungen gehorsam begruben dann ihre ergebenen Dienerinnen die selig verschiedene Herrin, kehrten sogleich heim und entrannen dadurch, ohne es zu ahnen, nahendem Unheil. Denn damals eroberten die Sarazenen Jerusalem und ließen den Besiegten nichts; das aber hatte ihnen die heilige Frau damals verhüllt vorausgesagt, als sie befahl, sie nach ihrem Tode sofort zu bestatten und dann abzureisen.</VolltextUebersetzung>
+        <VolltextOriginalsprache>Huius [Ebf. Gero von Köln] sancta mater, Hidda nomine, Ierusalem [Jerusalem] orationis gratia petens infirmata, hanc suis legationem pedissequis commendavit: ‘Egredienti animae meimet prolongato huius exilii incolatu, corpus meum matri terre celeriter tradite et, mox euntes, haec filio nunciate Geroni, quo peregrinae genitrici suae talem in terris non deneget honorem, qualem pius in caelis dare dignatus est Deus, et altare mihi in aecclesia sanctae constituat Ceciliae.’ Talibus preceptis devotae obtemperantes famule dominam suam post haec feliciter exspirantem sepelierunt et statim recendetes miseriam insciae effugierunt subsecuturam. Nam Saraceni Ierusolimam tunc invadentes nil reliquere vicits, quod sancta eis clam tunc predixit matrona, cum se mortuam iussit propere tumulari et suas abire.</VolltextOriginalsprache>
+        <VolltextUebersetzung>Seine [Ebf. Gero von Köln] fromme Mutter Hidda war nach Jerusalem [Jerusalem] gezogen um zu beten, und dort erkrankt. Da trug sie ihren Begleiterinnen folgende Botschaft auf: „Wenn meine Seele den Wohnort ihres langen Pilgerlebens verläßt, übergibt meinen Leib schnell der Mutter Erde und brecht sofort mit der Nachricht zu meinem Sohne Gero auf, damit er der fernen Mutter auf Erden nicht die Ehren verweigere, deren mich der gütige Gott im Himmel gewürdigt hat; in der Kirche der hl. Cäcilie soll er mir einen Altar errichten.“ Diesen Anweisungen gehorsam begruben dann ihre ergebenen Dienerinnen die selig verschiedene Herrin, kehrten sogleich heim und entrannen dadurch, ohne es zu ahnen, nahendem Unheil. Denn damals eroberten die Sarazenen Jerusalem und ließen den Besiegten nichts; das aber hatte ihnen die heilige Frau damals verhüllt vorausgesagt, als sie befahl, sie nach ihrem Tode sofort zu bestatten und dann abzureisen.</VolltextUebersetzung>
         <ZitationUebersetzung>Thietmar von Merseburg, Chronik II, 25, bearb. von Werner Trillmich (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 9), Darmstadt 2002, S. 61ff.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
           <Datum date="965-969">zwischen 965 und 969</Datum>
@@ -163,7 +171,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen/>
+        <Anmerkungen></Anmerkungen>
         <Entitaeten>
           <Entitaet Id="c295fd5c-1286-4c03-9c78-0761485715f3" Type="Ort">
             <Name>Israel</Name>
@@ -193,7 +201,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Abfassungszeitraum>
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
-        <GeographischesStichwort/>
+        <GeographischesStichwort />
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
           <Beteiligter>sK</Beteiligter>
@@ -209,16 +217,16 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen/>
-        <Entitaeten/>
+        <Anmerkungen></Anmerkungen>
+        <Entitaeten />
       </Quelle>
       <Quelle>
         <QuellenId>0003</QuellenId>
         <Zitation>Thietmar, Chronicon III, 20 (12), ed. Holtzmann 1935, S. 122ff.</Zitation>
         <ZeitangabeQuelle>981/982</ZeitangabeQuelle>
         <Inhaltsangabe>Kaiser Otto II. drängt zwischen 981 und 982 die Sarazenen zunächst erfolgreich zurück, ehe er anschließend eine Niederlage und zahlreiche Verluste hinnehmen muss.</Inhaltsangabe>
-        <VolltextOriginalsprache>Interim cesar Romanum <entity id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" type="Person">Otto II.</entity> sic regebat inperium, ut, quod patrem suum prius respiciebat, omne detineret et Saracenis sua inpugnantibus viriliter resisteret et a finibus suis longe hos effugaret. Calabriam <entity id="5fed8063-6730-4ad2-960c-7a7160d4838f" type="Ort">Kalabrien</entity> a crebra Grecorum incursione et Saracenorum depredatione magnam vim perpeti cesar comperiens, ad supplementum exercitus sui Bawarios ac fortes in armis Alemannos vocavit. Ipse autem cum Ottone duce, fratris filio Liudulfi, ad urbem Tarentum <entity id="54442af7-dc17-4859-aa1b-59a6ba9d343e" type="Ort">Tarent</entity>, quam Danai iam presidio munitam optinuerant, festinavit eamque viriliter in parvo tempore obpugnatam devicit. Saracenos quoque valido excercitu sua populantes superare contendens, cautos illo speculatores misit, qui certa de hostibus referrent. Quos primo infra urbe quadam clausos effugavit devictos, postque eosdem in campo ordinatos fortiter adiens, innumeram ex his multitudinem stravit prorsusque hos speravit esse superatos. Sed hii ex inproviso collecti ad nostros unanimiter pergunt et paululum resistentes prosternunt, pro dolor! III. Id. Iulii … Richarium lanciferum et Udonem ducem, matris meae avunculum, comitesque Thietmarum, Becelinum, Gevehardum, Gunterium, Ecelinum eiusque fratrem Becelinum cum Burchardo et Dedi ac Conrado ceterisque ineffabilibus, quorum nomina Deus sciat.</VolltextOriginalsprache>
-        <VolltextUebersetzung>Währenddessen waltete der Caesar des römischen Kaisertums <entity id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" type="Person">Otto II.</entity> so, daß er allen ehemaligen Besitz seines Vaters behauptete; dem Angriff der Sarazenen auf sein Gebiet trat er mannhaft entgegen und drängte sie weit von seinem Lande zurück. Auf die Nachricht, Kalabrien leide schwer unter häufigen griechischen Einfällen und sarazenischen Plünderungen, bot er Baiern und kampfgewohnte Schwaben zur Verstärkung seines Heeres auf. Er selbst aber zog mit Herzog Otto, dem Sohne seines Bruders Liudolf, schnellstens nach der Stadt Tarent, die in den Besitz der Griechen geraten und durch eine Besatzung gesichert worden war; durch mannhaften Zugriff konnte er sie in kurzer Zeit niederkämpfen. Um nun auch mit den Sarazenen fertigzuwerden, die mit zahlreichen Truppen sein eigenes Gebiet verwüstet hatten, sandte er gewandte Späher zur Erkundung der Feinde aus. Zunächst schloß er sie in einer Burg ein und zwang sie völlig geschlagen zur Flucht; als sie sich dann in offenem Felde zum Kampfe stellten, tötete er in mutigem Angriff eine gewaltige Zahl und rechnete nun mit ihrer völligen Niederlage. Doch ganz unvermutet sammelten sie sich wieder, drangen geschlossen auf die Unsrigen ein – welch ein Unglück! – und machten am 13. Juli die kaum Widerstand leistenden nieder: Richer, den Lanzenträger, und Herzog Udo, meiner Mutter Oheim; die Grafen Thietmar, Bezelin, Gebhard, Gunther, Ezlin und seinen Bruder Bezelin, ferner Burkhard, Dedi, Konrad, und viele andere, die ich nicht nennen kann; Gott weiß ihre Namen.</VolltextUebersetzung>
+        <VolltextOriginalsprache>Interim cesar Romanum [Otto II.] sic regebat inperium, ut, quod patrem suum prius respiciebat, omne detineret et Saracenis sua inpugnantibus viriliter resisteret et a finibus suis longe hos effugaret. Calabriam [Kalabrien] a crebra Grecorum incursione et Saracenorum depredatione magnam vim perpeti cesar comperiens, ad supplementum exercitus sui Bawarios ac fortes in armis Alemannos vocavit. Ipse autem cum Ottone duce, fratris filio Liudulfi, ad urbem Tarentum [Tarent], quam Danai iam presidio munitam optinuerant, festinavit eamque viriliter in parvo tempore obpugnatam devicit. Saracenos quoque valido excercitu sua populantes superare contendens, cautos illo speculatores misit, qui certa de hostibus referrent. Quos primo infra urbe quadam clausos effugavit devictos, postque eosdem in campo ordinatos fortiter adiens, innumeram ex his multitudinem stravit prorsusque hos speravit esse superatos. Sed hii ex inproviso collecti ad nostros unanimiter pergunt et paululum resistentes prosternunt, pro dolor! III. Id. Iulii … Richarium lanciferum et Udonem ducem, matris meae avunculum, comitesque Thietmarum, Becelinum, Gevehardum, Gunterium, Ecelinum eiusque fratrem Becelinum cum Burchardo et Dedi ac Conrado ceterisque ineffabilibus, quorum nomina Deus sciat.</VolltextOriginalsprache>
+        <VolltextUebersetzung>Währenddessen waltete der Caesar des römischen Kaisertums [Otto II.] so, daß er allen ehemaligen Besitz seines Vaters behauptete; dem Angriff der Sarazenen auf sein Gebiet trat er mannhaft entgegen und drängte sie weit von seinem Lande zurück. Auf die Nachricht, Kalabrien leide schwer unter häufigen griechischen Einfällen und sarazenischen Plünderungen, bot er Baiern und kampfgewohnte Schwaben zur Verstärkung seines Heeres auf. Er selbst aber zog mit Herzog Otto, dem Sohne seines Bruders Liudolf, schnellstens nach der Stadt Tarent, die in den Besitz der Griechen geraten und durch eine Besatzung gesichert worden war; durch mannhaften Zugriff konnte er sie in kurzer Zeit niederkämpfen. Um nun auch mit den Sarazenen fertigzuwerden, die mit zahlreichen Truppen sein eigenes Gebiet verwüstet hatten, sandte er gewandte Späher zur Erkundung der Feinde aus. Zunächst schloß er sie in einer Burg ein und zwang sie völlig geschlagen zur Flucht; als sie sich dann in offenem Felde zum Kampfe stellten, tötete er in mutigem Angriff eine gewaltige Zahl und rechnete nun mit ihrer völligen Niederlage. Doch ganz unvermutet sammelten sie sich wieder, drangen geschlossen auf die Unsrigen ein – welch ein Unglück! – und machten am 13. Juli die kaum Widerstand leistenden nieder: Richer, den Lanzenträger, und Herzog Udo, meiner Mutter Oheim; die Grafen Thietmar, Bezelin, Gebhard, Gunther, Ezlin und seinen Bruder Bezelin, ferner Burkhard, Dedi, Konrad, und viele andere, die ich nicht nennen kann; Gott weiß ihre Namen.</VolltextUebersetzung>
         <ZitationUebersetzung>Thietmar von Merseburg, Chronik III, 20, bearb. von Werner Trillmich (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 9), Darmstadt 2002, S. 107ff.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
           <Datum date="981-981">981/982</Datum>
@@ -272,8 +280,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Zitation>Thietmar, Chronicon III, 21, ed. Holtzmann 1935, S. 124ff.</Zitation>
         <ZeitangabeQuelle>982</ZeitangabeQuelle>
         <Inhaltsangabe>Nach dem Kampf gegen die Feinde [Sarazenen] 982 kann sich Kaiser Otto II. auf ein Schiff retten und beabsichtigt, den byzantinischen Kaiser Basileios II. um Unterstützung zu bitten.</Inhaltsangabe>
-        <VolltextOriginalsprache>Cumque hostes adventare conspiceret <entity id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" type="Person">Otto II.</entity>, quid umquam fieret de se, tristis hunc interrogans et, habere se amicum apud eos, cuius auxilium speraret, animadvertens, iterum equo comite in mare prosiliens ad alteram, que sequebatur, tendit salandriam […]. […] ‚Eamus tantum ad urbem Rossan <entity id="02556f2c-d4b0-4ad6-ac8a-11f99278ccc9" type="Ort">Rossano</entity>, ubi mea coniunx meum prestolatur adventum, omnemque pecuniam, quam teneo ineffabilem, cum eadem sumentes, visitemus imperatorem <entity id="82e5b0bf-bf99-47b1-a94b-fadd4b728f97" type="Person">Basileios II.</entity> vestrum, fratrem scilicet meum, certum, ut spero, meis necessitatibus amicum.’</VolltextOriginalsprache>
-        <VolltextUebersetzung>Und als der Kaiser <entity id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" type="Person">Otto II.</entity> das Nahen der Feinde bemerkte, fragte er ihn <entity id="2fbf4178-68c4-41b0-8905-07709b6e78a9" type="Person">Meschullam ben Kalonymos</entity> bekümmert, was nun aus ihm werden solle; dann aber sah er eine zweite Salandria folgen und bemerkte unter den Schiffsleuten einen Freund, auf dessen Hilfe er rechnen konnte, stürzte sich nochmals zu Pferde ins Meer, erreichte das Schiff und wurde aufgenommen; „[…] Laßt uns nur Rossano anlaufen, wo meine Gemahlin auf meine Rückkehr wartet; wir wollen sie und alles Geld – ich habe sehr viel – aufnehmen und euren Kaiser <entity id="82e5b0bf-bf99-47b1-a94b-fadd4b728f97" type="Person">Basileios II.</entity>, meinen Bruder, aufsuchen; gewiß wird er mir, so hoffe ich, ein Freund in der Not sein.“</VolltextUebersetzung>
+        <VolltextOriginalsprache>Cumque hostes adventare conspiceret [Otto II.], quid umquam fieret de se, tristis hunc interrogans et, habere se amicum apud eos, cuius auxilium speraret, animadvertens, iterum equo comite in mare prosiliens ad alteram, que sequebatur, tendit salandriam […]. […] ‚Eamus tantum ad urbem Rossan [Rossano], ubi mea coniunx meum prestolatur adventum, omnemque pecuniam, quam teneo ineffabilem, cum eadem sumentes, visitemus imperatorem [Basileios II.] vestrum, fratrem scilicet meum, certum, ut spero, meis necessitatibus amicum.’</VolltextOriginalsprache>
+        <VolltextUebersetzung>Und als der Kaiser [Otto II.] das Nahen der Feinde bemerkte, fragte er ihn [Meschullam ben Kalonymos] bekümmert, was nun aus ihm werden solle; dann aber sah er eine zweite Salandria folgen und bemerkte unter den Schiffsleuten einen Freund, auf dessen Hilfe er rechnen konnte, stürzte sich nochmals zu Pferde ins Meer, erreichte das Schiff und wurde aufgenommen; „[…] Laßt uns nur Rossano anlaufen, wo meine Gemahlin auf meine Rückkehr wartet; wir wollen sie und alles Geld – ich habe sehr viel – aufnehmen und euren Kaiser [Basileios II.], meinen Bruder, aufsuchen; gewiß wird er mir, so hoffe ich, ein Freund in der Not sein.“</VolltextUebersetzung>
         <ZitationUebersetzung>Thietmar von Merseburg, Chronik III, 21, bearb. von Werner Trillmich (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 9), Darmstadt 2002, S. 109ff.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
           <Datum date="982-982">982</Datum>
@@ -326,8 +334,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Zitation>Thietmar, Chronicon III, 23 (13), ed. Holtzmann 1935, S. 126ff.</Zitation>
         <ZeitangabeQuelle>982</ZeitangabeQuelle>
         <Inhaltsangabe>Kaiser Otto II. wirbt 982 zur Vernichtung der sarazenischen Flotte byzantinische Schiffe an, die ‚Griechisches Feuer‘ an Bord tragen.</Inhaltsangabe>
-        <VolltextOriginalsprache>Inperator <entity id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" type="Person">Otto II.</entity> autem has venientes inextinguibilemque ab omni re preter acetum ferentes ignem sibi coniunxit et in mare ad comburendas Saracenorum naves conductas direxit.</VolltextOriginalsprache>
-        <VolltextUebersetzung>Der Kaiser <entity id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" type="Person">Otto II.</entity> hatte diese Schiffe, die nur durch Essig löschbares Feuer an Bord trugen, bei ihrer Ankunft in seinen Dienst genommen und auf See geschickt, um die Sarazenenflotte in Brand zu stecken.</VolltextUebersetzung>
+        <VolltextOriginalsprache>Inperator [Otto II.] autem has venientes inextinguibilemque ab omni re preter acetum ferentes ignem sibi coniunxit et in mare ad comburendas Saracenorum naves conductas direxit.</VolltextOriginalsprache>
+        <VolltextUebersetzung>Der Kaiser [Otto II.] hatte diese Schiffe, die nur durch Essig löschbares Feuer an Bord trugen, bei ihrer Ankunft in seinen Dienst genommen und auf See geschickt, um die Sarazenenflotte in Brand zu stecken.</VolltextUebersetzung>
         <ZitationUebersetzung>Thietmar von Merseburg, Chronik III, 21, bearb. von Werner Trillmich (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 9), Darmstadt 2002, S. 111ff.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
           <Datum date="982-982">982</Datum>
@@ -338,7 +346,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Abfassungszeitraum>
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
-        <GeographischesStichwort/>
+        <GeographischesStichwort />
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
           <Beteiligter>aK</Beteiligter>
@@ -354,7 +362,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen/>
+        <Anmerkungen></Anmerkungen>
         <Entitaeten>
           <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
             <Name>Otto II.</Name>
@@ -366,8 +374,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Zitation>Thietmar, Chronicon VII, 45 (31), ed. Holtzmann 1935, S. 452ff.</Zitation>
         <ZeitangabeQuelle>1016</ZeitangabeQuelle>
         <Inhaltsangabe>Sarazenen erobern 1016 unter Emir Mogehid ibn Abdallah die Stadt Luna in der Lombardei. Papst Benedikt VIII. stellt ihnen im Verbund mit den Seestädten Pisa und Genua ein christliches Heer entgegen, welches erfolgreich und mit reicher Beute heimkehrt.</Inhaltsangabe>
-        <VolltextOriginalsprache>In Longabardia <entity id="95e61805-e6d4-4849-9d23-e26414a4ca98" type="Ort">Lombardei</entity> Saraceni navigio venientes Lunam <entity id="f093cb99-078e-460c-9a08-13d2a12328d1" type="Ort">Luna</entity> civitatem fugato pastore invadunt et cum potentia ac securitate fines illius regionis inhabitant et uxoribus incolarum abutuntur. Quod cum domno apostolico nomine Benedicto <entity id="cad46446-4d56-46b2-883a-f7bd7cc66129" type="Person">Papst Benedikt VIII.</entity> fama deferret, omnes sanctae matris aecclesiae tam rectores quam defensores congregans rogat ac precipit, ut inimicos Christi talia presumentes viriliter secum inrumperent et adiuvante Domino occiderent. Insuper ineffabilem navium multitudinem tacito premisit, quae eis redeundi possibilitatem interciperet. Hoc rex Saracenus <entity id="62974955-693a-418b-ae26-e56a6c6ddf08" type="Person">Emir Mogehid ibn Abdallah</entity> animadvertens primo indignatur et tandem paucis comitatus navicula periculum imminens evasit; sui vero omnes conveniunt et adventantes prius irruunt hostes eosque mox fugientes, miserabile dictu, III dies et noctes prosternunt. Respexit tandem Deus gemitu piorum placatus et odientes se fugavit et in tantum devicit, ut nec uno de hiis relicto interfectorum et eorundem spoliorum multitudinem victores numerare nequirent. Tunc regina eorum capta [ob] audaciam viri capite plectitur. Aurum capitale eiusdem, ornamentum invicem gemmatum, papa sibi pre caeteris vendicavit postque imperatori suam transmisit partem, quae mille libris computabatur. Divisa omni preda victrix turba laeta mente ad propria revertitur et triumphanti Christo dignas persolverat odas. Rex autem predictus morte coniugis et sociorum admodum turbatus summo pontifici saccum castaneis refertum remisit et per hunc portitorem tot se in proxima estate milites sibi esse laturos intimavit. Percepta hac legatione papa marsuppium eundem milio plenum internuntio talibus dictis reddidit: ‘Si non sufficiat sibi apostolicam satis laesisse dotem, secundo veniat et tot loricatos vel plus se hic inventurum pro certo sciat.’ Homo cogitat et loquitur, Deus iudicat; quem suppliciter fidelis quisque oret, ut talem plagam misericorditer amoveat et necessariam optatae pacis securitatem pius indulgeat.</VolltextOriginalsprache>
-        <VolltextUebersetzung>In der Lombardei <entity id="95e61805-e6d4-4849-9d23-e26414a4ca98" type="Ort">Lombardei</entity> landeten Sarazenen und eroberten die Stadt Luna, deren Bischof entkommen konnte; dann blieben sie gewalttätig und unbehelligt dort im Lande sitzen und mißbrauchten die Frauen der Einwohner. Als der Herr Papst Benedikt hiervon Kunde erhalten hatte, rief er alle Lenker und Schützer der hl. Mutter Kirche zusammen und bat und gebot, mit ihm zusammen mannhaft diese dreisten Feinde Christi anzugreifen, um sie mit Hilfe des Herrn zu vernichten. Zudem sandte er heimlich eine gewaltige Flotte [aus Pisanern und Genuesen] voraus, um ihnen die Rückzugsmöglichkeit abzuschneiden. Als der Sarazenenkönig <entity id="62974955-693a-418b-ae26-e56a6c6ddf08" type="Person">Emir Mogehid ibn Abdallah</entity> davon Wind bekam, ergrimmte er zunächst, dann aber entfloh er mit wenigen Begleitern auf einem Boot der drohenden Gefahr. Doch die Seinen sammelten sich alle, griffen die nahenden Feinde zuerst an, schlugen sie schnell in die Flucht und mordeten, es ist kläglich zu sagen, 3 Tage und Nächte lang. Schließlich ließ sich Gott durch die Klagen der Frommen versöhnen, jagte seine Hasser auseinander und machte den Sieg so vollständig, daß nicht ein einziger von ihnen übrig blieb und die Sieger die Menge der Erschlagenen und der Waffenbeute nicht zu zählen vermochten. Dabei wurde auch ihre Königin gefangen und wegen der Freveltaten ihres Gemahls enthauptet. Ihren goldenen, ringsum mit Edelsteinen gezierten Kopfschmuck nahm der Papst vor den Anderen an sich und übersandte ihn später dem Kaiser als seinen Anteil, den man auf 1000 Pfund schätzte. Nach Verteilung der Beute kehrte das siegreiche Heer froh in die Heimat zurück und sang Loblieder zu Ehren des Siegers Christus. Der durch den Tod seiner Gemahlin und seiner Gefährten aufs äußerste aufgebrachte König aber übersandte unserem obersten Priester einen Sack voll Kastanien und ließ durch den Überbringer ankündigen, er werde ihm im nächsten Sommer ebensoviele Krieger bringen. Nach Empfang dieser Botschaft gab der Papst dem Gesandten den gleichen Sack voll Hirse zurück mit den Worten: Wenn er von der schweren Schädigung des apostolischen Gutes noch nicht genug habe, möge er wiederkommen; so viele und noch mehr geharnischte Krieger werde er antreffen, dessen könne er sicher sein. – Der Mensch denkt und redet, Gott entscheidet. Ihn sollte in Demut jeder Gläubige darum bitten, daß er barmherzig solches Unheil abwende und uns in Gnade die notwendige Ruhe des lieben Friedens schenke.</VolltextUebersetzung>
+        <VolltextOriginalsprache>In Longabardia [Lombardei] Saraceni navigio venientes Lunam [Luna] civitatem fugato pastore invadunt et cum potentia ac securitate fines illius regionis inhabitant et uxoribus incolarum abutuntur. Quod cum domno apostolico nomine Benedicto [Papst Benedikt VIII.] fama deferret, omnes sanctae matris aecclesiae tam rectores quam defensores congregans rogat ac precipit, ut inimicos Christi talia presumentes viriliter secum inrumperent et adiuvante Domino occiderent. Insuper ineffabilem navium multitudinem tacito premisit, quae eis redeundi possibilitatem interciperet. Hoc rex Saracenus [Emir Mogehid ibn Abdallah] animadvertens primo indignatur et tandem paucis comitatus navicula periculum imminens evasit; sui vero omnes conveniunt et adventantes prius irruunt hostes eosque mox fugientes, miserabile dictu, III dies et noctes prosternunt. Respexit tandem Deus gemitu piorum placatus et odientes se fugavit et in tantum devicit, ut nec uno de hiis relicto interfectorum et eorundem spoliorum multitudinem victores numerare nequirent. Tunc regina eorum capta [ob] audaciam viri capite plectitur. Aurum capitale eiusdem, ornamentum invicem gemmatum, papa sibi pre caeteris vendicavit postque imperatori suam transmisit partem, quae mille libris computabatur. Divisa omni preda victrix turba laeta mente ad propria revertitur et triumphanti Christo dignas persolverat odas. Rex autem predictus morte coniugis et sociorum admodum turbatus summo pontifici saccum castaneis refertum remisit et per hunc portitorem tot se in proxima estate milites sibi esse laturos intimavit. Percepta hac legatione papa marsuppium eundem milio plenum internuntio talibus dictis reddidit: ‘Si non sufficiat sibi apostolicam satis laesisse dotem, secundo veniat et tot loricatos vel plus se hic inventurum pro certo sciat.’ Homo cogitat et loquitur, Deus iudicat; quem suppliciter fidelis quisque oret, ut talem plagam misericorditer amoveat et necessariam optatae pacis securitatem pius indulgeat.</VolltextOriginalsprache>
+        <VolltextUebersetzung>In der Lombardei [Lombardei] landeten Sarazenen und eroberten die Stadt Luna, deren Bischof entkommen konnte; dann blieben sie gewalttätig und unbehelligt dort im Lande sitzen und mißbrauchten die Frauen der Einwohner. Als der Herr Papst Benedikt hiervon Kunde erhalten hatte, rief er alle Lenker und Schützer der hl. Mutter Kirche zusammen und bat und gebot, mit ihm zusammen mannhaft diese dreisten Feinde Christi anzugreifen, um sie mit Hilfe des Herrn zu vernichten. Zudem sandte er heimlich eine gewaltige Flotte [aus Pisanern und Genuesen] voraus, um ihnen die Rückzugsmöglichkeit abzuschneiden. Als der Sarazenenkönig [Emir Mogehid ibn Abdallah] davon Wind bekam, ergrimmte er zunächst, dann aber entfloh er mit wenigen Begleitern auf einem Boot der drohenden Gefahr. Doch die Seinen sammelten sich alle, griffen die nahenden Feinde zuerst an, schlugen sie schnell in die Flucht und mordeten, es ist kläglich zu sagen, 3 Tage und Nächte lang. Schließlich ließ sich Gott durch die Klagen der Frommen versöhnen, jagte seine Hasser auseinander und machte den Sieg so vollständig, daß nicht ein einziger von ihnen übrig blieb und die Sieger die Menge der Erschlagenen und der Waffenbeute nicht zu zählen vermochten. Dabei wurde auch ihre Königin gefangen und wegen der Freveltaten ihres Gemahls enthauptet. Ihren goldenen, ringsum mit Edelsteinen gezierten Kopfschmuck nahm der Papst vor den Anderen an sich und übersandte ihn später dem Kaiser als seinen Anteil, den man auf 1000 Pfund schätzte. Nach Verteilung der Beute kehrte das siegreiche Heer froh in die Heimat zurück und sang Loblieder zu Ehren des Siegers Christus. Der durch den Tod seiner Gemahlin und seiner Gefährten aufs äußerste aufgebrachte König aber übersandte unserem obersten Priester einen Sack voll Kastanien und ließ durch den Überbringer ankündigen, er werde ihm im nächsten Sommer ebensoviele Krieger bringen. Nach Empfang dieser Botschaft gab der Papst dem Gesandten den gleichen Sack voll Hirse zurück mit den Worten: Wenn er von der schweren Schädigung des apostolischen Gutes noch nicht genug habe, möge er wiederkommen; so viele und noch mehr geharnischte Krieger werde er antreffen, dessen könne er sicher sein. – Der Mensch denkt und redet, Gott entscheidet. Ihn sollte in Demut jeder Gläubige darum bitten, daß er barmherzig solches Unheil abwende und uns in Gnade die notwendige Ruhe des lieben Friedens schenke.</VolltextUebersetzung>
         <ZitationUebersetzung>Thietmar von Merseburg, Chronik III, 21, bearb. von Werner Trillmich (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 9), Darmstadt 2002, S. 403.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
           <Datum date="1016-1016">1016</Datum>
@@ -407,7 +415,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen/>
+        <Anmerkungen></Anmerkungen>
         <Entitaeten>
           <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
             <Name>Italien</Name>
@@ -479,13 +487,46 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
     <Berichtszeitraum>
       <Datum date="715-881">715-881</Datum>
     </Berichtszeitraum>
-    <Editionshinweise>Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge; Erchamberti breviarium regum Francorum et maiorum-domus ex Msc. sec. Augiae minoris, ed. Aemilianus Ussermann, in: Chronicon Hermanni Contracti : Ex Inedito Hucusque Codice Augiensi, Unacum Eius Vita Et Continuatione A Bertholdo eius discipulo scripta. Praemittuntur Varia Anecdota. Subiicitur Chronicon Petershusanum Ineditum ; 1, St. Blasien 1790, S. XLI-LII vollständig aus der Stuttgarter Handschrift.</Editionshinweise>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00348.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de (Edition G. H. Pertz 1829)</EditionLink>
+    <Editionshinweise>Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge</Editionshinweise><Editionshinweise>Erchamberti breviarium regum Francorum et maiorum-domus ex Msc. sec. Augiae minoris, ed. Aemilianus Ussermann, in: Chronicon Hermanni Contracti : Ex Inedito Hucusque Codice Augiensi, Unacum Eius Vita Et Continuatione A Bertholdo eius discipulo scripta. Praemittuntur Varia Anecdota. Subiicitur Chronicon Petershusanum Ineditum ; 1, St. Blasien 1790, S. XLI-LII vollständig aus der Stuttgarter Handschrift.</Editionshinweise>
+    <Editionshinweise>Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191.</Editionshinweise>
+        <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00348.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de (Edition G. H. Pertz 1829)</EditionLink>
     <EditionLink url="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10004568_00001.html">Digitalisat bei Bayerische Staatsbibliothek Digital (Edition A. Ussermann 1790)</EditionLink>
-    <Werkinformation>Die Chronik wurde bis zum Jahr 826 von Erchambert verfasst; eine Fortsetzung für die Jahre 840-881 stammt sicher von Notker. Vgl. zum Werk: Breviarium regum Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02184.html 2018-02-15]; vgl. zu den Autoren: Erchanbertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_104348550.html 2018-02-15]; Notkerus Balbulus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118588850.html 2018-02-15].</Werkinformation>
+    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00205.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de</EditionLink>
+        <Werkinformation>Die Chronik wurde bis zum Jahr 826 von Erchambert verfasst; eine Fortsetzung für die Jahre 840-881 stammt sicher von Notker. Vgl. zum Werk: Breviarium regum Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02184.html 2018-02-15]; vgl. zu den Autoren: Erchanbertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_104348550.html 2018-02-15]; Notkerus Balbulus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118588850.html 2018-02-15].</Werkinformation>
     <gnd_Id/>
     <wikidata_Id/>
     <viaf_Id/>
     <Quellen/>
   </Dokumente>
+  <!--
+  <Dokumente>
+    <WerkId>9950</WerkId>
+    <WerkTitel>Chronica de sex aetatibus mundi</WerkTitel>
+    <Alternativtitel>
+      <Titel>Chronik der sechs Weltzeitalter</Titel>
+    </Alternativtitel>
+    <Autoren>
+      <Autor Id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">VerfasserIn unbekannt</Autor>
+    </Autoren>
+    <LebensdatenVerfasserIn>unbekannt</LebensdatenVerfasserIn>
+    <Abfassungszeitraum>
+      <Datum date="800-900">9. Jahrhundert</Datum>
+    </Abfassungszeitraum>
+    <Abfassungsort>unbekannt</Abfassungsort>
+    <Regionen>
+      <Region>unbekannte Region</Region>
+    </Regionen>
+    <Berichtszeitraum>
+      <Datum date="-3956">3956 v. Chr. – 810 n. Chr.</Datum>
+      <Datum date="685-810">3956 v. Chr. – 810 n. Chr.</Datum>
+    </Berichtszeitraum>
+    <Editionshinweise>Chronica de sex aetatibus mundi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 256.</Editionshinweise>
+    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00277.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de</EditionLink>
+    <Werkinformation>Keine näheren Informationen zum Werk verfügbar.</Werkinformation>
+    <gnd_Id/>
+    <wikidata_Id/>
+    <viaf_Id/>
+    <Quellen/>
+  </Dokumente>
+  -->
 </Sarazenen>

@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?><mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="de"><siteinfo><sitename>Sarazenen Wiki</sitename><dbname>sarazenen-bonn</dbname><base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base><generator>MediaWiki 1.27.4</generator><case>first-letter</case><namespaces><namespace key="-2" case="first-letter">Medium</namespace><namespace key="-1" case="first-letter">Spezial</namespace><namespace key="0" case="first-letter"/><namespace key="1" case="first-letter">Diskussion</namespace><namespace key="2" case="first-letter">Benutzer</namespace><namespace key="3" case="first-letter">Benutzer Diskussion</namespace><namespace key="4" case="first-letter">Sarazenen Wiki</namespace><namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace><namespace key="6" case="first-letter">Datei</namespace><namespace key="7" case="first-letter">Datei Diskussion</namespace><namespace key="8" case="first-letter">MediaWiki</namespace><namespace key="9" case="first-letter">MediaWiki Diskussion</namespace><namespace key="10" case="first-letter">Vorlage</namespace><namespace key="11" case="first-letter">Vorlage Diskussion</namespace><namespace key="12" case="first-letter">Hilfe</namespace><namespace key="13" case="first-letter">Hilfe Diskussion</namespace><namespace key="14" case="first-letter">Kategorie</namespace><namespace key="15" case="first-letter">Kategorie Diskussion</namespace><namespace key="102" case="first-letter">Attribut</namespace><namespace key="103" case="first-letter">Attribut Diskussion</namespace><namespace key="106" case="first-letter">Formular</namespace><namespace key="107" case="first-letter">Formular Diskussion</namespace><namespace key="108" case="first-letter">Konzept</namespace><namespace key="109" case="first-letter">Konzept Diskussion</namespace><namespace key="170" case="first-letter">Filter</namespace><namespace key="171" case="first-letter">Filter Diskussion</namespace><namespace key="828" case="first-letter">Modul</namespace><namespace key="829" case="first-letter">Modul Diskussion</namespace></namespaces></siteinfo><page><title>Belagerung</title><ns>0</ns><id>4001</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Belagerung
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Belagerung]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Invasion</title><ns>0</ns><id>4002</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Invasion
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Invasion]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Vorzeichen</title><ns>0</ns><id>4003</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Vorzeichen
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Vorzeichen]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Kampfhandlung</title><ns>0</ns><id>4004</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Kampfhandlung
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Kampfhandlung]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Verlust</title><ns>0</ns><id>4005</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Verlust
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Verlust]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Rückschlag</title><ns>0</ns><id>4006</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Rückschlag
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Rückschlag]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Zerstörung</title><ns>0</ns><id>4007</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Zerstörung
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Zerstörung]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Hilfe</title><ns>0</ns><id>4008</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Hilfe
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Hilfe]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Flotte</title><ns>0</ns><id>4009</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Flotte
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Flotte]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Schutzmaßnahme</title><ns>0</ns><id>4010</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Schutzmaßnahme
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Schutzmaßnahme]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Bündnis</title><ns>0</ns><id>4011</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Bündnis
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Bündnis]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Bedrohung</title><ns>0</ns><id>4012</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Bedrohung
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Bedrohung]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Sieg</title><ns>0</ns><id>4013</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Sieg
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Sieg]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Vertreibung</title><ns>0</ns><id>4014</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Vertreibung
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Vertreibung]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Flucht</title><ns>0</ns><id>4015</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Flucht
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Vorkommen ===
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Auffälligkeit::Flucht]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Auffälligkeit
+                                         }}
+                                     [[Kategorie:Auffälligkeit]]</text><sha1/></revision></page><page><title>Hierosolyma</title><ns>0</ns><id>4016</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Hierosolyma
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Hierosolyma als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Hierosolyma]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Ierusalem</title><ns>0</ns><id>4017</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Ierusalem
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Ierusalem als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Ierusalem]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Jerusalem</title><ns>0</ns><id>4018</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Jerusalem
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Jerusalem als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Jerusalem]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]
+=== Ortsnennungen ===
+Übersicht über die Nennung von Jerusalem im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Jerusalem]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>Saracenus</title><ns>0</ns><id>4019</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Saracenus
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Saracenus als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Saracenus]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Sarazene</title><ns>0</ns><id>4020</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Sarazene
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Sarazene als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Sarazene]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Hostis</title><ns>0</ns><id>4021</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Hostis
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Hostis als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Hostis]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Feind</title><ns>0</ns><id>4022</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Feind
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Feind als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Feind]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Emir</title><ns>0</ns><id>4023</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Emir
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Emir als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Emir]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Ibn</title><ns>0</ns><id>4024</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Ibn
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Suchbegriff ===
+Übersicht über die Verwendung von Ibn als Suchbegriff:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Suchbegriffe::Ibn]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Suchbegriff
+                                         }}
+                                     [[Kategorie:Suchbegriffe]]</text><sha1/></revision></page><page><title>Israel</title><ns>0</ns><id>4025</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Israel
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Israel im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Israel]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>Italien</title><ns>0</ns><id>4026</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Italien
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Italien im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Italien]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>Kalabrien</title><ns>0</ns><id>4027</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Kalabrien
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Kalabrien im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Kalabrien]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>Tarent</title><ns>0</ns><id>4028</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Tarent
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Tarent im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Tarent]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>Rossano</title><ns>0</ns><id>4029</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Rossano
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Rossano im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Rossano]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>Lombardei</title><ns>0</ns><id>4030</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Lombardei
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Lombardei im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Lombardei]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>Luna</title><ns>0</ns><id>4031</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Luna
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Luna im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Luna]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     </text><sha1/></revision></page><page><title>VerfasserIn unbekannt</title><ns>0</ns><id>4032</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=VerfasserIn unbekannt
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        Lebensdaten=
+                        }}
+Lebensdaten: 
+=== Werke des Verfassers ===
+                                         {{#ask: 
+                                         [[Kategorie:Werk]]
+                                         [[VerfasserIn::VerfasserIn unbekannt]]                    
+                                         |?Abfassungszeit#
+                                         |?Berichtszeitraum#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Werke des Verfassers
+                                         }}
+                                     [[Kategorie:VerfasserIn]]</text><sha1/></revision></page><page><title>Abbo von Saint-Germain</title><ns>0</ns><id>4033</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Abbo von Saint-Germain
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        Lebensdaten=Um 850-nach 921
+                        }}
+Lebensdaten: Um 850-nach 921&lt;br /&gt;Weiterführende Hinweise finden Sie bei [http://d-nb.info/gnd/118646427 GND]
+=== Werke des Verfassers ===
+                                         {{#ask: 
+                                         [[Kategorie:Werk]]
+                                         [[VerfasserIn::Abbo von Saint-Germain]]                    
+                                         |?Abfassungszeit#
+                                         |?Berichtszeitraum#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Werke des Verfassers
+                                         }}
+                                     [[Kategorie:VerfasserIn]]</text><sha1/></revision></page><page><title>Vinzenz</title><ns>0</ns><id>4034</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Vinzenz
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        Rolle=Heiliger
+                        }}
+&lt;br /&gt;Vinzenz wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt:&lt;ul&gt;&lt;li&gt;Heiliger&lt;/li&gt;&lt;/ul&gt;
+=== Personennennung ===
+Übersicht über die Nennung von Vinzenz im Repertorium Saracenorum:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Person::Vinzenz]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Personennennung
+                                         }}
+                                     [[Kategorie:Person]]</text><sha1/></revision></page><page><title>Basiliscus</title><ns>0</ns><id>4035</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Basiliscus
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        Rolle=Gesandter König Alfons II. von Galizien und Asturien
+                        }}
+&lt;br /&gt;Basiliscus wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt:&lt;ul&gt;&lt;li&gt;Gesandter König Alfons II. von Galizien und Asturien&lt;/li&gt;&lt;/ul&gt;
+=== Personennennung ===
+Übersicht über die Nennung von Basiliscus im Repertorium Saracenorum:
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Person::Basiliscus]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Personennennung
+                                         }}
+                                     [[Kategorie:Person]]</text><sha1/></revision></page><page><title>Tripolis (Libanon)</title><ns>0</ns><id>4036</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Tripolis (Libanon)
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Tripolis (Libanon) im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Tripolis (Libanon)]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     
+                                [[Kategorie:Ort]]  
+                            </text><sha1/></revision></page><page><title>Cádiz</title><ns>0</ns><id>4037</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Cádiz
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Cádiz im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Cádiz]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     
+                                [[Kategorie:Ort]]  
+                            </text><sha1/></revision></page><page><title>Gibraltar</title><ns>0</ns><id>4038</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Gibraltar
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Gibraltar im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Gibraltar]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     
+                                [[Kategorie:Region]]  
+                            </text><sha1/></revision></page><page><title>Algeciras</title><ns>0</ns><id>4039</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Algeciras
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Algeciras im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Algeciras]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     
+                                [[Kategorie:Ort]]  
+                            </text><sha1/></revision></page><page><title>Orbieu</title><ns>0</ns><id>4040</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                        {{WikiProject_Transwiki/Template:Infobox
+                        |title=
+                        |above=Orbieu
+                        |image=
+                        |caption=
+                        
+                        |bodyclass = class;
+                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+                        |abovestyle = background:#1b98d0; 
+                        |headerstyle  = background:#1b98d0; 
+                        |labelstyle   = background:#1b98d0; width:30%;
+                        |datastyle    = 
+                        
+                        |label1=getty
+                        |data1=
+                        |label2=viaf
+                        |data2=
+                        |label3=gnd
+                        |data3=
+                        }}
+                        
+                        {{#set:
+                        
+                        }}
+
+=== Ortsnennungen ===
+Übersicht über die Nennung von Orbieu im Repertorium Saracenorum
+                                         {{#ask: 
+                                         [[Kategorie:Quelle]]
+                                         [[Ort::Orbieu]]
+                                         |?Interaktion# 
+                                         |?VerfasserIn 
+                                         |?Werk
+                                         |?Datierung#
+                                         |?QuellenAngabe#
+                                         |?Abfassungsort
+                                         |format=table
+                                         |mainlabel=Ortsnennungen
+                                         }}
+                                     
+                                [[Kategorie:Fluss]]  
+                            </text><sha1/></revision></page><page><title>Kategorie:West- und Mitteleuropa – Ostfrankenreich</title><ns>0</ns><id>4001</id><revision><id>0</id><timestamp>2020-11-20T11:05:17Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">
+                            [[Kategorie:Abfassungsregion]]
+                            [[has type::page]]
+                        </text><sha1/></revision></page></mediawiki>

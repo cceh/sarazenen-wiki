@@ -57,13 +57,6 @@
     
     <xsl:template match="VolltextOriginalsprache | VolltextUebersetzung | Inhaltsangabe | ZitationUebersetzung" xml:space="default" >
         <xsl:element name="{./name()}">
-           <!--
-            <xsl:variable name="pat" >
-                <xsl:for-each select="parent::node()/Entitaeten/Entitaet">
-                    <item><xsl:value-of select="./@Id/data(.)"/></id><name><xsl:value-of select="./Name/text()"/></name><regex><xsl:value-of select="concat('&#91;',./Name/text(),'&#93;')"/></regex></item>    
-                </xsl:for-each>
-            </xsl:variable>
-            -->
             <xsl:variable name="pat" select="parent::node()/Entitaeten/Entitaet"/>
             <xsl:analyze-string select="." regex="\[.*?\]">
                     <xsl:matching-substring>

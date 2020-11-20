@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:aat="http://vocab.getty.edu/aat/"
+	xmlns:aat_contrib="http://vocab.getty.edu/aat/contrib/"
+	xmlns:aat_rel="http://vocab.getty.edu/aat/rel/"
+	xmlns:aat_rev="http://vocab.getty.edu/aat/rev/"
+	xmlns:aat_scopeNote="http://vocab.getty.edu/aat/scopeNote/"
+	xmlns:aat_source="http://vocab.getty.edu/aat/source/"
+	xmlns:aat_source_rev="http://vocab.getty.edu/aat/source/rev/"
+	xmlns:aat_term="http://vocab.getty.edu/aat/term/"
+	xmlns:adms="http://www.w3.org/ns/adms#"
+	xmlns:bibo="http://purl.org/ontology/bibo/"
+	xmlns:bio="http://purl.org/vocab/bio/0.1/"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcat="http://www.w3.org/ns/dcat#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dctype="http://purl.org/dc/dcmitype/"
+	xmlns:fmt="http://www.w3.org/ns/formats/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:freq="http://purl.org/cld/freq/"
+	xmlns:gvp="http://vocab.getty.edu/ontology#"
+	xmlns:gvp_lang="http://vocab.getty.edu/language/"
+	xmlns:iso="http://purl.org/iso25964/skos-thes#"
+	xmlns:luc="http://www.ontotext.com/owlim/lucene#"
+	xmlns:ontogeo="http://www.ontotext.com/owlim/geo#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ptop="http://www.ontotext.com/proton/protontop#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:rr="http://www.w3.org/ns/r2rml#"
+	xmlns:rrx="http://purl.org/r2rml-ext/"
+	xmlns:schema="http://schema.org/"
+	xmlns:sd="http://www.w3.org/ns/sparql-service-description#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:tgn="http://vocab.getty.edu/tgn/"
+	xmlns:tgn_contrib="http://vocab.getty.edu/tgn/contrib/"
+	xmlns:tgn_rel="http://vocab.getty.edu/tgn/rel/"
+	xmlns:tgn_rev="http://vocab.getty.edu/tgn/rev/"
+	xmlns:tgn_scopeNote="http://vocab.getty.edu/tgn/scopeNote/"
+	xmlns:tgn_source="http://vocab.getty.edu/tgn/source/"
+	xmlns:tgn_source_rev="http://vocab.getty.edu/tgn/source/rev/"
+	xmlns:tgn_term="http://vocab.getty.edu/tgn/term/"
+	xmlns:ulan="http://vocab.getty.edu/ulan/"
+	xmlns:ulan_bio="http://vocab.getty.edu/ulan/bio/"
+	xmlns:ulan_contrib="http://vocab.getty.edu/ulan/contrib/"
+	xmlns:ulan_event="http://vocab.getty.edu/ulan/event/"
+	xmlns:ulan_rel="http://vocab.getty.edu/ulan/rel/"
+	xmlns:ulan_rev="http://vocab.getty.edu/ulan/rev/"
+	xmlns:ulan_scopeNote="http://vocab.getty.edu/ulan/scopeNote/"
+	xmlns:ulan_source="http://vocab.getty.edu/ulan/source/"
+	xmlns:ulan_source_rev="http://vocab.getty.edu/ulan/source/rev/"
+	xmlns:ulan_term="http://vocab.getty.edu/ulan/term/"
+	xmlns:vaem="http://www.linkedmodel.org/schema/vaem#"
+	xmlns:vann="http://purl.org/vocab/vann/"
+	xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+	xmlns:vdpp="http://data.lirmm.fr/ontologies/vdpp#"
+	xmlns:voaf="http://purl.org/vocommons/voaf#"
+	xmlns:voag="http://voag.linkedmodel.org/voag#"
+	xmlns:void="http://rdfs.org/ns/void#"
+	xmlns:wdrs="http://www.w3.org/2007/05/powder-s#"
+	xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:wv="http://vocab.org/waiver/terms/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<gvp:Subject rdf:about="http://vocab.getty.edu/tgn/7002314">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdf:type rdf:resource="http://vocab.getty.edu/ontology#AdminPlaceConcept"/>
+	<rdfs:label>Ṭarābulus</rdfs:label>
+	<rdfs:label>Tripolis</rdfs:label>
+	<rdfs:label>Trâblous</rdfs:label>
+	<rdfs:label xml:lang="en">Tripoli</rdfs:label>
+	<rdfs:label>Tarabulus ash Sham</rdfs:label>
+	<rdfs:label>Tarabulus esh Sham</rdfs:label>
+	<rdfs:label>Trabulus</rdfs:label>
+	<rdfs:label>Trabulus Syriae</rdfs:label>
+	<rdfs:seeAlso rdf:resource="http://www.getty.edu/vow/TGNFullDisplay?find=&amp;place=&amp;nation=&amp;subjectid=7002314"/>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1991-09-13T06:15:00</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-10-27T09:56:02</dct:modified>
+	<skos:changeNote rdf:resource="http://vocab.getty.edu/tgn/rev/5000016438"/>
+	<skos:changeNote rdf:resource="http://vocab.getty.edu/tgn/rev/5019065892"/>
+	<skos:changeNote rdf:resource="http://vocab.getty.edu/tgn/rev/5019065883"/>
+	<gvp:broader rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<gvp:broaderPartitiveExtended rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<gvp:broaderPartitiveExtended rdf:resource="http://vocab.getty.edu/tgn/1000004"/>
+	<gvp:broaderPartitiveExtended rdf:resource="http://vocab.getty.edu/tgn/7001526"/>
+	<gvp:broaderPartitiveExtended rdf:resource="http://vocab.getty.edu/tgn/8711652"/>
+	<gvp:broaderPartitiveExtended rdf:resource="http://vocab.getty.edu/tgn/1000126"/>
+	<gvp:broaderPartitiveExtended rdf:resource="http://vocab.getty.edu/tgn/7029392"/>
+	<gvp:broaderExtended rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<gvp:broaderExtended rdf:resource="http://vocab.getty.edu/tgn/1000004"/>
+	<gvp:broaderExtended rdf:resource="http://vocab.getty.edu/tgn/7001526"/>
+	<gvp:broaderExtended rdf:resource="http://vocab.getty.edu/tgn/8711652"/>
+	<gvp:broaderExtended rdf:resource="http://vocab.getty.edu/tgn/1000126"/>
+	<gvp:broaderExtended rdf:resource="http://vocab.getty.edu/tgn/7029392"/>
+	<gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/tgn/1000004"/>
+	<gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/tgn/1000126"/>
+	<gvp:broaderPreferredExtended rdf:resource="http://vocab.getty.edu/tgn/7029392"/>
+	<gvp:parentString>Liban-Nord, Lebanon, Asia, World</gvp:parentString>
+	<skos:note rdf:resource="http://vocab.getty.edu/tgn/scopeNote/32219"/>
+	<skos:note rdf:resource="http://vocab.getty.edu/tgn/rev/5000016438"/>
+	<skos:note rdf:resource="http://vocab.getty.edu/tgn/rev/5019065892"/>
+	<skos:note rdf:resource="http://vocab.getty.edu/tgn/rev/5019065883"/>
+	<gvp:parentStringAbbrev>Liban-Nord, Lebanon, ... World</gvp:parentStringAbbrev>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">15</gvp:displayOrder>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300008347"/>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300387218"/>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300387512"/>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300387235"/>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300387220"/>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300008375"/>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300120599"/>
+	<gvp:placeType rdf:resource="http://vocab.getty.edu/aat/300387286"/>
+	<skosxl:prefLabel rdf:resource="http://vocab.getty.edu/tgn/term/83392-en"/>
+	<skos:prefLabel xml:lang="en">Tripoli</skos:prefLabel>
+	<skosxl:altLabel rdf:resource="http://vocab.getty.edu/tgn/term/158611"/>
+	<skosxl:altLabel rdf:resource="http://vocab.getty.edu/tgn/term/83391"/>
+	<skosxl:altLabel rdf:resource="http://vocab.getty.edu/tgn/term/174358"/>
+	<skosxl:altLabel rdf:resource="http://vocab.getty.edu/tgn/term/312421"/>
+	<skosxl:altLabel rdf:resource="http://vocab.getty.edu/tgn/term/1156840"/>
+	<skosxl:altLabel rdf:resource="http://vocab.getty.edu/tgn/term/1156841"/>
+	<skosxl:altLabel rdf:resource="http://vocab.getty.edu/tgn/term/174359"/>
+	<skos:altLabel>Ṭarābulus</skos:altLabel>
+	<skos:altLabel>Tripolis</skos:altLabel>
+	<skos:altLabel>Trâblous</skos:altLabel>
+	<skos:altLabel>Tarabulus ash Sham</skos:altLabel>
+	<skos:altLabel>Tarabulus esh Sham</skos:altLabel>
+	<skos:altLabel>Trabulus</skos:altLabel>
+	<skos:altLabel>Trabulus Syriae</skos:altLabel>
+	<gvp:broaderPartitive rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<gvp:broaderPreferred rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<skos:broader rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<iso:broaderPartitive rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<gvp:prefLabelGVP rdf:resource="http://vocab.getty.edu/tgn/term/158611"/>
+	<skos:inScheme rdf:resource="http://vocab.getty.edu/tgn/"/>
+	<skos:scopeNote rdf:resource="http://vocab.getty.edu/tgn/scopeNote/32219"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006561"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006723"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006253-subject-7002314"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006267-subject-7002314"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006281-subject-7002314"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006447-subject-7002314"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006548-subject-7002314"/>
+	<gvp:placeTypePreferred rdf:resource="http://vocab.getty.edu/aat/300008347"/>
+	<gvp:placeTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300387218"/>
+	<gvp:placeTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300387512"/>
+	<gvp:placeTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300387235"/>
+	<gvp:placeTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300387220"/>
+	<gvp:placeTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300008375"/>
+	<gvp:placeTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300120599"/>
+	<gvp:placeTypeNonPreferred rdf:resource="http://vocab.getty.edu/aat/300387286"/>
+	<dc:identifier>7002314</dc:identifier>
+	<skos:broaderTransitive rdf:resource="http://vocab.getty.edu/tgn/1001111"/>
+	<skos:broaderTransitive rdf:resource="http://vocab.getty.edu/tgn/1000004"/>
+	<skos:broaderTransitive rdf:resource="http://vocab.getty.edu/tgn/7001526"/>
+	<skos:broaderTransitive rdf:resource="http://vocab.getty.edu/tgn/8711652"/>
+	<skos:broaderTransitive rdf:resource="http://vocab.getty.edu/tgn/1000126"/>
+	<dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+	<void:inDataset rdf:resource="http://vocab.getty.edu/dataset/tgn"/>
+	<cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+	<prov:wasGeneratedBy rdf:resource="http://vocab.getty.edu/tgn/rev/5000016438"/>
+	<foaf:focus rdf:resource="http://vocab.getty.edu/tgn/7002314-place"/>
+</gvp:Subject>
+<prov:Activity rdf:about="http://vocab.getty.edu/tgn/rev/5000016438">
+	<rdf:type rdf:resource="http://www.w3.org/ns/prov#Create"/>
+	<dc:type>created</dc:type>
+	<prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1991-09-13T06:15:00</prov:startedAtTime>
+</prov:Activity>
+<prov:Activity rdf:about="http://vocab.getty.edu/tgn/rev/5019065892">
+	<rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+	<dc:type>note updated</dc:type>
+	<prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-10-27T09:56:02</prov:startedAtTime>
+	<dc:description>Language: English (70051)</dc:description>
+	<prov:used rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+</prov:Activity>
+<prov:Activity rdf:about="http://vocab.getty.edu/tgn/rev/5019065883">
+	<rdf:type rdf:resource="http://www.w3.org/ns/prov#Modify"/>
+	<dc:type>updated</dc:type>
+	<prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-10-27T09:56:02</prov:startedAtTime>
+	<prov:used rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+</prov:Activity>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006253-subject-7002314">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006253"/>
+	<bibo:locator>plate 34</bibo:locator>
+</bibo:DocumentPart>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006267-subject-7002314">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006267"/>
+	<bibo:locator>1229</bibo:locator>
+</bibo:DocumentPart>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006281-subject-7002314">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006281"/>
+	<bibo:locator>657</bibo:locator>
+</bibo:DocumentPart>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006447-subject-7002314">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006447"/>
+	<bibo:locator>II, 948</bibo:locator>
+</bibo:DocumentPart>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006548-subject-7002314">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006548"/>
+	<bibo:locator>357; 358</bibo:locator>
+</bibo:DocumentPart>
+<gvp:ScopeNote rdf:about="http://vocab.getty.edu/tgn/scopeNote/32219">
+	<rdf:value xml:lang="en">Held by Seleucids and Romans, taken by Muslims 638; taken by Crusaders after 5-year siege; captured by Mamelukes 1289 and destroyed; under Ottoman rule until taken by British in 1918; occupied by British and Free French in 1941.</rdf:value>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dc:identifier>32219</dc:identifier>
+	<dct:language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+</gvp:ScopeNote>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/83392-en">
+	<gvp:term xml:lang="en">Tripoli</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+	<skosxl:literalForm xml:lang="en">Tripoli</skosxl:literalForm>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006447-term-83392"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/2009007563-term-83392"/>
+	<gvp:sourceNonPreferred rdf:resource="http://vocab.getty.edu/tgn/source/2009007563-term-83392"/>
+	<dc:identifier>83392</dc:identifier>
+	<dct:language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+</skosxl:Label>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006447-term-83392">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006447"/>
+	<bibo:locator>II, 948</bibo:locator>
+</bibo:DocumentPart>
+<bibo:Document rdf:about="http://vocab.getty.edu/tgn/source/2009007563-term-83392">
+	<rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/2009007563"/>
+	<bibo:locator>accessed 27 October 2014</bibo:locator>
+</bibo:Document>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/158611">
+	<gvp:term>Trâblous</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+	<skosxl:literalForm>Trâblous</skosxl:literalForm>
+	<gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:sourcePreferred rdf:resource="http://vocab.getty.edu/tgn/source/2009007563-term-158611"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006253-term-158611"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006281-term-158611"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/2009007563-term-158611"/>
+	<dc:identifier>158611</dc:identifier>
+</skosxl:Label>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/83391">
+	<gvp:term>Ṭarābulus</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+	<skosxl:literalForm>Ṭarābulus</skosxl:literalForm>
+	<gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<gvp:contributorPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006561"/>
+	<dc:identifier>83391</dc:identifier>
+</skosxl:Label>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/174358">
+	<gvp:term>Tarabulus ash Sham</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+	<skosxl:literalForm>Tarabulus ash Sham</skosxl:literalForm>
+	<gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006548-term-174358"/>
+	<dc:identifier>174358</dc:identifier>
+</skosxl:Label>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/312421">
+	<gvp:term>Tarabulus esh Sham</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+	<skosxl:literalForm>Tarabulus esh Sham</skosxl:literalForm>
+	<gvp:termFlag rdf:resource="http://vocab.getty.edu/term/flag/Vernacular"/>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006267-term-312421"/>
+	<dc:identifier>312421</dc:identifier>
+</skosxl:Label>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/1156840">
+	<gvp:term>Trabulus</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</gvp:displayOrder>
+	<skosxl:literalForm>Trabulus</skosxl:literalForm>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006723"/>
+	<dc:identifier>1156840</dc:identifier>
+</skosxl:Label>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/1156841">
+	<gvp:term>Trabulus Syriae</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">7</gvp:displayOrder>
+	<skosxl:literalForm>Trabulus Syriae</skosxl:literalForm>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006723"/>
+	<dc:identifier>1156841</dc:identifier>
+</skosxl:Label>
+<skosxl:Label rdf:about="http://vocab.getty.edu/tgn/term/174359">
+	<rdfs:comment>ancient</rdfs:comment>
+	<gvp:term>Tripolis</gvp:term>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">8</gvp:displayOrder>
+	<gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0600</gvp:estStart>
+	<gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0700</gvp:estEnd>
+	<skosxl:literalForm>Tripolis</skosxl:literalForm>
+	<gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/historic"/>
+	<gvp:termPOS rdf:resource="http://vocab.getty.edu/term/POS/Noun"/>
+	<dct:contributor rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<gvp:contributorNonPreferred rdf:resource="http://vocab.getty.edu/tgn/contrib/10000000"/>
+	<dct:source rdf:resource="http://vocab.getty.edu/tgn/source/9006548-term-174359"/>
+	<dc:identifier>174359</dc:identifier>
+</skosxl:Label>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006253-term-158611">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006253"/>
+	<bibo:locator>plate 34</bibo:locator>
+</bibo:DocumentPart>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006281-term-158611">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006281"/>
+	<bibo:locator>657</bibo:locator>
+</bibo:DocumentPart>
+<bibo:Document rdf:about="http://vocab.getty.edu/tgn/source/2009007563-term-158611">
+	<rdf:type rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/2009007563"/>
+	<bibo:locator>accessed 27 October 2014</bibo:locator>
+</bibo:Document>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006548-term-174358">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006548"/>
+	<bibo:locator>357</bibo:locator>
+</bibo:DocumentPart>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006267-term-312421">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006267"/>
+	<bibo:locator>1229</bibo:locator>
+</bibo:DocumentPart>
+<bibo:DocumentPart rdf:about="http://vocab.getty.edu/tgn/source/9006548-term-174359">
+	<dct:isPartOf rdf:resource="http://vocab.getty.edu/tgn/source/9006548"/>
+	<bibo:locator>358</bibo:locator>
+</bibo:DocumentPart>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300008347">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypePreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300008347"/>
+	<rdfs:comment>founded 7th cen. BC</rdfs:comment>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">1</gvp:displayOrder>
+	<gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0600</gvp:estStart>
+</rdf:Statement>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300008375">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypeNonPreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300008375"/>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">2</gvp:displayOrder>
+</rdf:Statement>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300387220">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypeNonPreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300387220"/>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">3</gvp:displayOrder>
+</rdf:Statement>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300120599">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypeNonPreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300120599"/>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">4</gvp:displayOrder>
+</rdf:Statement>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300387512">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypeNonPreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300387512"/>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">5</gvp:displayOrder>
+</rdf:Statement>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300387286">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypeNonPreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300387286"/>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">6</gvp:displayOrder>
+</rdf:Statement>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300387218">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypeNonPreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300387218"/>
+	<rdfs:comment>of Tripolis, a Phoenician federaton of Three cities: Saydā, Sūr &amp; Aradus</rdfs:comment>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">7</gvp:displayOrder>
+	<gvp:estStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-0650</gvp:estStart>
+	<gvp:estEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0700</gvp:estEnd>
+	<gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/historic"/>
+</rdf:Statement>
+<rdf:Statement rdf:about="http://vocab.getty.edu/tgn/rel/7002314-placeType-300387235">
+	<rdf:subject rdf:resource="http://vocab.getty.edu/tgn/7002314"/>
+	<rdf:predicate rdf:resource="http://vocab.getty.edu/ontology#placeTypeNonPreferred"/>
+	<rdf:object rdf:resource="http://vocab.getty.edu/aat/300387235"/>
+	<gvp:displayOrder rdf:datatype="http://www.w3.org/2001/XMLSchema#positiveInteger">8</gvp:displayOrder>
+	<gvp:historicFlag rdf:resource="http://vocab.getty.edu/historic/historic"/>
+</rdf:Statement>
+<schema:Place rdf:about="http://vocab.getty.edu/tgn/7002314-place">
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<wgs:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">34.4333</wgs:lat>
+	<wgs:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">35.85</wgs:long>
+	<dct:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+	<void:inDataset rdf:resource="http://vocab.getty.edu/dataset/tgn"/>
+	<cc:license rdf:resource="http://opendatacommons.org/licenses/by/1.0/"/>
+	<schema:geo>
+		<schema:GeoCoordinates rdf:about="http://vocab.getty.edu/tgn/7002314-geometry">
+			<schema:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">34.4333</schema:latitude>
+			<schema:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">35.85</schema:longitude>
+		</schema:GeoCoordinates>
+	</schema:geo>
+</schema:Place>
+
+</rdf:RDF>

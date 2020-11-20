@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<?xml version="1.0" encoding="UTF-8"?><!-- 
 Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen Änderungen haben Auswirkungen auf die Transformationen!
--->
-
-<!DOCTYPE Sarazenen SYSTEM "sarazenen_masterfassung.dtd">
-
-<Sarazenen>
+--><Sarazenen>
     <VerfasserInnen>               
       <VerfasserIn>
         <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
@@ -50,71 +45,27 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       </VerfasserIn>                            
     </VerfasserInnen>
     <Personen>
-      <Person>
-        <Id>bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9</Id>
-        <Name>Vinzenz</Name>
-        <Rolle>Heiliger</Rolle>
-        <Alternativnamen>
-          <Name>Vinzenz von Saragossa</Name>
-          <Name>Vinzenz von Valencia</Name>
-          <Name>Vicente de Huesca</Name>
-        </Alternativnamen>
-        <gnd_Id>118937065</gnd_Id>
-        <wikidata_Id>Q318974</wikidata_Id>
-        <viaf_Id>72193475</viaf_Id>
-      </Person>
-      <Person>
-        <Id>1975d1e5-746e-45cc-8dff-060249603f68</Id>
-        <Name>Basiliscus</Name>
-        <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
-        <gnd_Id/>
-        <wikidata_Id/>
-        <viaf_Id/>
-      </Person>
-      <Person>
-        <Id>22bc55da-c929-4d11-8890-1f0762f6fc41</Id>
-        <Name>Froia</Name>
-        <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
-        <gnd_Id/>
-        <wikidata_Id/>
-        <viaf_Id/>
-      </Person>
-      <Person>
-        <Id>a5c744fe-bff1-444d-8d82-71102d1ba154</Id>
-        <Name>Erchenbald</Name>
-        <Rolle>Notar</Rolle>
-        <Alternativnamen>
-          <Name>Herchenbaldus</Name>
-          <Name>Erchenbaldus</Name>
-          <Name>Erchembaldus</Name>
-        </Alternativnamen>
-        <gnd_Id/>
-        <wikidata_Id/>
-        <viaf_Id/>
-      </Person>
-      <Person>
-        <Id>cf8371e9-f27f-44c0-957e-912f3a97dfbf</Id>
-        <Name>al-Muzar</Name>
-        <Rolle>arabischer Heerführer</Rolle>
-        <Alternativnamen>
-          <Name>Almuzar</Name>
-        </Alternativnamen>
-        <gnd_Id/>
-        <wikidata_Id/>
-        <viaf_Id/>
-      </Person>
-      <Person>
-        <Id>c8660913-da05-439f-9ded-1583aae8283c</Id>
-        <Name>Muawiya ibn Abi Sufyan</Name>
-        <Rolle>Kalif von Damaskus</Rolle>
-        <Alternativnamen>
-          <Name>Moabia</Name>
-          <Name>Mu’awiya ibn Abi Sufyan</Name>
-        </Alternativnamen>
-        <gnd_Id>119217481</gnd_Id>
-        <wikidata_Id>Q181154</wikidata_Id>
-        <viaf_Id>39541902</viaf_Id>
-      </Person>
+        <Person>
+            <Id>bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9</Id>
+            <Name>Vinzenz</Name>
+            <Rolle>Heiliger</Rolle>
+            <Alternativnamen>
+                <Name>Vinzenz von Saragossa</Name>
+                <Name>Vinzenz von Valencia</Name>
+                <Name>Vicente de Huesca</Name>
+            </Alternativnamen>
+            <gnd_Id/>
+            <wikidata_Id/>
+            <viaf_Id/>
+        </Person>
+        <Person>
+            <Id>1975d1e5-746e-45cc-8dff-060249603f68</Id>
+            <Name>Basiliscus</Name>
+            <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
+            <gnd_Id/>
+            <wikidata_Id/>
+            <viaf_Id/>
+        </Person>
     </Personen>
     <Orte>
         <Ort>
@@ -188,8 +139,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
     <Berichtszeitraum>
       <Datum date="901-1018">901-1018</Datum>
     </Berichtszeitraum>
-    <Editionshinweise>Thietmar von Merseburg, Chronicon, ed. Robert Holtzmann (MGH SS rer. Germ. N.S. 9), Berlin 1935.</Editionshinweise>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000689_meta:titlePage.html?sortIndex=010:060:0009:010:00:00">Digitalisat bei dMGH.de</EditionLink>
+    <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._N._S._9">Thietmar von Merseburg, Chronicon, ed. Robert Holtzmann (MGH SS rer. Germ. N.S. 9), Berlin 1935.</edition></Editionshinweise>
+    
     <Werkinformation>Das Chronicon sive Gesta Saxonum, auch Chronik oder Geschichte der Sachsen genannt, wurde von Thietmar von Merseburg zwischen 1012 und 1018 in acht Büchern verfasst. Thietmar, seit 1009 Bischof von Merseburg, berichtet seit Beginn des zehnten Jahrhunderts bis zu seinem Tod über die Geschichte seines Bistums.
 Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburgensis, Chronicon sive Gesta Saxonum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04425.html 2016-08-01]; Gerd Althoff, Art. Thietmar v. Merseburg, in: Lexikon des Mittelalters 8, Sp. 694-695 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; David A. Warner, Art. Thietmar of Merseburg, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1424f.</Werkinformation>
     <gnd_Id>4668392-6</gnd_Id>
@@ -235,7 +186,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen></Anmerkungen>
+        <Anmerkungen/>
         <Entitaeten>
           <Entitaet Id="c295fd5c-1286-4c03-9c78-0761485715f3" Type="Ort">
             <Name>Israel</Name>
@@ -265,7 +216,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Abfassungszeitraum>
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
-        <GeographischesStichwort />
+        <GeographischesStichwort/>
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
           <Beteiligter>sK</Beteiligter>
@@ -281,8 +232,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen></Anmerkungen>
-        <Entitaeten />
+        <Anmerkungen/>
+        <Entitaeten/>
       </Quelle>
       <Quelle>
         <QuellenId>0003</QuellenId>
@@ -410,7 +361,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
         <Abfassungszeitraum>
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
-        <GeographischesStichwort />
+        <GeographischesStichwort/>
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
           <Beteiligter>aK</Beteiligter>
@@ -426,7 +377,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen></Anmerkungen>
+        <Anmerkungen/>
         <Entitaeten>
           <Entitaet Id="2a29fcc4-1af0-46af-a729-b7ef4b5471a3" Type="Person">
             <Name>Otto II.</Name>
@@ -479,7 +430,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Suchwort>Saracenus</Suchwort>
           <Suchwort>Sarazene</Suchwort>
         </Suchbegriffe>
-        <Anmerkungen></Anmerkungen>
+        <Anmerkungen/>
         <Entitaeten>
           <Entitaet Id="650b43d3-3751-4410-a116-9bafde2cfb82" Type="Ort">
             <Name>Italien</Name>
@@ -521,8 +472,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
       <Datum date="47">47, 608-1350</Datum>
       <Datum date="608-1350">47, 608-1350</Datum>
     </Berichtszeitraum>
-    <Editionshinweise>Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191.</Editionshinweise>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00205.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de</EditionLink>
+    <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._185">Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191.</edition></Editionshinweise>
+    
     <Werkinformation>Keine näheren Informationen zum Werk verfügbar.</Werkinformation>
     <gnd_Id/>
     <wikidata_Id/>
@@ -551,10 +502,10 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
     <Berichtszeitraum>
       <Datum date="715-881">715-881</Datum>
     </Berichtszeitraum>
-    <Editionshinweise>Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge; Erchamberti breviarium regum Francorum et maiorum-domus ex Msc. sec. Augiae minoris, ed. Aemilianus Ussermann, in: Chronicon Hermanni Contracti : Ex Inedito Hucusque Codice Augiensi, Unacum Eius Vita Et Continuatione A Bertholdo eius discipulo scripta. Praemittuntur Varia Anecdota. Subiicitur Chronicon Petershusanum Ineditum ; 1, St. Blasien 1790, S. XLI-LII vollständig aus der Stuttgarter Handschrift.</Editionshinweise>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00348.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de (Edition G. H. Pertz 1829)</EditionLink>
+    <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2">Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge</edition>; Erchamberti breviarium regum Francorum et maiorum-domus ex Msc. sec. Augiae minoris, ed. Aemilianus Ussermann, in: Chronicon Hermanni Contracti : Ex Inedito Hucusque Codice Augiensi, Unacum Eius Vita Et Continuatione A Bertholdo eius discipulo scripta. Praemittuntur Varia Anecdota. Subiicitur Chronicon Petershusanum Ineditum ; 1, St. Blasien 1790, S. XLI-LII vollständig aus der Stuttgarter Handschrift.</Editionshinweise>
+    
     <EditionLink url="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10004568_00001.html">Digitalisat bei Bayerische Staatsbibliothek Digital (Edition A. Ussermann 1790)</EditionLink>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00205.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de</EditionLink>
+    
         <Werkinformation>Die Chronik wurde bis zum Jahr 826 von Erchambert verfasst; eine Fortsetzung für die Jahre 840-881 stammt sicher von Notker. Vgl. zum Werk: Breviarium regum Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02184.html 2018-02-15]; vgl. zu den Autoren: Erchanbertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_104348550.html 2018-02-15]; Notkerus Balbulus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118588850.html 2018-02-15].</Werkinformation>
     <gnd_Id/>
     <wikidata_Id/>
@@ -581,9 +532,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
   <Berichtszeitraum>
     <Datum date="-5200-816">Weltchronik bis zum Jahr 816</Datum>
   </Berichtszeitraum>
-  <Editionshinweise>Chronicon Moissiacense, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 280-313; Ex Chronico Moissiacensi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 257-259.</Editionshinweise>
-  <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000868_00314.html?sortIndex=010%3A050%3A0001%3A010%3A00%3A00">Digitalisat der Edition Pertz 1826 bei dMGH.de</EditionLink>
-  <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00278.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat der Edition Pertz 1829 bei dMGH.de</EditionLink>
+  <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_1_S._280">Chronicon Moissiacense, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 280-313</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._257"> Ex Chronico Moissiacensi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 257-259.</edition></Editionshinweise>
+  
+  
   <Werkinformation>Das Chronicon Moissiacense ist ein Annalenwerk bis 816, das unter Verwendung anderer Quellen wohl kurz nach 818 in Narbonne verfasst wurde. Nach Moissac gelangte es erst mehrere Jahrhunderte später.
         Vgl. mit Hinweisen für weiterführende Literatur: Chronicon Moissiacense, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_01131.html 2016-11-04]; Keith Bate – Régis Rech, Art. Chronicon Moissiacens, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 369f.</Werkinformation>
     <gnd_Id/>
@@ -598,8 +549,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <VolltextOriginalsprache>His temporibus in Spania [Spanien] super Gothos regnabat Witicha [Witiza], qui regnavit annis 7. et menses 3. Iste deditus in feminis, exemplo suo sacerdotes ac populum luxuriose vivere docuit, irritans furorem Domini. 
 Sarraceni tunc in Spania ingrediuntur. Gothi super se Rudericum [Roderich] regem constituunt. Rudericus rex cum magno exercitu Gothorum Sarracenis obviam it in proelio; sed inito proelio, Gothi debellati sunt a Sarracenis, sicque regnum Gothorum in Spania finitur, et infra duos annos Sarraceni pene totam Spaniam subiciunt. 
 Sema [al-Samh ibn-Malik al-Khwalani], rex Sarracenorum, post nono anno quam in Spania ingressi sunt Sarraceni, Narbonam [Narbonne] obsidet, obsessamque capit, virosque civitatis illius gladio perimi iussit; mulieres vero vel parvulos captivos in Spaniam ducunt. Et in ipso anno mense tertio ad obsidendam Tolosam [Toulouse] pergunt. Quam dum obsiderent, exiit obviam eis Eudo [Herzog Eudo von Aquitanien], princeps Aquitaniae [Aquitanien], cum exercitu Aquitanorum vel Francorum, et commisit cum eis proelium; et dum proeliare coepissent, terga versus est exercitus Sarracenorum, maximaque pars ibi cecidit gladio. Ambisa [Anbasa ibn Suhaym al-Kalbi], rex Sarracenorum, cum ingenti exercitu post quinto anno Gallias aggreditur, Carcassonam [Carcassonne] expugnat et capit, et usque Nemauso [Nîmes] pace conquisivit, et obsides eorum Barchinona [Barcelona] transmittit.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="710-725">710-725</Datum>
           </ZeitangabeWissenschaft>
@@ -707,8 +658,8 @@ Sema [al-Samh ibn-Malik al-Khwalani], rex Sarracenorum, post nono anno quam in S
           <ZeitangabeQuelle>725</ZeitangabeQuelle>
           <Inhaltsangabe>725 [oder 731] zerstören Sarazenen die Stadt Autun und kehren mit reicher Beute nach Spanien zurück.</Inhaltsangabe>
           <VolltextOriginalsprache>Anno 725. Sarraceni Augustudunum civitatem [Autun] destruxerunt 4. feria, 11. Calendas Septembris, thesaurumque civitatis illius capientes, cum praeda magna Spania [Spanien] redeunt.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="725-731">725 oder 731</Datum>
           </ZeitangabeWissenschaft>
@@ -768,8 +719,8 @@ Vgl. [0047]-[0001].</Anmerkungen>
           <ZeitangabeQuelle>732</ZeitangabeQuelle>
           <Inhaltsangabe>Im Jahr 732 zieht der sarazenische Statthalter Abd ar-Rahman ibn Abdallah al-Ghafiqi mit einem Heer von Spanien aus über die Pyrenäen und nimmt die Stadt Bordeaux ein. Nachdem zunächst Herzog Eudo von Aquitanien erfolglos gegen die Invasoren kämpft, gelingt es schließlich dem fränkischen Hausmeier Karl Martell die Sarazenen in einer Schlacht bei Poitiers zu besiegen, Abd ar-Rahman zu töten und sein Heer nach Spanien zurückzudrängen.</Inhaltsangabe>
           <VolltextOriginalsprache>Anno 732. Abderaman [Abd ar-Rahman ibn Abdallah al-Ghafiqi], rex Spaniae [Spanien], cum exercitu magno Sarracenorum per Pampelonam [Pamplona] et montes Pireneos [Pyrenäen] transiens, Burdigalem civitatem [Bordeaux] obsidet. Tunc Eudo, princeps Aquitaniae [Herzog Eudo von Aquitanien], collecto exercitu obviam eis exiit in praelium super Garonna fluvium [Garonne]; sed inito praelio, Sarraceni victores existunt, Eudo vero fugiens maximam partem exercitus sui perdidit, et ita demum Sarraceni Aquitaniam [Aquitanien] depraedare coeperunt. Eudo vero ad Karolum [Karl Martell] Francorum principem veniens, postulavit ei auxilium. Tunc Karolus, collecto magno exercitu, exiit eis obviam, et inito praelio in suburbio Pictavensi [Poitiers] debellati sunt Sarraceni a Francis, ibique rex Abderaman cecidit cum exercitu suo in praelium, et qui remanserunt ex eis, per fugam reversi sunt in Spania. Karolus vero, spolia accepta, cum triumpho gloriae reversus est in Francia [Frankenreich].</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="732-732">732</Datum>
           </ZeitangabeWissenschaft>
@@ -866,8 +817,8 @@ Zur Bezeichnung Abd ar-Rahmans als ‚Statthalter‘ vgl. Ulrich Nonn, Art. Schl
           <ZeitangabeQuelle>734</ZeitangabeQuelle>
           <Inhaltsangabe>Im Jahr 734 [735] marschiert der Statthalter von Narbonne, Yussuf Ibn Abd ar-Rahman, in Arles ein, verwüstet und plündert vier Jahre lang die gesamte Provinz.</Inhaltsangabe>
           <VolltextOriginalsprache>His temporibus Iusseph-Ibin–Abderaman [Jussuf ibn-Abdérman al-Fihri] Narbona [Narbonne] praeficitur; alio anno Rodanum fluvium [Rhône] transiit, Arelato civitate [Arles] pace ingreditur, thesaurosque civitatis invadit, et per quatuor annos totam Arelatensem provinciam depopulat atque depraedat.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="735-735">735</Datum>
           </ZeitangabeWissenschaft>
@@ -924,8 +875,8 @@ Zur Bezeichnung Abd ar-Rahmans als ‚Statthalter‘ vgl. Ulrich Nonn, Art. Schl
           <ZeitangabeQuelle>(nach) 734</ZeitangabeQuelle>
           <Inhaltsangabe>Nachdem der fränkische Hausmeier Karl Martell vom Einfall der Sarazenen unter dem Statthalter von Córdoba, Uqba ibn Haddschadasch as-Saluli, in die Provinz von Arles gehört hat, sammelt er 734 oder später [737] ein Heer, nimmt Avignon ein und tötet die sich dort aufhaltenden Sarazenen. Daraufhin eilt er zum sarazenisch besetzten Narbonne und belagert die Stadt. Ein sarazenisches Heer unter Omar ibn Chaled, das den dort eingeschlossenen zu Hilfe eilt, wird von den fränkischen Truppen an der Berre vernichtend geschlagen.</Inhaltsangabe>
           <VolltextOriginalsprache>Posthaec praefatus princeps [Karl Martell], audiens quod Sarraceni provinciam Arelatensem [Arles] vel ceteras civitates in circuitu depopularent, collecto magno exercitu Francorum vel Burgundionum vel ceterarum in circuitu nationum, quae dictioni illius erant, Avinionem civitatem [Avignon] bellando inrupit, Sarracenos quos ibi invenit interemit, et transito Rodano [Rhône] ad obsidendam civitatem Narbonam [Narbonne] properat. Quam dum obsideret, Ocupa [Uqba ibn Haddschadasch as-Saluli], rex Sarracenorum, ex Spania [Spanien] Amor-Ibin-Calet [Omar ibn Chaled] cum exercitu magno Sarracenorum ad praesidium Narbona transmittit. Tunc Karolus partem exercitus sui ad obsidendam civitatem reliquit, reliquam vero partem sumpta, Sarracenis obviam exivit in praelio super Berre [Berre] fluvio. Et dum praeliare coepissent, debellati sunt Sarraceni a Francis caede magna, maximaque pars ipsorum cecidit in gladio, et experti sunt Sarraceni, Francorum praelio, qui ex Syria [Syrien] egressi sunt, Karolum fortissimum in omnibus repererunt. Ipse vero Karolus, spolia collecta et copiosam praedam, cum reverteretur, Magdalonam [Maguelone] destrui praecepit, Nemauso [Nîmes] vero arenam civitatis illius atque portas cremari iussit; atque obsidibus acceptis, reversus est in Franciam [Frankenreich].</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="737-737">737</Datum>
           </ZeitangabeWissenschaft>
@@ -1028,8 +979,8 @@ Vgl. [0032]-[0012]; [0042]-[0002].</Anmerkungen>
           <ZeitangabeQuelle>741 (oder später)</ZeitangabeQuelle>
           <Inhaltsangabe>Während der Herrschaft Jussuf ibn-Abdérman al-Fihri , der als Statthalter über die Sarazenen von Al-Andalus herrscht, gibt es nach 741 [747-756] eine schwere Hungersnot in Spanien.</Inhaltsangabe>
           <VolltextOriginalsprache>His temporibus Iusseph-Ibin-Abderaman [Jussuf ibn-Abdérman al-Fihri], tyrannide assumpta, super Sarracenos in Spania [Spanien] regnat; dira fames tunc Spaniam domuit.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="747-756">747-756</Datum>
           </ZeitangabeWissenschaft>
@@ -1084,8 +1035,8 @@ Vgl. [0032]-[0012]; [0042]-[0002].</Anmerkungen>
           <ZeitangabeQuelle>759</ZeitangabeQuelle>
           <Inhaltsangabe>759 erobern Franken unter König Pippin dem Jüngeren Narbonne. Die dort lebenden Goten dürfen ihre Gesetze behalten und töten die Sarazenen, die zuvor unter dem Schutz Pippins standen. Anschließend übergeben die Goten den Franken die Stadt.</Inhaltsangabe>
           <VolltextOriginalsprache>Anno 759. Franci Narbonam [Narbonne] obsident, datoque sacramento Gothis qui ibi erant, ut si civitatem partibus traderent Pippini [Pippin der Jüngere] regis Francorum, permitterent eos legem suam habere: quo facto ipsi Goti Sarracenos qui in praesidio illius erant, occidunt, ipsamque civitatem partibus Francorum tradunt.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="759-759">759</Datum>
           </ZeitangabeWissenschaft>
@@ -1141,8 +1092,8 @@ Vgl. [0032]-[0012]; [0042]-[0002].</Anmerkungen>
           <ZeitangabeQuelle>778</ZeitangabeQuelle>
           <Inhaltsangabe>778 zieht der fränkische König Karl I. der Große mit einem Heer nach Spanien und erobert Pamplona. Dort übergibt ihm ein sarazenischer Statthalter namens Taurus [s. Anm.] die von ihm kontrollierten Städte sowie seinen Bruder und seinen Sohn als Geisel. Karl zieht daraufhin weiter nach Saragossa, bevor er ins Frankenreich zurückkehrt.</Inhaltsangabe>
           <VolltextOriginalsprache>Et in anno 778. congregans Karolus rex [Karl I. der Große] exercitum magnum, ingressus est in Spania, et conquisivit civitatem Pampelonam [Pamplona]. Et ibi Taurus, Saracenorum rex, [Wali Abu Tawr von Huesca] venit ad eum, et tradidit civitates quas habuit, et dedit ei obsides fratrem suum et filium. Et inde perrexit usque ad Caesaraugustam [Saragossa]. Et dum in illis partibus moraretur, Saxones, perfida gens, mentientes fidem egressi sunt de finibus suis, venere usque ad Rhenum fluvium [Rhein] incendendo omnia atque vastando. Et dum reverterentur cum praeda magna, pervenit nuntius ad Karolum regem adhuc in Hispania [Spanien] degentem.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="778-778">778</Datum>
           </ZeitangabeWissenschaft>
@@ -1218,8 +1169,8 @@ Bei dem sarazenischen ‚König‘ Taurus könnte es sich um den Statthalter von
           <ZeitangabeQuelle>793</ZeitangabeQuelle>
           <Inhaltsangabe>Der Verfasser kommentiert den Regierungsstil des Emirs Hisham I. von Córdoba, der ebenso wie sein Vater Abd ar-Rahman I. grausam sowohl gegenüber Sarazenen und Mauren als auch gegenüber Christen und Juden in Spanien herrscht. Es wird weiterhin berichtet, dass Hisham 793, während der fränkische König Karl I. der Große in Kämpfe mit den Awaren verwickelt ist, dies als Gelegenheit nutzt, um ein großes Heer unter Abd al-Malik ibn Mughith in Gallien einfallen zu lassen. Nachdem das Heer bereits Narbonne verwüstet und sich gegen Carcassonne gewandt hat, zieht der Graf von Toulouse, Wilhelm von Aquitanien, mit weiteren fränkischen Grafen gegen die Sarazenen. In einer Schlacht am Fluss Orbieu werden die Franken geschlagen und fliehen, die Sarazenen ziehen mit ihrer Beute zurück nach Spanien.</Inhaltsangabe>
           <VolltextOriginalsprache>His temporibus regnabat in Spania Exam [Hisham I.], filius Abderraman Ibin-Mavia [Emir Abd ar-Rahman I.]. Iste Ibin-Mavia debellavit Iusseph-Ibin-Abderraman [Jussuf ibn-Abdérman al-Fihri] et occidit eum et filios eius, regnavitque pro eo in Spania [Spanien] annis 33 menses 4. Hic crudelior omnibus regibus Sarracenorum fuit qui ante eum fuerunt in Spania, diversis cruciatibus interemit innumerabiles Sarracenos et Mauros, filium quoque patris sui, fratrem suum, truncatis manibus et pedibus igni cremare iussit. Christianos in Spania et Iudaeos in tantum tributa exigendo oppressit, ut filios suos et filias suas atque mancipia venderent, et pauci relicti penuria afficerentur; et per pressuram ipsius tota Spania conturbata et depopulata est. Mortuus est autem Ibin-Mavia, et regnavit Exam filius eius pro eo, fecitque malum sicut fecerat pater eius. Iste audiens quod rex Karolus [Karl I. der Große] partibus Avarorum perrexisset, et aestimans quod Avari contra regem fortiter dimicassent, et ob hanc causam in Franciam [Frankenreich] reverti non licuisset, misit Abd-el-Melec [Abd al-Malik ibn Mughith], unum ex principibus suis, cum exercitu magno Sarracenorum ad vastandum Gallias [Gallien]. Qui venientes Narbonam [Narbonne], suburbia eius igne succenderunt, multosque christianos ac praeda magna capta, ad urbem Carcassonam [Carcassonne] pergere volentes, obviam eis exiit Willelmus [Graf Wilhelm von Toulouse] [quondam comes] aliique comites Francorum cum eo. Commiseruntque proelium super fluvium Oliveio [Orbieu], ingravatumque est proelium nimis, ceciditque maxima pars in illa die ex populo christiano. Willelmus autem pugnavit fortiter in die illa. Videns vero quod sufferre eos non posset, quia socii eius dimiserunt eum fugientes, divertit ab eis. Sarraceni vero, collecta spolia, reversi sunt in Spaniam. Rex autem Karolus, Christo adiuvante, de eodem loco ubi fossatum fieri iussit, navigio pervenit ad Franconefurt [Frankfurt], et ibi ipsa hieme resedit.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="793-793">793</Datum>
           </ZeitangabeWissenschaft>
@@ -1325,8 +1276,8 @@ Vgl. zur Datierung und den genannten Personen Évariste Lévi-Provençal, Histoi
           <ZeitangabeQuelle>796</ZeitangabeQuelle>
           <Inhaltsangabe>Neben Heerzügen gegen Awaren und Sachsen entsendet der fränkische König Karl I. der Große 796 ein Heer zusammen mit Gesandten nach Spanien in das Gebiet der Sarazenen. Nachdem das fränkische Heer dort schwere Verwüstungen angerichtet hat, kehren die Gesandten mit einem Friedensschluss zu Karl nach Aachen zurück.</Inhaltsangabe>
           <VolltextOriginalsprache>Anno 796. aestatis tempore transmisit rex Carolus [Karl I. der Große] Pippinum [ Pippin I.], filium suum, cum suis quos in Italia [Italien] habebat, Francos, Langobardos et Bagoarios cum aliqua parte Alamannorum, in finibus Avarorum; [...] Et ipso anno ipse rex Carolus demoratus est in Saxonia [Sachsen] cum duobus filiis suis, id est Carolo [Karl der Jüngere] et Ludovico [Ludwig I. der Fromme], et circuivit terram Saxonorum, [...] Et tercium exercitum in eadem aestate transmisit in Spania [Spanien] in fines Sarracenorum cum missis suis, qui et ipsi fecerunt similiter; vastaverunt terram illam, et redierunt cum pace ad regem Karolum ad Aquis [Aachen] palatium.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="796-796">796</Datum>
           </ZeitangabeWissenschaft>
@@ -1405,8 +1356,8 @@ Vgl. zur Datierung und den genannten Personen Évariste Lévi-Provençal, Histoi
           <ZeitangabeQuelle>803</ZeitangabeQuelle>
           <Inhaltsangabe>803 [801] entsendet Karl I. der Große seinen Sohn König Ludwig I. den Frommen mit einem Heer nach Spanien zur Belagerung Barcelonas. Diesem gelingt es, die Stadt einzunehmen. Ludwig schickt Sa’dun al-Ru’aini, den Statthalter von Barcelona, der bei der Einnahme der Stadt gefangen genommen wird, zu seinem Vater Karl, während er selbst nach Aquitanien zurückkehrt.</Inhaltsangabe>
           <VolltextOriginalsprache>His diebus in Spania super Sarracenos regnavit Abulaz [al-Hakam I.], filius Axam [Hisham I.]. Mortuo enim Axam, hic Abulaz, filius eius, suscepit regnum, fecitque malum sicut fecerat pater eius et avus. Eo autem regnante in Spania [Spanien], misit Karolus imperator [Karl I. der Große] Ludovicum [Ludwig I. der Fromme] filium suum, regem Aquitaniae, ad obsidendam et capiendam civitatem Barchinonam [Barcelona]. Qui congregato exercitu ex Aquitania [Aquitanien], Wasconia [Gascogne], necnon de Burgundia [Burgund], Provincia [Provence] et Gothia [Gothien], misit eos ante se ad obsidionem civitatis. Qui abeuntes, circumdedit exercitus civitatem; et obsederunt mensibus septem, capieruntque regem civitatis illius nomine Sathon [Sa’dun al-Ru’aini]. Cumque panes defecissent in civitate, et iam capienda esset civitas, miserunt ad Ludovicum regem, ut veniret Barchinonam, quia iam capienda erat civitas, ut cum capta fuisset, nomini eius adscriberetur victoria. Venit autem praefatus rex Ludovicus ad civitatem, et tradita est civitas in manu eius, constituitque illic custodia et armamenta; regem vero civitatis illius Sathon vinctum compedibus misit ad patrem suum Karolum regem, imperatorem, in Francia [Frankenreich], ipse vero in pace et triumpho reversus est ad propria.</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="801-801">801</Datum>
           </ZeitangabeWissenschaft>
@@ -1506,8 +1457,8 @@ Ein ähnlicher Bericht findet sich in der Vita Hludovici Pii imperatoris des Ast
           <ZeitangabeQuelle>812</ZeitangabeQuelle>
           <Inhaltsangabe>812 entsendet der Emir al-Hakam I. von Córdoba eine Gesandtschaft an Karl I. den Großen, die mit dem Kaiser einen dreijährigen Frieden schließt.</Inhaltsangabe>
           <VolltextOriginalsprache>Eodem anno Abulaz [al-Hakam I.], rex Sarracenorum ex Espania [Spanien], audiens famam et opinionem virtutum domni Karoli imperatoris [Karl I. der Große], missus suos direxit, postulans pacem facere cum eo, quam ipse piissimus imperator denegare noluit; sed fecerunt pacem cum ipso per tres annos.*</VolltextOriginalsprache>
-          <VolltextUebersetzung></VolltextUebersetzung>
-          <ZitationUebersetzung></ZitationUebersetzung>
+          <VolltextUebersetzung/>
+          <ZitationUebersetzung/>
           <ZeitangabeWissenschaft>
               <Datum date="812-812">812</Datum>
           </ZeitangabeWissenschaft>
@@ -1584,10 +1535,10 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
     <Berichtszeitraum>
       <Datum date="545-800">Um 550-800</Datum>
     </Berichtszeitraum>
-    <Editionshinweise>odaslnksadknjsad Vita sancti Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 1-21; Sp,easdmpo aspd,mpsa Gozberti diaconi continuatio libri II de miraculis s. Galli per Walafridum emendata, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 21-31;asklmdasdwan Vita Galli auctore Wettino cum prologo metric ad Gozbertum, ed. Bruno Krusch, in: MGH SS rer. Merov. 4, Hannover – Leipzig 1902, S. 256-280.</Editionshinweise>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00015.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de (Edition I. v. Arx 1829, S. 1-21)</EditionLink>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00036.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de (Edition I. v. Arx 1829, S. 21-31)</EditionLink>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000751_00264.html?sortIndex=010%3A020%3A0004%3A010%3A00%3A00">Digitalisat bei dMGH.de (Edition B. Krusch 1902)</EditionLink>
+    <Editionshinweise>odaslnksadknjsad <edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._1">Vita sancti Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 1-21</edition>; Sp,easdmpo aspd,mpsa<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._21"> Gozberti diaconi continuatio libri II de miraculis s. Galli per Walafridum emendata, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 21-31</edition>;asklmdasdwan<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Merov._4_S._256"> Vita Galli auctore Wettino cum prologo metric ad Gozbertum, ed. Bruno Krusch, in: MGH SS rer. Merov. 4, Hannover – Leipzig 1902, S. 256-280.</edition></Editionshinweise>
+    
+    
+    
     <Werkinformation>Wettis Vita des hl. Gallus ist dem Abt Gozbert von St. Gallen gewidmet und wurde von diesem Fortgesetzt. Vgl. zum Werk: Vita s. Galli, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04607.html 2018-02-23]; vgl. zum Autor: Wettinus monachus Augiensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_10315700X.html 2018-02-23].</Werkinformation>
     <gnd_Id>1088025307</gnd_Id>
     <wikidata_Id/>
@@ -1616,7 +1567,7 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
       <Datum date="711-930">711-930</Datum>
     </Berichtszeitraum>
     <Editionshinweise>Passio Sancti Pelagii Preciosissimi Martiris, Qui Nostris Temporisbus In Corduba Martirio Est Coronatus, in: Hrotsvit. Opera Omnia, ed. Walter Berschin (Bibliotheca Scriptorum Graecorum Et Romanorum Tevbneriana), München – Leipzig 2001, S. 63-77.</Editionshinweise>
-    <EditionLink url="">Kein Digitalisat verfügbar.</EditionLink>
+    
     <Werkinformation>Die Passio Sancti Pelagii ist eine Dichtung, die von Hrotsvit von Gandersheim (geb. um 935, gest. nach 973), Kanonisse im Stift Gandersheim, als Teil eines Buches von acht Verslegenden über den Hl. Pelagius, Märtyrer in Córdoba, verfasst wurde.
       Vgl. mit Hinweisen für weiterführende Literatur: Hrotsvita sanctimonialis Gandersheimensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118553941.html 2016-11-03; Reinhard Düchting, Art. Hrotsvit v. Gandersheim, in: Lexikon des Mittelalters 5, Sp. 148-149 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-03]; Barbara Schmid, Art. Hrotsvit of Gandersheim, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 813f.</Werkinformation>
     <gnd_Id/>
@@ -1626,10 +1577,10 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
       <Quelle>
         <QuellenId>0001</QuellenId>
         <Zitation>Passio Sancti Pelagii, ed. Berschin 2001, S. 63-77.</Zitation>
-        <ZeitangabeQuelle></ZeitangabeQuelle>
+        <ZeitangabeQuelle/>
         <Inhaltsangabe>Verserzählung über den Heiligen Pelagius [Pelagius, Heiliger und Märtyrer], der in jugendlichem Alter als Geisel Abd ar-Rahmans III. [Abd ar-Rahman III., Kalif von Cordoba] nach Córdoba [Cordoba] kommt. Aufgrund seiner Schönheit und Redekunst wird Pelagius aus dem Kerker geholt und vor den Kalifen geführt, der ihm anbietet, gemeinsam mit ihm zu regieren. Da Pelagius auch weitere Angebote des Kalifen mit Berufung auf seinen christlichen Glauben ablehnt, wird er zum Tode verurteilt, zunächst gegen Felswände katapultiert, dann [925] geköpft. Nach seinem Tod wird Pelagius von ansässigen Christen als Märtyrer verehrt.</Inhaltsangabe>
         <VolltextOriginalsprache>[…] Perfida nam Saracenorum gens indomitorum […] Hostili ferro […] Ductor barbaricę gentis, structor quoque pugne,/Vir sat perversus vita rituque profanus […] socios […] nefandos […] Barbarico ritu […] Paganos […] dęmonis ira […] Regis [Kalif Abd ar-Rahman III.] pagani luxu carnis maculati […] Demonis oscillum spurci captare famelli […]</VolltextOriginalsprache>
-        <VolltextUebersetzung></VolltextUebersetzung>
+        <VolltextUebersetzung/>
         <ZitationUebersetzung>Das Leiden des hl. Pelagius, des kostbarsten Märtyrers, der in unseren Tagen die Märtyrerkrone in Corduba errungen hat, in: Hrotsvith von Gandersheim. Werke in deutscher Übertragung, hg. von Helene Homeyer, München – Paderborn – Wien 1973, S. 116-125.</ZitationUebersetzung>
         <ZeitangabeWissenschaft>
           <Datum date="925-925">925</Datum>

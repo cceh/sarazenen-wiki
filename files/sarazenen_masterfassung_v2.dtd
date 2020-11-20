@@ -5,15 +5,16 @@
 <!ELEMENT Personen (Person)+>
 <!ELEMENT VerfasserInnen (VerfasserIn+) >
 <!ELEMENT Orte (Ort)+>
-
+<!ATTLIST Ort id CDATA #REQUIRED >
 <!ELEMENT Dokumente (WerkId,WerkTitel,Alternativtitel,Autoren,
                      LebensdatenVerfasserIn,Abfassungszeitraum,Abfassungsort+,Regionen,Berichtszeitraum,
-                     Editionshinweise,EditionLink+,Werkinformation,gnd_Id, wikidata_Id, viaf_Id,
+                     Editionshinweise,Werkinformation,gnd_Id, wikidata_Id, viaf_Id,
                      Quellen)>
 
 <!ELEMENT Person (Id,Name,Rolle+,Alternativnamen?,gnd_Id, wikidata_Id, viaf_Id)>
+<!ATTLIST Person id CDATA #REQUIRED >
 <!ELEMENT VerfasserIn (Id,Name,Alternativnamen?,Lebensdaten,gnd_Id, wikidata_Id, viaf_Id)>
-
+<!ATTLIST VerfasserIn id CDATA #REQUIRED >
 <!ELEMENT WerkId (#PCDATA)>
 
 <!ELEMENT WerkTitel (#PCDATA)>
@@ -28,11 +29,10 @@
 
 <!ELEMENT Regionen (Region)+>
 
-<!ELEMENT Editionshinweise (#PCDATA)>
-
-<!ELEMENT EditionLink (#PCDATA)>
-<!ATTLIST EditionLink
-  url CDATA #REQUIRED>
+<!ELEMENT Editionshinweise (#PCDATA|edition)*>
+<!ELEMENT edition (#PCDATA) >
+<!ATTLIST edition
+    url CDATA #REQUIRED>
 
 <!ELEMENT Werkinformation (#PCDATA)>
 
@@ -63,13 +63,13 @@
 
 <!ELEMENT ZeitangabeQuelle (#PCDATA)>
 
-<!ELEMENT Inhaltsangabe (#PCDATA)>
+<!ELEMENT Inhaltsangabe (#PCDATA|entity)*>
 
-<!ELEMENT VolltextOriginalsprache (#PCDATA)>
+<!ELEMENT VolltextOriginalsprache (#PCDATA|entity)*>
 
-<!ELEMENT VolltextUebersetzung (#PCDATA)>
+<!ELEMENT VolltextUebersetzung (#PCDATA|entity)*>
 
-<!ELEMENT ZitationUebersetzung (#PCDATA)>
+<!ELEMENT ZitationUebersetzung (#PCDATA|entity)*>
 
 <!ELEMENT ZeitangabeWissenschaft (Datum)*>
 
@@ -127,3 +127,7 @@
 <!ELEMENT wikidata_Id (#PCDATA)>
 
 <!ELEMENT viaf_Id (#PCDATA)>
+<!ELEMENT entity (#PCDATA) >
+<!ATTLIST entity
+    type CDATA #REQUIRED
+    id CDATA #REQUIRED>

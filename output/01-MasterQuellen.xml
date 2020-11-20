@@ -1,0 +1,532 @@
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://www.mediawiki.org/xml/export-0.10/"
+           xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
+           version="0.10"
+           xml:lang="de">
+   <siteinfo>
+      <sitename>Sarazenen Wiki</sitename>
+      <dbname>sarazenen-bonn</dbname>
+      <base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base>
+      <generator>MediaWiki 1.27.4</generator>
+      <case>first-letter</case>
+      <namespaces>
+         <namespace key="-2" case="first-letter">Medium</namespace>
+         <namespace key="-1" case="first-letter">Spezial</namespace>
+         <namespace key="0" case="first-letter"/>
+         <namespace key="1" case="first-letter">Diskussion</namespace>
+         <namespace key="2" case="first-letter">Benutzer</namespace>
+         <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+         <namespace key="4" case="first-letter">Sarazenen Wiki</namespace>
+         <namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace>
+         <namespace key="6" case="first-letter">Datei</namespace>
+         <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+         <namespace key="8" case="first-letter">MediaWiki</namespace>
+         <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+         <namespace key="10" case="first-letter">Vorlage</namespace>
+         <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+         <namespace key="12" case="first-letter">Hilfe</namespace>
+         <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+         <namespace key="14" case="first-letter">Kategorie</namespace>
+         <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+         <namespace key="102" case="first-letter">Attribut</namespace>
+         <namespace key="103" case="first-letter">Attribut Diskussion</namespace>
+         <namespace key="106" case="first-letter">Formular</namespace>
+         <namespace key="107" case="first-letter">Formular Diskussion</namespace>
+         <namespace key="108" case="first-letter">Konzept</namespace>
+         <namespace key="109" case="first-letter">Konzept Diskussion</namespace>
+         <namespace key="170" case="first-letter">Filter</namespace>
+         <namespace key="171" case="first-letter">Filter Diskussion</namespace>
+         <namespace key="828" case="first-letter">Modul</namespace>
+         <namespace key="829" case="first-letter">Modul Diskussion</namespace>
+      </namespaces>
+   </siteinfo>
+   <page>
+      <title>Chronicon sive Gesta Saxonum</title>
+      <ns>0</ns>
+      <id>10</id>
+      <revision>
+         <id>0</id>
+         <timestamp>2020-11-20T11:05:12Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{WikiProject_Transwiki/Template:Infobox
+|title=
+|above=[[Werk::Chronicon sive Gesta Saxonum]]
+                    
+                            |subheader=Chronik/Geschichte der Sachsen
+                        
+|image=
+|caption=
+
+|bodyclass = class;
+|bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+|abovestyle = background:#1b98d0; 
+|headerstyle  = background:#1b98d0; 
+|labelstyle   = background:#1b98d0; width:30%;
+|datastyle    = 
+
+|label1=Werknummer
+|data1=0001
+|label2=VerfasserIn
+|data2=[[VerfasserIn::Thietmar von Merseburg]]
+|label3=Abfassungszeit
+|data3=1012-1018
+|label4=Berichtszeitraum
+|data4=901-1018
+|label5=Abfassungsort
+|data5=[[Abfassungsort::Merseburg]]
+|label6=Lebensdaten des Verfassers
+|data6=Thietmar von Merseburg: {{#show: Thietmar von Merseburg |?Lebensdaten | link=none}}
+}}
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2050 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="1012" y="12" width="6" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="901" y="26" width="117" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="901" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;901&lt;/text&gt;
+        &lt;text x="1018" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;1018&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="965" y="26" width="4" height="37"
+        label="Quelle 0001: zwischen 965 und 969"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1013" y="26" width="1" height="37"
+        label="Quelle 0002: 1013"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="981" y="26" width="1" height="37"
+        label="Quelle 0003: 981/982"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="982" y="26" width="1" height="37"
+        label="Quelle 0003: 981/982"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="982" y="26" width="1" height="37"
+        label="Quelle 0004: 982"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="982" y="26" width="1" height="37"
+        label="Quelle 0005: 982"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1016" y="26" width="1" height="37"
+        label="Quelle 0006: 1016"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=1012-1018
+|Berichtszeitraum=901-1018
+|Werknummer=0001
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Das Chronicon sive Gesta Saxonum, auch Chronik oder Geschichte der Sachsen genannt, wurde von Thietmar von Merseburg zwischen 1012 und 1018 in acht Büchern verfasst. Thietmar, seit 1009 Bischof von Merseburg, berichtet seit Beginn des zehnten Jahrhunderts bis zu seinem Tod über die Geschichte seines Bistums.
+Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburgensis, Chronicon sive Gesta Saxonum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04425.html 2016-08-01]; Gerd Althoff, Art. Thietmar v. Merseburg, in: Lexikon des Mittelalters 8, Sp. 694-695 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; David A. Warner, Art. Thietmar of Merseburg, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1424f.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Thietmar von Merseburg, Chronicon, ed. Robert Holtzmann (MGH SS rer. Germ. N.S. 9), Berlin 1935. [http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._N._S._9 Digitalisat bei dMGH.de]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[Werk::Chronicon sive Gesta Saxonum]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?Datierung#
+                    |format=table
+                    |headers=plain
+}}
+
+=== Datierung ===
+{{#ask:
+[[Werk::Chronicon sive Gesta Saxonum]]
+                        [[Zeitangabe::+]]
+|?Zeitangabe  
+  |sort=Zeitangabe
+ |order=descending
+ |format=eventline
+ |timelinebands= YEAR, DECADE,CENTURY
+ |timelineposition=start
+ |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page>
+   <page>
+      <title>Annales S. Bavonis Gandensis</title>
+      <ns>0</ns>
+      <id>12</id>
+      <revision>
+         <id>0</id>
+         <timestamp>2020-11-20T11:05:12Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{WikiProject_Transwiki/Template:Infobox
+|title=
+|above=[[Werk::Annales S. Bavonis Gandensis]]
+                    
+                            |subheader=Jahrbücher von St. Bavo in Gent
+                        
+|image=
+|caption=
+
+|bodyclass = class;
+|bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+|abovestyle = background:#1b98d0; 
+|headerstyle  = background:#1b98d0; 
+|labelstyle   = background:#1b98d0; width:30%;
+|datastyle    = 
+
+|label1=Werknummer
+|data1=9980
+|label2=VerfasserIn
+|data2=[[VerfasserIn::VerfasserIn unbekannt]]
+|label3=Abfassungszeit
+|data3=1338-1350
+|label4=Berichtszeitraum
+|data4=47, 608-1350 47, 608-1350
+|label5=Abfassungsort
+|data5=[[Abfassungsort::Abtei St. Bavo in Gent]]
+|label6=Lebensdaten des Verfassers
+|data6=unbekannt
+}}
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550 0 1850 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="550" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="550" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="550" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="550"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="550" y="95" class="year"&gt;550 &lt;/text&gt;
+                        
+                             &lt;line  x1="600" y1="0" x2="600" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="600" y="95" class="year"&gt;600 &lt;/text&gt;
+                        
+                             &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="650" y="95" class="year"&gt;650 &lt;/text&gt;
+                        
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                        
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                        
+                             &lt;line  x1="1100" y1="0" x2="1100" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1100" y="95" class="year"&gt;1100 &lt;/text&gt;
+                        
+                             &lt;line  x1="1150" y1="0" x2="1150" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1150" y="95" class="year"&gt;1150 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="1338" y="12" width="-183" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="47" y="26" width="0" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="47" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;47&lt;/text&gt;
+        &lt;text x="47" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;47&lt;/text&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="608" y="26" width="547" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="608" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;608&lt;/text&gt;
+        &lt;text x="1155
+                " y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;1350&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=1338-1350
+|Berichtszeitraum=47, 608-1350 47, 608-1350
+|Werknummer=9980
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Keine näheren Informationen zum Werk verfügbar.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191. [http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._185 Digitalisat bei dMGH.de]
+
+&lt;/poem&gt;
+                    
+                    
+                        
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page>
+   <page>
+      <title>Breviarium regum Francorum</title>
+      <ns>0</ns>
+      <id>14</id>
+      <revision>
+         <id>0</id>
+         <timestamp>2020-11-20T11:05:12Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{WikiProject_Transwiki/Template:Infobox
+|title=
+|above=[[Werk::Breviarium regum Francorum]]
+                    
+                            |subheader=Kurze Geschichte der Frankenkönige
+                        
+|image=
+|caption=
+
+|bodyclass = class;
+|bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
+|abovestyle = background:#1b98d0; 
+|headerstyle  = background:#1b98d0; 
+|labelstyle   = background:#1b98d0; width:30%;
+|datastyle    = 
+
+|label1=Werknummer
+|data1=9977
+|label2=VerfasserIn
+|data2=[[VerfasserIn::Erchanbert]]; [[VerfasserIn::Notker der Stammler]]
+|label3=Abfassungszeit
+|data3=826, um 881-912 826, um 881-912
+|label4=Berichtszeitraum
+|data4=715-881
+|label5=Abfassungsort
+|data5=[[Abfassungsort::Abfassungsort Unbekannt]]
+|label6=Lebensdaten des Verfassers
+|data6=Erchanbert: {{#show: Erchanbert |?Lebensdaten | link=none}}; Notker der Stammler: {{#show: Notker der Stammler |?Lebensdaten | link=none}}
+}}
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650 0 1750 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="650" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="660" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="650" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="660" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="650" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="660" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="650"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="650" y="95" class="year"&gt;650 &lt;/text&gt;
+                        
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                        
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="826" y="12" width="0" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="875" y="12" width="40" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="715" y="26" width="166" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="715" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;715&lt;/text&gt;
+        &lt;text x="881" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;881&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=826, um 881-912 826, um 881-912
+|Berichtszeitraum=715-881
+|Werknummer=9977
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Die Chronik wurde bis zum Jahr 826 von Erchambert verfasst; eine Fortsetzung für die Jahre 840-881 stammt sicher von Notker. Vgl. zum Werk: Breviarium regum Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02184.html 2018-02-15]; vgl. zu den Autoren: Erchanbertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_104348550.html 2018-02-15]; Notkerus Balbulus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118588850.html 2018-02-15].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge [http://www.mgh.de/dmgh/resolving/MGH_SS_2 Digitalisat bei dMGH.de (Edition G. H. Pertz 1829)]
+Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191. [http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._185 Digitalisat bei dMGH.de]
+
+&lt;/poem&gt;
+                    
+                    
+                        
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page>
+</mediawiki>

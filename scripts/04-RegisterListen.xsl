@@ -292,6 +292,7 @@
 {{#set:
 |latitude=<xsl:value-of select="./geo_getty/latitude"/>
                             |longitude=<xsl:value-of select="./geo_getty/longitude"/>
+                            |Coordinates=<xsl:value-of select="./geo_getty/latitude"/>,<xsl:value-of select="./geo_getty/longitude"/>
 }}
                         </xsl:if>
                         {{#set:

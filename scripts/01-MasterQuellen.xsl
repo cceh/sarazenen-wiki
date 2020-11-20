@@ -157,10 +157,9 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 &lt;br/&gt;
 
 === Editionshinweise ===
-<xsl:value-of xml:space="default">&lt;poem&gt;<xsl:value-of select="Editionshinweise"/>
-<xsl:text> </xsl:text><xsl:if test="exists(EditionLink/@url)"> <xsl:for-each select="EditionLink"><xsl:if test="./@url != ''"><xsl:value-of select="concat(' [',./@url,' ',./data(.))"/>]</xsl:if></xsl:for-each>
-</xsl:if>&lt;/poem&gt;
-</xsl:value-of>
+&lt;poem&gt;
+<xsl:apply-templates select="Editionshinweise"/>
+&lt;/poem&gt;
                     <xsl:if test="exists(./Quellen/Quelle)">                        
 === Quellenstellen ===
 {{#ask:
@@ -461,12 +460,7 @@ Sarazenenbezug=ja
             </xsl:value-of>
         </xsl:if>
     </xsl:template>
-    
-    <xsl:template match="EditionLink">        
-        <xsl:if test="EditionLink/@url != ''">
-            [<xsl:value-of select="EditionLink/@url"/> <xsl:value-of select="EditionLink/data(.)"/>]
-        </xsl:if>
-    </xsl:template>
+   
     <!-- SVG Einbindung -->
     <xsl:template name="balken">
         <xsl:param name="value"/>
@@ -731,6 +725,11 @@ Sarazenenbezug=ja
         &lt;rect x="<xsl:value-of select="$start"/>" y="26" width="<xsl:value-of select="$width"/>" height="37"
         label="<xsl:value-of select="$tooltip"/>"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
         &lt;/g&gt;
+    </xsl:template>
+    
+    <xsl:template match="Editionshinweise">       
+<xsl:if test="exists(./edition)"><xsl:value-of select="./edition"/> [<xsl:value-of select="./link/@url"/><xsl:text> </xsl:text><xsl:value-of select="./link"/>]
+</xsl:if>
     </xsl:template>
     <xsl:template match="text()"></xsl:template>
 </xsl:stylesheet>
