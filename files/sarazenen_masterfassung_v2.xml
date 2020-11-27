@@ -4832,7 +4832,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Muze</Name>
          </Alternativnamen>
          <gnd_Id>119042258</gnd_Id>
-         <wikidata_Id>Q301261)</wikidata_Id>
+         <wikidata_Id>Q301261</wikidata_Id>
          <viaf_Id>70575649</viaf_Id>
       </Person>
       <Person id="07550145-7d32-4349-9c51-422337c124e9">
@@ -4990,6 +4990,15 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       </Person>
    </Personen>
    <Orte>
+      <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097">
+         <Id>e55f8177-2476-4282-ad6b-7a8b0a4e8097</Id>
+         <Name>unbekannt</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen/>
+         <getty_Id/>
+         <Anmerkungen/>
+      </Ort>
       <Ort id="8e99e0e8-9706-41eb-ae38-9e2162d07913">
          <Id>8e99e0e8-9706-41eb-ae38-9e2162d07913</Id>
          <Name>Tripolis (Libanon)</Name>
@@ -8862,7 +8871,9 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Abfassungszeitraum>
          <Datum date="1012-1018">1012-1018</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Merseburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Merseburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -9129,7 +9140,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
       <Abfassungszeitraum>
          <Datum date="998-1039">998-1036/1039</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Farfa</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="271d8da4-b87e-44a1-aba6-23f789d6ac58" cert="high">Farfa</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
       </Regionen>
@@ -9221,7 +9234,10 @@ Zur Datierung vgl. Jean-Marie Sansterre, “Destructio” et “diminution” d�
       <Abfassungszeitraum>
          <Datum date="958-962">958-962</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Frankfurt; Paxoi</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Frankfurt</Ort>
+         <Ort Id="" cert="">Paxoi</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -9939,15 +9955,16 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
       <Abfassungszeitraum>
          <Datum date="962-973">um 967-973</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Corvey</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Corvey</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="-5200-973">Frühgeschichte des sächsischen Stammes bis 973</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_3_S._408">Widukind von Corvey, Rerum gestarum Saxonicarum libri tres, ed. Georg Waitz, in: MGH SS 3, Hannover 1839, S. 408-467.</edition>
-Widukind von Corvey, Rerum gestarum Saxonicarum libri tres / Die Sachsengeschichte des Widukind von Corvey, ed. Hans-Eberhard Lohmann, überarb. von Paul Hirsch (MGH SS rer. Germ. [60]), Hannover 1935.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_3_S._408">Widukind von Corvey, Rerum gestarum Saxonicarum libri tres, ed. Georg Waitz, in: MGH SS 3, Hannover 1839, S. 408-467.</edition><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._60">Widukind von Corvey, Rerum gestarum Saxonicarum libri tres / Die Sachsengeschichte des Widukind von Corvey, ed. Hans-Eberhard Lohmann, überarb. von Paul Hirsch (MGH SS rer. Germ. [60]), Hannover 1935.</edition></Editionshinweise>
       
       
       <Werkinformation>Die Rerum Gestarum Saxonicarum libri tres oder Sachsengeschichte wurde zwischen 967 und 973 von Widukind von Corvey verfasst. In drei Büchern berichtet der Corveyer Mönch darin über die sächsische gens beginnend mit ihrer (mythischen) Herkunft bis in die Zeit Ottos des Großen. Der Text existiert in drei Versionen.
@@ -10099,7 +10116,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Widukindus monachus Corbe
       <Abfassungszeitraum>
          <Datum date="1000-1057">1000/1034-1057</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -10232,7 +10251,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Ekkeardus IV, Casuum S. G
       <Abfassungszeitraum>
          <Datum date="817-830">817/830</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -10401,7 +10422,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Einhardus, Vita Karoli Ma
       <Abfassungszeitraum>
          <Datum date="895-905">bis um 901</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -11534,7 +11557,9 @@ Insgesamt wurden mehrere Versuche von fränkischer Seite unternommen Tortosa zu 
       <Abfassungszeitraum>
          <Datum date="900-908">900-908</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Trier</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Trier</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -12620,7 +12645,10 @@ Vgl. hierzu [0008]-[0015].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1031-1047">1031-1047</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Cluny; Auxerre</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Cluny</Ort>
+         <Ort Id="" cert=""> Auxerre</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -13032,7 +13060,9 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
          <Datum date="800-882">9. Jahrhundert (bis 882)</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St-Bertin in St-Omer</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St-Bertin in St-Omer</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -14302,7 +14332,11 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
          <Datum date="840-845">840-845</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Denis; Orléans; Corvey</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Denis</Ort>
+         <Ort Id="" cert=""> Orléans</Ort>
+         <Ort Id="" cert=""> Corvey</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -15318,14 +15352,16 @@ Vgl. zur Kriegserklärung Ludwigs des Frommen [0011]-[0013].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="883-887">883-887</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="747-814">747-814</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Notker der Stammler, Taten Kaiser Karls des Grossen, ed. Hans F. Haefele (MGH SS rer. Germ. N.S. 12), Berlin 1959.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._N._S._12">Notker der Stammler, Taten Kaiser Karls des Grossen, ed. Hans F. Haefele (MGH SS rer. Germ. N.S. 12), Berlin 1959.</edition></Editionshinweise>
       
       <Werkinformation>Die Gesta Karoli wurden zwischen 883 und 887 von Notker I., ‚dem Stammler‘ im Auftrag Kaiser Karls III. verfasst. In drei Teilen geplant (Kirchenpolitik, Kriege, alltägliches Leben Karls des Großen) blieb jedoch das Werk nach Karls III. Sturz unvollendet. Während das Werk anonym überliefert ist, herrscht Einigkeit darüber, dass Notker der Autor ist.
 Vgl. auch mit Hinweisen für weiterführende Literatur Gesta Karoli, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02057.html 2016-10-20]. Zum Verfasser Notker vgl. Hans Frieder Haefele – Charlotte Gschwind-Gisinger, Art. Notker I. (Balbulus, „der Stammler“), in: Lexikon des Mittelalters 6, Sp. 1289-1290 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-20]; Stephen Penn, Art. Notker Balbulus, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 1157.</Werkinformation>
@@ -15492,7 +15528,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Gesta Karoli, in: Reperto
       <Abfassungszeitraum>
          <Datum date="1030-1137">1030-1137</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Hildesheim</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Hildesheim</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -16014,17 +16052,19 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Annales Hildesheimenses, 
       <Abfassungszeitraum>
          <Datum date="787-829">787-829</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Aachen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" cert="">Aachen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="741-829">741-829</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Annales regni Francorum inde ab a. 741 usque ad a. 829, qui dicuntur Annales Laurissenses maiores et Einhardi, ed. Friedrich Kurze (MGH SS rer. Germ. [6]), Hannover 1895, S. 1-178.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._6">Annales regni Francorum inde ab a. 741 usque ad a. 829, qui dicuntur Annales Laurissenses maiores et Einhardi, ed. Friedrich Kurze (MGH SS rer. Germ. [6]), Hannover 1895, S. 1-178.</edition></Editionshinweise>
       
       <Werkinformation>Die Annales regni Francorum, auch Fränkische Reichsannalen, berichten über den Zeitraum von 741 bis 829 und wurden zwischen 787 und 829 von verschiedenen Verfassern aus dem Kreis der karolingischen Hofkapelle verfasst. Namentlich sind sie nicht bekannt.
-Vgl. mit Hinweisen für weiterführende Literatur: Ulrich Nonn, Art. Reichsannalen, in: Lexikon des Mittelalters 7, Sp. 616-617 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; Annales regni Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00265.html 2016-08-01]; Sören Kaschke, Art. Annales regni Francorum, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 81.</Werkinformation>
+         Vgl. mit Hinweisen für weiterführende Literatur: Ulrich Nonn, Art. Reichsannalen, in: Lexikon des Mittelalters 7, Sp. 616-617 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; Annales regni Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00265.html 2016-08-01]; Sören Kaschke, Art. Annales regni Francorum, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 81.</Werkinformation>
       <gnd_Id>4833771-7</gnd_Id>
       <wikidata_Id>Q564409</wikidata_Id>
       <viaf_Id>293383080</viaf_Id>
@@ -17464,7 +17504,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Ulrich Nonn, Art. Reichsannal
       <Abfassungszeitraum>
          <Datum date="1070-1080">um 1075</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Niederaltaich</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Niederaltaich</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -17781,7 +17823,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Jan Prelog, Art. Annales Alta
       <Abfassungszeitraum>
          <Datum date="1077-1079">1077-1079</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Hersfeld</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Hersfeld</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -18078,7 +18122,9 @@ Bald darauf kam jener Fürst, wie angekündigt, mit seinem Heere und wurde von d
       <Abfassungszeitraum>
          <Datum date="814-817">814-817</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Aachen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" cert="">Aachen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -18469,7 +18515,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales qui dicuntur Einhardi
       <Abfassungszeitraum>
          <Datum date="835-838">835-838</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Trier</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Trier</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -18534,7 +18582,11 @@ Vgl. mit Hinweisen für weiterführende Literatur: Wolfgang Eggert, Art. Thegan 
       <Abfassungszeitraum>
          <Datum date="830-1300">Erster Teil 830-860; zweiter Teil ab 870; Ergänzungen im 12. Jahrhundert (nicht mehr aufgenommen)</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Niederrhein (evtl. Gent); Köln; Egmond</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Niederrhein (evtl. Gent)</Ort>
+         <Ort Id="" cert=""> Köln</Ort>
+         <Ort Id="" cert=""> Egmond</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -18900,7 +18952,10 @@ Vgl. zu diesem Bericht auch: [0008]-[0013]; [0014]-[0003]; [0018]-[0004]; [0035]
       <Abfassungszeitraum>
          <Datum date="1079-1100">1079-1100</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster St. Blasien; Allerheiligenkloster Schaffhausen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster St. Blasien</Ort>
+         <Ort Id="" cert=""> Allerheiligenkloster Schaffhausen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -19884,7 +19939,9 @@ Zur Datierung vgl. Bernold, Chronik a. 1096, ed. Robinson, S. 528, Anm. 611; Ber
       <Abfassungszeitraum>
          <Datum date="823-830">823-830</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Straßburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Straßburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -20564,7 +20621,9 @@ Rathen und schleunig sodann will ich es richten ins Werk.</VolltextUebersetzung>
       <Abfassungszeitraum>
          <Datum date="785-799">um 790-799</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Montecassino</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Montecassino</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
       </Regionen>
@@ -21090,7 +21149,9 @@ Die Perser waren zu diesem Zeitpunkt noch nicht muslimisch (erst ab 661).</Anmer
       <Abfassungszeitraum>
          <Datum date="1025-1054">um 1030-1054</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Reichenau (Insel Reichenau)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Reichenau (Insel Reichenau)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -22068,7 +22129,9 @@ Zu Statthalter Hassan von Huesca vgl. Ernst Alexander Schmidt, Geschichte Aragon
       <Abfassungszeitraum>
          <Datum date="823-850">Erste Hälfte 9. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Straßburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Straßburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -22623,7 +22686,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Ernst Karpf, Art. Liutprand v
       <Abfassungszeitraum>
          <Datum date="1075-1076">1075-1076</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Bremen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Bremen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -22813,7 +22878,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Franz-Josef Schmale, Art. Ada
       <Abfassungszeitraum>
          <Datum date="1008-1030">zwischen 1008 und 1030</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Quedlinburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Quedlinburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -23051,7 +23118,9 @@ Vgl. mit Hinweisen für weiterführende Literatur, insbesondere zur Verfasserfra
       <Abfassungszeitraum>
          <Datum date="613-775">613 bis um 770</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -23751,7 +23820,10 @@ Nach Heinard Steiger, Die Ordnung der Welt. Eine Völkerrechtsgeschichte des kar
       <Abfassungszeitraum>
          <Datum date="704-818">704-803/818</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Lorsch; Mainz</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Lorsch</Ort>
+         <Ort Id="" cert=""> Mainz</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -24101,7 +24173,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hubertus Seibert, Art. Lorsch
       <Abfassungszeitraum>
          <Datum date="700-900">8.-9. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Amand-les-Eaux (Kloster St. Amand)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Amand-les-Eaux (Kloster St. Amand)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -24329,7 +24403,9 @@ Zur Datierung vgl. Annales Sancti Amandi, ed. Georg Heinrich Pertz, in: MGH SS 1
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -24659,7 +24735,11 @@ Die Jahresangaben in runden Klammern beziehen sich wohl auf Unterschiede in der 
       <Abfassungszeitraum>
          <Datum date="709-930">709-um 926</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>bis 799 Kloster Murbach im Elsaß; 801-876 auf der Reichenau; 876-926 in St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">bis 799 Kloster Murbach im Elsaß</Ort>
+         <Ort Id="" cert=""> 801-876 auf der Reichenau</Ort>
+         <Ort Id="" cert=""> 876-926 in St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -24962,7 +25042,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales Alamannici, in: Reper
       <Abfassungszeitraum>
          <Datum date="950-962">950- nicht vor 962</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Gandersheim</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Gandersheim</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -25047,7 +25129,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hrotsvita sanctimonialis Gand
       <Abfassungszeitraum>
          <Datum date="841-843">841-843</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Riquier</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Riquier</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -25117,7 +25201,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hans-Werner Goetz, Art. Nitha
       <Abfassungszeitraum>
          <Datum date="1054-1088">1054-1088</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Reichenau</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Reichenau</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -25195,7 +25281,9 @@ Vgl. zu dieser Quellenstelle ebenfalls [0016]-[0007], [0017]-[0006], [0021]-[001
       <Abfassungszeitraum>
          <Datum date="830-835">830-835</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Denis bei Paris</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Denis bei Paris</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -25272,7 +25360,9 @@ Für den Bericht Fredegars wird neben den 630er Jahren auch eine Datierung in di
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -25638,7 +25728,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales Sangallenses maiores,
       <Abfassungszeitraum>
          <Datum date="800-850">1. Hälfte des 9. Jh.</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Wandrille</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Wandrille</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -25875,15 +25967,17 @@ Zur Datierung vgl. ebenfalls [0011]-[0012].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="865-875">um 871</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Germain-des-Prés, Paris</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Germain-des-Prés, Paris</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="830-870">um 850</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios, ed. Jacques Paul Migne, in: PL 115, Paris 1881, Sp. 939-948.</Editionshinweise>
-      <EditionLink url="https://archive.org/details/patrologiaecurs18goog/page/n476">Digitalisat bei archive.org</EditionLink>
+      <Editionshinweise><edition url="https://archive.org/details/patrologiaecurs18goog/page/n476">De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios, ed. Jacques Paul Migne, in: PL 115, Paris 1881, Sp. 939-948.</edition></Editionshinweise>
+      
       <Werkinformation>Die Translatio ist ein Bericht über die Überführung der Überreste dreier Märtyrer, die im Rahmen der sog. Märtyrerbewegung von Córdoba in der Mitte des 9. Jahrhunderts starben. Abgefasst wurde er von dem Mönch Aimoin von Saint-Germain-des-Prés (gest. nach 896) auf Wunsch seines Abtes Gozlin, in dessen Kloster die Reliquien überführt wurden.
 Vgl. mit Hinweisen für weiterführende Literatur: Gabriel Silagi, Art. Aimoin v. St. Germain, in: Lexikon des Mittelalters 1, Sp. 242 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-03].</Werkinformation>
       <gnd_Id/>
@@ -26321,15 +26415,17 @@ Eine spanische Übersetzung findet sich bei Juan Carlos Lara Olmo, El relato del
       <Abfassungszeitraum>
          <Datum date="845-1032">ca. 850-1032</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Vienne (Isère)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Vienne (Isère)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="-5200-1032">Weltchronik bis zum Jahr 1032</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>S. Adonis Viennesis Chronicon in aetates sex divisum, ed. Jacques Paul Migne (Patrologia Latina 123), Paris 1879, Sp. 23-138.</Editionshinweise>
-      <EditionLink url="https://archive.org/details/patrologiaecurs29goog/page/n16">Digitalisat bei archive.org</EditionLink>
+      <Editionshinweise><edition url="https://archive.org/details/patrologiaecurs29goog/page/n16">S. Adonis Viennesis Chronicon in aetates sex divisum, ed. Jacques Paul Migne (Patrologia Latina 123), Paris 1879, Sp. 23-138.</edition></Editionshinweise>
+      
       <Werkinformation>Das Chronicon in aetates sex divisum ist eine Weltchronik seit der Schöpfung zunächst bis ins Jahr 866, dann fortgesetzt bis 870 verfasst von Ado von Vienne, seit 859/60 Erzbischof von Vienne. Während es bis 814 auf älteren Quellen basiert, ist es anschließend unabhängig weiter geschrieben.
 Vgl. mit Hinweisen für weiterführende Literatur: Markus Wesche, Art. Ado v. Vienne, in: Lexikon des Mittelalters 1, Sp. 157 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-03]; Ado archiepiscopus Viennensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_119536390.html 2016-11-03]; Chronicon (Ado von Vienne), in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00028.html 2016-11-03]; Sören Kaschke, Art. Ado of Vienne, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 15.</Werkinformation>
       <gnd_Id/>
@@ -26847,7 +26943,9 @@ Vgl. [0044]-[0008] und [0044]-[0009].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="982-990">nach 982</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>vermutlich in Lüttich</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">vermutlich in Lüttich</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -27250,7 +27348,9 @@ Vgl. [0014]-[0004].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="780-790">um 784</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Frankenreich</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Frankenreich</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -27444,7 +27544,9 @@ Weitere Berichte über Sarazenen jedoch außerhalb des Untersuchungszeitraums fi
       <Abfassungszeitraum>
          <Datum date="725-725">725</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster St. Paul, Jarrow</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster St. Paul, Jarrow</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Britische Inseln</Region>
       </Regionen>
@@ -27668,7 +27770,9 @@ Zum Kauf der Gebeine des Hl. Augustinus vgl. die kurze Anmerkung bei Matthias Ha
       <Abfassungszeitraum>
          <Datum date="890-900">vor 900</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Bergamo</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Bergamo</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
       </Regionen>
@@ -27806,7 +27910,9 @@ Zum Angriff der aus Afrika kommenden Sarazenen vgl. die Regesten Ludwigs II. RI 
       <Abfassungszeitraum>
          <Datum date="1000-1100">11. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Bari</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="0b8511b3-abc0-4163-9173-922b69520dc3" cert="high">Bari</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
       </Regionen>
@@ -28070,14 +28176,16 @@ Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protos
       <Abfassungszeitraum>
          <Datum date="619-625">619 und 624/5</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Sevilla</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Sevilla</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="265-624">265-624</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Isidor, Historia Gothorum Wandalorum Sueborum, ed. Theodor Mommsen, in: MGH Auct. ant. 11, Berlin 1894, S. 241-390.
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_Auct._ant._11_S._241">Isidor, Historia Gothorum Wandalorum Sueborum, ed. Theodor Mommsen, in: MGH Auct. ant. 11, Berlin 1894, S. 241-390.</edition>
 Mommsen ediert hier mehrere Versionen des Textes parallel. Diese sind die Recensio brevior [Rec. b.] sowie die Recensio prolixior [Rec. p.]</Editionshinweise>
       
       <Werkinformation>Die Historia Gothorum Wandalorum Sueborum (De origine Gothorum; Laus Spaniae) ist ein Geschichtswerk des Isidor von Sevilla, ab ca. 600 Bischof von Sevilla (geb. ca. 560, gest. 636) über die Taten der spanischen Herrscher des späten 6. bis 7. Jahrhunderts.
@@ -28139,7 +28247,9 @@ An dieser Stelle ist nicht direkt von Sarazenen die Rede, jedoch von heidnischen
       <Abfassungszeitraum>
          <Datum date="900-1000">10. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Montecassino</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Montecassino</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
       </Regionen>
@@ -28854,15 +28964,17 @@ Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Bened
       <Abfassungszeitraum>
          <Datum date="875-890">um 880-890</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Montecassino</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Montecassino</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="734-889">734-889</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Erchemperto, Piccola Storia dei Longobardi di Benevento, ed. Luigi Andrea Berto (Nuovo Medioevo 94), Napoli 2013.</Editionshinweise>
-      <EditionLink url="https://www.academia.edu/7369807/Erchemperto_Piccola_Storia_dei_Longobardi_di_Benevento_Ystoriola_Longobardorum_Beneventum_degentium_edizione_e_traduzione_a_cura_di_Luigi_Andrea_Berto">Digitalsat bei academia.edu (nur zum Download)</EditionLink>
+      <Editionshinweise><edition url="https://www.academia.edu/7369807/Erchemperto_Piccola_Storia_dei_Longobardi_di_Benevento_Ystoriola_Longobardorum_Beneventum_degentium_edizione_e_traduzione_a_cura_di_Luigi_Andrea_Berto">Erchemperto, Piccola Storia dei Longobardi di Benevento, ed. Luigi Andrea Berto (Nuovo Medioevo 94), Napoli 2013.</edition></Editionshinweise>
+      
       <Werkinformation>Die Historia Langobardorum Beneventanorum (Ystoriola) sind ein um 880-890 verfasstes Geschichtswerk Erchemperts, der aus Benevent kam und Mönch in Montecassino (gest. nach 889) war. Erchempert berichtet hier über die Zeit von 787 bis 889.
 Vgl. mit Hinweisen für weiterführende Literatur: Historia Langobardorum Beneventanorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02185.html 2016-11-07]; Erchempertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100940617.html 2016-11-07]; Fulvio Delle Donne, Art. Erchempert, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 582.</Werkinformation>
       <gnd_Id>4792616-8</gnd_Id>
@@ -30319,15 +30431,17 @@ Zur Werbung der Sarazenen durch Bischof Athanasius II. von Neapel und Graf Pando
       <Abfassungszeitraum>
          <Datum date="738-748">um 743</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>(arabisches) Spanien</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">(arabisches) Spanien</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="601-724">601-724</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Chronica Byzantia-Arabica, ed. Juan Gil, in: Corpus Scriptorum Muzarabicorum 1, Madrid 1973, S. 7-14.</Editionshinweise>
-      <EditionLink url="http://www.larramendi.es/i18n/consulta/registro.do?control=FIL20120000360">Digitalsat bei Biblioteca Virtual de Polígrafos</EditionLink>
+      <Editionshinweise><edition url="http://www.larramendi.es/i18n/consulta/registro.do?control=FIL20120000360">Chronica Byzantia-Arabica, ed. Juan Gil, in: Corpus Scriptorum Muzarabicorum 1, Madrid 1973, S. 7-14.</edition></Editionshinweise>
+      
       <Werkinformation>Die Chronica Byzantina-Arabica ist ein lateinisches Werk, das um (741-)743 entstanden und nur in Hispanien überliefert ist. Verfasst wurde sie vermutlich von einem Hispanier, nach Cardelle de Hartmann wahrscheinlich einem Christen, diskutiert wird aber auch ein Konvertit zum Islam. Die Chronik berichtet mit Beginn des 7. Jahrhunderts bis 724 über die Herrschaftsgebiete Byzanz, Araberreich und Westgotenreich. Die Chronographie orientiert sich an den Regierungsjahren der Herrscher.
 Vgl. mit Hinweisen für weiterführende Literatur: Carmen Cardelle de Hartmann, Der mozarabische Blick auf die Geschichte: Tradition und Identitätsbildung, in: Die Mozaraber. Definitionen und Perspektiven der Forschung, hg. von Matthias Maser – Klaus Herbers (Geschichte und Kultur der Iberischen Welt 7), Berlin – Münster 2011, S. 39–63, hier insb. S. 45-51; Jose Carlos Martín, Los Chronica Byzantia-Arabica. Contribución a la discusión sobre su autoría y datación, y traducción anotada, in: e-Spania [http://e-spania.revues.org/329 2017-08-31].</Werkinformation>
       <gnd_Id/>
@@ -31439,7 +31553,9 @@ Grund für die Verteidigung von Damaskus ist das Vorrücken sarazenischer Truppe
       <Abfassungszeitraum>
          <Datum date="700-800">8. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -31657,15 +31773,17 @@ Die Jahresangabe in Klammern ist lediglich im Codex Pithoei überliefert, vgl. A
       <Abfassungszeitraum>
          <Datum date="919-978">919-966, Postume Fortsetzung bis 978</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Reims</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Reims</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="919-978">919-978</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Les Annales de Flodoard, ed. Philippe Lauer (Collection de Textes pour servir a l’étude et a l’enseignement de l’histoire), Paris 1905.</Editionshinweise>
-      <EditionLink url="https://archive.org/details/lesannalesdeflod00floduoft">Digitalisat bei archive.org</EditionLink>
+      <Editionshinweise><edition url="https://archive.org/details/lesannalesdeflod00floduoft">Les Annales de Flodoard, ed. Philippe Lauer (Collection de Textes pour servir a l’étude et a l’enseignement de l’histoire), Paris 1905.</edition></Editionshinweise>
+      
       <Werkinformation>Die Annales des Flodoard von Reims (geb. 893/94, gest. 966) sind zeitgleich entstandene Notizen für die Jahre 919 bis 966, die verlässlich über die Geschichte des Westfrankenreiches, Lothringens und – wenngleich weniger ausführlich – des Ostfrankenreiches berichten. Nach dem Tod Flodoards 966 erfolgte eine Fortführung der Annales bis zum Jahr 978.
 Vgl. mit Hinweisen für weiterführende Literatur: Peter Christian Jacobsen, Art. Flodoard v. Reims, in: Lexikon des Mittelalters 4, Sp. 549-550 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Annales (Flodoard von Reims), in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02239.html 2016-11-10]; Flodoardus canonicus Remensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118534009.html 2016-11-10]; Régis Rech, Art. Flodoard of Reims, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 623f.</Werkinformation>
       <gnd_Id/>
@@ -32178,7 +32296,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Peter Christian Jacobsen, Art
       <Abfassungszeitraum>
          <Datum date="974-984">974 bis 984</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Metz</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Metz</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -32271,7 +32391,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: Michel Parisse, Art. Johann, 
       <Abfassungszeitraum>
          <Datum date="950-1000">Mitte des 10. Jahrhunderts</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Reichenau</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Reichenau</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -32459,15 +32581,17 @@ Vgl. [0060]-[0003].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="595-636">ca. 600-636</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Sevilla</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Sevilla</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="">Hierbei handelt es sich nicht um einen historischen Bericht.</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX, ed. Wallace Martin Lindsay (Scriptorum Classicorum Bibliotheca Oxoniensis), 2 Bde., Oxford 1911.</Editionshinweise>
-      <EditionLink url="https://archive.org/details/isidori01isiduoft">Digitalisat bei archive.org</EditionLink>
+      <Editionshinweise><edition url="https://archive.org/details/isidori01isiduoft">Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX, ed. Wallace Martin Lindsay (Scriptorum Classicorum Bibliotheca Oxoniensis), 2 Bde., Oxford 1911.</edition></Editionshinweise>
+      
       <Werkinformation>Die Etymologiae sind eines der wichtigsten Werke des Isidor von Sevilla, ab ca. 600 Bischof von Sevilla (geb. ca. 560, gest. 636). Isidor behandelt hier in kürzeren Abhandlungen einen Überblick über das Wissen seiner Zeit.
 Vgl. mit Hinweisen für weiterführende Literatur: Jacques Fontaine, Art. Isidor v. Sevilla, in: Lexikon des Mittelalters 5, Sp. 677-679 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-07]; Thomas O‘Loughlin, Art. Isidore of Sevilla, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 880-883.</Werkinformation>
       <gnd_Id>4406765-3</gnd_Id>
@@ -32942,7 +33066,9 @@ Vgl. [0061]-[0006].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="983-993">983-993</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Augsburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Augsburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -33061,15 +33187,18 @@ Zum Italienzug vgl. Friedrich Zoepfl, Das Bistum Augsburg und seine Bischöfe im
       <Abfassungszeitraum>
          <Datum date="1033-1033">1033</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Cluny; Burgund</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Cluny</Ort>
+         <Ort Id="" cert=""> Burgund</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="900-994">900-994</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Vita sancti Maioli auctore S. Odilo Abbate et S. Maijoli successore, in: Acta Sanctorum Mai 2, 21. Mai, ed. Godefridus Henschenius – Daniele Paperbrochius – Joanne Carnandet, Paris – Rom ²1866, S. 683-688.</Editionshinweise>
-      <EditionLink url="https://archive.org/details/actasanctorum15unse/page/n731">Digitalisat bei archive.org</EditionLink>
+      <Editionshinweise><edition url="https://archive.org/details/actasanctorum15unse/page/n731">Vita sancti Maioli auctore S. Odilo Abbate et S. Maijoli successore, in: Acta Sanctorum Mai 2, 21. Mai, ed. Godefridus Henschenius – Daniele Paperbrochius – Joanne Carnandet, Paris – Rom ²1866, S. 683-688.</edition></Editionshinweise>
+      
       <Werkinformation>Die Vita sancti Maioli ist eine Lebensbeschreibung des Heiligen Maiolus, Abt des Kloster Cluny (geb. nach 909, gest. 994), die von einem seiner Schüler und Nachfolger, Abt Odilo von Cluny (geb. um 961/62, gest. 1049), wohl 1033 verfasst wurde. Odilo berichtet hier auch über die Entführung des Maiolus durch Sarazenen.
 Vgl. mit Hinweisen für weiterführende Literatur: Neithard Bulst, Art. Maiolus, in: Lexikon des Mittelalters 6, Sp. 145-146 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-11]; Vita sancti Maioli, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03741.html 2016-11-11]; Odilo abbas Cluniacensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100955835.html 2016-11-10]; Scott G. Bruce, Cluny and the Muslims of La Garde-Freinet. Hagiography and the problem of Islam in Medieval Europe, Ithaca – London 2015, S. 55ff.</Werkinformation>
       <gnd_Id/>
@@ -33147,7 +33276,9 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Syrus und des Nagold, [00
       <Abfassungszeitraum>
          <Datum date="1005-1015">um 1010</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Cluny</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Cluny</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -33267,7 +33398,9 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo und des Nagold, [00
       <Abfassungszeitraum>
          <Datum date="778-787">778-787</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Heidenheim</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Heidenheim</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -33628,15 +33761,17 @@ Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibal
       <Abfassungszeitraum>
          <Datum date="975-1000">Ende des 10. Jahrhunderts</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Cluny</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Cluny</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="904-994">um 909-994</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Vita sancti Maioli ex prolixoribus coaevorum actis a Nalgodo monacho post sequi secum contracta, in: Acta Sanctorum Mai 2, 21. Mai, ed. Godefridus Henschenius – Daniele Paperbrochius – Joanne Carnadet, Paris – Rom ²1866, S. 657-667.</Editionshinweise>
-      <EditionLink url="https://archive.org/details/actasanctorum15unse/page/n705">Digitalisat bei archive.org</EditionLink>
+      <Editionshinweise><edition url="https://archive.org/details/actasanctorum15unse/page/n705">Vita sancti Maioli ex prolixoribus coaevorum actis a Nalgodo monacho post sequi secum contracta, in: Acta Sanctorum Mai 2, 21. Mai, ed. Godefridus Henschenius – Daniele Paperbrochius – Joanne Carnadet, Paris – Rom ²1866, S. 657-667.</edition></Editionshinweise>
+      
       <Werkinformation>Die Vita S. Maioli ist eine Lebensbeschreibung des Heiligen Maiolus, Abt des Klosters Cluny (geb. nach 909, gest. 994), die von einem Mönch namens Nalgodus verfasst wurde. Der Berichtszeitraum der Vita war nicht eindeutig zu ermitteln und wurde aus den Lebensdaten des Hl. Maiolus geschlossen.
 Vgl. mit Hinweisen für weiterführende Literatur: Neithard Bulst, Art. Maiolus, in: Lexikon des Mittelalters 6, Sp. 145-146 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-11].</Werkinformation>
       <gnd_Id/>
@@ -33762,7 +33897,9 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo und des Syrus, [006
       <Abfassungszeitraum>
          <Datum date="948-952">948-952</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Reims</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Reims</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -33952,7 +34089,9 @@ Vgl. mit Hinweisen für weiterführende Literatur: P. Chr. Jacobsen, Art. Flodoa
       <Abfassungszeitraum>
          <Datum date="1072-1082">1072-1082</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Mainz</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Mainz</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34439,7 +34578,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="742-838">742-822 mit Nachträgen zu 831, 832 und 838</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Fulda</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Fulda</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -34467,7 +34608,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="891-920">Nach 891</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster St. Vaast in Arras (Pas-de-Calais)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster St. Vaast in Arras (Pas-de-Calais)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -34495,7 +34638,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="823-830">823-830</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Straßburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Straßburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -34524,7 +34669,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="995-1005">Um 1000, 1024-1026</Datum>
          <Datum date="1024-1026">Um 1000, 1024-1026</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Abtei Cluny</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Abtei Cluny</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -34553,7 +34700,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="860-865">860-865</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Bremen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Bremen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34581,7 +34730,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="955-973">Um 960-973</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Stift Gandersheim</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Stift Gandersheim</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34610,7 +34761,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1082-1093">1082-1093</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Merseburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Merseburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34639,7 +34792,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="850-865">850-865</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Fulda</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Fulda</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34667,7 +34822,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="836-900">836-900</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Le Mans</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Le Mans</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -34696,14 +34853,16 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="865-876">865-876, 1101-um 1140</Datum>
          <Datum date="1101-1145">865-876, 1101-um 1140</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Bremen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Bremen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="801-865">801-865</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._683">Vita sancti Anskarii. A Rimberto et alio discipulo Anskarii conscripta, ed. Christoph Friedrich Dahlmann, in: MGH SS 2, Hannover 1829, S. 683-725</edition>; Vita Anskarii auctore Rimberto, ed. Georg Waitz, in: MGH SS rer. Germ. [55], Hannover 1884, S. 5-79.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._683">Vita sancti Anskarii. A Rimberto et alio discipulo Anskarii conscripta, ed. Christoph Friedrich Dahlmann, in: MGH SS 2, Hannover 1829, S. 683-725</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._55_S._5"> Vita Anskarii auctore Rimberto, ed. Georg Waitz, in: MGH SS rer. Germ. [55], Hannover 1884, S. 5-79.</edition></Editionshinweise>
       
       
       <Werkinformation>Neben der ursprünglichen Rezension ist noch eine zweite gekürzte und verfälschte Rezension des frühen 12. Jahrhunderts überliefert. Vgl. zum Werk: Vita Anskarii, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04104.html 20158-02-07]; vgl. zum Autor: Rimbertus archiepsicopus Hammburgensis et Bremensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118601040.html 2018-02-07].</Werkinformation>
@@ -34725,7 +34884,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1015-1025">Um 1019</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Hildesheim</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Hildesheim</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34753,7 +34914,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="965-969">965-969</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Köln</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Köln</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34781,7 +34944,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="874-877">874-877</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Corvey</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Corvey</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34809,7 +34974,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="785-795">Um 790</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Utrecht</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Utrecht</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34837,7 +35004,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1000-1179">1000-1179</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Brauweiler oder Köln</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Brauweiler oder Köln</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34866,7 +35035,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="854-1063">854-1063</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Benoît-sur-Loire</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Benoît-sur-Loire</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -34894,7 +35065,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="867-1060">867-1060</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Limoges</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Limoges</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -34922,7 +35095,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="782-814">782-814</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Niederaltaich</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Niederaltaich</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -34950,7 +35125,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="742-855">742-855</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Amand-les-Eaux</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Amand-les-Eaux</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -34978,7 +35155,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1338-1350">1338-1350</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Abtei St. Bavo in Gent</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Abtei St. Bavo in Gent</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35007,7 +35186,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="840-987">840-987</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Trier</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Trier</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35038,7 +35219,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="885-896">Um 890-896</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Germain-de-Près (Paris)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Germain-de-Près (Paris)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -35068,16 +35251,18 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="826">826, um 881-912</Datum>
          <Datum date="875-915">826, um 881-912</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="715-881">715-881</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2">Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge</edition>; Erchamberti breviarium regum Francorum et maiorum-domus ex Msc. sec. Augiae minoris, ed. Aemilianus Ussermann, in: Chronicon Hermanni Contracti : Ex Inedito Hucusque Codice Augiensi, Unacum Eius Vita Et Continuatione A Bertholdo eius discipulo scripta. Praemittuntur Varia Anecdota. Subiicitur Chronicon Petershusanum Ineditum ; 1, St. Blasien 1790, S. XLI-LII vollständig aus der Stuttgarter Handschrift.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2">Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge</edition>;<edition url="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10004568_00001.html"> Erchamberti breviarium regum Francorum et maiorum-domus ex Msc. sec. Augiae minoris, ed. Aemilianus Ussermann, in: Chronicon Hermanni Contracti : Ex Inedito Hucusque Codice Augiensi, Unacum Eius Vita Et Continuatione A Bertholdo eius discipulo scripta. Praemittuntur Varia Anecdota. Subiicitur Chronicon Petershusanum Ineditum ; 1, St. Blasien 1790, S. XLI-LII vollständig aus der Stuttgarter Handschrift.</edition></Editionshinweise>
       
-      <EditionLink url="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10004568_00001.html">Digitalisat bei Bayerische Staatsbibliothek Digital (Edition A. Ussermann 1790)</EditionLink>
+      
       <Werkinformation>Die Chronik wurde bis zum Jahr 826 von Erchambert verfasst; eine Fortsetzung für die Jahre 840-881 stammt sicher von Notker. Vgl. zum Werk: Breviarium regum Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02184.html 2018-02-15]; vgl. zu den Autoren: Erchanbertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_104348550.html 2018-02-15]; Notkerus Balbulus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118588850.html 2018-02-15].</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
@@ -35097,7 +35282,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="960-973">960-973</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Stift Gandersheim</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Stift Gandersheim</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35126,7 +35313,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="799">799</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -35156,14 +35345,16 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="875-905">Um 880-um 900</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="614-884">614-884</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._59">Casus S. Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 59-74</edition>; Ratpert, St. Galler Klostergeschichten (Casus sancti Galli), ed. Hannes Steiner (MGH SS rer. Germ. 75), Hannover 2002.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._59">Casus S. Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 59-74</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._75"> Ratpert, St. Galler Klostergeschichten (Casus sancti Galli), ed. Hannes Steiner (MGH SS rer. Germ. 75), Hannover 2002.</edition></Editionshinweise>
       
       
       <Werkinformation>Vgl. zum Werk: Casus S. Galli, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03976.html 2018-02-15]; vgl. zum Autor: Ratbertus monachus Sangallensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118598503.html 2018-02-15].</Werkinformation>
@@ -35185,7 +35376,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="972-1400">972-1203, mit einigen Ergänzungen bis ins 14. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35213,7 +35406,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1203-1240">1203-1240</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35241,14 +35436,16 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="726-799">726-799</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="657-727">Weltchronik, 657-727</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Merov._2_S._215">Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1888, S. 215-328</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Merov._7_S._772"> ed. Bruno Krusch, in: MGH SS rer. Merov. 7, Hannover – Leipzig 1920, S. 772-775 Varianten und Verbesserungen.</edition></Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Merov._2_S._215">Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1888, S. 215-328</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Merov._7_S._772"> Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 7, Hannover – Leipzig 1920, S. 772-775 Varianten und Verbesserungen.</edition></Editionshinweise>
       
       
       <Werkinformation>Vgl. zum Werk: Liber historiae Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03269.html 2018-02-15].</Werkinformation>
@@ -35268,7 +35465,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="700-800">8. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -35296,7 +35495,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="830-840">Um 836</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Fulda</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Fulda</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35325,7 +35526,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="970-975">Um 973, um 1002</Datum>
          <Datum date="1000-1005">Um 973, um 1002</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Nordhausen oder Quedlinburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Nordhausen oder Quedlinburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35353,16 +35556,18 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="826-859">826-859</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Corbie</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Corbie</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="745-826">Um 751-826</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._524">Ex vita Adalhard, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 524-532 Auszüge</edition>; Vita sancti Adalhardi Corbeiensis abbatis auctore s. Paschasio Radberto, ed. Jacques-Paul Migne, in: Sancti Paschasii Radberti abbatis Corbeiensis opera omnia (PL 120), Turnhout 1852, Sp. 1507-1556.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._524">Ex vita Adalhard, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 524-532 Auszüge</edition>;<edition url="https://books.google.de/books?id=b_8QAAAAYAAJ"> Vita sancti Adalhardi Corbeiensis abbatis auctore s. Paschasio Radberto, ed. Jacques-Paul Migne, in: Sancti Paschasii Radberti abbatis Corbeiensis opera omnia (PL 120), Turnhout 1852, Sp. 1507-1556.</edition></Editionshinweise>
       
-      <EditionLink url="https://books.google.de/books?id=b_8QAAAAYAAJ">Digitalisat bei books.google.de (Edition J.-P. Migne 1852)</EditionLink>
+     
       <Werkinformation>Vgl. zum Werk: Vita s. Adalhardi abbatis Corbeiensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03791.html 2018-02-20]; vgl. zum Autor: Paschasius Radbertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118739409.html 2018-02-20].</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
@@ -35383,16 +35588,18 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1114-1121">1114-1121</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Oudenbourg (Flandern)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Oudenbourg (Flandern)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="1035-1114">11. Jahrhundert - 1114</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_15,2_S._872">Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. Oswald Holder-Egger, in: MGH SS 15,2, Hannover 1888, S. 872-904 Auszüge</edition>; Vita s. Arnulfi confessoris auctore Hariulfo synchrono abbate Alendburgensi, quam adoptavit Lisiardus episcopus Suessionensis etiam coaevus, ed. Johannes Carnandet, in: AA SS Aug. 3, Rom – Paris ²1867, S. 230-259.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_15,2_S._872">Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. Oswald Holder-Egger, in: MGH SS 15,2, Hannover 1888, S. 872-904 Auszüge</edition>;<edition url="https://archive.org/details/bub_gb_Xrfbmgsk-z4C/page/n263"> Vita s. Arnulfi confessoris auctore Hariulfo synchrono abbate Alendburgensi, quam adoptavit Lisiardus episcopus Suessionensis etiam coaevus, ed. Johannes Carnandet, in: AA SS Aug. 3, Rom – Paris ²1867, S. 230-259.</edition></Editionshinweise>
       
-      <EditionLink url="https://archive.org/details/bub_gb_Xrfbmgsk-z4C/page/n263">Digitalisat bei archive.org (Edition Venedig 1752)</EditionLink>
+      
       <Werkinformation>Die Vita Bf. Arnulfs von Soissons verfasste Hairulf, der Abt des von Arnulf gegründeten Klosters Oudenbourg. Die Vita schickte Hairulf zur Durchsicht an Bf. Lisiard von Soissons, der dem Werk eine Prolog voranstellte, durch das er es als das seinige erscheinen ließ und ihm mehr Autorität verlieh. Vgl. zum Werk: Max Manitius, Geschichte der lateinischen Literatur des Mittelalters, Bd. 3: Vom Ausbruch des Kirchenstreites bis zum Ende des zwölften Jahrhunderts (Handbuch der Altertumswissenschaft 9,3), München 1931, S. 544f.</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
@@ -35412,7 +35619,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1090-1100">1090-1100</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Iburg</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Iburg</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35440,7 +35649,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="822-845">822-845</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Fulda</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Fulda</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35469,16 +35680,18 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1106-1128">1106-1128</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Cluny</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Cluny</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="1024-1109">1024-1109</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_15,2_S._940">Ex vita Hugonis auctore Rainaldo, ed. Lothar von Heinemann, in: MGH SS 15,2, Hannover 1888, S. 940-941 Auszüge</edition>; Vita s. Hugonis abbatis Cluniacensis auctore Raynaldo, ed. Jacques-Paul Migne, in: S. Anselmi ex Beccensi abbate Cantuariensis Archiepiscopi opera omnia nec non Eadmeri monachi historia novum et alia opuscula, Bd. 2 (PL 159), Paris 1854, Sp. 893-906.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_15,2_S._940">Ex vita Hugonis auctore Rainaldo, ed. Lothar von Heinemann, in: MGH SS 15,2, Hannover 1888, S. 940-941 Auszüge</edition>;<edition url="https://archive.org/details/patrologiaecurs175unkngoog/page/n452"> Vita s. Hugonis abbatis Cluniacensis auctore Raynaldo, ed. Jacques-Paul Migne, in: S. Anselmi ex Beccensi abbate Cantuariensis Archiepiscopi opera omnia nec non Eadmeri monachi historia novum et alia opuscula, Bd. 2 (PL 159), Paris 1854, Sp. 893-906.</edition></Editionshinweise>
       
-      <EditionLink url="https://archive.org/details/patrologiaecurs175unkngoog/page/n452">Digitalisat bei archive.org (Edition J.-P. Migne 1854)</EditionLink>
+      
       <Werkinformation>Vgl. zu Werk und Autor: Max Manitius, Geschichte der lateinischen Literatur des Mittelalters, Bd. 2: Von der Mitte des zehnten Jahrhunderts bis zum Ausbruch des Kampfes zwischen Kirche und Staat (Handbuch der Altertumswissenschaft 9,2), München 1923, S. 153-155.</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
@@ -35498,16 +35711,18 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="850-930">9.-10. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Amand-les-Eaux</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Amand-les-Eaux</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="700-800">8. Jahrhundert</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._360">Ex vita sancti Lebuini auctore Hucbaldo monacho s. Armandi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 360-364 Auszüge</edition>; Vita sancti Lebwini presbyteri et confessoris ab Hucbaldo, ad Baldricum episcopum Trajectensem scripta, ed. Jacques-Paul Migne, in: Reginonis Prumensis abbatis Hucbaldi monachi Elnonensis opera omnia (PL 132), Paris 1880, Sp. 877-894. </Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._360">Ex vita sancti Lebuini auctore Hucbaldo monacho s. Armandi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 360-364 Auszüge</edition>;<edition url="https://archive.org/details/patrologiaecurs00saingoog/page/n443"> Vita sancti Lebwini presbyteri et confessoris ab Hucbaldo, ad Baldricum episcopum Trajectensem scripta, ed. Jacques-Paul Migne, in: Reginonis Prumensis abbatis Hucbaldi monachi Elnonensis opera omnia (PL 132), Paris 1880, Sp. 877-894.</edition></Editionshinweise>
       
-      <EditionLink url="https://archive.org/details/patrologiaecurs00saingoog/page/n443">Digitalisat bei archive.org (Edition J.-P. Migne 1880)</EditionLink>
+      
       <Werkinformation>Vgl. zum Autor Franz-J. Konstanciak, Art. Hucbald (Hubaldus, Hucboldus) v. St-Amand, in: Lexikon des Mittelalters 5, Sp. 150-151 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2018-02-20].</Werkinformation>
       <gnd_Id>108805840X</gnd_Id>
       <wikidata_Id/>
@@ -35527,7 +35742,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="839-849">839-849</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Münster</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Münster</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35555,7 +35772,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="791-800">791-800</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Fulda</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Fulda</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35584,16 +35803,22 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1054-1061">Um 1038, 1054-1061</Datum>
          <Datum date="1035-1040">Um 1038, 1054-1061</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Hildesheim</Abfassungsort>
-      <Abfassungsort>Niederaltaich</Abfassungsort>
-      <Abfassungsort>Hersfeld</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Hildesheim</Ort>
+      </Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Niederaltaich</Ort>
+      </Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Hersfeld</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="960-1061">960-1061</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_11_S._167">Wolferi vita Godehardi episcopi piror, ed. Georg Heinrich Pertz, in: MGH SS 11, Hannover 1854, S. 167- 196</edition>; Wolferi vita Godehardi episcopi posterior, ed. Ders., in: ebd., S. 196-218.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_11_S._167">Wolferi vita Godehardi episcopi piror, ed. Georg Heinrich Pertz, in: MGH SS 11, Hannover 1854, S. 167- 196</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_11_S._196"> Wolferi vita Godehardi episcopi posterior, ed. Ders., in: ebd., S. 196-218.</edition></Editionshinweise>
       
       
       <Werkinformation>Es gibt zwei Fassungen der Vita. Die erste ist um 1038, die zweite zwischen 1054 und 1061 verfasst worden. Vgl. zum Werk: Vita s. Godehardi, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04672.html 2018-02-21]; vgl. zum Autor: Wolfherus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100964257.html 2018-02-21].</Werkinformation>
@@ -35616,7 +35841,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="700-900">8.-9. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Maixent (Niort)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Maixent (Niort)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -35644,7 +35871,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="834-838">834-838</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35672,7 +35901,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="845-871">Um 850-871</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35700,7 +35931,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1000-1057">1000-1057</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35728,7 +35961,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="760-797">760-797</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Tours</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Tours</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -35756,7 +35991,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="816-820">816-820</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Reichenau</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Reichenau</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35787,7 +36024,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="850-855">850-855</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Reichenau</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Reichenau</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35817,7 +36056,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="800-900">9. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -35846,7 +36087,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1000-1800">11. bis 18. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>St. Gallen</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">St. Gallen</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35874,7 +36117,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="724-1250">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Reichenau (?)</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Reichenau (?)</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35902,7 +36147,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="731-1300">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Konstanz [?]</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Konstanz [?]</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -35930,14 +36177,16 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="754-769">754-769</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Mainz</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Mainz</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="700-754">700-754</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._331">Vita s. Bonifatii archiepiscopi auctore Willibaldo presbytero, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 331-359</edition>; Vita Bonifatii auctore Willibaldo, ed. Wilhelm Levison, in: MGH SS rer. Germ. [57], Hannover – Leipzig 1905, S. 1-58.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._331">Vita s. Bonifatii archiepiscopi auctore Willibaldo presbytero, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 331-359</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._57"> Vita Bonifatii auctore Willibaldo, ed. Wilhelm Levison, in: MGH SS rer. Germ. [57], Hannover – Leipzig 1905, S. 1-58.</edition></Editionshinweise>
       
       
       <Werkinformation>Vgl. zum Werk: Vita s. Bonifatii, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04629.html 2018-02-23]; vgl. zum Autor: Willibaldus presbyter Moguntinus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118633341.html 2018-02-23].</Werkinformation>
@@ -35959,7 +36208,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="1000-1100">11. Jahrhundert [?]</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -35987,16 +36238,18 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="975-985">Um 980</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Werden an der Ruhr</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Werden an der Ruhr</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="745-980">Um 750-980</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._569">Ex vita s. Idae auctore Uffingo monacho Werthiniensi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 569-576 Auszüge</edition>; Die Lebensgeschichte der heiligen Ida von Herzfeld, ed. Roger Wilmans, in: Die Kaiserurkunden der Provinz Westfalen 777-1313 kritisch, topographisch und historisch. Nebst anderweitigen Documenten und Excursen, Bd. 1: Die Urkunden des Karolingischen Zeitalters. 777-900, Münster 1867, S. 469-488.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._569">Ex vita s. Idae auctore Uffingo monacho Werthiniensi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 569-576 Auszüge</edition>;<edition url="https://archive.org/details/bub_gb_XnIAAAAAcAAJ/page/n485"> Die Lebensgeschichte der heiligen Ida von Herzfeld, ed. Roger Wilmans, in: Die Kaiserurkunden der Provinz Westfalen 777-1313 kritisch, topographisch und historisch. Nebst anderweitigen Documenten und Excursen, Bd. 1: Die Urkunden des Karolingischen Zeitalters. 777-900, Münster 1867, S. 469-488.</edition></Editionshinweise>
       
-      <EditionLink url="https://archive.org/details/bub_gb_XnIAAAAAcAAJ/page/n485">Digitalisat bei archive.org (Edtition R. Wilmans 1867)</EditionLink>
+      
       <Werkinformation>Vgl. zum Werk: Vita s. Idae, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04481.html 2018-03-01]; vgl. zum Autor: Uffingus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_10096351X.html 2018-03-01].</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
@@ -36016,7 +36269,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="900-1000">10. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Abtei Montiér-en-Der</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Abtei Montiér-en-Der</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -36045,7 +36300,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="657-697">657-697</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Metz</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Metz</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -36073,7 +36330,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -36100,7 +36359,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36128,7 +36389,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Köln</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Köln</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -36156,7 +36419,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36184,7 +36449,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36212,16 +36479,18 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="">unbekannt</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._681">Ex historia translationis sanctae Pusinnae ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 681-683 Auszüge</edition>; Translatio S. Pusinnae, ed. Johannes Carnandet, in: AA SS 12, Rom – Paris ²1866, S. 172-174.</Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._681">Ex historia translationis sanctae Pusinnae ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 681-683 Auszüge</edition>;<edition url="https://archive.org/details/actasanctorum12unse/page/n219"> Translatio S. Pusinnae, ed. Johannes Carnandet, in: AA SS 12, Rom – Paris ²1866, S. 172-174.</edition></Editionshinweise>
       
-      <EditionLink url="https://archive.org/details/actasanctorum12unse/page/n219">Digitalisat bei archive.org (Edition J. Carnandet 1866)</EditionLink>
+      
       <Werkinformation>Keine näheren Informationen verfügbar.</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
@@ -36241,7 +36510,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36269,7 +36540,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36298,7 +36571,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="988-1004">988-1004</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Benoît-sur-Loire</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Benoît-sur-Loire</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -36326,7 +36601,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36354,7 +36631,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36382,7 +36661,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36410,7 +36691,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36438,7 +36721,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
@@ -36466,7 +36751,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="687-1101">687-1101</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Mainz</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Mainz</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -36494,7 +36781,9 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="600-700">7. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Fulda</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Fulda</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
       </Regionen>
@@ -36523,15 +36812,17 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Abfassungszeitraum>
          <Datum date="993-1002">um 998</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Saint-Benoît-sur-Loire</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Saint-Benoît-sur-Loire</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
          <Datum date="-5200-654">Von den Ursprüngen der Franken bis 654</Datum>
       </Berichtszeitraum>
-      <Editionshinweise>Aimoini historiae Francorum libri quatuor, ed. Jacques-Paul Migne, in: PL 139, Paris 1880, Sp. 627-802.</Editionshinweise>
-      <EditionLink url="https://archive.org/details/patrologiaecurs96unkngoog/page/n317">Digitalisat bei archive.org</EditionLink>
+      <Editionshinweise><edition url="https://archive.org/details/patrologiaecurs96unkngoog/page/n317">Aimoini historiae Francorum libri quatuor, ed. Jacques-Paul Migne, in: PL 139, Paris 1880, Sp. 627-802.</edition></Editionshinweise>
+      
       <Werkinformation>Die Historiae Francorum libri quatuor wurden von Aimoin von Fleury um 998 in vier Büchern verfasst. Aimoin, seit etwa 980 Mönch des Klosters Fleury in Saint-Benoît-sur-Loire, berichtet nach einer auf Cäsar und Plinius basierenden Beschreibung Galliens und Germaniens im 1. Buch über die trojanischen Ursprünge der Franken bis zum Tod Chlodwigs, im 2. Buch bis zum Tod Chlothars I. und im 3. Buch über die Wiedervereinigung des Königreiches unter Chlothar II. Das 4. Buch sollte die Zeit bis zur Krönung Pippins des Jüngeren umfassen, doch endet der Bericht abrupt im Jahr 654.
     Vgl. auch mit Hinweisen auf die weiterführende Literatur Régis Rech, Art. Aimon of Fleury, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 22.
     </Werkinformation>
@@ -36729,7 +37020,9 @@ Fuit autem vultu decorus, visu hilaris, mediocris statura, egregiaeque fortitudi
       <Abfassungszeitraum>
          <Datum date="1000-1100">Mitte des 11. Jahrhunderts</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Novalesa</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="7d7844a4-8c11-49b1-a44d-54c08689ff90" cert="high">Kloster Novalesa</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
       </Regionen>
@@ -37512,7 +37805,9 @@ Aimo, der als Hauptverantwortlicher für den Sieg über die Sarazenen genannt wi
       <Abfassungszeitraum>
          <Datum date="800-850">800-850</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Kloster Moissiac</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Kloster Moissiac</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -38171,7 +38466,9 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
       <Abfassungszeitraum>
          <Datum date="991-998">991-998</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Reims</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Reims</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>
@@ -38337,7 +38634,9 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
       <Abfassungszeitraum>
          <Datum date="750-760">um 754</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Toledo</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Toledo</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
       </Regionen>
@@ -41253,7 +41552,9 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
       <Abfassungszeitraum>
          <Datum date="999-1050">nach Gregors Tod (999) und vor Mitte des 11. Jahrhundert</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -41340,7 +41641,9 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
       <Abfassungszeitraum>
          <Datum date="1175-1195">Ende 12. Jahrhundert, ca. 1180-1190</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>Burtscheid</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="" cert="">Burtscheid</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
@@ -41426,7 +41729,9 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
       <Abfassungszeitraum>
          <Datum date="804-830">804-830</Datum>
       </Abfassungszeitraum>
-      <Abfassungsort>unbekannt</Abfassungsort>
+      <Abfassungsort>
+         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+      </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
       </Regionen>

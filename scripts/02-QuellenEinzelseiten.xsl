@@ -100,6 +100,8 @@
             <xsl:apply-templates/>       
        </mediawiki>
     </xsl:template> 
+    <xsl:variable name="all" select=".//Quelle"/>
+    
     <xsl:template match="Quelle" xml:space="default">
         <xsl:variable name="parent" select="parent::node()/parent::node()"/>
         <xsl:variable name="datierung" xml:space="default">
@@ -114,11 +116,11 @@
                 <xsl:otherwise><xsl:text>Keine Zeitangabe</xsl:text></xsl:otherwise>
             </xsl:choose>
         </xsl:variable>    
-        <xsl:variable name="abfssungsort"><xsl:choose>
+        <xsl:variable name="abfssungsort" xml:space="default"><xsl:choose>
             <xsl:when test="$parent/Abfassungsort eq ''">Abfassungsort Unbekannt</xsl:when>
             <xsl:when test="$parent/Abfassungsort eq '-'">Abfassungsort Unbekannt</xsl:when>
             <xsl:when test="$parent/Abfassungsort eq 'unbekannt'">Abfassungsort Unbekannt</xsl:when>
-            <xsl:otherwise><xsl:value-of select="$parent/Abfassungsort"/></xsl:otherwise>
+            <xsl:otherwise><xsl:value-of select="normalize-space($parent/Abfassungsort/data(.))" xml:space="default"/></xsl:otherwise>
         </xsl:choose></xsl:variable>
         <xsl:variable name="zeitangabe">
             <xsl:call-template name="normDate"><xsl:with-param name="date" select="./ZeitangabeWissenschaft/Datum[1]/@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template>
@@ -164,7 +166,7 @@
             <title><xsl:value-of select="$quellentitle"/></title>
             <ns>0</ns>
             <id>
-                <xsl:value-of select="$parent/position() + ./QuellenId + $fid"/>
+                <xsl:value-of select="index-of($all,.)+ $fid"/>
             </id>
             <revision>                
                 <id>0</id>
@@ -190,28 +192,28 @@
 |headerstyle  = background:#1b98d0; 
 |labelstyle   = background:#1b98d0; width:30%;
 |datastyle    = 
-|label1=Werktitel
-|data1=[[Werk::<xsl:value-of select="$parent/WerkTitel"/>]]
+|label1=aus dem Werk
+|data1=[[aus dem Werk::<xsl:value-of select="$parent/WerkTitel"/>]]
 |label2=Zitation
 |data2=<xsl:value-of select="./Zitation"/>
 |label4=zeitliche (Quellen-)Angabe
 |data4=<xsl:value-of select="$datierungQuelle"/>
-|label5=Datierung
+|label5=datiert auf
 |data5=<xsl:value-of select="$datierung"/>
-|label6=VerfasserIn
+|label6=abgefasst von
 |data6=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists($parent/Autoren/Autor[2])">
                             <xsl:for-each select="$parent/Autoren/Autor">
                                 <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
+                                <xsl:text>[[abgefasst von::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
                             </xsl:for-each>
                         </xsl:when>
                             <xsl:when test="$parent/Autoren/Autor[1] eq 'VerfasserIn unbekannt'">
-                                <xsl:text>[[VerfasserIn::VerfasserIn unbekannt]]</xsl:text>
+                                <xsl:text>[[abgefasst von::VerfasserIn unbekannt]]</xsl:text>
                             </xsl:when>
-                            <xsl:otherwise> <xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="$parent/Autoren/Autor/data(.)"/>]]</xsl:otherwise>
+                            <xsl:otherwise> <xsl:text>[[abgefasst von::</xsl:text><xsl:value-of select="$parent/Autoren/Autor/data(.)"/>]]</xsl:otherwise>
                         </xsl:choose></xsl:value-of>
-|label7=Abfassungsort
-|data7=[[Abfassungsort::<xsl:value-of select="$abfssungsort"/>]]
+|label7=abgefasst in
+|data7=[[abgefasst in::<xsl:value-of select="$abfssungsort"/>]]
 }}
 {{#set: 
     Zitation=<xsl:value-of select="./Zitation"/>
@@ -224,23 +226,23 @@
 <!--                   <xsl:value-of select="$kollektive/node()"/> -->
                     <xsl:call-template name="kategorien" xml:space="default">
                         <xsl:with-param name="data" select="./Auffaelligkeiten/Schlagwort" xml:space="default"/>
-                            <xsl:with-param name="type">Auffälligkeit</xsl:with-param>
+                            <xsl:with-param name="type">berichtet von</xsl:with-param>
                             <xsl:with-param name="enti" select="$eintitat"/>
                     </xsl:call-template>
                     <xsl:value-of  xml:space="default">                            
                             <xsl:call-template name="kategorien" xml:space="default">
                         <xsl:with-param name="data" select="./GeographischesStichwort/Ort" xml:space="default"/>
-                                <xsl:with-param name="type">Ort</xsl:with-param>
+                                <xsl:with-param name="type">geographischer Bezug</xsl:with-param>
                                 <xsl:with-param name="enti" select="$eintitat"/>
                     </xsl:call-template>
                         </xsl:value-of>  
                      <xsl:call-template name="kategorien" xml:space="default">
                         <xsl:with-param name="data" select="./Suchbegriffe/Suchwort" xml:space="default"/>
-          	         <xsl:with-param name="type">Suchbegriffe</xsl:with-param>
+          	         <xsl:with-param name="type">relevante Schlagworte</xsl:with-param>
           	         <xsl:with-param name="enti" select="$eintitat"/>
                     </xsl:call-template>
-                    | Datierung= <xsl:value-of select="$datierung"/>
-                    | QuellenAngabe=<xsl:value-of select="$datierungQuelle"/>
+                    | datiert auf= <xsl:value-of select="$datierung"/>
+                    | Datum laut Werk=<xsl:value-of select="$datierungQuelle"/>
                     | Inhaltsangabe=<xsl:value-of select="replace(replace($inhalt,'\&#93;',''),'\&#91;','')"/>
                     }}
                     
@@ -248,10 +250,10 @@
 === Weitere Quellenstellen ===
 {{#ask:
 [[Kategorie:Quelle]]
-[[Werk::<xsl:value-of select="$parent/WerkTitel"/>]]
+[[aus dem Werk::<xsl:value-of select="$parent/WerkTitel"/>]]
                     |mainlabel=Zitation
                     |?Inhaltsangabe#                   
-                    |?Datierung#
+                    |?datiert auf#
                     |format=table
                     |headers=plain
 }}                
@@ -280,7 +282,7 @@
         </page>
          </xsl:template>
     
-    <xsl:template match="Anmerkungen">
+    <xsl:template match="Quelle/Anmerkungen">
 &lt;poem&gt;<xsl:variable name="na" select="."/>
             <xsl:analyze-string select="." regex="\[(\d\d\d\d)\]\-\[(\d\d\d\d)\]">
                 <xsl:matching-substring xml:space="default">[[<xsl:value-of select="normalize-space($na/parent::node()/parent::node()/parent::node()/parent::node()/Dokumente[./WerkId eq regex-group(1)]/WerkTitel)"/><xsl:text> </xsl:text><xsl:value-of select="regex-group(2)"/>]]</xsl:matching-substring>
@@ -313,32 +315,6 @@
         <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]&#x200b;]</xsl:text>
     </xsl:template>
     <xsl:template match="VolltextOriginalsprache | VolltextUebersetzung | Inhaltsangabe | ZitationUebersetzung" xml:space="default" >
- <!--
-     ./parent::node()/parent::node()/parent::node()/parent::node()/parent::node()/Personen/Person
-        <xsl:variable name="terms">
-            <xsl:for-each select="parent::node()/Entitaeten/Entitaet">
-                <item><xsl:attribute name="type" select="./@Type"/>##<xsl:value-of select="./Name/data(.)"/>#</item>
-                <item><xsl:attribute name="type" select="./@Type"/>##<xsl:value-of select="./Name/data(.)"/>:#</item>
-            </xsl:for-each>
-           
-           <xsl:for-each select="parent::node()/Suchbegriffe/Suchwort">
-                <item><xsl:attribute name="type">Suchbegriffe</xsl:attribute>##<xsl:value-of select="./data(.)"/>#</item>
-            </xsl:for-each>
-        </xsl:variable>
-        <xsl:variable name="replacment">
-            <xsl:for-each select="$terms/node()">
-                <xsl:variable name="sel"><xsl:choose>
-                    <xsl:when test="contains(.,':')">[&#x200b;[[<xsl:value-of select="./@type"/>::<xsl:value-of select="substring-before(substring-after(.,'##'),':#')"/>]]&#x200b;:]</xsl:when>
-                    <xsl:otherwise>[&#x200b;[[<xsl:value-of select="./@type"/>::<xsl:value-of select="substring-before(substring-after(.,'##'),'#')"/>]]&#x200b;]</xsl:otherwise>
-                </xsl:choose>
-                </xsl:variable>
-                <item><xsl:value-of select="$sel"/></item>
-            </xsl:for-each>
-        </xsl:variable>          
-       <xsl:variable name="tex" select="replace(replace(./text(),'\&#93;','#'),'\&#91;','##')"/>
-        <xsl:variable name="repl" select="functx:replace-multi($tex,$terms/node(),$replacment/node())"/>       
-&lt;poem&gt;<xsl:value-of select="replace(replace(replace($repl,'##','&#91;'),'#','&#93;'),'\\n','\\n \\n')"/>&lt;/poem&gt;
-    -->
         &lt;poem&gt;<xsl:apply-templates/>&lt;/poem&gt;
     </xsl:template>
     <xsl:template match="VolltextOriginalsprache/text() | VolltextUebersetzung/text() | Inhaltsangabe/text() | ZitationUebersetzung/text()"><xsl:value-of select="."/></xsl:template>

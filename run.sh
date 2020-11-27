@@ -16,7 +16,7 @@ java -jar $saxon -s:$master -xsl:$scripts/02-QuellenEinzelseiten.xsl -o:$output/
 # Auskommentiert, da die Kategorien erklärtexte haben
  java -jar $saxon -s:$master -xsl:$scripts/03-kategorienseiten.xsl -o:$output/03-kategorienseiten.xml fid=3000 sid=2;
 #####
-java -jar $saxon -s:$master -xsl:$scripts/04-RegisterListen.xsl -o:$output/04-RegisterListen.xml fid=4000 sid=2;
+ java -jar $saxon -s:$master -xsl:$scripts/04-RegisterListen.xsl -o:$output/04-RegisterListen.xml fid=4000 sid=2;
 
 #java -jar $saxon -s:$files/0-title.xml -xsl:$scripts/00-titel.xsl -o:$output/0-title.xml;
 

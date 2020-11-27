@@ -110,6 +110,10 @@ Datierung
 MediaWiki:Sidebar
 Vorlage:WikiProject Transwiki/Template:Infobox
 MediaWiki:Common.css
+Vorlage:LocationMap
+Vorlage:Ort
+Vorlage:Person
+Vorlage:Description
 
 
 DELETE FROM page;

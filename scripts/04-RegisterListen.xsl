@@ -18,150 +18,115 @@
     </xsl:function>
     
     <xsl:template match="/">
-        <xsl:variable name="list"><list>
+        <xsl:variable name="Register-List">
             <xsl:apply-templates/>
-        </list></xsl:variable>
+        </xsl:variable>
         
-        <xsl:variable name="aufa">
+        <xsl:variable name="List-from-Quellen">
             <xsl:for-each select="distinct-values(.//Auffaelligkeiten/Schlagwort)">
-                <item><xsl:value-of select="normalize-space(.)"/></item>
-            </xsl:for-each>
-        </xsl:variable>
-        <xsl:variable name="such">
-            <xsl:for-each select="distinct-values(.//Suchbegriffe/Suchwort)">
-                <item><xsl:value-of select="normalize-space(.)"/></item>
-            </xsl:for-each>
-        </xsl:variable>
-        <xsl:variable name="geo">
-            <xsl:for-each select="distinct-values(.//GeographischesStichwort/Ort)">
-                <item><xsl:value-of select="normalize-space(.)"/></item>
-            </xsl:for-each>
-        </xsl:variable>
-        <xsl:variable name="regionen">
-            <xsl:for-each select="distinct-values(.//Regionen/Region/data(.))">
-                <item><xsl:value-of select="normalize-space(.)"/></item>
-            </xsl:for-each>
-        </xsl:variable> 
-        <xsl:variable name="list2">
-            <xsl:for-each select="distinct-values($aufa/item)">
                 <entity>
                     <main><xsl:value-of select="."/></main>
                     <mentioned>Auffälligkeit</mentioned>
                 </entity>
-            </xsl:for-each>            
-            <xsl:for-each select="distinct-values($such/item)">
+            </xsl:for-each>
+            <xsl:for-each select="distinct-values(.//Suchbegriffe/Suchwort)">
                 <entity>
                     <main><xsl:value-of select="."/></main>
-                    <mentioned>Suchbegriffe</mentioned>
+                    <mentioned>Suchwort</mentioned>
                 </entity>
             </xsl:for-each>
-            <xsl:for-each select="distinct-values($geo/item)">
+            <xsl:for-each select="distinct-values(.//GeographischesStichwort/Ort)">
                 <entity>
                     <main><xsl:value-of select="."/></main>
                     <mentioned>Ort</mentioned>
                 </entity>
             </xsl:for-each>
-            <!--
-            <xsl:for-each select="distinct-values($regionen/item)">
-                <entity>
-                    <main><xsl:value-of select="."/></main>
-                    <mentioned>Abfassungsregion</mentioned>
-                </entity>
-            </xsl:for-each>
-            -->
         </xsl:variable>
-       <!--
-        <xsl:value-of select="count($list/node()/node()/node()[1])"/>
-        <br/>
-        <xsl:value-of select="count(distinct-values($list/node()/node()/node()[1]))"/>
-        <xsl:value-of select="conta"/>
-     
-        <xsl:copy-of select="$list"/>
-        <xsl:copy-of select="$list2"/>
-       --> 
-        <xsl:variable name="list3">
-        <xsl:for-each select="$list2/entity">          
-            <xsl:if test="functx:eq-any-of(./main,($list//main, $list//second))">
-                <xsl:variable name="hit" select="."/>
-                <xsl:for-each select="$list//entity">
-                    <xsl:if test="./main eq $hit/main">
-                        <entity>
-                            <xsl:attribute name="id" select="./@id"/>
-                            <xsl:copy-of select="./*"/>
-                            <xsl:for-each select="$hit/mentioned">
-                                <mentioned><name><xsl:value-of select="."/></name></mentioned>
-                            </xsl:for-each>
-                            <!--<mentioned><xsl:value-of select="$hit/mentioned"/></mentioned>-->
-                        </entity>
-                    </xsl:if>
-                    <xsl:if test="functx:eq-any-of($hit/main, ./second)">
-                        <entity>
-                            <xsl:attribute name="id" select="./@id"/>
-                            <xsl:copy-of select="./*"/>
-                            <xsl:for-each select="$hit/mentioned">
-                                <mentioned><xsl:attribute name="second" select="."></xsl:attribute><name><xsl:value-of select="$hit/main"/></name></mentioned>
-                            </xsl:for-each>
-                          <!--  <mentioned><xsl:attribute name="second" select="$hit/mentioned"></xsl:attribute><xsl:value-of select="$hit/main"/></mentioned>-->
-                        </entity>
-                    </xsl:if>
-                </xsl:for-each>
-            </xsl:if>
-            <xsl:if test="not(functx:eq-any-of(./main,($list//main, $list//second)))">
+        
+        <xsl:variable name="Merge-List-from-Quellen">
+            <xsl:for-each-group select="$List-from-Quellen/entity" group-by="./main">
                 <entity>
-                    <xsl:attribute name="id" select="./main"/>
-                    <main><xsl:value-of select="./main"/></main>
-                    <xsl:for-each select="./mentioned">
-                        <mentioned><name><xsl:value-of select="."/></name></mentioned>
+                    <main><xsl:value-of select="current-grouping-key()"/></main>
+                    <xsl:for-each select="current-group()/mentioned">
+                        <mentioned><xsl:value-of select="."/></mentioned>                        
                     </xsl:for-each>
                 </entity>
-            </xsl:if>
-            
-        </xsl:for-each>
-            <xsl:for-each select="$list//entity">
-                <xsl:if test="not(functx:eq-any-of(./main,$list2//main))">
-                        <entity>
-                            <xsl:attribute name="id" select="./@id"/>
-                            <main><xsl:value-of select="./main"/></main>
-                            <xsl:for-each select="./mentioned">
-                                <mentioned><name><xsl:value-of select="."/></name></mentioned>
-                            </xsl:for-each>
-                            <xsl:if test="exists(./Lebensdaten)"><Lebensdaten><xsl:value-of select="./Lebensdaten/text()"/></Lebensdaten></xsl:if>
-                            <xsl:if test="exists(./Rolle)"><xsl:for-each select="./Rolle"><Rolle><xsl:value-of select="."/></Rolle></xsl:for-each></xsl:if>
-                            <xsl:if test="exists(./getty_Id)"><getty_Id><xsl:value-of select="./getty_Id"/></getty_Id></xsl:if>
-                            <xsl:if test="exists(geo_getty)"><xsl:copy-of select="geo_getty"/></xsl:if>
-                            <xsl:if test="exists(./gnd_Id)"><gnd_Id><xsl:value-of select="./gnd_Id"/></gnd_Id></xsl:if>
-                            <xsl:if test="exists(./Typ)"><xsl:for-each select="./Typ"><Typ><xsl:value-of select="."/></Typ></xsl:for-each></xsl:if>
-                        </entity>
+            </xsl:for-each-group>
+        </xsl:variable>
+        
+        <xsl:variable name="check-lists-each-other">
+            <xsl:for-each select="$Merge-List-from-Quellen/entity">          
+                <xsl:if test="functx:eq-any-of(./main,($Register-List//main, $Register-List//second))">
+                    <xsl:variable name="hit" select="."/>
+                    <xsl:for-each select="$Register-List//entity">
+                        <xsl:if test="./main eq $hit/main">
+                            <entity>
+                                <xsl:attribute name="id" select="./@id"/>
+                                <xsl:copy-of select="./*"/>
+                                <xsl:for-each select="$hit/mentioned">
+                                    <mentioned><name><xsl:value-of select="."/></name></mentioned>
+                                </xsl:for-each>
+                                <!--<mentioned><xsl:value-of select="$hit/mentioned"/></mentioned>-->
+                            </entity>
+                        </xsl:if>
+                        <xsl:if test="functx:eq-any-of($hit/main, ./second)">
+                            <entity>
+                                <xsl:attribute name="id" select="./@id"/>
+                                <xsl:copy-of select="./*"/>
+                                <xsl:for-each select="$hit/mentioned">
+                                    <mentioned><xsl:attribute name="second" select="."></xsl:attribute><name><xsl:value-of select="$hit/main"/></name></mentioned>
+                                </xsl:for-each>
+                            </entity>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:if>
+                <xsl:if test="not(functx:eq-any-of(./main,($Register-List//main, $Register-List//second)))">
+                    <entity>
+                        <xsl:attribute name="id" select="./main"/>
+                        <main><xsl:value-of select="./main"/></main>
+                        <xsl:for-each select="./mentioned">
+                            <mentioned><name><xsl:value-of select="."/></name></mentioned>
+                        </xsl:for-each>
+                    </entity>
+                </xsl:if>
+                
+            </xsl:for-each>
+            <xsl:for-each select="$Register-List//entity">
+                <xsl:if test="not(functx:eq-any-of(./main,$Merge-List-from-Quellen//main))">
+                    <entity>
+                        <xsl:attribute name="id" select="./@id"/>
+                        <main><xsl:value-of select="./main"/></main>
+                        <xsl:for-each select="./mentioned">
+                            <mentioned><name><xsl:value-of select="."/></name></mentioned>
+                        </xsl:for-each>
+                        <xsl:copy-of select="./meta"></xsl:copy-of>
+                    </entity>
                 </xsl:if>
             </xsl:for-each>
         </xsl:variable>
-        <xsl:variable name="list4" >
-        <xsl:for-each-group select="$list3/entity" group-by="./@id">
-            <entity>
-                <xsl:attribute name="id" select="distinct-values(current-group()/@id)"/>
-                <main><xsl:value-of select="distinct-values(current-group()/main)"/></main>
-               <xsl:for-each select="distinct-values(current-group()/second)">
-                   <second><xsl:value-of select="."/></second>
-               </xsl:for-each>
-                <xsl:if test="exists(current-group()/Lebensdaten)"><Lebensdaten><xsl:value-of select="distinct-values(current-group()/Lebensdaten/text())"/></Lebensdaten></xsl:if>
-                <xsl:if test="exists(current-group()/Rolle)"><xsl:for-each select="distinct-values(current-group()/Rolle)"><Rolle><xsl:value-of select="."/></Rolle></xsl:for-each></xsl:if>
-                <xsl:if test="exists(current-group()/getty_Id)"><getty_Id><xsl:value-of select="distinct-values(current-group()/getty_Id)"/></getty_Id></xsl:if>
-                <xsl:if test="exists(current-group()/gnd_Id)"><gnd_Id><xsl:value-of select="distinct-values(current-group()/gnd_Id)"/></gnd_Id></xsl:if>
-                <xsl:if test="exists(current-group()/geo_getty)"><geo_getty><longitude><xsl:value-of select="distinct-values(current-group()/geo_getty/longitude)"/></longitude><latitude><xsl:value-of select="distinct-values(current-group()/geo_getty/latitude)"/></latitude></geo_getty></xsl:if>
-                <xsl:if test="exists(current-group()/Typ)"><xsl:for-each select="distinct-values(current-group()/Typ)"><Typ><xsl:value-of select="."/></Typ></xsl:for-each></xsl:if>
-                <xsl:for-each-group select="current-group()/mentioned" group-by="./name">
-                    <xsl:for-each select="current-group()">
-                        <mentioned>
-                            <xsl:if test="./@second">
-                                <xsl:attribute name="second" select="distinct-values(./@second)"></xsl:attribute>
-                            </xsl:if>
-                            <xsl:value-of select="current-grouping-key()"/>
-                        </mentioned>
-                    </xsl:for-each>                    
-                </xsl:for-each-group>
-            </entity>
-        </xsl:for-each-group>        
-            </xsl:variable>
+        <xsl:variable name="fill-mergelists" >
+            <xsl:for-each-group select="$check-lists-each-other/entity" group-by="./@id">
+                <entity>
+                    <xsl:attribute name="id" select="distinct-values(current-group()/@id)"/>
+                    <main><xsl:value-of select="distinct-values(current-group()/main)"/></main>
+                    <xsl:for-each select="distinct-values(current-group()/second)">
+                        <second><xsl:value-of select="."/></second>
+                    </xsl:for-each>
+                    <xsl:copy-of select="current-group()[1]/Typ"/>
+                    <xsl:copy-of select="current-group()[1]/meta"></xsl:copy-of>
+                    <xsl:for-each-group select="current-group()/mentioned" group-by="./name">
+                        <xsl:for-each select="current-group()">
+                            <mentioned>
+                                <xsl:if test="./@second">
+                                    <xsl:attribute name="second" select="distinct-values(./@second)"></xsl:attribute>
+                                </xsl:if>
+                                <xsl:value-of select="current-grouping-key()"/>
+                            </mentioned>
+                        </xsl:for-each>                    
+                    </xsl:for-each-group>
+                </entity>
+            </xsl:for-each-group>        
+        </xsl:variable>
         
         <xsl:variable name="regionen">
             <xsl:for-each select="distinct-values(.//Regionen/Region)">
@@ -172,8 +137,8 @@
             </xsl:for-each>
         </xsl:variable>
         
-        <xsl:variable name="menti">
-            <xsl:for-each select="$list4//mentioned">
+        <xsl:variable name="mentioned-entrys">
+            <xsl:for-each select="$fill-mergelists//mentioned">
                 <xsl:if test="exists(./attribute())">
                     <entity>
                         <main><xsl:value-of select="."/></main>
@@ -182,11 +147,24 @@
                     </entity>
                 </xsl:if>
             </xsl:for-each>
-        </xsl:variable>       
+        </xsl:variable>
+        
+       <!-- <list>
+            <register-list><xsl:value-of select="count($Register-List/entity)"/></register-list>
+            <list-from-quellen><xsl:value-of select="count($List-from-Quellen/entity)"/></list-from-quellen>
+            <Merge-list-from-quellen><xsl:value-of select="count($Merge-List-from-Quellen/entity)"/></Merge-list-from-quellen>
+            <list3><xsl:value-of select="count($check-lists-each-other/entity)"/></list3>
+            <list4><xsl:value-of select="count($fill-mergelists/entity)"/></list4>
+            <xsl:copy-of select="$fill-mergelists"></xsl:copy-of>
+        </list>-->
+        
+        
+        
         <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
             version="0.10" xml:lang="de">
+           <!-- <xsl:copy-of select="$fill-mergelists"></xsl:copy-of>-->
             <siteinfo>
                 <sitename>Sarazenen Wiki</sitename>
                 <dbname>sarazenen-bonn</dbname>
@@ -223,303 +201,175 @@
                     <namespace key="828" case="first-letter">Modul</namespace>
                     <namespace key="829" case="first-letter">Modul Diskussion</namespace>
                 </namespaces>
-            </siteinfo>            
-            <xsl:for-each select="($list4/entity,$menti/entity)">
-            
-                <xsl:variable name="name" select="main"/>
-            
-                <!--
-                <xsl:variable name="name">
-                    <xsl:choose>
-                        <xsl:when test="./@id != ''"><xsl:value-of select="substring-after(./@id,'-')"/></xsl:when>
-                        <xsl:otherwise><xsl:value-of select="main"/></xsl:otherwise>
-                    </xsl:choose>
-                </xsl:variable>
-                -->
-            <xsl:variable name="set">
-                <xsl:if test="exists(./Lebensdaten)"><item>Lebensdaten=<xsl:value-of select="./Lebensdaten"/></item></xsl:if>
-                <xsl:if test="exists(./Rolle)"><xsl:for-each select="Rolle"><item>Rolle=<xsl:value-of select="."/></item></xsl:for-each></xsl:if>
-            </xsl:variable>
-            <xsl:variable name="va" xml:space="default">&lt;ul&gt;<xsl:for-each select="second">&lt;li&gt;<xsl:value-of select="."/>&lt;/li&gt;</xsl:for-each>&lt;/ul&gt;</xsl:variable>
-                <xsl:variable name="ro" xml:space="default">&lt;ul&gt;<xsl:for-each select="Rolle">&lt;li&gt;<xsl:value-of select="."/>&lt;/li&gt;</xsl:for-each>&lt;/ul&gt;</xsl:variable>
-                <xsl:variable name="se" xml:space="default">
-                    <xsl:if test="exists(second)"><xsl:text>&lt;br /&gt; Für </xsl:text><xsl:value-of select="$name"/><xsl:text> werden diese Alternativnamen verwendet:</xsl:text><xsl:value-of select="$va"></xsl:value-of></xsl:if>
-                    <xsl:if test="exists(./Rolle)"><xsl:text>&lt;br /&gt;</xsl:text><xsl:value-of select="$name"/><xsl:text> wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt:</xsl:text><xsl:value-of select="$ro"></xsl:value-of></xsl:if>
-                    <xsl:if test="getty_Id"><xsl:text>&lt;br /&gt;Weiterführende Hinweise finden Sie bei Getty Thesaurus of Geographic Names Online </xsl:text><xsl:value-of select="concat('[','http://vocab.getty.edu/tgn/',./getty_Id,' Getty]')"/></xsl:if>
-                    <xsl:if test="gnd_Id"><xsl:text>&lt;br /&gt;Weiterführende Hinweise finden Sie bei </xsl:text><xsl:value-of select="concat('[','http://d-nb.info/gnd/',./gnd_Id,' GND]')"/></xsl:if>
-                </xsl:variable>
-            <page>
-                <title>
-                    <xsl:value-of select="$name"/>
-                </title>
-                <ns>0</ns>
-                <id>
-                    <xsl:value-of select="position() + $fid"/>
-                </id>
-                <revision>
-                    <id>0</id>
-                    <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
-                    <contributor>
-                        <username>Administrator</username>
-                        <id>1</id>
-                    </contributor>
-                    <model>wikitext</model>
-                    <format>text/x-wiki</format>
-                    <text xml:space="default" bytes="3441">
-<xsl:if test="exists(link)"><xsl:value-of select="link"/></xsl:if>
-                        {{WikiProject_Transwiki/Template:Infobox
-                        |title=
-                        |above=<xsl:value-of select="$name"/>
-                        |image=
-                        |caption=
-                        
-                        |bodyclass = class;
-                        |bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
-                        |abovestyle = background:#1b98d0; 
-                        |headerstyle  = background:#1b98d0; 
-                        |labelstyle   = background:#1b98d0; width:30%;
-                        |datastyle    = 
-                        
-                        |label1=getty
-                        |data1=<xsl:value-of select="./geo_getty"/>
-                        |label2=viaf
-                        |data2=
-                        |label3=gnd
-                        |data3=
-                        }}
-                        <xsl:if test="exists(./geo_getty)">
-                            {{#display_map:center=<xsl:value-of select="./geo_getty/latitude"/>,<xsl:value-of select="./geo_getty/longitude"/>}}
-{{#set:
-|latitude=<xsl:value-of select="./geo_getty/latitude"/>
-                            |longitude=<xsl:value-of select="./geo_getty/longitude"/>
-                            |Coordinates=<xsl:value-of select="./geo_getty/latitude"/>,<xsl:value-of select="./geo_getty/longitude"/>
-}}
-                        </xsl:if>
-                        {{#set:
-                        <xsl:value-of select="string-join($set/node(),' |')"/>
-                        }}
-<xsl:if test="exists(./Lebensdaten)">Lebensdaten: <xsl:value-of select="./Lebensdaten/data(.)"/></xsl:if>                        
-<xsl:value-of select="$se" xml:space="default"/>                        
-                        <xsl:for-each select="mentioned">
-                            <xsl:if test="not(exists(./attribute()))">
-                                 <xsl:choose xml:space="default">
-                                     <xsl:when test=". eq 'VerfasserIn'">
+            </siteinfo> 
+            <xsl:for-each select="$fill-mergelists/entity">
+                <xsl:variable name="name" select="./main"/>
+                <xsl:variable name="output" xml:space="default">
+                    <xsl:for-each select="mentioned" xml:space="default">
+                        <xsl:if test="not(exists(./attribute()))">
+                            <xsl:choose xml:space="default">
+                                <xsl:when test=". eq 'VerfasserIn'">
 === Werke des Verfassers ===
-                                         {{#ask: 
-                                         [[Kategorie:Werk]]
-                                         [[VerfasserIn::<xsl:value-of select="$name"/>]]                    
-                                         |?Abfassungszeit#
-                                         |?Berichtszeitraum#
-                                         |?Abfassungsort
-                                         |format=table
-                                         |mainlabel=Werke des Verfassers
-                                         }}
-                                     </xsl:when>
-                                     <xsl:when test=". eq 'Person'">
+{{#ask: 
+[[Kategorie:Werk]]
+[[abgefasst von::<xsl:value-of select="$name"/>]]                    
+|?Abfassungszeit#
+|?Berichtszeitraum#
+|?abgefasst in
+|format=table
+|mainlabel=Werke des Verfassers
+}}
+                                </xsl:when>
+                                <xsl:when test=". eq 'Person'">
 === Personennennung ===
 Übersicht über die Nennung von <xsl:value-of select="$name"/> im Repertorium Saracenorum:
-                                         {{#ask: 
-                                         [[Kategorie:Quelle]]
-                                         [[Person::<xsl:value-of select="$name"/>]]
-                                         |?Interaktion# 
-                                         |?VerfasserIn
-                                         |?Werk
-                                         |?Datierung#
-                                         |?QuellenAngabe#
-                                         |?Abfassungsort
-                                         |format=table
-                                         |mainlabel=Personennennung
-                                         }}
-                                     </xsl:when>
-                                     <xsl:when test=". eq 'Ort'">
+{{#ask: 
+[[Kategorie:Quelle]]
+[[Person::<xsl:value-of select="$name"/>]]
+|?Interaktion# 
+|?abgefasst von
+|?aus dem Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Personennennung
+}}
+                                </xsl:when>
+                                <xsl:when test=". eq 'Ort'">
 === Ortsnennungen ===
 Übersicht über die Nennung von <xsl:value-of select="$name"/> im Repertorium Saracenorum
-                                         {{#ask: 
-                                         [[Kategorie:Quelle]]
-                                         [[Ort::<xsl:value-of select="$name"/>]]
-                                         |?Interaktion# 
-                                         |?VerfasserIn 
-                                         |?Werk
-                                         |?Datierung#
-                                         |?QuellenAngabe#
-                                         |?Abfassungsort
-                                         |format=table
-                                         |mainlabel=Ortsnennungen
-                                         }}
-                                     </xsl:when>
-                                     <!--<xsl:when test=". eq 'Abfassungsregion'">
-=== Abfassungsregion ===
-                                         {{#ask: 
-                                         [[Kategorie:Werk]]
-                                         [[Abfassungsregion::<xsl:value-of select="$name"/>]]
-                                         |?VerfasserIn
-                                         |?Datierung#
-                                         |?Abfassungsort
-                                         |format=table
-                                         |mainlabel=Abfassungsregion
-                                         }}
-                                     </xsl:when>
-                                     
-                                     <xsl:when test=". eq 'Abfassungsregion'">
-=== Abfassungsregion ===
-                                         {{#ask: 
-                                         [[Kategorie:Werk]]
-                                         [[Abfassungsregion::<xsl:value-of select="$name"/>]]
-                                         |?Sarazenenbezug# 
-                                         |?VerfasserIn
-                                         |?Berichtszeitraum#
-                                         |?Abfassungszeit#
-                                         |?Abfassungsort
-                                         |format=table
-                                         |mainlabel=Abfassungsregion
-                                         }}
-                                     </xsl:when>
-                                     -->
-                                     <xsl:when test=". eq 'Suchbegriffe'">
+{{#ask: 
+[[Kategorie:Quelle]]
+[[geographischer Bezug::<xsl:value-of select="$name"/>]]
+|?Interaktion# 
+|?abgefasst von 
+|?aus dem Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Ortsnennungen
+}}
+                                </xsl:when>
+                                <xsl:when test=". eq 'Suchwort'">
 === Suchbegriff ===
 Übersicht über die Verwendung von <xsl:value-of select="$name"/> als Suchbegriff:
-                                         {{#ask: 
-                                         [[Kategorie:Quelle]]
-                                         [[Suchbegriffe::<xsl:value-of select="$name"/>]]
-                                         |?Interaktion# 
-                                         |?VerfasserIn
-                                         |?Werk
-                                         |?Datierung#
-                                         |?QuellenAngabe#
-                                         |?Abfassungsort
-                                         |format=table
-                                         |mainlabel=Suchbegriff
-                                         }}
-                                     </xsl:when>
-                                     <xsl:when test=". eq 'Auffälligkeit'">
+{{#ask: 
+[[Kategorie:Quelle]]
+[[relevante Schlagworte::<xsl:value-of select="$name"/>]]
+|?Interaktion# 
+|?abgefasst von
+|?aus dem Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Suchbegriff
+}}
+                                </xsl:when>
+                                <xsl:when test=". eq 'Auffälligkeit'">
 === Vorkommen ===
-                                         {{#ask: 
-                                         [[Kategorie:Quelle]]
-                                         [[Auffälligkeit::<xsl:value-of select="$name"/>]]
-                                         |?Interaktion# 
-                                         |?VerfasserIn
-                                         |?Werk
-                                         |?Datierung#
-                                         |?QuellenAngabe#
-                                         |?Abfassungsort
-                                         |format=table
-                                         |mainlabel=Auffälligkeit
-                                         }}
-                                     </xsl:when>
-                                 </xsl:choose>                                
-                                <xsl:if test="not(. eq 'Ort')">[[Kategorie:<xsl:value-of select="."/>]]</xsl:if>                          
-                            </xsl:if>
-                        </xsl:for-each>
-                        
-                        <xsl:for-each select="mentioned">
-                            <xsl:if test="exists(./attribute())">
-                                <xsl:choose>
-                                    <xsl:when test="./@second eq 'VerfasserIn'">
-=== Werke des Verfassers <xsl:value-of select="."/> ===
-                                        {{#ask: 
-                                        [[Kategorie:Werk]]
-                                        [[VerfasserIn::<xsl:value-of select="."/>]]                    
-                                        |?Abfassungszeit#
-                                        |?Berichtszeitraum#
-                                        |?Abfassungsort
-                                        |format=table
-                                        |mainlabel=Werke des Verfassers <xsl:value-of select="."/>
-                                        }}
-                                    </xsl:when>
-                                    <xsl:when test="./@second eq 'Person'">
-=== Personennennung <xsl:value-of select="."/> ===
-                                        {{#ask: 
-                                        [[Kategorie:Quelle]]
-                                        [[Person::<xsl:value-of select="."/>]]
-                                        |?Interaktion# 
-                                        |?VerfasserIn
-                                        |?Werk
-                                        |?Datierung#
-                                        |?QuellenAngabe#
-                                        |?Abfassungsort
-                                        |format=table
-                                        |mainlabel=Personennennung <xsl:value-of select="."/>
-                                        }}
-                                    </xsl:when>
-                                    <xsl:when test="./@second eq 'Ort'">
-=== Ortsnennungen <xsl:value-of select="."/> ===
-                                        {{#ask: 
-                                        [[Kategorie:Quelle]]
-                                        [[Ort::<xsl:value-of select="."/>]]
-                                        |?Interaktion# 
-                                        |?VerfasserIn 
-                                        |?Werk
-                                        |?Datierung#
-                                        |?QuellenAngabe#
-                                        |?Abfassungsort
-                                        |format=table
-                                        |mainlabel=Ortsnennungen <xsl:value-of select="."/>
-                                        }}
-                                    </xsl:when>
-                                    <!--
-                                    <xsl:when test="./@second eq 'Abfassungsregion'">
-=== Abfassungsregion <xsl:value-of select="."/> ===
-                                        {{#ask: 
-                                        [[Kategorie:Werk]]
-                                        [[Abfassungsregion::<xsl:value-of select="."/>]]
-                                        |?VerfasserIn
-                                        |?Datierung#
-                                        |?Abfassungsort
-                                        |format=table
-                                        |mainlabel=Abfassungsregion <xsl:value-of select="."/>
-                                        }}
-                                    </xsl:when>
-                                    -->
-                                    <xsl:when test="./@second eq 'Suchbegriffe'">
-=== Suchbegriff <xsl:value-of select="."/> ===
-                                        {{#ask: 
-                                        [[Kategorie:Quelle]]
-                                        [[Suchbegriffe::<xsl:value-of select="."/>]]
-                                        |?Interaktion# 
-                                        |?VerfasserIn
-                                        |?Werk
-                                        |?Datierung#
-                                        |?QuellenAngabe#
-                                        |?Abfassungsort
-                                        |format=table
-                                        |mainlabel=Suchbegriff <xsl:value-of select="."/>
-                                        }}
-                                    </xsl:when>
-                                    <xsl:when test="./@second eq 'Auffälligkeit'">
-=== Vorkommen <xsl:value-of select="."/> ===
-                                        {{#ask: 
-                                        [[Kategorie:Quelle]]
-                                        [[Auffälligkeit::<xsl:value-of select="."/>]]
-                                        |?Interaktion# 
-                                        |?VerfasserIn
-                                        |?Werk
-                                        |?Datierung#
-                                        |?QuellenAngabe#
-                                        |?Abfassungsort
-                                        |format=table
-                                        |mainlabel=Auffälligkeit <xsl:value-of select="."/>
-                                        }}
-                                    </xsl:when>
-                                </xsl:choose>                                
-                                <xsl:if test="not(./@second eq 'Ort')">[[Kategorie:<xsl:value-of select="./@second"/>]]</xsl:if>                          
-                                                               
-                            </xsl:if>
-                        </xsl:for-each>
-                        
-                        <xsl:if test="exists(Typ)">
-                            <xsl:for-each select="Typ">
-                                [[Kategorie:<xsl:value-of select="."/>]]  
-                            </xsl:for-each>
+{{#ask: 
+[[Kategorie:Quelle]]
+[[berichtet von::<xsl:value-of select="$name"/>]]
+|?Interaktion# 
+|?abgefasst von
+|?Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Auffälligkeit
+}}
+                                </xsl:when>
+                            </xsl:choose>                                
                         </xsl:if>
-                    </text>
-                    <sha1></sha1>
-                </revision>
-            </page>
-        </xsl:for-each>           
-        
-            <xsl:for-each select="$regionen/node()">
+                    </xsl:for-each>                    
+                    <xsl:for-each select="mentioned" xml:space="default">
+                        <xsl:if test="exists(./attribute())">
+                            <xsl:choose xml:space="default">
+                                <xsl:when test="./@second eq 'VerfasserIn'">
+=== Werke des Verfassers <xsl:value-of select="."/> ===
+{{#ask: 
+[[Kategorie:Werk]]
+[[abgefasst von::<xsl:value-of select="."/>]]                    
+|?Abfassungszeit#
+|?Berichtszeitraum#
+|?abgefasst in
+|format=table
+|mainlabel=Werke des Verfassers <xsl:value-of select="."/>
+}}
+                                </xsl:when>
+                                <xsl:when test="./@second eq 'Person'">
+=== Personennennung <xsl:value-of select="."/> ===
+{{#ask: 
+[[Kategorie:Quelle]]
+[[Person::<xsl:value-of select="."/>]]
+|?Interaktion# 
+|?abgefasst von
+|?Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Personennennung <xsl:value-of select="."/>
+}}
+                                </xsl:when>
+                                <xsl:when test="./@second eq 'Ort'">
+=== Ortsnennungen <xsl:value-of select="."/> ===
+{{#ask: 
+[[Kategorie:Quelle]]
+[[Ort::<xsl:value-of select="."/>]]
+|?Interaktion# 
+|?abgefasst von 
+|?Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Ortsnennungen <xsl:value-of select="."/>
+}}
+                                </xsl:when>
+                                <xsl:when test="./@second eq 'Suchwort'">
+=== Suchbegriff <xsl:value-of select="."/> ===
+{{#ask: 
+[[Kategorie:Quelle]]
+[[relevante Schlagworte::<xsl:value-of select="."/>]]
+|?Interaktion# 
+|?abgefasst von
+|?aus dem Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Suchbegriff <xsl:value-of select="."/>
+}}
+                                </xsl:when>
+                                <xsl:when test="./@second eq 'Auffälligkeit'">
+=== Vorkommen <xsl:value-of select="."/> ===
+{{#ask: 
+[[Kategorie:Quelle]]
+[[berichtet von::<xsl:value-of select="."/>]]
+|?Interaktion# 
+|?abgefasst von
+|?aus dem Werk
+|?datiert auf#
+|?Datum laut Werk#
+|?abgefasst in
+|format=table
+|mainlabel=Auffälligkeit <xsl:value-of select="."/>
+}}
+                                </xsl:when>
+                            </xsl:choose>                                                 
+                            
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:variable>
                 <page>
-                    <title>Kategorie:<xsl:value-of select="./main"/></title>
+                    <title>
+                        <xsl:value-of select="$name"/>
+                    </title>
                     <ns>0</ns>
                     <id>
                         <xsl:value-of select="position() + $fid"/>
@@ -534,32 +384,148 @@
                         <model>wikitext</model>
                         <format>text/x-wiki</format>
                         <text xml:space="default" bytes="3441">
-                            [[Kategorie:Abfassungsregion]]
-                            [[has type::page]]
-                        </text>                        
+                            
+                            
+                            <xsl:choose>
+                                <xsl:when test="./Typ eq 'Ort'">
+                                    {{Template:Ort |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|GettyID={{#show:{{FULLPAGENAME}}|?getty_id|link=none}} |GettyKoordinaten={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}{{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
+                                </xsl:when>
+                                <xsl:when test="./Typ eq 'Person'">
+                                    {{Vorlage:Person|Name={{FULLPAGENAME}}|Rolle={{#show:{{FULLPAGENAME}}|?Rollen|link=none}}||GettyID={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}}}
+                                </xsl:when>
+                            </xsl:choose>
+<xsl:value-of select="$output" xml:space="default"/>
+                            {{#set:
+                            <xsl:apply-templates select="./meta"/>
+                            }}
+                            <xsl:for-each select="distinct-values((./meta/Typ,./mentioned/@second))">
+                               [[Kategorie:<xsl:value-of select="."/>]]  
+                            </xsl:for-each>
+                            __SHOWFACTBOX__
+                        </text>
+                        <sha1></sha1>
+                    </revision>
+                </page>
+            </xsl:for-each>
+            
+            <xsl:for-each select="$mentioned-entrys/entity">
+                <xsl:variable name="name" select="./main"/>
+                <page>
+                    <title>
+                        <xsl:value-of select="$name"/>
+                    </title>
+                    <ns>0</ns>
+                    <id>
+                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity)"/>
+                    </id>
+                    <revision>
+                        <id>0</id>
+                        <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
+                        <contributor>
+                            <username>Administrator</username>
+                            <id>1</id>
+                        </contributor>
+                        <model>wikitext</model>
+                        <format>text/x-wiki</format>
+                        <text xml:space="default" bytes="3441">
+                            <xsl:value-of select="./link"/>
+                        <!--    [[Kategorie:<xsl:value-of select="./mentioned"/>]]  -->
+                        </text>
+                        <sha1></sha1>
+                    </revision>
+                </page>
+            </xsl:for-each>
+           
+           
+            <xsl:for-each select="$regionen/entity">
+                <xsl:variable name="name" select="./main"/>
+                <page>
+                    <title>
+                        <xsl:value-of select="$name"/>
+                    </title>
+                    <ns>0</ns>
+                    <id>
+                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity) + count($mentioned-entrys/entity)"/>
+                    </id>
+                    <revision>
+                        <id>0</id>
+                        <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
+                        <contributor>
+                            <username>Administrator</username>
+                            <id>1</id>
+                        </contributor>
+                        <model>wikitext</model>
+                        <format>text/x-wiki</format>
+                        <text xml:space="default" bytes="3441">
+                        </text>
                         <sha1></sha1>
                     </revision>
                 </page>
             </xsl:for-each>
         </mediawiki>
     </xsl:template>
-    
+   
+   
+   
+   
     <xsl:template match="VerfasserInnen/VerfasserIn | Personen/Person | Orte/Ort" >
         <entity>
             <xsl:attribute name="id" select="concat(name(),'-',Id)"></xsl:attribute>
             <main><xsl:value-of select="Name"/></main>
+            <Typ><xsl:value-of select="name()"/></Typ>
             <xsl:for-each select="./Alternativnamen/Name">
                 <second><xsl:value-of select="."/></second>
             </xsl:for-each>
-            <xsl:if test="exists(Lebensdaten)"><Lebensdaten><xsl:value-of select="Lebensdaten/text()"/></Lebensdaten></xsl:if>
-            <xsl:if test="exists(Rolle)"><xsl:for-each select="./Rolle"><Rolle><xsl:value-of select="."/></Rolle></xsl:for-each></xsl:if>
-            <xsl:if test="exists(getty_Id)"><getty_Id><xsl:value-of select="getty_Id"/></getty_Id></xsl:if>
-            <xsl:if test="exists(geo_getty)"><xsl:copy-of select="geo_getty"/></xsl:if>
-            <xsl:if test="exists(gnd_Id) and gnd_Id != ''"><gnd_Id><xsl:value-of select="gnd_Id"/></gnd_Id></xsl:if>
-            <xsl:if test="exists(Typ)"><xsl:for-each select="Typ"><Typ><xsl:value-of select="."/></Typ></xsl:for-each></xsl:if>
-            <mentioned><xsl:value-of select="name()"/></mentioned>
+          <meta>
+              <xsl:if test="not(exists(./Typ))"><Typ><xsl:value-of select="name()"/></Typ></xsl:if>
+              <xsl:copy-of select="./node()"></xsl:copy-of>
+          </meta>
         </entity>
     </xsl:template>
+    
+    <xsl:template match="Rolle">
+        |Rolle=<xsl:value-of select="."/>
+    </xsl:template>
+    <xsl:template match="getty">
+            |getty_id=<xsl:value-of select="./@id"/>
+            |getty_coordinates=<xsl:value-of select="./coordinates"/>
+<!--            |getty_text=<xsl:value-of select="./ScopeNote"/>-->
+    </xsl:template>
+    
+
+    <xsl:template match="wikidata">
+        |wikidata_id=<xsl:value-of select="./@id"/>
+        |wikidata_desc=<xsl:choose>
+            <xsl:when test="./desc[@lang='de'] != ''"><xsl:value-of select="./desc[@lang='de']"/></xsl:when>
+            <xsl:otherwise><xsl:value-of select="./desc[@lang='en']"/></xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="gnd">
+        |gnd_id=<xsl:value-of select="./@id"/>
+    </xsl:template>
+    
+    <xsl:template match="gnd_Id">
+        |gnd_id=<xsl:value-of select="."/>
+    </xsl:template>
+    
+    <xsl:template match="viaf">
+        |viaf_id=<xsl:value-of select="./@id"/>
+    </xsl:template>
+    
+    
+    <xsl:template match="viaf_Id">
+        |viaf_id=<xsl:value-of select="."/>
+    </xsl:template>
+    
+    <xsl:template match="Lebensdaten">
+        |Lebensdaten=<xsl:value-of select="."/>
+    </xsl:template>
+    
+    <xsl:template match="Alternativnamen/Name">
+        |Alternativnamen=<xsl:value-of select="."/>
+    </xsl:template>
+    
     
     <xsl:template match="text()"></xsl:template>
 </xsl:stylesheet>

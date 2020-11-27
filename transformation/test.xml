@@ -3,105 +3,201 @@
 Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen Änderungen haben Auswirkungen auf die Transformationen!
 -->
 
-<!DOCTYPE Sarazenen SYSTEM "sarazenen_masterfassung.dtd">
+<!DOCTYPE Sarazenen SYSTEM "sarazenen_masterfassung_v2.dtd">
 
 <Sarazenen>
     <VerfasserInnen>               
-        <VerfasserIn>
-            <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
-            <Name>VerfasserIn unbekannt</Name>
-            <Alternativnamen/>       
-            <Lebensdaten date=""/>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
-        </VerfasserIn>
-        <VerfasserIn>
-            <Id>3c7e0f93-c523-4340-91e0-d06bc5704d73</Id>
-            <Name>Abbo von Saint-Germain</Name>
-            <Alternativnamen>
-                <Name>Abbo Cernuus</Name>
-                <Name>Abbo Parisiensis</Name>
-            </Alternativnamen>         
-            <Lebensdaten date="845-926">Um 850-nach 921</Lebensdaten>
-            <gnd_Id>118646427</gnd_Id>
-            <wikidata_Id/>
-            <viaf_Id/>        
-        </VerfasserIn>               
+      <VerfasserIn id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">
+        <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
+        <Name>VerfasserIn unbekannt</Name>
+        <Alternativnamen/>
+        <Lebensdaten date=""/>
+        <gnd_Id/>
+        <wikidata_Id/>
+        <viaf_Id/>
+      </VerfasserIn>
+      <VerfasserIn id="3c7e0f93-c523-4340-91e0-d06bc5704d73">
+        <Id>3c7e0f93-c523-4340-91e0-d06bc5704d73</Id>
+        <Name>Abbo von Saint-Germain</Name>
+        <Alternativnamen>
+          <Name>Abbo Cernuus</Name>
+          <Name>Abbo Parisiensis</Name>
+        </Alternativnamen>
+        <Lebensdaten date="845-926">Um 850-nach 921</Lebensdaten>
+        <gnd_Id>118646427</gnd_Id>
+        <wikidata_Id>Q2622892</wikidata_Id>
+        <viaf_Id>25395909</viaf_Id>
+      </VerfasserIn>
+      <VerfasserIn id="a2836ba0-dcfd-4638-9bfe-4cb611936525">
+        <Id>a2836ba0-dcfd-4638-9bfe-4cb611936525</Id>
+        <Name>Abt Hairulf von Oudenbourg</Name>
+        <Alternativnamen/>
+        <Lebensdaten date="1050-1199">11./12. Jahrhundert</Lebensdaten>
+        <gnd_Id>1089614179</gnd_Id>
+        <wikidata_Id>Q3127452</wikidata_Id>
+        <viaf_Id>37069954</viaf_Id>
+      </VerfasserIn>
+      <VerfasserIn id="fe3467d7-ee66-49fd-a048-7b8e7eda6b05">
+        <Id>fe3467d7-ee66-49fd-a048-7b8e7eda6b05</Id>
+        <Name>Adam von Bremen</Name>
+        <Alternativnamen>
+          <Name>Adam Bremensis</Name>
+        </Alternativnamen>
+        <Lebensdaten date="1000-1081">gestorben nach 12.10.1081</Lebensdaten>
+        <gnd_Id>11850052X</gnd_Id>
+        <wikidata_Id>Q109244</wikidata_Id>
+        <viaf_Id>84951025</viaf_Id>
+      </VerfasserIn>             
     </VerfasserInnen>
     <Personen>
-        <Person>
-            <Id>bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9</Id>
-            <Name>Vinzenz</Name>
-            <Rolle>Heiliger</Rolle>
-            <Alternativnamen>
-                <Name>Vinzenz von Saragossa</Name>
-                <Name>Vinzenz von Valencia</Name>
-                <Name>Vicente de Huesca</Name>
-            </Alternativnamen>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
-        </Person>
-        <Person>
-            <Id>1975d1e5-746e-45cc-8dff-060249603f68</Id>
-            <Name>Basiliscus</Name>
-            <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
-        </Person>
+      <Person id="bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9">
+        <Id>bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9</Id>
+        <Name>Vinzenz</Name>
+        <Rolle>Heiliger</Rolle>
+        <Alternativnamen>
+          <Name>Hl. Vinzenz</Name>
+          <Name>Vinzenz von Saragossa</Name>
+          <Name>Vinzenz von Valencia</Name>
+          <Name>Vicente de Huesca</Name>
+        </Alternativnamen>
+        <gnd_Id>118937065</gnd_Id>
+        <wikidata_Id>Q318974</wikidata_Id>
+        <viaf_Id>72193475</viaf_Id>
+      </Person>
+      <Person id="1975d1e5-746e-45cc-8dff-060249603f68">
+        <Id>1975d1e5-746e-45cc-8dff-060249603f68</Id>
+        <Name>Basiliscus</Name>
+        <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
+        <gnd_Id/>
+        <wikidata_Id/>
+        <viaf_Id/>
+      </Person>
+      <Person id="22bc55da-c929-4d11-8890-1f0762f6fc41">
+        <Id>22bc55da-c929-4d11-8890-1f0762f6fc41</Id>
+        <Name>Froia</Name>
+        <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
+        <gnd_Id/>
+        <wikidata_Id/>
+        <viaf_Id/>
+      </Person>
+      <Person id="a5c744fe-bff1-444d-8d82-71102d1ba154">
+        <Id>a5c744fe-bff1-444d-8d82-71102d1ba154</Id>
+        <Name>Erchenbald</Name>
+        <Rolle>Notar</Rolle>
+        <Alternativnamen>
+          <Name>Erchenbald</Name>
+          <Name>Herchenbaldus</Name>
+          <Name>Erchenbaldus</Name>
+          <Name>Erchembaldus</Name>
+        </Alternativnamen>
+        <gnd_Id/>
+        <wikidata_Id/>
+        <viaf_Id/>
+      </Person>
+      <Person id="cf8371e9-f27f-44c0-957e-912f3a97dfbf">
+        <Id>cf8371e9-f27f-44c0-957e-912f3a97dfbf</Id>
+        <Name>al-Muzar</Name>
+        <Rolle>arabischer Heerführer</Rolle>
+        <Alternativnamen>
+          <Name>al-Muzar</Name>
+          <Name>Almuzar</Name>
+        </Alternativnamen>
+        <gnd_Id/>
+        <wikidata_Id/>
+        <viaf_Id/>
+      </Person>
+      <Person id="c8660913-da05-439f-9ded-1583aae8283c">
+        <Id>c8660913-da05-439f-9ded-1583aae8283c</Id>
+        <Name>Muawiya ibn Abi Sufyan</Name>
+        <Rolle>Kalif von Damaskus</Rolle>
+        <Alternativnamen>
+          <Name>Kalif Muawiya ibn Abi Sufyan</Name>
+          <Name>Moabia</Name>
+          <Name>Mu’awiya ibn Abi Sufyan</Name>
+        </Alternativnamen>
+        <gnd_Id>119217481</gnd_Id>
+        <wikidata_Id>Q181154</wikidata_Id>
+        <viaf_Id>39541902</viaf_Id>
+      </Person>
+      <Person id="64144a9c-abdd-476a-9fa5-c108f0a84462">
+        <Id>64144a9c-abdd-476a-9fa5-c108f0a84462</Id>
+        <Name>Sisinanth</Name>
+        <Rolle>westgotischer König</Rolle>
+        <Rolle>König der Visigoten</Rolle>
+        <Alternativnamen>
+          <Name>Sisinanth</Name>
+          <Name>Sisenandus</Name>
+          <Name>Sisenand</Name>
+        </Alternativnamen>
+        <gnd_Id>103080929</gnd_Id>
+        <wikidata_Id>Q334811</wikidata_Id>
+        <viaf_Id>32402147</viaf_Id>
+      </Person>
     </Personen>
     <Orte>
-        <Ort>
-            <Id>8e99e0e8-9706-41eb-ae38-9e2162d07913</Id>
-            <Name>Tripolis (Libanon)</Name>
-            <Typ>Ort</Typ>
-            <Alternativnamen>
-                <Name>Tripolim</Name>
-                <Name>Tripoleos</Name>
-                <Name>Tripoli</Name>
-                <Name>Tripolis (Libanon)</Name>
-            </Alternativnamen>
-          <getty_Id>7002314</getty_Id>
-        </Ort>
-        <Ort>
-            <Id>7f5ce30a-4607-4cce-9f6d-d38ee6c9c3e1</Id>
-            <Name>Cádiz</Name>
-            <Typ>Ort</Typ>
-            <Alternativnamen>
-                <Name>Cadiz</Name>
-                <Name>Gaditanum</Name>
-            </Alternativnamen>
-          <getty_Id>7008799</getty_Id>
-        </Ort>
-        <Ort>
-            <Id>00070550-190f-431b-84b4-9c6591b1c146</Id>
-            <Name>Gibraltar</Name>
-            <Typ>Region</Typ>
-            <Alternativnamen>
-                <Name>columnas Herculis</Name>
-            </Alternativnamen>
-            <getty_Id>7005233</getty_Id>
-        </Ort>
-        <Ort>
-            <Id>c477d5d1-80e9-4857-86ee-adb01c77a947</Id>
-            <Name>Algeciras</Name>
-            <Typ>Ort</Typ>
-            <Alternativnamen>
-                <Name>Mesulam</Name>
-            </Alternativnamen>
-            <getty_Id>7007258</getty_Id>
-        </Ort>
-        <Ort>
-            <Id>a4c3cf7d-8abf-4bcb-8c30-037fc2d02da5</Id>
-            <Name>Orbieu</Name>
-            <Typ>Fluss</Typ>
-            <Alternativnamen>
-                <Name>Oliveio</Name>
-            </Alternativnamen>
-            <getty_Id>1128136</getty_Id>
-        </Ort>
+      <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097">
+        <Id>e55f8177-2476-4282-ad6b-7a8b0a4e8097</Id>
+        <Name>unbekannt</Name>
+        <Typ>Ort</Typ>
+        <Typ>Kloster</Typ>
+        <Alternativnamen/>
+        <getty_Id/>
+        <Anmerkungen/>
+      </Ort>
+      <Ort id="8e99e0e8-9706-41eb-ae38-9e2162d07913">
+        <Id>8e99e0e8-9706-41eb-ae38-9e2162d07913</Id>
+        <Name>Tripolis (Libanon)</Name>
+        <Typ>Ort</Typ>
+        <Alternativnamen>
+          <Name>Tripolim</Name>
+          <Name>Tripoleos</Name>
+          <Name>Tripoli</Name>
+          <Name>Tripolis (Libanon)</Name>
+        </Alternativnamen>
+        <getty_Id>7002314</getty_Id>
+        <Anmerkungen/>
+      </Ort>
+      <Ort id="36359b9b-ae3b-4754-9346-fb374089de12">
+        <Id>36359b9b-ae3b-4754-9346-fb374089de12</Id>
+        <Name>Nava</Name>
+        <Typ>Fluss</Typ>
+        <Alternativnamen>
+          <Name>Nauam</Name>
+        </Alternativnamen>
+        <getty_Id/>
+        <Anmerkungen>Der Fluss konnte nicht identifiziert werden.</Anmerkungen>
+      </Ort>
+      <Ort id="7f5ce30a-4607-4cce-9f6d-d38ee6c9c3e1">
+        <Id>7f5ce30a-4607-4cce-9f6d-d38ee6c9c3e1</Id>
+        <Name>Cádiz</Name>
+        <Typ>Ort</Typ>
+        <Alternativnamen>
+          <Name>Cadiz</Name>
+          <Name>Gaditanum</Name>
+        </Alternativnamen>
+        <getty_Id>7007512</getty_Id>
+        <Anmerkungen/>
+      </Ort>
+      <Ort id="00070550-190f-431b-84b4-9c6591b1c146">
+        <Id>00070550-190f-431b-84b4-9c6591b1c146</Id>
+        <Name>Gibraltar</Name>
+        <Typ>Region</Typ>
+        <Alternativnamen>
+          <Name>columnas Herculis</Name>
+        </Alternativnamen>
+        <getty_Id>7005233</getty_Id>
+        <Anmerkungen/>
+      </Ort>
+      <Ort id="c477d5d1-80e9-4857-86ee-adb01c77a947">
+        <Id>c477d5d1-80e9-4857-86ee-adb01c77a947</Id>
+        <Name>Algeciras</Name>
+        <Typ>Ort</Typ>
+        <Alternativnamen>
+          <Name>Mesulam</Name>
+        </Alternativnamen>
+        <getty_Id>7007258</getty_Id>
+        <Anmerkungen/>
+      </Ort>
     </Orte>
       <Dokumente>
     <WerkId>0001</WerkId>
@@ -125,7 +221,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Datum date="901-1018">901-1018</Datum>
     </Berichtszeitraum>
     <Editionshinweise>Thietmar von Merseburg, Chronicon, ed. Robert Holtzmann (MGH SS rer. Germ. N.S. 9), Berlin 1935.</Editionshinweise>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000689_meta:titlePage.html?sortIndex=010:060:0009:010:00:00">Digitalisat bei dMGH.de</EditionLink>
     <Werkinformation>Das Chronicon sive Gesta Saxonum, auch Chronik oder Geschichte der Sachsen genannt, wurde von Thietmar von Merseburg zwischen 1012 und 1018 in acht Büchern verfasst. Thietmar, seit 1009 Bischof von Merseburg, berichtet seit Beginn des zehnten Jahrhunderts bis zu seinem Tod über die Geschichte seines Bistums.
 Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburgensis, Chronicon sive Gesta Saxonum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04425.html 2016-08-01]; Gerd Althoff, Art. Thietmar v. Merseburg, in: Lexikon des Mittelalters 8, Sp. 694-695 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; David A. Warner, Art. Thietmar of Merseburg, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1424f.</Werkinformation>
     <gnd_Id>4668392-6</gnd_Id>
@@ -150,8 +245,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
         <GeographischesStichwort>
-          <Ort>Israel</Ort>
-          <Ort>Jerusalem</Ort>
+          <Ort id="">Israel</Ort>
+          <Ort id="">Jerusalem</Ort>
         </GeographischesStichwort>
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
@@ -239,9 +334,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
         <GeographischesStichwort>
-          <Ort>Italien</Ort>
-          <Ort>Kalabrien</Ort>
-          <Ort>Tarent</Ort>
+          <Ort id="">Italien</Ort>
+          <Ort id="">Kalabrien</Ort>
+          <Ort id="">Tarent</Ort>
         </GeographischesStichwort>
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
@@ -293,8 +388,8 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
         <GeographischesStichwort>
-          <Ort>Italien</Ort>
-          <Ort>Rossano</Ort>
+          <Ort id="">Italien</Ort>
+          <Ort id="">Rossano</Ort>
         </GeographischesStichwort>
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
@@ -387,9 +482,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
           <Datum date="1010-1020">1010-1020</Datum>
         </Abfassungszeitraum>
         <GeographischesStichwort>
-          <Ort>Italien</Ort>
-          <Ort>Lombardei</Ort>
-          <Ort>Luna</Ort>
+          <Ort id="">Italien</Ort>
+          <Ort id="">Lombardei</Ort>
+          <Ort id="">Luna</Ort>
         </GeographischesStichwort>
         <Beteiligte>
           <Beteiligter>aI</Beteiligter>
@@ -458,7 +553,6 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
       <Datum date="608-1350">47, 608-1350</Datum>
     </Berichtszeitraum>
     <Editionshinweise>Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191.</Editionshinweise>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00205.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de</EditionLink>
     <Werkinformation>Keine näheren Informationen zum Werk verfügbar.</Werkinformation>
     <gnd_Id/>
     <wikidata_Id/>
@@ -487,11 +581,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
     <Berichtszeitraum>
       <Datum date="715-881">715-881</Datum>
     </Berichtszeitraum>
-    <Editionshinweise>Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge</Editionshinweise><Editionshinweise>Erchamberti breviarium regum Francorum et maiorum-domus ex Msc. sec. Augiae minoris, ed. Aemilianus Ussermann, in: Chronicon Hermanni Contracti : Ex Inedito Hucusque Codice Augiensi, Unacum Eius Vita Et Continuatione A Bertholdo eius discipulo scripta. Praemittuntur Varia Anecdota. Subiicitur Chronicon Petershusanum Ineditum ; 1, St. Blasien 1790, S. XLI-LII vollständig aus der Stuttgarter Handschrift.</Editionshinweise>
-    <Editionshinweise>Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191.</Editionshinweise>
-        <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00348.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de (Edition G. H. Pertz 1829)</EditionLink>
-    <EditionLink url="https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10004568_00001.html">Digitalisat bei Bayerische Staatsbibliothek Digital (Edition A. Ussermann 1790)</EditionLink>
-    <EditionLink url="https://www.dmgh.de/de/fs1/object/display/bsb00000869_00205.html?sortIndex=010%3A050%3A0002%3A010%3A00%3A00">Digitalisat bei dMGH.de</EditionLink>
+    <Editionshinweise>Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 327-330 vollständig erst ab 741, vorher nur Auszüge</Editionshinweise>
         <Werkinformation>Die Chronik wurde bis zum Jahr 826 von Erchambert verfasst; eine Fortsetzung für die Jahre 840-881 stammt sicher von Notker. Vgl. zum Werk: Breviarium regum Francorum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02184.html 2018-02-15]; vgl. zu den Autoren: Erchanbertus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_104348550.html 2018-02-15]; Notkerus Balbulus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118588850.html 2018-02-15].</Werkinformation>
     <gnd_Id/>
     <wikidata_Id/>

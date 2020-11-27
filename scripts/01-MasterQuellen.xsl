@@ -164,17 +164,17 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 === Quellenstellen ===
 {{#ask:
 [[Kategorie:Quelle]]
-[[Werk::<xsl:value-of select="WerkTitel"/>]]
+[[aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
                     |mainlabel=Zitation
                     |?Inhaltsangabe#
-                    |?Datierung#
+                    |?datiert auf#
                     |format=table
                     |headers=plain
 }}
 <!--[[Kategorie:Sarazenenbezug]]-->
 === Datierung ===
 {{#ask:
-[[Werk::<xsl:value-of select="WerkTitel"/>]]
+[[aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
                         [[Zeitangabe::+]]
 |?Zeitangabe  
   |sort=Zeitangabe
