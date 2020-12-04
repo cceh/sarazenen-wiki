@@ -561,17 +561,34 @@
         </meta>
         <text><wikisyntax>
             /* Das folgende CSS wird für alle Benutzeroberflächen geladen. */ .hauptseite-rechts { margin-left: .5em; } .hauptseite-links { margin-right: .5em; } .hauptseite-oben h2, .hauptseite-unten h2 { text-align: center; } .hauptseite-links h2, .hauptseite-rechts h2 { text-indent: .8em; } .hauptseite-oben, .hauptseite-links, .hauptseite-rechts { margin-bottom: 1em; } #hauptseite .inhalt { background: #fff; border: 1px solid #8898bf; border-top-color: rgb(136, 152, 191); border-top-style: solid; border-top-width: 1px; border-top: 0; min-height: 0; padding: .3em .8em .4em; font-color:green; } #hauptseite h2 { background: #d8e8ff; border: 1px solid #8898bf; font-family: inherit; font-size: 1em; font-weight: bold; line-height: 1.5; margin: 0; padding: .1em 0; } #hauptseite div.inhalt { margin-bottom:1em; } .legende{font-size:10px;}
-            /* Infobox Ort */
-            .wikitable.infobox-ort {border: 1px solid #aaa; margin-top:0; font-size:95%; background:#fff; width:30em;}
+            /* Template:Infobox Ort/Person */
+            .infobox.infobox-ort .wikitable .head th {border-top-color: #009999;}
+            .infobox.infobox-person .wikitable .head th  {border-top-color: #f5bc4c;}
+            .infobox .wikitable .head th {border-top: 2px solid ; background:#fff; }
+            .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; background:#fff; width:30em;}
             h3 {clear:both;}
-            .wikitable.infobox-ort th, .infobox-ort tr  {border: 1px solid #aaa;}
-            .wikitable.infobox-ort td {border: none;}
-            .wikitable.infobox-ort th.head {border-top: 2px solid #009999; background:#fff; }
-            .wikitable.infobox-ort .map {padding:0;}       </wikisyntax>    
+            .infobox .wikitable th, .infobox .wikitable tr  {border: 1px solid #aaa;}
+            .infobox .wikitable td {border: none; vertical-align:top; padding-top:0.25rem; padding-bottom:0.25rem;}
+            .infobox .wikitable .subhead { font-weight:bold; text-align:center; }
+            .infobox .wikitable .map {padding:0;}
+            /* Template:Description */
+            .cite-description {
+            padding: .8em 1em;
+            margin: 0.5rem 0;
+            overflow: auto;
+            }
+            .cite-description-text {
+            border-left: 3px solid #65c2ff;
+            padding: 0.25rem 0;
+            margin-top:0.25rem;
+            }
+            .cite-description p {
+            margin: 0 0 0 1rem;
+            } </wikisyntax>
         </text>
     </page>
     <page>
-        <title>MediaWiki:Sidebar</title>        
+        <title>MediaWiki:Sidebar</title>
         <id></id>
         <revision>
             <id>173376</id>
@@ -605,5 +622,119 @@
 * LANGUAGES</text>
             <sha1>1la3jo07p83ia6pxyctxuv15ksamuto</sha1>
         </revision>
+    </page>
+    <page>
+        <meta>
+            <title>Template:Ort</title>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text><wikisyntax>
+            <noinclude>[[Category:Templates]]</noinclude>
+            <onlyinclude>
+                <noinclude>
+
+                    <div class="infobox infobox-ort float-right">
+                    {| class="wikitable"
+                    |- class="head"
+                    !colspan="2"| Name
+                    |-
+                    | Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                    | asd, fgh
+                    |- class="subhead"
+                    |colspan="2"| Normdaten
+                    |-
+                    | GND{{#info:Gemeinsame Normdatei}}
+                    | 1
+                    |-
+                    | VIAF{{#info:Virtual International Authority File}}
+                    | 2
+                    |-
+                    | Wikidata
+                    | 3
+                    |- class="subhead"
+                    |colspan="2"| Lokalisierung
+                    |-
+                    | Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
+                    | 00°,00°
+                    |-
+                    !colspan="2px" class="map"| MAP
+                    |}
+
+
+                    [[Category:Templates]]</noinclude>
+                <onlyinclude>
+                    <div class="infobox infobox-ort float-right">
+                        {| class="wikitable"
+                        |- class="head"
+                        !colspan="2"| {{{Name}}}
+                        {{#if:{{{Alternativnamen|}}} |
+                        {{!}}-
+                        {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                        {{!}} {{{Alternativnamen}}} }}
+                        |- class="subhead"
+                        |colspan="2"| Normdaten
+                        {{#if:{{{GettyID|}}} |
+                        {{!}}-
+                        {{!}} Getty TGN{{#info:Getty Thesaurus of Geographical Names}}
+                        {{!}} [http://vocab.getty.edu/page/tgn/{{{GettyID}}} {{{GettyID}}}] }}
+                        {{#if:{{{GettyKoordinaten|}}} |
+                        {{!}}-
+                        {{!}} Koordinaten (Getty)
+                        {{!}} {{{GettyKoordinaten}}} }}
+                        {{#if:{{{GettyKoordinaten|}}} |
+                        {{!}}-
+                        !colspan="2px" class="map" {{!}} {{Template:LocationMap | Koordinaten={{{GettyKoordinaten}}} }} }}
+                        |}</div></onlyinclude>
+            </wikisyntax>
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Template:Person</title>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text><wikisyntax>
+            <noinclude>[[Category:Templates]]</noinclude>
+            <onlyinclude>
+                <div class="infobox infobox-person float-right">
+                    {| class="wikitable"
+                    |- class="head"
+                    !colspan="2"| {{{Name}}}{{#if:{{{Alternativnamen|}}} |
+                    {{!}}-
+                    {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                    {{!}} {{{Alternativnamen}}} }}
+                    {{#if:{{{Rolle|}}} |
+                    {{!}}-
+                    {{!}} Rollen{{#info:{{{Name}}} wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt}}
+                    {{!}} {{{Rolle}}} }}
+                    |- class="subhead"
+                    |colspan="2"| Normdaten
+                    {{#if:{{{gnd_id|}}} |
+                    {{!}}-
+                    {{!}} GND ID{{#info:Gemeinsame Normdatei}}
+                    {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
+                    {{#if:{{{viaf_id|}}} |
+                    {{!}}-
+                    {{!}} VIAF ID{{#info:Virtual International Authority File}}
+                    {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }}
+                    {{#if:{{{wikidata_id|}}} |
+                    {{!}}-
+                    {{!}} Wikidata ID{{#info:Wikidata knowledge graph}}
+                    {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }}
+                    |}</div></onlyinclude>
+        </wikisyntax>
+        </text>
     </page>
 </documents>
