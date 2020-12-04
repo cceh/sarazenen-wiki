@@ -96,17 +96,17 @@
             <item><i>VerfasserIn</i><e>page</e></item>
             <item><i>Person</i><e>page</e></item>
             -->
-            <xsl:variable name="attre"><list><item><i>Abfassungsort</i><e>text</e></item>
-                <item><i>Datierung</i><e>text</e></item>
-                <item><i>Werk</i><e>text</e></item>
-                <item><i>Auffälligkeit</i><e>text</e></item>
-                <item><i>Suchbegriffe</i><e>text</e></item>
-                <item><i>VerfasserIn</i><e>text</e></item>
+            <xsl:variable name="attre"><list><item><i>abgefasst in</i><e>text</e></item>
+                <item><i>datiert auf</i><e>text</e></item>
+                <item><i>aus dem Werk</i><e>text</e></item>
+                <item><i>berichtet von</i><e>text</e></item>
+                <item><i>relevante Schlagworte</i><e>text</e></item>
+                <item><i>abgefasst von</i><e>text</e></item>
                 <item><i>Inhaltsangabe</i><e>text</e></item>
                 <item><i>Interaktion</i><e>text</e></item>
-                <item><i>Ort</i><e>page</e></item>                
-                <item><i>QuellenAngabe</i><e>text</e></item>               
-                <item><i>Zitation</i><e>text</e></item>                
+                <item><i>geographischer Bezug</i><e>page</e></item>                
+                <item><i>Datum laut Werk</i><e>text</e></item>               
+                <item><i>zitiert nach</i><e>text</e></item>                
                 <item><i>Sarazenenbezug</i><e>text</e></item>
                 <item><i>ZeitangabeBeginn</i><e>date</e></item>
                 <item><i>ZeitangabeEnde</i><e>date</e></item>

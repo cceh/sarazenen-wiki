@@ -200,6 +200,7 @@ Sarazenenbezug=ja
                     &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Abfassungszeitraum | Abfassungszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Abfassungszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;
                     &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Berichtszeitraum | Berichtszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Berichtszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;     
 -->
+                    __SHOWFACTBOX__
 <xsl:value-of xml:space="default">[[Kategorie: Werk]]</xsl:value-of>  
 <xsl:value-of xml:space="default"><xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>
                         </text>

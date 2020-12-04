@@ -25,7 +25,7 @@
 
 <!ELEMENT LebensdatenVerfasserIn (#PCDATA)>
 
-<!ELEMENT Abfassungsort (#PCDATA)>
+<!ELEMENT Abfassungsort (#PCDATA|Ort)*>
 
 <!ELEMENT Regionen (Region)+>
 
@@ -104,6 +104,10 @@
 
 <!ELEMENT Alternativnamen (Name)*>
 <!ELEMENT Ort (#PCDATA|Alternativnamen|Id|Name|Typ|getty_Id|Anmerkungen)*>
+<!ATTLIST Ort 
+    Id CDATA #IMPLIED 
+    cert CDATA #IMPLIED>
+
 
 <!ELEMENT Typ (#PCDATA)>
 

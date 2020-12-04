@@ -192,7 +192,7 @@
             Übersicht über alle im '''Repertorium Saracenorum''' aufgenommenen Werke mit Hinweis auf Relevanz (Sarazenenbezug), Verfasserinnen oder Verfasser, Abfassungs- und Berichtszeitraum sowie den Abfassungsort des Werkes. Die Tabelle kann nach Bedarf durch Klick auf einen der Pfeile in jeder Spaltenüberschrift aufsteigend oder absteigend sortiert werden. 
             
             Weiter unten befindet sich eine alphabetische Auflistung aller Werke. Über die Auswahl eines Werkes gelangt man zu den Quellenstellen.
-            
+           
             Zu unterscheiden ist zwischen Werken, die einen sog. Sarazenenbezug haben und jenen, in denen keine Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… überliefert sind.
             <wikisyntax>
             {{#ask:
@@ -219,7 +219,6 @@
         </meta>
         <text>
             Übersicht über alle Auffälligkeiten, die den einzelnen Berichten zugeordnet wurden. Über diese Schlagworte gelangt ein thematischer Zugriff auf die einzelnen Berichte sowie auf inhaltlich vergleichbare Berichte.
-            
         </text>
     </page>
     <page>
@@ -341,7 +340,6 @@
             }}    </wikisyntax>       
         </text>
     </page>
-    
     <page>
         <meta>
             <title>VerfasserIn</title>
@@ -384,8 +382,98 @@
     </page>
     <page>
         <meta>
-            <title></title>
-            <type></type>
+            <title>Berichtet von</title>
+            <type>Attribut</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <hasPropertyDiscreption>
+                Netter Erklärtext
+            </hasPropertyDiscreption>          
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Datiert auf</title>
+            <type>Attribut</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <hasPropertyDiscreption>
+                Netter Erklärtext
+            </hasPropertyDiscreption>          
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Interaktion</title>
+            <type>Attribut</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <hasPropertyDiscreption>
+                Netter Erklärtext
+            </hasPropertyDiscreption>          
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Geographischer Bezug</title>
+            <type>Attribut</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <hasPropertyDiscreption>
+                Netter Erklärtext
+            </hasPropertyDiscreption>          
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Datum laut Werk</title>
+            <type>Attribut</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <hasPropertyDiscreption>
+                Netter Erklärtext
+            </hasPropertyDiscreption>          
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Relevante Schlagworte</title>
+            <type>Attribute</type>
             <id></id>
             <categories>
                 <category></category>
@@ -401,6 +489,64 @@
             </div>            
         </text>
     </page>
+    <page>
+        <meta>
+            <title>Abgefasst von</title>
+            <type>Attribute</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <div>
+                <wikisyntax></wikisyntax>
+                <element></element>
+            </div>            
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Aus dem Werk</title>
+            <type>Attribute</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <div>
+                <wikisyntax></wikisyntax>
+                <element></element>
+            </div>            
+        </text>
+    </page>
+    <page>
+        <meta>
+            <title>Zitiert nach</title>
+            <type>Attribute</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+        <text>
+            <div>
+                <wikisyntax></wikisyntax>
+                <element></element>
+            </div>            
+        </text>
+    </page>
+    
     <page>
         <meta>
             <title>Common.css</title>
@@ -423,5 +569,41 @@
             .wikitable.infobox-ort th.head {border-top: 2px solid #009999; background:#fff; }
             .wikitable.infobox-ort .map {padding:0;}       </wikisyntax>    
         </text>
+    </page>
+    <page>
+        <title>MediaWiki:Sidebar</title>        
+        <id></id>
+        <revision>
+            <id>173376</id>
+            <parentid>173375</parentid>
+            <timestamp>2020-10-27T16:25:24Z</timestamp>
+            <contributor>
+                <username>Administrator</username>
+                <id>1</id>
+            </contributor>
+            <minor/>
+            <comment>1 Version importiert</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="529">* sarazenen
+** Repertorium Saracenorum|Repertorium Saracenorum
+* navigation
+&lt;!-- ** mainpage|mainpage-description --&gt;
+*** Kategorie:werk|Werke
+*** Kategorie:VerfasserIn|VerfasserInnen
+*** Kategorie:Person | Personen
+*** Kategorie:Geographie | Geographie
+*** Kategorie:Abfassungsregion | Abfassungsregion
+*** Kategorie:Auffälligkeit | Auffälligkeiten
+*** Kategorie:Suchbegriffe | Suchbegriffe
+*** Datierung|Datierung
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES</text>
+            <sha1>1la3jo07p83ia6pxyctxuv15ksamuto</sha1>
+        </revision>
     </page>
 </documents>

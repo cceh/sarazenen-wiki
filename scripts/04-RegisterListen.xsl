@@ -164,7 +164,7 @@
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
             version="0.10" xml:lang="de">
-           <!-- <xsl:copy-of select="$fill-mergelists"></xsl:copy-of>-->
+            <!--<xsl:copy-of select="$fill-mergelists"></xsl:copy-of>-->
             <siteinfo>
                 <sitename>Sarazenen Wiki</sitename>
                 <dbname>sarazenen-bonn</dbname>
@@ -394,11 +394,13 @@
                                     {{Vorlage:Person|Name={{FULLPAGENAME}}|Rolle={{#show:{{FULLPAGENAME}}|?Rollen|link=none}}||GettyID={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}}}
                                 </xsl:when>
                             </xsl:choose>
+<xsl:if test="./meta/Anmerkungen !=''"> &lt;p class='anmerkungen'&gt;<xsl:value-of select="./meta/Anmerkungen"/> &lt;/p&gt;</xsl:if>                            
 <xsl:value-of select="$output" xml:space="default"/>
                             {{#set:
                             <xsl:apply-templates select="./meta"/>
                             }}
-                            <xsl:for-each select="distinct-values((./meta/Typ,./mentioned/@second))">
+                            <xsl:variable name="mentioned" ><xsl:if test="not(./mentioned/@second)"><xsl:value-of select="./mentioned/text()"/></xsl:if></xsl:variable>
+                            <xsl:for-each select="distinct-values((./meta/Typ,./mentioned/@second,$mentioned))">
                                [[Kategorie:<xsl:value-of select="."/>]]  
                             </xsl:for-each>
                             __SHOWFACTBOX__
@@ -488,7 +490,7 @@
     </xsl:template>
     <xsl:template match="getty">
             |getty_id=<xsl:value-of select="./@id"/>
-            |getty_coordinates=<xsl:value-of select="./coordinates"/>
+        <xsl:if test="./coordinates/@latitude != ''">|getty_coordinates=<xsl:value-of select="./coordinates"/></xsl:if> 
 <!--            |getty_text=<xsl:value-of select="./ScopeNote"/>-->
     </xsl:template>
     
@@ -514,7 +516,7 @@
     </xsl:template>
     
     
-    <xsl:template match="viaf_Id">
+    <xsl:template match="viaf_Id" >
         |viaf_id=<xsl:value-of select="."/>
     </xsl:template>
     

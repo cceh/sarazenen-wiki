@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- 
 Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen Änderungen haben Auswirkungen auf die Transformationen!
---><Sarazenen>
+-->
+
+<!DOCTYPE Sarazenen SYSTEM "sarazenen_masterfassung_v2.dtd">
+
+<Sarazenen>
    <VerfasserInnen>
       <VerfasserIn id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">
          <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
@@ -25,7 +29,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       </VerfasserIn>
       <VerfasserIn id="a2836ba0-dcfd-4638-9bfe-4cb611936525">
          <Id>a2836ba0-dcfd-4638-9bfe-4cb611936525</Id>
-         <Name>Abt Hairulf von Oudenbourg</Name>
+         <Name>Abt Hairulf von Oudenburg</Name>
          <Alternativnamen/>
          <Lebensdaten date="1050-1199">11./12. Jahrhundert</Lebensdaten>
          <gnd_Id>1089614179</gnd_Id>
@@ -205,8 +209,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          </Alternativnamen>
          <Lebensdaten date="745-822">Um 750-822</Lebensdaten>
          <gnd_Id>118688359</gnd_Id>
-         <wikidata_Id>20474696</wikidata_Id>
-         <viaf_Id>Q316534</viaf_Id>
+         <wikidata_Id>Q316534</wikidata_Id>
+         <viaf_Id>20474696</viaf_Id>
       </VerfasserIn>
       <VerfasserIn id="7f8ff30e-dc76-4c70-8868-9e88ae66bcae">
          <Id>7f8ff30e-dc76-4c70-8868-9e88ae66bcae</Id>
@@ -371,7 +375,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          </Alternativnamen>
          <Lebensdaten date="973-1039">April 973-1036/1039</Lebensdaten>
          <gnd_Id>100946550</gnd_Id>
-         <wikidata_Id>88847096</wikidata_Id>
+         <wikidata_Id>Q5933229</wikidata_Id>
          <viaf_Id>88847096</viaf_Id>
       </VerfasserIn>
       <VerfasserIn id="02bbg1kp-gtc2-hjpn-vnom-qz00v092c0xj">
@@ -446,8 +450,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <wikidata_Id>Q719683</wikidata_Id>
          <viaf_Id>37711398</viaf_Id>
       </VerfasserIn>
-      <VerfasserIn id="8lymfeyg-r3ys-oxwi-ehf1-z3v09mandnc7">
-         <Id>8lymfeyg-r3ys-oxwi-ehf1-z3v09mandnc7</Id>
+      <VerfasserIn id="189c2b30-7bd3-46ea-bf63-d77f8c75e1a6">
+         <Id>189c2b30-7bd3-46ea-bf63-d77f8c75e1a6</Id>
          <Name>Liudprand von Cremona</Name>
          <Alternativnamen>
             <Name>Liutprand von Cremona</Name>
@@ -490,8 +494,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          </Alternativnamen>
          <Lebensdaten date="906-994">906/915-994</Lebensdaten>
          <gnd_Id>115396594</gnd_Id>
-         <wikidata_Id>35185422</wikidata_Id>
-         <viaf_Id>Q85512503</viaf_Id>
+         <wikidata_Id>Q85512503</wikidata_Id>
+         <viaf_Id>35185422</viaf_Id>
       </VerfasserIn>
       <VerfasserIn id="swrukzxz-g8xn-9ejz-slh4-36hn2ldj019c">
          <Id>swrukzxz-g8xn-9ejz-slh4-36hn2ldj019c</Id>
@@ -665,7 +669,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>88641ab6-9502-499e-9776-d677f59d725d</Id>
          <Name>Syrus von Cluny</Name>
          <Alternativnamen>
-            <Name>Syrus</Name>
             <Name> Syrus monachus Cluniacensis</Name>
          </Alternativnamen>
          <Lebensdaten date="1000-1100">11. Jahrhundert</Lebensdaten>
@@ -834,6 +837,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>cf8371e9-f27f-44c0-957e-912f3a97dfbf</Id>
          <Name>al-Muzar</Name>
          <Rolle>arabischer Heerführer</Rolle>
+         <Rolle>arabischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>al-Muzar</Name>
             <Name>Almuzar</Name>
@@ -859,6 +863,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>64144a9c-abdd-476a-9fa5-c108f0a84462</Id>
          <Name>Sisinanth</Name>
          <Rolle>westgotischer König</Rolle>
+         <Rolle>König der Westgoten</Rolle>
          <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Sisinanth</Name>
@@ -873,6 +878,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>7ed487f3-d123-491f-9dc4-d98ea7ea345d</Id>
          <Name>Sisebut</Name>
          <Rolle>westgotischer König</Rolle>
+         <Rolle>König der Westgoten</Rolle>
          <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Sisebut</Name>
@@ -1144,6 +1150,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>8ca7895f-1f71-463d-9f45-2cb69b12fddd</Id>
          <Name>Heraklonas</Name>
          <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Heraklonas</Name>
             <Name>Heraclona</Name>
@@ -1202,6 +1209,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>21df4688-42b5-4bd2-8bd3-6f58fc32d111</Id>
          <Name>Abu Marwan</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Rolle>Verwandter des Emir Abd ar-Rahman II. von Cordoba</Rolle>
          <Alternativnamen>
             <Name>Abu Marwan</Name>
@@ -1215,6 +1223,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>580dbae7-c9de-4968-b8a4-42446c72da78</Id>
          <Name>Theodosius III.</Name>
          <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Theodosius III.</Name>
          </Alternativnamen>
@@ -1298,6 +1307,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>e6d2de56-e1fa-4f75-8e05-c82701e29c51</Id>
          <Name>Abd-el-Hakk</Name>
          <Rolle>sarazenischer Befehlshaber</Rolle>
+         <Rolle>sarazenischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Abd-el-Hakk</Name>
             <Name>Abdelbachi</Name>
@@ -1339,6 +1349,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>9d914aad-697f-4efb-98a9-d00c8d5f2d7c</Id>
          <Name>al-Sumayl ibn Hatim al-Kilabi</Name>
          <Rolle>arabischer Heerführer</Rolle>
+         <Rolle>arabischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>al-Sumayl ibn Hatim al-Kilabi</Name>
             <Name>Izmael</Name>
@@ -1363,6 +1374,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>5cc498c0-9735-4d7e-be61-7b2e00571253</Id>
          <Name>Philippikos Bardanes</Name>
          <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Philippikos Bardanes</Name>
             <Name>Filippicus</Name>
@@ -1376,7 +1388,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="beaff69b-30db-47fe-94c1-70f55f206843">
          <Id>beaff69b-30db-47fe-94c1-70f55f206843</Id>
          <Name>Thawaba ibn Salama al-Dschadhami</Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Thawaba ibn Salama al-Dschadhami</Name>
             <Name>Toabam</Name>
@@ -1427,6 +1439,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>bb744819-67f4-4563-b6c9-613ab0e7668e</Id>
          <Name>Zali</Name>
          <Rolle>arabischer Heerführer</Rolle>
+         <Rolle>arabischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Zali</Name>
          </Alternativnamen>
@@ -1464,6 +1477,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>185f2a86-d713-4d5c-9d94-c23a830d0ef4</Id>
          <Name>Masar</Name>
          <Rolle>sarazenischer Befehlshaber</Rolle>
+         <Rolle>sarazenischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Masar</Name>
             <Name>Amalmater</Name>
@@ -1477,6 +1491,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Omar ibn Chaled</Name>
          <Rolle>rex Saracenorum</Rolle>
          <Rolle>sarazenischer Befehlshaber</Rolle>
+         <Rolle>sarazenischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Omar ibn Chaled</Name>
             <Name>Amormacha</Name>
@@ -1501,7 +1516,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="b79a56d5-e019-44d8-a040-d5232e72d4de">
          <Id>b79a56d5-e019-44d8-a040-d5232e72d4de</Id>
          <Name>Anastasios II.</Name>
-         <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Anastasios II.</Name>
             <Name>Kaiser Anastasios II. von Byzanz</Name>
@@ -1557,7 +1573,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>2a29fcc4-1af0-46af-a729-b7ef4b5471a3</Id>
          <Name>Otto II.</Name>
          <Rolle>ostfränkischer König</Rolle>
-         <Rolle>Kaiser des Römisch-Deutschen Reichs</Rolle>
+         <Rolle>römischer Kaiser</Rolle>
          <Rolle>Herzog von Sachsen</Rolle>
          <Alternativnamen>
             <Name>Otto II.</Name>
@@ -1577,11 +1593,14 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Rolle>fränkischer König</Rolle>
          <Rolle>römischer Kaiser</Rolle>
          <Alternativnamen>
-            <Name>Karl I. der Große</Name>
-            <Name>carlo</Name>
-            <Name>Carli</Name>
+            <Name>Karl der Große</Name>
+            <Name>Carlo</Name>
+            <Name>Carolus</Name>
             <Name>imperator</Name>
             <Name>rex</Name>
+            <Name>Charlemagne</Name>
+            <Name>Carolus Magnus</Name>
+            <Name>Karolus Magnus</Name>
          </Alternativnamen>
          <gnd_Id>118560034</gnd_Id>
          <wikidata_Id>Q3044</wikidata_Id>
@@ -1605,6 +1624,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>355b5d57-a521-4169-bc3b-f6480472d9ff</Id>
          <Name>Niketas</Name>
          <Rolle>byzantinischer Heerführer</Rolle>
+         <Rolle>byzantinischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Niketas</Name>
             <Name>Nichita</Name>
@@ -1750,7 +1770,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="757ff4ec-5737-47da-8812-aa5694b245b8">
          <Id>757ff4ec-5737-47da-8812-aa5694b245b8</Id>
          <Name>Justinian II.</Name>
-         <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Justinian II.</Name>
             <Name>Kaiser Justinian II. von Byzanz</Name>
@@ -1763,7 +1784,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="ff7e085a-54a3-4099-9cb8-173f984b34f1">
          <Id>ff7e085a-54a3-4099-9cb8-173f984b34f1</Id>
          <Name>Basileios I.</Name>
-         <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Basileios I.</Name>
             <Name>Basilius</Name>
@@ -1776,7 +1798,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="82e5b0bf-bf99-47b1-a94b-fadd4b728f97">
          <Id>82e5b0bf-bf99-47b1-a94b-fadd4b728f97</Id>
          <Name>Basileios II.</Name>
-         <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Basileios II.</Name>
             <Name>imperator</Name>
@@ -1898,6 +1921,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>88a2973d-3e12-4412-808a-98047ce3c08c</Id>
          <Name>Sandalis</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Sandalis</Name>
             <Name>Scandalis</Name>
@@ -2018,7 +2042,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="90eae9c1-60f7-4b90-9559-047e12b6d40b">
          <Id>90eae9c1-60f7-4b90-9559-047e12b6d40b</Id>
          <Name>Nikephoros I.</Name>
-         <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Nikephoros I.</Name>
             <Name>Kaiser Nikephoros I. von Byzanz</Name>
@@ -2032,6 +2057,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="ee97e738-ac31-44f7-92dd-dc31f9e6861b">
          <Id>ee97e738-ac31-44f7-92dd-dc31f9e6861b</Id>
          <Name>Nikephoros II.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Nikephoros II.</Name>
@@ -2078,6 +2104,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Sa’dun al-Ru’aini</Name>
          <Rolle>Statthalter von Barcelona</Rolle>
          <Rolle>sarazenischer Befehlshaber</Rolle>
+         <Rolle>sarazenischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Sa’dun al-Ru’aini</Name>
             <Name>Sarracenum praefectum</Name>
@@ -2169,6 +2196,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Abd al-Malik ibn Mughith</Name>
          <Rolle>princeps Saracenorum</Rolle>
          <Rolle>sarazenischer Befehlshaber</Rolle>
+         <Rolle>sarazenischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Abd al-Malik ibn Mughith</Name>
             <Name>Abd-el-Melec</Name>
@@ -2530,6 +2558,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="42c33026-068d-4458-8e32-f04e6bf54fe0">
          <Id>42c33026-068d-4458-8e32-f04e6bf54fe0</Id>
          <Name>Alexander</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Alexander</Name>
@@ -2542,6 +2571,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="cb408318-a0b1-4031-9bb1-1021bb296145">
          <Id>cb408318-a0b1-4031-9bb1-1021bb296145</Id>
          <Name>Herakleios</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Herakleios, öströmischer Kaiser</Name>
@@ -2555,6 +2585,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="7542508b-c3d6-4dba-a757-81212368070a">
          <Id>7542508b-c3d6-4dba-a757-81212368070a</Id>
          <Name>Justinian I.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Justinian I.</Name>
@@ -2567,6 +2598,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="4e2d8ef3-af07-495d-8a69-35ca242e7355">
          <Id>4e2d8ef3-af07-495d-8a69-35ca242e7355</Id>
          <Name>Konstans II.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Konstans II.</Name>
@@ -2579,6 +2611,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="48ee334c-8135-46f7-a9b4-386a1b89a184">
          <Id>48ee334c-8135-46f7-a9b4-386a1b89a184</Id>
          <Name>Konstantin III.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Konstantin III.</Name>
@@ -2591,6 +2624,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="b4aef03b-98df-49ba-abbf-26c25c8cf913">
          <Id>b4aef03b-98df-49ba-abbf-26c25c8cf913</Id>
          <Name>Konstantin IV.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Konstantin IV.</Name>
@@ -2603,6 +2637,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="ec7685dc-14b2-4ed0-97f2-8b2702658dd4">
          <Id>ec7685dc-14b2-4ed0-97f2-8b2702658dd4</Id>
          <Name>Konstantin VII.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Konstantin VII.</Name>
@@ -2615,6 +2650,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="8452e034-dd95-471e-8867-08eb6fffba28">
          <Id>8452e034-dd95-471e-8867-08eb6fffba28</Id>
          <Name>Leo VI.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Leo VI.</Name>
@@ -2627,6 +2663,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="c59035bf-3e6b-409c-b014-f67f3abaab07">
          <Id>c59035bf-3e6b-409c-b014-f67f3abaab07</Id>
          <Name>Michael III.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Michael III.</Name>
@@ -2639,6 +2676,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="c98850ea-ec4d-4fea-84eb-8ccb20be7587">
          <Id>c98850ea-ec4d-4fea-84eb-8ccb20be7587</Id>
          <Name>Romanos I.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Romanos I.</Name>
@@ -2651,6 +2689,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="5f95ad1e-bd33-45f6-bdee-9e2824f3db4a">
          <Id>5f95ad1e-bd33-45f6-bdee-9e2824f3db4a</Id>
          <Name>Tiberios I. Konstantinos</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Tiberios I. Konstantinos</Name>
@@ -2677,6 +2716,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>74ad8a19-569f-494b-b715-3750db1f2ab3</Id>
          <Name>Khalfun</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Rolle>Emir von Bari</Rolle>
          <Alternativnamen>
             <Name>Khalfun</Name>
@@ -2704,6 +2744,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Abd ar-Rahman ibn Abdallah al-Ghafiqi</Name>
          <Rolle>Statthalter von Al-Andalus</Rolle>
          <Rolle>Heerführer</Rolle>
+         <Rolle>Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Abd ar-Rahman ibn Abdallah al-Ghafiqi</Name>
             <Name>König Abd ar-Rahman</Name>
@@ -2858,6 +2899,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>1b8d5909-ead8-4611-90e1-2bc1b9fe5061</Id>
          <Name>Suhaym</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Sarazenenanführer Suhaym</Name>
             <Name>regem</Name>
@@ -2883,6 +2925,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Inger</Name>
          <Rolle>rex (Nordmannorum)</Rolle>
          <Rolle>normannischer Befehlshaber</Rolle>
+         <Rolle>normannischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Inger</Name>
             <Name>rex Inger</Name>
@@ -2910,6 +2953,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Roderich</Name>
          <Rolle>westgotischer König</Rolle>
          <Rolle>König der Westgoten</Rolle>
+         <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Roderich</Name>
          </Alternativnamen>
@@ -2979,7 +3023,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="18d3352c-467b-40b6-995d-cd173e5920e1">
          <Id>18d3352c-467b-40b6-995d-cd173e5920e1</Id>
          <Name>Udhrah ibn Abd Allah al-Fihri</Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Udhrah ibn Abd Allah al-Fihri</Name>
             <Name>Hodera</Name>
@@ -2991,7 +3035,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="76076886-a41e-47a8-b3a6-64258e21b8c5">
          <Id>76076886-a41e-47a8-b3a6-64258e21b8c5</Id>
          <Name>Hudaifa ibn al-Ahwas al-Aschdschai</Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Hudaifa ibn al-Ahwas al-Aschdschai</Name>
             <Name>Odiffa</Name>
@@ -3003,7 +3047,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="79ede6b5-f37b-498f-b463-53ad60853cfb">
          <Id>79ede6b5-f37b-498f-b463-53ad60853cfb</Id>
          <Name>Yahya ibn Sallama al-Kalbi</Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Yahya ibn Sallama al-Kalbi</Name>
             <Name>Statthalter in Al-Andalus</Name>
@@ -3015,7 +3059,9 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="07ee267a-7302-4d40-80d8-59310ce63283">
          <Id>07ee267a-7302-4d40-80d8-59310ce63283</Id>
          <Name>Egilona</Name>
-         <Rolle>westgotische Königin</Rolle>
+         <Rolle>westgotischer Königin</Rolle>
+         <Rolle>Königin der Westgoten</Rolle>
+         <Rolle>Königin der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Egilona</Name>
             <Name>Egilonis regine</Name>
@@ -3087,6 +3133,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Witiza</Name>
          <Rolle>westgotischer König</Rolle>
          <Rolle>König der Westgoten</Rolle>
+         <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Witiza</Name>
          </Alternativnamen>
@@ -3097,7 +3144,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="ef4d7be3-9010-4cae-98d1-8cf57900a14b">
          <Id>ef4d7be3-9010-4cae-98d1-8cf57900a14b</Id>
          <Name>al-Haitham ibn Ubaid al-Kanani</Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>al-Haitham ibn Ubaid al-Kanani</Name>
             <Name>Aleittan</Name>
@@ -3109,7 +3156,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="f56fae5a-ad15-4de8-9698-3f93660783b9">
          <Id>f56fae5a-ad15-4de8-9698-3f93660783b9</Id>
          <Name>Mohammed ibn Abd Allah al Aschdschai </Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Mohammed ibn Abd Allah al Aschdschai</Name>
             <Name>Mammet Alascila</Name>
@@ -3121,7 +3168,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="623f34f0-7c0d-4c0c-a5a5-ea3e438590fa">
          <Id>623f34f0-7c0d-4c0c-a5a5-ea3e438590fa</Id>
          <Name>Abd al-Malik ibn Qatan al-Fihri</Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Abd al-Malik ibn Qatan al-Fihri</Name>
             <Name>Abdelmelec </Name>
@@ -3134,6 +3181,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>6238ab4c-4771-4a01-bd21-849f071c2717</Id>
          <Name>Kulthum ibn Iyad al-Qasi</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Kulthum ibn Iyad al-Qasi</Name>
             <Name>Cultum</Name>
@@ -3220,6 +3268,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>fe8b188e-7a3e-45d4-a14d-ae38d26690d3</Id>
          <Name>Swinthila</Name>
          <Rolle>westgotischer König</Rolle>
+         <Rolle>König der Westgoten</Rolle>
+         <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Swinthila</Name>
             <Name>Suintila</Name>
@@ -3268,6 +3318,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Belisar</Name>
          <Rolle>byzantinischer Patrizier</Rolle>
          <Rolle>byzantinischer Feldherr</Rolle>
+         <Rolle>byzantinischer Heerführer</Rolle>
+         <Rolle>byzantinischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Belisar</Name>
          </Alternativnamen>
@@ -3742,6 +3794,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Sagittus</Name>
          <Rolle>Saracenus</Rolle>
          <Rolle>sarazenischer Befehlshaber</Rolle>
+         <Rolle>sarazenischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Sagittus</Name>
          </Alternativnamen>
@@ -3957,6 +4010,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>e3b1809c-4a6e-4635-a119-bf96c1df925f</Id>
          <Name>Annoso</Name>
          <Rolle>sarazenischer Befehlshaber</Rolle>
+         <Rolle>sarazenischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Annoso</Name>
          </Alternativnamen>
@@ -3994,6 +4048,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>c0b58422-261f-48e6-ad2a-5999ee61c46d</Id>
          <Name>Thala ibn Salama</Name>
          <Rolle>syrischer Heerführer</Rolle>
+         <Rolle>syrischer Befehlshaber</Rolle>
          <Rolle>einer der Nachfolger des Balj ibn Bishr</Rolle>
          <Alternativnamen>
             <Name>Thala ibn Salama</Name>
@@ -4007,6 +4062,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>2474e41f-c0d1-424d-bae2-4830661685a8</Id>
          <Name>Balj ibn Bishr</Name>
          <Rolle>syrischer Heerführer</Rolle>
+         <Rolle>syrischer Befehlshaber</Rolle>
          <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Balj ibn Bishr</Name>
@@ -4032,7 +4088,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="1e67df44-b6e6-4b4a-806b-6eaac7ac699c">
          <Id>1e67df44-b6e6-4b4a-806b-6eaac7ac699c</Id>
          <Name>Konstantin V.</Name>
-         <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Konstantin V.</Name>
             <Name>Kaiser Konstantin V. von Byzanz</Name>
@@ -4060,6 +4117,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>c1673aa9-d7ce-408e-87b2-e79a920190eb</Id>
          <Name>Uthman ibn Abi Nis'a al-Khath'ami</Name>
          <Rolle>Heerführer der Berber</Rolle>
+         <Rolle>Befehlshaber der Berber</Rolle>
          <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>Uthman ibn Abi Nis'a al-Khath'ami</Name>
@@ -4101,8 +4159,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="129b2a3d-83e0-4969-8fea-909d27260fe2">
          <Id>129b2a3d-83e0-4969-8fea-909d27260fe2</Id>
          <Name>Oppa</Name>
-         <Rolle>vermeintlicher Bf. von Sevilla</Rolle>
-         <Rolle>Sohn Kg. Witizas oder Kg. Egicas</Rolle>
+         <Rolle>vermeintlicher Bischof von Sevilla</Rolle>
+         <Rolle>Sohn König Witizas oder König Egicas</Rolle>
          <Alternativnamen>
             <Name>Oppa</Name>
             <Name>Oppam</Name>
@@ -4141,6 +4199,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Egica</Name>
          <Rolle>westgotischer König</Rolle>
          <Rolle>König der Westgoten</Rolle>
+         <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Egica</Name>
             <Name>Egiche</Name>
@@ -4166,6 +4225,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Leovigild</Name>
          <Rolle>westgotischer König</Rolle>
          <Rolle>König der Westgoten</Rolle>
+         <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Leovigild</Name>
             <Name>Liuuigildo</Name>
@@ -4178,6 +4238,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>98dc83e9-46af-4904-8103-34c65e2fea40</Id>
          <Name>Tariq ibn Zijad</Name>
          <Rolle>arabischer Heerführer</Rolle>
+         <Rolle>arabischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Tariq ibn Zijad</Name>
             <Name>Taric Abuzara</Name>
@@ -4532,7 +4593,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="ed34e6fa-1470-44a4-bc56-1ba9d8049dd0">
          <Id>ed34e6fa-1470-44a4-bc56-1ba9d8049dd0</Id>
          <Name>Leontios</Name>
-         <Rolle>byzantinsicher Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Leontios</Name>
          </Alternativnamen>
@@ -4580,6 +4642,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="5496f3f3-a211-43cc-a575-955614d257fb">
          <Id>5496f3f3-a211-43cc-a575-955614d257fb</Id>
          <Name>Phokas</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Kaiser Phokas</Name>
@@ -4619,6 +4682,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>a234d490-6808-475d-80ef-78ff7cb77186</Id>
          <Name>Theodoros</Name>
          <Rolle>oströmischer Befehlshaber</Rolle>
+         <Rolle>oströmischer Heerführer</Rolle>
          <Alternativnamen>
             <Name>Theodoros</Name>
          </Alternativnamen>
@@ -4706,6 +4770,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Ervig</Name>
          <Rolle>westgotischer König</Rolle>
          <Rolle>König der Westgoten</Rolle>
+         <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Ervig</Name>
             <Name>Eruigius</Name>
@@ -4719,6 +4784,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Reccesvinth</Name>
          <Rolle>westgotischer König</Rolle>
          <Rolle>König der Westgoten</Rolle>
+         <Rolle>König der Visigoten</Rolle>
          <Alternativnamen>
             <Name>Reccesvinth</Name>
             <Name>Rekkeswinth</Name>
@@ -4755,6 +4821,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>d74fe2e8-9dd0-4c28-90f2-b0f2b8df9809</Id>
          <Name>Abd Allah ibn Said</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Rolle>Statthalter von Ägypten</Rolle>
          <Alternativnamen>
             <Name>Abd Allah ibn Said</Name>
@@ -4779,6 +4846,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>85a6621f-61f8-4433-a1eb-64dd7247629e</Id>
          <Name>Tahihis</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Tahihis</Name>
          </Alternativnamen>
@@ -4790,6 +4858,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>bb1888ae-4939-42e6-8ba1-9876cd2e0c76</Id>
          <Name>Aiais</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Aiais</Name>
          </Alternativnamen>
@@ -4826,6 +4895,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>4cd6ba8b-b7af-4456-a851-76a5a745076d</Id>
          <Name>Musa ibn Nusayr</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Musa ibn Nusayr</Name>
             <Name>Musa ibn Nusair</Name>
@@ -4839,6 +4909,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>07550145-7d32-4349-9c51-422337c124e9</Id>
          <Name>Maslama ibn Abdalmalik</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Maslama ibn Abdalmalik</Name>
          </Alternativnamen>
@@ -4849,6 +4920,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="7f109f8f-c9d0-4339-9091-44cdf657d4f7">
          <Id>7f109f8f-c9d0-4339-9091-44cdf657d4f7</Id>
          <Name>Leo III.</Name>
+         <Rolle>byzanitinischer Kaiser</Rolle>
          <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Leo III.</Name>
@@ -4886,6 +4958,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>82dce699-c263-4850-a3c7-81035dda0c29</Id>
          <Name>Yazid ibn al-Mulhallab al-Azdi</Name>
          <Rolle>sarazenischer Heerführer</Rolle>
+         <Rolle>sarazenischer Befehlshaber</Rolle>
          <Alternativnamen>
             <Name>Yazid ibn al-Mulhallab al-Azdi</Name>
             <Name>Izit</Name>
@@ -4897,7 +4970,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="67ecda6d-9d8f-4ba2-8476-3f58214c3a8a">
          <Id>67ecda6d-9d8f-4ba2-8476-3f58214c3a8a</Id>
          <Name>al-Samh ibn Malik al-Khawlani</Name>
-         <Rolle>Statthalter in Al-Andalus</Rolle>
+         <Rolle>Statthalter von Al-Andalus</Rolle>
          <Alternativnamen>
             <Name>al-Samh ibn Malik al-Khawlani</Name>
             <Name>al-Samh ibn-Malik al-Khwalani</Name>
@@ -4943,7 +5016,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="c7367b97-c101-4719-b129-448397b861f2">
          <Id>c7367b97-c101-4719-b129-448397b861f2</Id>
          <Name>Theuderich IV.</Name>
-         <Rolle>König</Rolle>
+         <Rolle>fränkischer König</Rolle>
+         <Rolle>König der Franken</Rolle>
          <Alternativnamen>
             <Name>Theuderich IV.</Name>
          </Alternativnamen>
@@ -4980,7 +5054,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Person id="8906707e-6d0e-41a8-bc17-bee430f18115">
          <Id>8906707e-6d0e-41a8-bc17-bee430f18115</Id>
          <Name>Alexios I. Komnenos</Name>
-         <Rolle>byzantinischer Kaiser</Rolle>
+         <Rolle>byzanitinischer Kaiser</Rolle>
+         <Rolle>Kaiser von Byzanz</Rolle>
          <Alternativnamen>
             <Name>Alexios I. Komnenos</Name>
          </Alternativnamen>
@@ -4997,6 +5072,502 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Typ>Kloster</Typ>
          <Alternativnamen/>
          <getty_Id/>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="9e4acc7a-46e3-4169-b801-e6fed3703f49">
+         <Id>9e4acc7a-46e3-4169-b801-e6fed3703f49</Id>
+         <Name>St. Riquier</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Saint-Riquier</Name>
+         </Alternativnamen>
+         <getty_Id>7010591</getty_Id>
+         <Anmerkungen>Die genauen Koordinaten der Abtei Saint-Riquier lautet: 50° 08′ 03″ Nord, 1° 56′ 55″ Ost.</Anmerkungen>
+      </Ort>
+      <Ort id="a4e8f5c4-600e-4670-b665-347b87da6f8a">
+         <Id>a4e8f5c4-600e-4670-b665-347b87da6f8a</Id>
+         <Name>St. Wandrille</Name>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Saint-Wandrille</Name>
+            <Name>Abtei Saint-Wandrille</Name>
+            <Name>St-Wandrille</Name>
+         </Alternativnamen>
+         <getty_Id>7009660</getty_Id>
+         <Anmerkungen>Die Getty-Id bezieht sich auf den Ort Saint-Wandrille, die genauen Koordinaten der Abtei lauten: 49° 31′ 46″ Nord, 0° 46′ 00″ Est.</Anmerkungen>
+      </Ort>
+      <Ort id="51ff124e-66e2-41d0-b1a9-eb1ae214ece4">
+         <Id>51ff124e-66e2-41d0-b1a9-eb1ae214ece4</Id>
+         <Name>Limoges</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7008410</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="23951a7a-6ecf-4443-a5af-4a7d9b09d2d2">
+         <Id>23951a7a-6ecf-4443-a5af-4a7d9b09d2d2</Id>
+         <Name>Kloster St. Paul, Monkwearmouth-Jarrow</Name>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Kloster Monkwearmouth-Jarrow</Name>
+            <Name>Kloster St. Paul</Name>
+            <Name>Abbey Church of Saint Peter and Saint Paul, Monkwearmouth–Jarrow</Name>
+            <Name>Monkwearmouth–Jarrow Abbey</Name>
+            <Name>Monasterii Wirimutham-Gyruum</Name>
+            <Name>Kloster St. Paul, Jarrow</Name>
+         </Alternativnamen>
+         <getty_Id>4007331</getty_Id>
+         <Anmerkungen>Die Benediktiner-Abtei 647 und bestand bis 1539. Um sie herum bildete sich die heutig nordenglische Stadt Sunderland. Die Getty-Id bezieht sich auf Monkwearmouth, dem Ortsteil von Sunderland, in dem die Abtei lag. Die genauen Koordinaten der Abtei lauten: 54° 54′ 47″ Nord, 1° 22′ 30″ West.</Anmerkungen>
+      </Ort>
+      <Ort id="568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc">
+         <Id>568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc</Id>
+         <Name>Kloster St. Vaast in Arras (Pas-de-Calais)</Name>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Abbaye Saint-Vaast d'Arras</Name>
+            <Name>Abtei Saint-Vaast</Name>
+         </Alternativnamen>
+         <getty_Id>7008468</getty_Id>
+         <Anmerkungen>Die Getty-Id bezieht sich auf die Stadt Arras, in der das Kloster liegt. Die genauen Koordinaten lauten: 50° 17′ 31″ Nord, 2° 46′ 24″ Ost.</Anmerkungen>
+      </Ort>
+      <Ort id="4ebc71c3-f508-462d-accf-346ea70da907">
+         <Id>4ebc71c3-f508-462d-accf-346ea70da907</Id>
+         <Name>Saint-Maixent-l'École</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Saint-Maixent (Niort)</Name>
+         </Alternativnamen>
+         <getty_Id>4009744</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="63b1108b-5ec1-4b39-9f4b-0eb39874519b">
+         <Id>63b1108b-5ec1-4b39-9f4b-0eb39874519b</Id>
+         <Name>Oudenburg</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Oudenburg (Flandern)</Name>
+         </Alternativnamen>
+         <getty_Id>7249416</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="d6d5b039-8d44-427a-9c96-ca2490eb9cea">
+         <Id>d6d5b039-8d44-427a-9c96-ca2490eb9cea</Id>
+         <Name>Bad Iburg</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Iburg</Name>
+         </Alternativnamen>
+         <getty_Id>7061235</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="3e0340cf-81c3-4fb6-b9bf-d9a508508431">
+         <Id>3e0340cf-81c3-4fb6-b9bf-d9a508508431</Id>
+         <Name>Lüttich</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Liège</Name>
+         </Alternativnamen>
+         <getty_Id>7007945</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="2b76a63d-37f0-4dee-9c70-e10f40da2909">
+         <Id>2b76a63d-37f0-4dee-9c70-e10f40da2909</Id>
+         <Name>Abtei St. Bavo in Gent</Name>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Sint-Baafsabdij</Name>
+            <Name>Sankt-Bavo-Abtei</Name>
+            <Name>Abbaye Saint-Bavon de Gand</Name>
+         </Alternativnamen>
+         <getty_Id>7007887</getty_Id>
+         <Anmerkungen>Die Getty-Id bezieht sich auf die Stadt Gent in Flandern, die genauen Koordinaten der Abtei lauten: 51° 03′ 14″ Nord, 3° 44′ 10″ Ost.</Anmerkungen>
+      </Ort>
+      <Ort id="70e6d00a-c450-49a4-afa8-ff8fede7c365">
+         <Id>70e6d00a-c450-49a4-afa8-ff8fede7c365</Id>
+         <Name>Montiér-en-Der</Name>
+         <Typ>Kloster</Typ>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Abtei Saint-Pierre-et-Saint-Paul</Name>
+            <Name>Abtei Montiér-en-Der</Name>
+         </Alternativnamen>
+         <getty_Id>7009361</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="3556c84d-df0b-4085-bee8-9d9ce91a1711">
+         <Id>3556c84d-df0b-4085-bee8-9d9ce91a1711</Id>
+         <Name>St. Blasien</Name>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Sankt Blasien</Name>
+            <Name>Kloster St. Blasien</Name>
+         </Alternativnamen>
+         <getty_Id>7012689</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="dff0fc0a-c396-4902-a64c-b985c0e4437f">
+         <Id>dff0fc0a-c396-4902-a64c-b985c0e4437f</Id>
+         <Name>Schaffhausen</Name>
+         <Typ>Kloster</Typ>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Allerheiligenkloster Schaffhausen</Name>
+            <Name>Kloster Allerheiligen</Name>
+            <Name>Salvator-Kloster</Name>
+         </Alternativnamen>
+         <getty_Id>7007462</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="ecd57b7d-332f-44c9-bf61-43180ed1e563">
+         <Id>ecd57b7d-332f-44c9-bf61-43180ed1e563</Id>
+         <Name>Moissac</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Kloster Moissac</Name>
+         </Alternativnamen>
+         <getty_Id>7017203</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="789e740e-bff4-4af8-8c0c-1de46e3e7c0d">
+         <Id>789e740e-bff4-4af8-8c0c-1de46e3e7c0d</Id>
+         <Name>Burtscheid</Name>
+         <Typ>Kloster</Typ>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Abtei Burtscheid</Name>
+            <Name>Burtscheid bei Aachen</Name>
+         </Alternativnamen>
+         <getty_Id>7205109</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="9584739b-72bf-494e-9429-25948d8bdbf1">
+         <Id>9584739b-72bf-494e-9429-25948d8bdbf1</Id>
+         <Name>Werden an der Ruhr</Name>
+         <Typ>Kloster</Typ>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Kloster Werden</Name>
+            <Name>Kloster Werden an der Ruhr</Name>
+            <Name>Essen-Werden</Name>
+         </Alternativnamen>
+         <getty_Id>7004907</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="eba20e67-7b5d-454d-ac2c-765a3f2a04b2">
+         <Id>eba20e67-7b5d-454d-ac2c-765a3f2a04b2</Id>
+         <Name>Niederrhein</Name>
+         <Typ>Region</Typ>
+         <Alternativnamen>
+            <Name>Lower Rhine</Name>
+         </Alternativnamen>
+         <getty_Id>7013246</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="46043e7a-3faa-407b-b061-bc0131a04349">
+         <Id>46043e7a-3faa-407b-b061-bc0131a04349</Id>
+         <Name>Gendt</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Gent</Name>
+         </Alternativnamen>
+         <getty_Id>1047785</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="15267fc8-ac49-42f4-ac40-955545438fda">
+         <Id>15267fc8-ac49-42f4-ac40-955545438fda</Id>
+         <Name>Egmond</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>4003541</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="ff84eeb4-41b3-4a6d-ad8c-30978ca295f9">
+         <Id>ff84eeb4-41b3-4a6d-ad8c-30978ca295f9</Id>
+         <Name>Heidenheim</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7012419</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="18d38ccb-81ca-4dca-b5f8-c5bb03ebc77a">
+         <Id>18d38ccb-81ca-4dca-b5f8-c5bb03ebc77a</Id>
+         <Name>Konstanz</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7005174</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="b8a6bc1b-c92d-4975-9352-0896b000cadb">
+         <Id>b8a6bc1b-c92d-4975-9352-0896b000cadb</Id>
+         <Name>Corbie</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen/>
+         <getty_Id>7010590</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="70c4e137-7602-42bb-b5f5-141925c63a52">
+         <Id>70c4e137-7602-42bb-b5f5-141925c63a52</Id>
+         <Name>Saint-Amand-les-Eaux</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Kloster St. Amand</Name>
+         </Alternativnamen>
+         <getty_Id>7008470</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="0ed25645-ee00-454e-9743-97e86e67a270">
+         <Id>0ed25645-ee00-454e-9743-97e86e67a270</Id>
+         <Name>Bergamo</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7005025</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="db0ab2aa-d59d-4063-bec1-8639b0f3f354">
+         <Id>db0ab2aa-d59d-4063-bec1-8639b0f3f354</Id>
+         <Name>Utrecht</Name>
+         <Typ></Typ>
+         <Alternativnamen>
+            <Name>Traiectum</Name>
+         </Alternativnamen>
+         <getty_Id>7006926</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="4df92d1e-ad42-457e-a657-f20599c14452">
+         <Id>4df92d1e-ad42-457e-a657-f20599c14452</Id>
+         <Name>Quedlinburg</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7012857</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="466d899a-a46d-486c-a777-6e3dd1857d7b">
+         <Id>466d899a-a46d-486c-a777-6e3dd1857d7b</Id>
+         <Name>Nordhausen</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7012851</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="3545cddf-2d17-4b60-ab3a-497ac7922267">
+         <Id>3545cddf-2d17-4b60-ab3a-497ac7922267</Id>
+         <Name>Le Mans</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7008494</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="fbcca930-7849-4c9c-9bfc-fdcd317ee3d9">
+         <Id>fbcca930-7849-4c9c-9bfc-fdcd317ee3d9</Id>
+         <Name>Münster</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7004445</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="b6f3c81b-01ac-4085-b546-9be834f55a09">
+         <Id>b6f3c81b-01ac-4085-b546-9be834f55a09</Id>
+         <Name>Péronne</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>1034787</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="931b7baf-cdf1-42a8-b591-312fa2d8f1e4">
+         <Id>931b7baf-cdf1-42a8-b591-312fa2d8f1e4</Id>
+         <Name>Auxerre</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7013341</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="fab9ca3a-894f-4962-bdc5-4daca4ee6afe">
+         <Id>fab9ca3a-894f-4962-bdc5-4daca4ee6afe</Id>
+         <Name>Gandersheim</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Stift Gandersheim</Name>
+            <Name>Bad Gandersheim</Name>
+         </Alternativnamen>
+         <getty_Id>7005633</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="57a1bf5c-0dbf-4354-82c1-cf57dd937d2c">
+         <Id>57a1bf5c-0dbf-4354-82c1-cf57dd937d2c</Id>
+         <Name>Augsburg</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7004324</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="18f4af65-edab-4c68-a5ba-da7b2ddabd20">
+         <Id>18f4af65-edab-4c68-a5ba-da7b2ddabd20</Id>
+         <Name>Saint-Benoît-sur-Loire</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7008338</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="e2f7bd1c-cb62-4dd2-90d8-e08dcd986c82">
+         <Id>e2f7bd1c-cb62-4dd2-90d8-e08dcd986c82</Id>
+         <Name>Brauweiler</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen/>
+         <getty_Id>7203639</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="1dfa6434-92e1-4242-9a9f-1e20823b5097">
+         <Id>1dfa6434-92e1-4242-9a9f-1e20823b5097</Id>
+         <Name>Murbach</Name>
+         <Typ>Kloster</Typ>
+         <Name>Ort</Name>
+         <Alternativnamen>
+            <Name>Kloster Murbach im Elsaß</Name>
+         </Alternativnamen>
+         <getty_Id>7008123</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="3dc22bae-014a-4f0b-8c25-eacb03d6e218">
+         <Id>3dc22bae-014a-4f0b-8c25-eacb03d6e218</Id>
+         <Name>Hildesheim</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7005248</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="cfe05f96-2d7e-41e5-814e-3cf808f32a5d">
+         <Id>cfe05f96-2d7e-41e5-814e-3cf808f32a5d</Id>
+         <Name>Hersfeld</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Kloster Hersfeld</Name>
+         </Alternativnamen>
+         <getty_Id>7012967</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="0c8c4041-602a-4cd9-9dce-e99dd3acbaa4">
+         <Id>0c8c4041-602a-4cd9-9dce-e99dd3acbaa4</Id>
+         <Name>Mainz</Name>
+         <Typ></Typ>
+         <Alternativnamen>
+            <Name>Moguntiacum</Name>
+         </Alternativnamen>
+         <getty_Id>7004449</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="381f1410-8888-40aa-87b4-e1065923515b">
+         <Id>381f1410-8888-40aa-87b4-e1065923515b</Id>
+         <Name>Niederalteich</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen/>
+         <getty_Id>7125218</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="446043a4-e42d-45d8-a02a-7bd56619cbcb">
+         <Id>446043a4-e42d-45d8-a02a-7bd56619cbcb</Id>
+         <Name>Bremen</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7005286</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="124d29e3-ad27-4405-8987-3e20519e4282">
+         <Id>124d29e3-ad27-4405-8987-3e20519e4282</Id>
+         <Name>Köln</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Cologne</Name>
+            <Name>Colonia Claudia Ara Agrippinensium</Name>
+            <Name>Colonia</Name>
+         </Alternativnamen>
+         <getty_Id>7004446</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="a6fcdd21-6735-4943-9587-d00fc3be45f3">
+         <Id>a6fcdd21-6735-4943-9587-d00fc3be45f3</Id>
+         <Name>Straßburg</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Strasbourg</Name>
+         </Alternativnamen>
+         <getty_Id>7012346</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d">
+         <Id>1055a680-5bfc-42f8-852c-2c4cbf632c5d</Id>
+         <Name>Reichenau</Name>
+         <Typ>Region</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Kloster Reichenau</Name>
+            <Name>Insel Reichenau</Name>
+         </Alternativnamen>
+         <getty_Id>7005185</getty_Id>
+         <Anmerkungen>Insel im Bodensee, auf der seit dem frühen 8. Jahrhundert ein Benediktinerkloster bestand.</Anmerkungen>
+      </Ort>
+      <Ort id="0a0563cb-df7a-4594-9a5e-45ccd22521c6">
+         <Id>0a0563cb-df7a-4594-9a5e-45ccd22521c6</Id>
+         <Name>Trier</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Augusta Treverorum</Name>
+         </Alternativnamen>
+         <getty_Id>7004447</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad">
+         <Id>6feaa8b7-b23c-473a-8401-6914876cb7ad</Id>
+         <Name>St. Gallen</Name>
+         <Typ>Kloster</Typ>
+         <Typ>Ort</Typ>
+         <Alternativnamen>
+            <Name>Sankt Gallen</Name>
+            <Name>Kloster St. Gallen</Name>
+         </Alternativnamen>
+         <getty_Id>7032472</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="833ab77d-7f5f-4288-a48f-61f602f3067d">
+         <Id>833ab77d-7f5f-4288-a48f-61f602f3067d</Id>
+         <Name>Paxos</Name>
+         <Typ>Region</Typ>
+         <Alternativnamen>
+            <Name>Paxoi</Name>
+         </Alternativnamen>
+         <getty_Id>1008555</getty_Id>
+         <Anmerkungen>Bei Paxos handelt es sich um eine griechische Insel, die zur Gruppe der Ionischen Inseln gehört.</Anmerkungen>
+      </Ort>
+      <Ort id="02a4c625-8a91-4afa-9ed6-0b996dff4dfb">
+         <Id>02a4c625-8a91-4afa-9ed6-0b996dff4dfb</Id>
+         <Name>Corvey</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Kloster Corvey</Name>
+         </Alternativnamen>
+         <getty_Id>1100040</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="d1f78ecc-5d18-4f92-bfcb-f23568760a17">
+         <Id>d1f78ecc-5d18-4f92-bfcb-f23568760a17</Id>
+         <Name>St. Denis</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Saint-Denis</Name>
+            <Name>St. Denis bei Paris</Name>
+         </Alternativnamen>
+         <getty_Id>7009706</getty_Id>
          <Anmerkungen/>
       </Ort>
       <Ort id="8e99e0e8-9706-41eb-ae38-9e2162d07913">
@@ -5337,6 +5908,14 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <getty_Id>7006413</getty_Id>
          <Anmerkungen/>
       </Ort>
+      <Ort id="af0d3529-899f-44a4-998f-5561d66364cb">
+         <Id>af0d3529-899f-44a4-998f-5561d66364cb</Id>
+         <Name>Merseburg</Name>
+         <Typ>Ort</Typ>
+         <Alternativnamen/>
+         <getty_Id>7012845</getty_Id>
+         <Anmerkungen/>
+      </Ort>  
       <Ort id="809559a5-76bf-4448-bf2b-c75a80f08e29">
          <Id>809559a5-76bf-4448-bf2b-c75a80f08e29</Id>
          <Name>Iberische Halbinsel (Spanien, Portugal)</Name>
@@ -5417,6 +5996,17 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Taranto</Name>
          </Alternativnamen>
          <getty_Id>7004100</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="c971c287-ffd2-4a61-b83c-88c5800d53d6">
+         <Id>c971c287-ffd2-4a61-b83c-88c5800d53d6</Id>
+         <Name>Lorsch</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>Kloster Lorsch</Name>
+         </Alternativnamen>
+         <getty_Id>7012584</getty_Id>
          <Anmerkungen/>
       </Ort>
       <Ort id="650b43d3-3751-4410-a116-9bafde2cfb82">
@@ -5578,6 +6168,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Ispaniam</Name>
             <Name>Isspanias</Name>
             <Name>Ispania</Name>
+            <Name>(arabisches) Spanien</Name>
          </Alternativnamen>
          <getty_Id>1000095</getty_Id>
          <Anmerkungen/>
@@ -6537,6 +7128,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Typ>Kloster</Typ>
          <Alternativnamen>
             <Name>Cluniacense</Name>
+            <Name>Abtei Cluny</Name>
          </Alternativnamen>
          <getty_Id>7008243</getty_Id>
          <Anmerkungen/>
@@ -7396,6 +7988,18 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <getty_Id>7002626</getty_Id>
          <Anmerkungen/>
       </Ort>
+      <Ort id="12756f02-f381-406f-8fb2-44200904df21">
+         <Id>12756f02-f381-406f-8fb2-44200904df21</Id>
+         <Name>St-Omer</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Alternativnamen>
+            <Name>St-Bertin in St-Omer</Name>
+            <Name>Saint-Omer</Name>
+         </Alternativnamen>
+         <getty_Id></getty_Id>
+         <Anmerkungen>Die Stadt St-Omer entstand um die Abtei St-Bertin herum.</Anmerkungen>
+      </Ort>
       <Ort id="23db7dc8-5280-43f3-b240-a1127e9ff5a3">
          <Id>23db7dc8-5280-43f3-b240-a1127e9ff5a3</Id>
          <Name>Navarra</Name>
@@ -7896,7 +8500,9 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>6e784acb-4fe2-467f-83ab-4f08258b2dc5</Id>
          <Name>Saint-Germain-des-Prés</Name>
          <Typ>Ort</Typ>
-         <Alternativnamen/>
+         <Alternativnamen>
+            <Name>Saint-Germain-des-Prés bei Paris</Name>
+         </Alternativnamen>
          <getty_Id>7008038</getty_Id>
          <Anmerkungen/>
       </Ort>
@@ -7928,6 +8534,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Alternativnamen>
             <Name>Viennensis</Name>
             <Name>Viennae</Name>
+            <Name>Vienne (Isère)</Name>
          </Alternativnamen>
          <getty_Id>7008589</getty_Id>
          <Anmerkungen/>
@@ -8128,14 +8735,26 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <getty_Id>7006695</getty_Id>
          <Anmerkungen/>
       </Ort>
-      <Ort id="2b33f57a-5a6d-41af-82a8-d8f6f75dc78f&#34;">
-         <Id>2b33f57a-5a6d-41af-82a8-d8f6f75dc78f"</Id>
+      <Ort id="2b33f57a-5a6d-41af-82a8-d8f6f75dc78f">
+         <Id>2b33f57a-5a6d-41af-82a8-d8f6f75dc78f</Id>
          <Name>Sevilla</Name>
          <Typ>Ort</Typ>
          <Alternativnamen>
             <Name>Spalim</Name>
          </Alternativnamen>
          <getty_Id>7008676</getty_Id>
+         <Anmerkungen/>
+      </Ort>
+      <Ort id="32a51039-e312-4c26-8ff6-9d56201a4425">
+         <Id>32a51039-e312-4c26-8ff6-9d56201a4425</Id>
+         <Name>Fulda</Name>
+         <Typ>Ort</Typ>
+         <Typ>Kloster</Typ>
+         <Typ>Fluss</Typ>
+         <Alternativnamen>
+            <Name>Kloster Fulda</Name>
+         </Alternativnamen>
+         <getty_Id>7005294</getty_Id>
          <Anmerkungen/>
       </Ort>
       <Ort id="c4fc275f-b237-41fe-bc7a-bc9ad104e362">
@@ -8872,7 +9491,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Datum date="1012-1018">1012-1018</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Merseburg</Ort>
+         <Ort id="af0d3529-899f-44a4-998f-5561d66364cb" cert="high">Merseburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -9141,7 +9760,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
          <Datum date="998-1039">998-1036/1039</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="271d8da4-b87e-44a1-aba6-23f789d6ac58" cert="high">Farfa</Ort>
+         <Ort id="271d8da4-b87e-44a1-aba6-23f789d6ac58" cert="high">Farfa</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
@@ -9228,15 +9847,15 @@ Zur Datierung vgl. Jean-Marie Sansterre, “Destructio” et “diminution” d�
          <Titel>Buch der Vergeltung</Titel>
       </Alternativtitel>
       <Autoren>
-         <Autor Id="8lymfeyg-r3ys-oxwi-ehf1-z3v09mandnc7" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
+         <Autor Id="189c2b30-7bd3-46ea-bf63-d77f8c75e1a6" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
       </Autoren>
       <LebensdatenVerfasserIn>um 920-972</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
          <Datum date="958-962">958-962</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Frankfurt</Ort>
-         <Ort Id="" cert="">Paxoi</Ort>
+         <Ort id="9e2c17cc-1894-4ad3-b786-4032b986fa9b" cert="">Frankfurt</Ort>
+         <Ort id="833ab77d-7f5f-4288-a48f-61f602f3067d" cert="">Paxos</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -9956,7 +10575,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
          <Datum date="962-973">um 967-973</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Corvey</Ort>
+         <Ort id="02a4c625-8a91-4afa-9ed6-0b996dff4dfb" cert="">Corvey</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -9964,7 +10583,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
       <Berichtszeitraum>
          <Datum date="-5200-973">Frühgeschichte des sächsischen Stammes bis 973</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_3_S._408">Widukind von Corvey, Rerum gestarum Saxonicarum libri tres, ed. Georg Waitz, in: MGH SS 3, Hannover 1839, S. 408-467.</edition><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._60">Widukind von Corvey, Rerum gestarum Saxonicarum libri tres / Die Sachsengeschichte des Widukind von Corvey, ed. Hans-Eberhard Lohmann, überarb. von Paul Hirsch (MGH SS rer. Germ. [60]), Hannover 1935.</edition></Editionshinweise>
+      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_3_S._408">Widukind von Corvey, Rerum gestarum Saxonicarum libri tres, ed. Georg Waitz, in: MGH SS 3, Hannover 1839, S. 408-467</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._60"> Widukind von Corvey, Rerum gestarum Saxonicarum libri tres / Die Sachsengeschichte des Widukind von Corvey, ed. Hans-Eberhard Lohmann, überarb. von Paul Hirsch (MGH SS rer. Germ. [60]), Hannover 1935.</edition></Editionshinweise>
       
       
       <Werkinformation>Die Rerum Gestarum Saxonicarum libri tres oder Sachsengeschichte wurde zwischen 967 und 973 von Widukind von Corvey verfasst. In drei Büchern berichtet der Corveyer Mönch darin über die sächsische gens beginnend mit ihrer (mythischen) Herkunft bis in die Zeit Ottos des Großen. Der Text existiert in drei Versionen.
@@ -10117,7 +10736,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Widukindus monachus Corbe
          <Datum date="1000-1057">1000/1034-1057</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="high">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -10252,7 +10871,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Ekkeardus IV, Casuum S. G
          <Datum date="817-830">817/830</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -10423,7 +11042,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Einhardus, Vita Karoli Ma
          <Datum date="895-905">bis um 901</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -11558,7 +12177,7 @@ Insgesamt wurden mehrere Versuche von fränkischer Seite unternommen Tortosa zu 
          <Datum date="900-908">900-908</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Trier</Ort>
+         <Ort id="0a0563cb-df7a-4594-9a5e-45ccd22521c6" cert="high">Trier</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -12646,8 +13265,8 @@ Vgl. hierzu [0008]-[0015].</Anmerkungen>
          <Datum date="1031-1047">1031-1047</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Cluny</Ort>
-         <Ort Id="" cert=""> Auxerre</Ort>
+         <Ort id="4011fdf6-1feb-4805-b7a9-56e05c2b9129" cert="">Cluny</Ort>
+         <Ort id="931b7baf-cdf1-42a8-b591-312fa2d8f1e4" cert="">Auxerre</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -13061,7 +13680,7 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
          <Datum date="800-882">9. Jahrhundert (bis 882)</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St-Bertin in St-Omer</Ort>
+         <Ort id="12756f02-f381-406f-8fb2-44200904df21" cert="">St-Bertin in St-Omer</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -14333,9 +14952,9 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
          <Datum date="840-845">840-845</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Denis</Ort>
-         <Ort Id="" cert=""> Orléans</Ort>
-         <Ort Id="" cert=""> Corvey</Ort>
+         <Ort id="d1f78ecc-5d18-4f92-bfcb-f23568760a17" cert="">St. Denis</Ort>
+         <Ort id="e526286b-bdc1-4d38-acd1-0e43977d4f38" cert="">Orléans</Ort>
+         <Ort id="02a4c625-8a91-4afa-9ed6-0b996dff4dfb" cert="">Corvey</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -15353,7 +15972,7 @@ Vgl. zur Kriegserklärung Ludwigs des Frommen [0011]-[0013].</Anmerkungen>
          <Datum date="883-887">883-887</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -15529,7 +16148,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Gesta Karoli, in: Reperto
          <Datum date="1030-1137">1030-1137</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Hildesheim</Ort>
+         <Ort id="3dc22bae-014a-4f0b-8c25-eacb03d6e218" cert="high">Hildesheim</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -16053,7 +16672,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Annales Hildesheimenses, 
          <Datum date="787-829">787-829</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" cert="">Aachen</Ort>
+         <Ort id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" cert="">Aachen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -17505,7 +18124,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Annales Hildesheimenses, 
          <Datum date="1070-1080">um 1075</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Niederaltaich</Ort>
+         <Ort id="381f1410-8888-40aa-87b4-e1065923515b" cert="high">Niederalteich</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -17515,7 +18134,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Annales Hildesheimenses, 
       </Berichtszeitraum>
       <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._4">Annales Altahenses maiores, ed. Wilhelm Giesebrecht – Edmund von Oefele (MGH SS rer. Germ. [4]), Hannover 1891.</edition></Editionshinweise>
       
-      <Werkinformation>Die Annales Altahenses entstanden im Kloster Niederaltaich (Bayern) im 11. Jahrhundert und berichtet über die Jahre 708 bis 1073 (1. Teil: 708-1032, 2. Teil: 1033-73). Während der erste Teil sehr knappe Notizen enthält und erst ab 899 selbstständiger wird, sind die Berichte im zweiten Teil deutlich länger abgefasst. Die Annales Altahenses gelten als wichtige Quelle für die Reichsgeschichte des 10. und 11. Jahrhunderts.
+      <Werkinformation>Die Annales Altahenses entstanden im Kloster Niederalteich (Bayern) im 11. Jahrhundert und berichtet über die Jahre 708 bis 1073 (1. Teil: 708-1032, 2. Teil: 1033-73). Während der erste Teil sehr knappe Notizen enthält und erst ab 899 selbstständiger wird, sind die Berichte im zweiten Teil deutlich länger abgefasst. Die Annales Altahenses gelten als wichtige Quelle für die Reichsgeschichte des 10. und 11. Jahrhunderts.
 Vgl. mit Hinweisen für weiterführende Literatur: Jan Prelog, Art. Annales Altahenses, in: Lexikon des Mittelalters 1, Sp. 661-662 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-10-26]; Annales Altahenses, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00176.html 2016-10-26]; Graeme Dunphy, Art. Annales Altahenses, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 53f.</Werkinformation>
       <gnd_Id>4837634-6</gnd_Id>
       <wikidata_Id>Q564304</wikidata_Id>
@@ -17824,7 +18443,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Jan Prelog, Art. Annales Alta
          <Datum date="1077-1079">1077-1079</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Hersfeld</Ort>
+         <Ort id="cfe05f96-2d7e-41e5-814e-3cf808f32a5d" cert="high">Kloster Hersfeld</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -18123,7 +18742,7 @@ Bald darauf kam jener Fürst, wie angekündigt, mit seinem Heere und wurde von d
          <Datum date="814-817">814-817</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" cert="">Aachen</Ort>
+         <Ort id="5a7f5157-8c7f-4146-a520-62dcf6a1efee" cert="">Aachen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -18516,7 +19135,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales qui dicuntur Einhardi
          <Datum date="835-838">835-838</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Trier</Ort>
+         <Ort id="0a0563cb-df7a-4594-9a5e-45ccd22521c6" cert="high">Trier</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -18583,9 +19202,10 @@ Vgl. mit Hinweisen für weiterführende Literatur: Wolfgang Eggert, Art. Thegan 
          <Datum date="830-1300">Erster Teil 830-860; zweiter Teil ab 870; Ergänzungen im 12. Jahrhundert (nicht mehr aufgenommen)</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Niederrhein (evtl. Gent)</Ort>
-         <Ort Id="" cert=""> Köln</Ort>
-         <Ort Id="" cert=""> Egmond</Ort>
+         <Ort id="eba20e67-7b5d-454d-ac2c-765a3f2a04b2" cert="high">Niederrhein</Ort>
+         <Ort id="46043e7a-3faa-407b-b061-bc0131a04349" cert="low">Gent</Ort>
+         <Ort id="124d29e3-ad27-4405-8987-3e20519e4282" cert="middle">Köln</Ort>
+         <Ort id="15267fc8-ac49-42f4-ac40-955545438fda" cert="high">Egmond</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -18953,8 +19573,8 @@ Vgl. zu diesem Bericht auch: [0008]-[0013]; [0014]-[0003]; [0018]-[0004]; [0035]
          <Datum date="1079-1100">1079-1100</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster St. Blasien</Ort>
-         <Ort Id="" cert=""> Allerheiligenkloster Schaffhausen</Ort>
+         <Ort id="3556c84d-df0b-4085-bee8-9d9ce91a1711" cert="">Kloster St. Blasien</Ort>
+         <Ort id="dff0fc0a-c396-4902-a64c-b985c0e4437f" cert="">Allerheiligenkloster Schaffhausen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -19940,7 +20560,7 @@ Zur Datierung vgl. Bernold, Chronik a. 1096, ed. Robinson, S. 528, Anm. 611; Ber
          <Datum date="823-830">823-830</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Straßburg</Ort>
+         <Ort id="a6fcdd21-6735-4943-9587-d00fc3be45f3" cert="">Straßburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -20622,7 +21242,7 @@ Rathen und schleunig sodann will ich es richten ins Werk.</VolltextUebersetzung>
          <Datum date="785-799">um 790-799</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Montecassino</Ort>
+         <Ort id="bd9db32a-0480-4278-a041-8a742c660937" cert="">Montecassino</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
@@ -21150,7 +21770,7 @@ Die Perser waren zu diesem Zeitpunkt noch nicht muslimisch (erst ab 661).</Anmer
          <Datum date="1025-1054">um 1030-1054</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Reichenau (Insel Reichenau)</Ort>
+         <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d" cert="high">Reichenau</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -22089,7 +22709,8 @@ Zu Statthalter Hassan von Huesca vgl. Ernst Alexander Schmidt, Geschichte Aragon
                <Datum date="1050-1060">1050-1060</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="1020-1040">1020-1030, 1030-1040</Datum>
+               <Datum date="1020-1040">1020-1030</Datum>
+               <Datum date="1030-1040">1030-1040</Datum>
                <Datum date="1040-1050">1040-1050</Datum>
                <Datum date="1050-1060">1050-1060</Datum>
             </Abfassungszeitraum>
@@ -22130,7 +22751,7 @@ Zu Statthalter Hassan von Huesca vgl. Ernst Alexander Schmidt, Geschichte Aragon
          <Datum date="823-850">Erste Hälfte 9. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Straßburg</Ort>
+         <Ort id="a6fcdd21-6735-4943-9587-d00fc3be45f3" cert="">Straßburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -22191,7 +22812,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Dieter Schaller, Art. Ermoldu
          <Titel>Geschichte Ottos</Titel>
       </Alternativtitel>
       <Autoren>
-         <Autor Id="8lymfeyg-r3ys-oxwi-ehf1-z3v09mandnc7" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
+         <Autor Id="189c2b30-7bd3-46ea-bf63-d77f8c75e1a6" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
       </Autoren>
       <LebensdatenVerfasserIn>um 920-972</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
@@ -22264,7 +22885,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Ernst Karpf, Art. Liutprand v
          <Titel>Legatio Liutprandi Cremonensis episcopi ad imperatorem Constantinopolitanum Nicephorum Phocam pro Ottonibus Augustis et Adelheida</Titel>
       </Alternativtitel>
       <Autoren>
-         <Autor Id="8lymfeyg-r3ys-oxwi-ehf1-z3v09mandnc7" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
+         <Autor Id="189c2b30-7bd3-46ea-bf63-d77f8c75e1a6" alt="Liutprand von Cremona">Liudprand von Cremona</Autor>
       </Autoren>
       <LebensdatenVerfasserIn>um 920-972</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
@@ -22687,7 +23308,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Ernst Karpf, Art. Liutprand v
          <Datum date="1075-1076">1075-1076</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Bremen</Ort>
+         <Ort id="446043a4-e42d-45d8-a02a-7bd56619cbcb" cert="">Bremen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -22879,7 +23500,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Franz-Josef Schmale, Art. Ada
          <Datum date="1008-1030">zwischen 1008 und 1030</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Quedlinburg</Ort>
+         <Ort id="4df92d1e-ad42-457e-a657-f20599c14452" cert="high">Quedlinburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -23119,7 +23740,7 @@ Vgl. mit Hinweisen für weiterführende Literatur, insbesondere zur Verfasserfra
          <Datum date="613-775">613 bis um 770</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -23821,8 +24442,10 @@ Nach Heinard Steiger, Die Ordnung der Welt. Eine Völkerrechtsgeschichte des kar
          <Datum date="704-818">704-803/818</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Lorsch</Ort>
-         <Ort Id="" cert=""> Mainz</Ort>
+         <Ort id="c971c287-ffd2-4a61-b83c-88c5800d53d6" cert="high">Lorsch</Ort>
+         <Ort id="b6f3c81b-01ac-4085-b546-9be834f55a09" cert="middle">Péronne</Ort>
+         <Ort id="f3417527-cef5-47d2-abde-86d630ecf917" cert="high">Gorze</Ort>
+         <Ort id="0a0563cb-df7a-4594-9a5e-45ccd22521c6" cert="low">Trier</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -24174,7 +24797,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hubertus Seibert, Art. Lorsch
          <Datum date="700-900">8.-9. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Amand-les-Eaux (Kloster St. Amand)</Ort>
+         <Ort id="70c4e137-7602-42bb-b5f5-141925c63a52" cert="high">Saint-Amand-les-Eaux (Kloster St. Amand)</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -24404,7 +25027,7 @@ Zur Datierung vgl. Annales Sancti Amandi, ed. Georg Heinrich Pertz, in: MGH SS 1
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -24736,9 +25359,9 @@ Die Jahresangaben in runden Klammern beziehen sich wohl auf Unterschiede in der 
          <Datum date="709-930">709-um 926</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">bis 799 Kloster Murbach im Elsaß</Ort>
-         <Ort Id="" cert=""> 801-876 auf der Reichenau</Ort>
-         <Ort Id="" cert=""> 876-926 in St. Gallen</Ort>
+         <Ort id="1dfa6434-92e1-4242-9a9f-1e20823b5097" cert="high">Kloster Murbach im Elsaß</Ort>
+         <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d" cert="high">Reichenau</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="high">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -25043,7 +25666,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales Alamannici, in: Reper
          <Datum date="950-962">950- nicht vor 962</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Gandersheim</Ort>
+         <Ort id="fab9ca3a-894f-4962-bdc5-4daca4ee6afe" cert="high">Gandersheim</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -25130,7 +25753,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hrotsvita sanctimonialis Gand
          <Datum date="841-843">841-843</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Riquier</Ort>
+         <Ort id="9e4acc7a-46e3-4169-b801-e6fed3703f49" cert="">St. Riquier</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -25202,7 +25825,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Hans-Werner Goetz, Art. Nitha
          <Datum date="1054-1088">1054-1088</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Reichenau</Ort>
+         <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d" cert="">Reichenau</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -25282,7 +25905,7 @@ Vgl. zu dieser Quellenstelle ebenfalls [0016]-[0007], [0017]-[0006], [0021]-[001
          <Datum date="830-835">830-835</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Denis bei Paris</Ort>
+         <Ort id="d1f78ecc-5d18-4f92-bfcb-f23568760a17" cert="">St. Denis</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -25361,7 +25984,7 @@ Für den Bericht Fredegars wird neben den 630er Jahren auch eine Datierung in di
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="high">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -25729,7 +26352,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Annales Sangallenses maiores,
          <Datum date="800-850">1. Hälfte des 9. Jh.</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Wandrille</Ort>
+         <Ort id="a4e8f5c4-600e-4670-b665-347b87da6f8a" cert="">St. Wandrille</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -25968,7 +26591,7 @@ Zur Datierung vgl. ebenfalls [0011]-[0012].</Anmerkungen>
          <Datum date="865-875">um 871</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Germain-des-Prés, Paris</Ort>
+         <Ort id="6e784acb-4fe2-467f-83ab-4f08258b2dc5" cert="">Saint-Germain-des-Prés</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -26416,7 +27039,7 @@ Eine spanische Übersetzung findet sich bei Juan Carlos Lara Olmo, El relato del
          <Datum date="845-1032">ca. 850-1032</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Vienne (Isère)</Ort>
+         <Ort id="38baf2ab-2d7b-4774-b201-2c33a0496125" cert="">Vienne</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -26944,7 +27567,7 @@ Vgl. [0044]-[0008] und [0044]-[0009].</Anmerkungen>
          <Datum date="982-990">nach 982</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">vermutlich in Lüttich</Ort>
+         <Ort id="3e0340cf-81c3-4fb6-b9bf-d9a508508431" cert="middle">Lüttich</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -27349,7 +27972,7 @@ Vgl. [0014]-[0004].</Anmerkungen>
          <Datum date="780-790">um 784</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Frankenreich</Ort>
+         <Ort id="776d9240-2902-42ea-bf0f-08cdfecd4a76" cert="">Frankenreich</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -27545,7 +28168,7 @@ Weitere Berichte über Sarazenen jedoch außerhalb des Untersuchungszeitraums fi
          <Datum date="725-725">725</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster St. Paul, Jarrow</Ort>
+         <Ort id="23951a7a-6ecf-4443-a5af-4a7d9b09d2d2" cert="">Kloster St. Paul, Jarrow</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Britische Inseln</Region>
@@ -27771,7 +28394,7 @@ Zum Kauf der Gebeine des Hl. Augustinus vgl. die kurze Anmerkung bei Matthias Ha
          <Datum date="890-900">vor 900</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Bergamo</Ort>
+         <Ort id="0ed25645-ee00-454e-9743-97e86e67a270" cert="">Bergamo</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
@@ -27911,7 +28534,7 @@ Zum Angriff der aus Afrika kommenden Sarazenen vgl. die Regesten Ludwigs II. RI 
          <Datum date="1000-1100">11. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="0b8511b3-abc0-4163-9173-922b69520dc3" cert="high">Bari</Ort>
+         <Ort id="0b8511b3-abc0-4163-9173-922b69520dc3" cert="high">Bari</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
@@ -28177,7 +28800,7 @@ Die Annales Barenses weisen zahlreiche Ähnlichkeiten zu den Annales Lupi Protos
          <Datum date="619-625">619 und 624/5</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Sevilla</Ort>
+         <Ort id="2b33f57a-5a6d-41af-82a8-d8f6f75dc78f" cert="">Sevilla</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
@@ -28248,7 +28871,7 @@ An dieser Stelle ist nicht direkt von Sarazenen die Rede, jedoch von heidnischen
          <Datum date="900-1000">10. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Montecassino</Ort>
+         <Ort id="bd9db32a-0480-4278-a041-8a742c660937" cert="">Montecassino</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
@@ -28965,7 +29588,7 @@ Die Edition von Luigi Andrea Berto ist in Anlehnung an die Cronicae Sancti Bened
          <Datum date="875-890">um 880-890</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Montecassino</Ort>
+         <Ort id="bd9db32a-0480-4278-a041-8a742c660937" cert="">Montecassino</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
@@ -30432,7 +31055,7 @@ Zur Werbung der Sarazenen durch Bischof Athanasius II. von Neapel und Graf Pando
          <Datum date="738-748">um 743</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">(arabisches) Spanien</Ort>
+         <Ort id="1b3bc365-6179-45d1-b0bd-21aab4abd3e3" cert="">(arabisches) Spanien</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
@@ -31554,7 +32177,7 @@ Grund für die Verteidigung von Damaskus ist das Vorrücken sarazenischer Truppe
          <Datum date="700-800">8. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -31774,7 +32397,7 @@ Die Jahresangabe in Klammern ist lediglich im Codex Pithoei überliefert, vgl. A
          <Datum date="919-978">919-966, Postume Fortsetzung bis 978</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Reims</Ort>
+         <Ort id="da88e8da-c824-43ce-a903-23f6edff3699" cert="">Reims</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -32297,7 +32920,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Peter Christian Jacobsen, Art
          <Datum date="974-984">974 bis 984</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Metz</Ort>
+         <Ort id="ef043867-d77a-485b-afd9-ced7c4fe3452" cert="">Metz</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -32392,7 +33015,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Michel Parisse, Art. Johann, 
          <Datum date="950-1000">Mitte des 10. Jahrhunderts</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Reichenau</Ort>
+         <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d" cert="high">Reichenau</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -32582,7 +33205,7 @@ Vgl. [0060]-[0003].</Anmerkungen>
          <Datum date="595-636">ca. 600-636</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Sevilla</Ort>
+         <Ort id="2b33f57a-5a6d-41af-82a8-d8f6f75dc78f" cert="">Sevilla</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
@@ -33067,7 +33690,7 @@ Vgl. [0061]-[0006].</Anmerkungen>
          <Datum date="983-993">983-993</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Augsburg</Ort>
+         <Ort id="57a1bf5c-0dbf-4354-82c1-cf57dd937d2c" cert="">Augsburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -33188,8 +33811,8 @@ Zum Italienzug vgl. Friedrich Zoepfl, Das Bistum Augsburg und seine Bischöfe im
          <Datum date="1033-1033">1033</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Cluny</Ort>
-         <Ort Id="" cert=""> Burgund</Ort>
+         <Ort id="4011fdf6-1feb-4805-b7a9-56e05c2b9129" cert="high">Cluny</Ort>
+         <Ort id="8c2eff1a-3769-4cd9-82c6-4057a83aa806" cert="">Burgund</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -33277,7 +33900,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Syrus und des Nagold, [00
          <Datum date="1005-1015">um 1010</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Cluny</Ort>
+         <Ort id="4011fdf6-1feb-4805-b7a9-56e05c2b9129" cert="high">Cluny</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -33399,7 +34022,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo und des Nagold, [00
          <Datum date="778-787">778-787</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Heidenheim</Ort>
+         <Ort id="ff84eeb4-41b3-4a6d-ad8c-30978ca295f9" cert="high">Heidenheim</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -33762,7 +34385,7 @@ Zu Willibalds Eichstätter Bischofsweihe vgl. Lutz E. von Padberg, Art. Willibal
          <Datum date="975-1000">Ende des 10. Jahrhunderts</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Cluny</Ort>
+         <Ort id="4011fdf6-1feb-4805-b7a9-56e05c2b9129" cert="high">Cluny</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -33898,7 +34521,7 @@ Vgl. hierzu auch die Berichte in den Maiolus-Viten des Odilo und des Syrus, [006
          <Datum date="948-952">948-952</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Reims</Ort>
+         <Ort id="da88e8da-c824-43ce-a903-23f6edff3699" cert="">Reims</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -34090,7 +34713,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: P. Chr. Jacobsen, Art. Flodoa
          <Datum date="1072-1082">1072-1082</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Mainz</Ort>
+         <Ort id="0c8c4041-602a-4cd9-9dce-e99dd3acbaa4" cert="high">Mainz</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34579,7 +35202,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="742-838">742-822 mit Nachträgen zu 831, 832 und 838</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Fulda</Ort>
+         <Ort id="32a51039-e312-4c26-8ff6-9d56201a4425" cert="">Fulda</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -34609,7 +35232,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="891-920">Nach 891</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster St. Vaast in Arras (Pas-de-Calais)</Ort>
+         <Ort id="568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc" cert="">Kloster St. Vaast in Arras (Pas-de-Calais)</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -34639,7 +35262,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="823-830">823-830</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Straßburg</Ort>
+         <Ort id="a6fcdd21-6735-4943-9587-d00fc3be45f3" cert="">Straßburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -34666,11 +35289,11 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       </Autoren>
       <LebensdatenVerfasserIn>961/962-1049</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
-         <Datum date="995-1005">Um 1000, 1024-1026</Datum>
-         <Datum date="1024-1026">Um 1000, 1024-1026</Datum>
+         <Datum date="995-1005">Um 1000</Datum>
+         <Datum date="1024-1026">1024-1026</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Abtei Cluny</Ort>
+         <Ort id="4011fdf6-1feb-4805-b7a9-56e05c2b9129" cert="high">Cluny</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -34701,7 +35324,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="860-865">860-865</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Bremen</Ort>
+         <Ort id="446043a4-e42d-45d8-a02a-7bd56619cbcb" cert="">Bremen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34731,7 +35354,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="955-973">Um 960-973</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Stift Gandersheim</Ort>
+         <Ort id="fab9ca3a-894f-4962-bdc5-4daca4ee6afe" cert="">Stift Gandersheim</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34762,7 +35385,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1082-1093">1082-1093</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Merseburg</Ort>
+         <Ort id="af0d3529-899f-44a4-998f-5561d66364cb" cert="">Merseburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34793,7 +35416,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="850-865">850-865</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Fulda</Ort>
+         <Ort id="32a51039-e312-4c26-8ff6-9d56201a4425" cert="">Fulda</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34823,7 +35446,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="836-900">836-900</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Le Mans</Ort>
+         <Ort id="3545cddf-2d17-4b60-ab3a-497ac7922267" cert="">Le Mans</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -34850,11 +35473,11 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       </Autoren>
       <LebensdatenVerfasserIn>Um 830-888</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
-         <Datum date="865-876">865-876, 1101-um 1140</Datum>
-         <Datum date="1101-1145">865-876, 1101-um 1140</Datum>
+         <Datum date="865-876">865-876</Datum>
+         <Datum date="1101-1145">1101-um 1140</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Bremen</Ort>
+         <Ort id="446043a4-e42d-45d8-a02a-7bd56619cbcb" cert="">Bremen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34885,7 +35508,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1015-1025">Um 1019</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Hildesheim</Ort>
+         <Ort id="3dc22bae-014a-4f0b-8c25-eacb03d6e218" cert="">Hildesheim</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34915,7 +35538,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="965-969">965-969</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Köln</Ort>
+         <Ort id="124d29e3-ad27-4405-8987-3e20519e4282" cert="">Köln</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34945,7 +35568,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="874-877">874-877</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Corvey</Ort>
+         <Ort id="02a4c625-8a91-4afa-9ed6-0b996dff4dfb" cert="">Corvey</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -34975,7 +35598,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="785-795">Um 790</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Utrecht</Ort>
+         <Ort id="db0ab2aa-d59d-4063-bec1-8639b0f3f354" cert="">Utrecht</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35005,7 +35628,8 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1000-1179">1000-1179</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Brauweiler oder Köln</Ort>
+         <Ort id="e2f7bd1c-cb62-4dd2-90d8-e08dcd986c82" cert="middle">Brauweiler</Ort>
+         <Ort id="124d29e3-ad27-4405-8987-3e20519e4282" cert="middle">Köln</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35016,7 +35640,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_16_S._724">Annales Brunwilarenses, ed. Georg Heinrich Pertz, in: MGH SS 16, Hannover 1859, S. 724-728</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._216"> Annalium Brunwilarensium supplementum ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 216 Ergänzungen 1000-1149.</edition></Editionshinweise>
       
       
-      <Werkinformation>Vgl. zum Werk: Annales Brunwilarenses, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00218.html 2018-02-15].</Werkinformation>
+      <Werkinformation>Die Annales Brunwilarenses wurden in Brauweiler oder Köln verfasst. Vgl. zum Werk: Annales Brunwilarenses, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00218.html 2018-02-15].</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
       <viaf_Id/>
@@ -35036,7 +35660,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="854-1063">854-1063</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Benoît-sur-Loire</Ort>
+         <Ort id="18f4af65-edab-4c68-a5ba-da7b2ddabd20" cert="">Saint-Benoît-sur-Loire</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35066,7 +35690,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="867-1060">867-1060</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Limoges</Ort>
+         <Ort id="51ff124e-66e2-41d0-b1a9-eb1ae214ece4" cert="">Limoges</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35096,7 +35720,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="782-814">782-814</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Niederaltaich</Ort>
+         <Ort id="381f1410-8888-40aa-87b4-e1065923515b" cert="">Niederalteich</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35126,7 +35750,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="742-855">742-855</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Amand-les-Eaux</Ort>
+         <Ort id="70c4e137-7602-42bb-b5f5-141925c63a52" cert="">Saint-Amand-les-Eaux</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35156,14 +35780,14 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1338-1350">1338-1350</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Abtei St. Bavo in Gent</Ort>
+         <Ort id="2b76a63d-37f0-4dee-9c70-e10f40da2909" cert="">Abtei St. Bavo in Gent</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
-         <Datum date="47">47, 608-1350</Datum>
-         <Datum date="608-1350">47, 608-1350</Datum>
+         <Datum date="47">47</Datum>
+         <Datum date="608-1350">608-1350</Datum>
       </Berichtszeitraum>
       <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._185">Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 185-191.</edition></Editionshinweise>
       
@@ -35187,15 +35811,15 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="840-987">840-987</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Trier</Ort>
+         <Ort id="0a0563cb-df7a-4594-9a5e-45ccd22521c6" cert="">Trier</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
-         <Datum date="538">538, 540, 708-987</Datum>
-         <Datum date="540">538, 540, 708-987</Datum>
-         <Datum date="708-987">538, 540, 708-987</Datum>
+         <Datum date="538">538</Datum>
+         <Datum date="540">540</Datum>
+         <Datum date="708-987">708-987</Datum>
       </Berichtszeitraum>
       <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._212">Annales Sancti Maximini Trevirensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 212-213 aus einer Abschrift des 14. Jahrhunderts</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_4_S._5"> Annales Sancti Maximini Trevirensis, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover 1841, S. 5-7 aus dem Codex Goerres.</edition></Editionshinweise>
       
@@ -35220,7 +35844,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="885-896">Um 890-896</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Germain-de-Près (Paris)</Ort>
+         <Ort id="6e784acb-4fe2-467f-83ab-4f08258b2dc5" cert="">Saint-Germain-des-Prés</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35248,11 +35872,11 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       </Autoren>
       <LebensdatenVerfasserIn>Erchanbert: 8./9. Jahrhundert; Notker: um 840-06.04.912</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
-         <Datum date="826">826, um 881-912</Datum>
-         <Datum date="875-915">826, um 881-912</Datum>
+         <Datum date="826">826</Datum>
+         <Datum date="875-915">um 881-912</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35283,7 +35907,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="960-973">960-973</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Stift Gandersheim</Ort>
+         <Ort id="fab9ca3a-894f-4962-bdc5-4daca4ee6afe" cert="">Stift Gandersheim</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35314,7 +35938,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="799">799</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -35346,7 +35970,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="875-905">Um 880-um 900</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35377,7 +36001,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="972-1400">972-1203, mit einigen Ergänzungen bis ins 14. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35407,7 +36031,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1203-1240">1203-1240</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35437,7 +36061,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="726-799">726-799</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -35466,7 +36090,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="700-800">8. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35496,7 +36120,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="830-840">Um 836</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Fulda</Ort>
+         <Ort id="32a51039-e312-4c26-8ff6-9d56201a4425" cert="">Fulda</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35523,11 +36147,12 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       </Autoren>
       <LebensdatenVerfasserIn>unbekannt</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
-         <Datum date="970-975">Um 973, um 1002</Datum>
-         <Datum date="1000-1005">Um 973, um 1002</Datum>
+         <Datum date="970-975">Um 973</Datum>
+         <Datum date="1000-1005">um 1002</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Nordhausen oder Quedlinburg</Ort>
+         <Ort id="466d899a-a46d-486c-a777-6e3dd1857d7b" cert="middle">Nordhausen</Ort>
+         <Ort id="4df92d1e-ad42-457e-a657-f20599c14452" cert="middle">Quedlinburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35557,7 +36182,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="826-859">826-859</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Corbie</Ort>
+         <Ort id="b8a6bc1b-c92d-4975-9352-0896b000cadb" cert="">Corbie</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35582,14 +36207,14 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       </Alternativtitel>
       <Autoren>
          <Autor Id="vbgy7il0-5cm5-4i61-du63-5ta9liz3iire" alt="Lisiardus Suessionensis">Bf. Lisiard von Soissons</Autor>
-         <Autor Id="a2836ba0-dcfd-4638-9bfe-4cb611936525">Abt Hairulf von Oudenbourg</Autor>
+         <Autor Id="a2836ba0-dcfd-4638-9bfe-4cb611936525">Abt Hairulf von Oudenburg</Autor>
       </Autoren>
       <LebensdatenVerfasserIn>Lisiard: gest. 1126</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
          <Datum date="1114-1121">1114-1121</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Oudenbourg (Flandern)</Ort>
+         <Ort id="63b1108b-5ec1-4b39-9f4b-0eb39874519b" cert="">Oudenburg (Flandern)</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35600,7 +36225,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_15,2_S._872">Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. Oswald Holder-Egger, in: MGH SS 15,2, Hannover 1888, S. 872-904 Auszüge</edition>;<edition url="https://archive.org/details/bub_gb_Xrfbmgsk-z4C/page/n263"> Vita s. Arnulfi confessoris auctore Hariulfo synchrono abbate Alendburgensi, quam adoptavit Lisiardus episcopus Suessionensis etiam coaevus, ed. Johannes Carnandet, in: AA SS Aug. 3, Rom – Paris ²1867, S. 230-259.</edition></Editionshinweise>
       
       
-      <Werkinformation>Die Vita Bf. Arnulfs von Soissons verfasste Hairulf, der Abt des von Arnulf gegründeten Klosters Oudenbourg. Die Vita schickte Hairulf zur Durchsicht an Bf. Lisiard von Soissons, der dem Werk eine Prolog voranstellte, durch das er es als das seinige erscheinen ließ und ihm mehr Autorität verlieh. Vgl. zum Werk: Max Manitius, Geschichte der lateinischen Literatur des Mittelalters, Bd. 3: Vom Ausbruch des Kirchenstreites bis zum Ende des zwölften Jahrhunderts (Handbuch der Altertumswissenschaft 9,3), München 1931, S. 544f.</Werkinformation>
+      <Werkinformation>Die Vita Bf. Arnulfs von Soissons verfasste Hairulf, der Abt des von Arnulf gegründeten Klosters Oudenburg. Die Vita schickte Hairulf zur Durchsicht an Bf. Lisiard von Soissons, der dem Werk eine Prolog voranstellte, durch das er es als das seinige erscheinen ließ und ihm mehr Autorität verlieh. Vgl. zum Werk: Max Manitius, Geschichte der lateinischen Literatur des Mittelalters, Bd. 3: Vom Ausbruch des Kirchenstreites bis zum Ende des zwölften Jahrhunderts (Handbuch der Altertumswissenschaft 9,3), München 1931, S. 544f.</Werkinformation>
       <gnd_Id/>
       <wikidata_Id/>
       <viaf_Id>13159474317927662633</viaf_Id>
@@ -35620,7 +36245,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1090-1100">1090-1100</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Iburg</Ort>
+         <Ort id="d6d5b039-8d44-427a-9c96-ca2490eb9cea" cert="">Iburg</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35650,7 +36275,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="822-845">822-845</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Fulda</Ort>
+         <Ort id="32a51039-e312-4c26-8ff6-9d56201a4425" cert="">Fulda</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35681,7 +36306,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1106-1128">1106-1128</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Cluny</Ort>
+         <Ort id="4011fdf6-1feb-4805-b7a9-56e05c2b9129" cert="">Cluny</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35712,7 +36337,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="850-930">9.-10. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Amand-les-Eaux</Ort>
+         <Ort id="70c4e137-7602-42bb-b5f5-141925c63a52" cert="">Saint-Amand-les-Eaux</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35743,7 +36368,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="839-849">839-849</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Münster</Ort>
+         <Ort id="fbcca930-7849-4c9c-9bfc-fdcd317ee3d9" cert="">Münster</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35773,7 +36398,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="791-800">791-800</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Fulda</Ort>
+         <Ort id="32a51039-e312-4c26-8ff6-9d56201a4425" cert="">Fulda</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35800,17 +36425,13 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
       </Autoren>
       <LebensdatenVerfasserIn>Erste Hälfte des 11. Jahrhunderts</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
-         <Datum date="1054-1061">Um 1038, 1054-1061</Datum>
-         <Datum date="1035-1040">Um 1038, 1054-1061</Datum>
+         <Datum date="1054-1061">Um 1038</Datum>
+         <Datum date="1035-1040">1054-1061</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Hildesheim</Ort>
-      </Abfassungsort>
-      <Abfassungsort>
-         <Ort Id="" cert="">Niederaltaich</Ort>
-      </Abfassungsort>
-      <Abfassungsort>
-         <Ort Id="" cert="">Hersfeld</Ort>
+         <Ort id="3dc22bae-014a-4f0b-8c25-eacb03d6e218" cert="">Hildesheim</Ort>
+         <Ort id="381f1410-8888-40aa-87b4-e1065923515b" cert="">Niederalteich</Ort>
+         <Ort id="cfe05f96-2d7e-41e5-814e-3cf808f32a5d" cert="">Hersfeld</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35842,7 +36463,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="700-900">8.-9. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Maixent (Niort)</Ort>
+         <Ort id="4ebc71c3-f508-462d-accf-346ea70da907" cert="">Saint-Maixent (Niort)</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35872,7 +36493,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="834-838">834-838</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35902,7 +36523,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="845-871">Um 850-871</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35932,7 +36553,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1000-1057">1000-1057</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -35962,7 +36583,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="760-797">760-797</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Tours</Ort>
+         <Ort id="3f185968-7fc8-4cf2-88a0-9d1f80b11421" cert="">Tours</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -35992,7 +36613,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="816-820">816-820</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Reichenau</Ort>
+         <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d" cert="">Reichenau</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36025,14 +36646,14 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="850-855">850-855</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Reichenau</Ort>
+         <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d" cert="">Reichenau</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
       </Regionen>
       <Berichtszeitraum>
-         <Datum date="550-640">550-640, 850-855</Datum>
-         <Datum date="850-855">550-640, 850-855</Datum>
+         <Datum date="550-640">550-640</Datum>
+         <Datum date="850-855">850-855</Datum>
       </Berichtszeitraum>
       <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._31">Ermenrici coenobitae Augiensis tentamen vitae s. Galli adornandae in prosa et metro, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 31-33 Auszug über den hl. Gallus</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_Epp._5_S._534"> Ermenrici Elwangensis epistola ad Grimaldum abbatem, ed. Ernst Dümmler, in: MGH Epp. 5, Berlin 1899, S. 534-580.</edition></Editionshinweise>
       
@@ -36057,14 +36678,13 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="800-900">9. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
       </Regionen>
       <Berichtszeitraum>
-         <Datum date="-3956">3956 v. Chr. – 810 n. Chr.</Datum>
-         <Datum date="685-810">3956 v. Chr. – 810 n. Chr.</Datum>
+         <Datum date="-3956-810">3956 v. Chr.–810 n. Chr. (insbesondere 685 n. Chr.-810 n. Chr.)</Datum>
       </Berichtszeitraum>
       <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_2_S._256">Chronica de sex aetatibus mundi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 256.</edition></Editionshinweise>
       
@@ -36088,7 +36708,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1000-1800">11. bis 18. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">St. Gallen</Ort>
+         <Ort id="6feaa8b7-b23c-473a-8401-6914876cb7ad" cert="">St. Gallen</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36118,7 +36738,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="724-1250">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Reichenau (?)</Ort>
+         <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d" cert="low">Reichenau</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36148,7 +36768,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="731-1300">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Konstanz [?]</Ort>
+         <Ort id="18d38ccb-81ca-4dca-b5f8-c5bb03ebc77a" cert="low">Konstanz</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36178,7 +36798,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="754-769">754-769</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Mainz</Ort>
+         <Ort id="0c8c4041-602a-4cd9-9dce-e99dd3acbaa4" cert="">Mainz</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36209,7 +36829,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="1000-1100">11. Jahrhundert [?]</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36239,7 +36859,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="975-985">Um 980</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Werden an der Ruhr</Ort>
+         <Ort id="9584739b-72bf-494e-9429-25948d8bdbf1" cert="">Kloster Werden an der Ruhr</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36270,7 +36890,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="900-1000">10. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Abtei Montiér-en-Der</Ort>
+         <Ort id="70e6d00a-c450-49a4-afa8-ff8fede7c365" cert="">Abtei Montiér-en-Der</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -36301,7 +36921,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="657-697">657-697</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Metz</Ort>
+         <Ort id="ef043867-d77a-485b-afd9-ced7c4fe3452" cert="">Metz</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -36331,7 +36951,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -36360,7 +36980,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36390,7 +37010,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Köln</Ort>
+         <Ort id="124d29e3-ad27-4405-8987-3e20519e4282" cert="">Köln</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36420,7 +37040,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36450,7 +37070,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36480,7 +37100,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36511,7 +37131,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36541,7 +37161,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36572,7 +37192,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="988-1004">988-1004</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Benoît-sur-Loire</Ort>
+         <Ort id="18f4af65-edab-4c68-a5ba-da7b2ddabd20" cert="">Saint-Benoît-sur-Loire</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -36602,7 +37222,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36632,7 +37252,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36662,7 +37282,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36692,7 +37312,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36722,7 +37342,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="">unbekannt</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>unbekannte Region</Region>
@@ -36752,7 +37372,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="687-1101">687-1101</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Mainz</Ort>
+         <Ort id="0c8c4041-602a-4cd9-9dce-e99dd3acbaa4" cert="">Mainz</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -36782,7 +37402,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="600-700">7. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Fulda</Ort>
+         <Ort id="32a51039-e312-4c26-8ff6-9d56201a4425" cert="">Fulda</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa</Region>
@@ -36813,7 +37433,7 @@ Vgl. [0016]-[0007]; [0017]-[0006]; [0021]-[0019]; [0039]-[0001].</Anmerkungen>
          <Datum date="993-1002">um 998</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Saint-Benoît-sur-Loire</Ort>
+         <Ort id="18f4af65-edab-4c68-a5ba-da7b2ddabd20" cert="high">Saint-Benoît-sur-Loire</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -37021,7 +37641,7 @@ Fuit autem vultu decorus, visu hilaris, mediocris statura, egregiaeque fortitudi
          <Datum date="1000-1100">Mitte des 11. Jahrhunderts</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="7d7844a4-8c11-49b1-a44d-54c08689ff90" cert="high">Kloster Novalesa</Ort>
+         <Ort id="7d7844a4-8c11-49b1-a44d-54c08689ff90" cert="high">Kloster Novalesa</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Italienische Halbinsel</Region>
@@ -37803,10 +38423,11 @@ Aimo, der als Hauptverantwortlicher für den Sieg über die Sarazenen genannt wi
       </Autoren>
       <LebensdatenVerfasserIn>unbekannt</LebensdatenVerfasserIn>
       <Abfassungszeitraum>
-         <Datum date="800-850">800-850</Datum>
+         <Datum date="751-761">751-761</Datum>
+         <Datum date="818-830">818-830</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Kloster Moissiac</Ort>
+         <Ort id="ecd57b7d-332f-44c9-bf61-43180ed1e563" cert="high">Kloster Moissac</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -37842,11 +38463,10 @@ Sema <entity id="67ecda6d-9d8f-4ba2-8476-3f58214c3a8a" type="Person">al-Samh ibn
                <Datum date="720-730">720-730</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
@@ -37906,11 +38526,10 @@ Sema <entity id="67ecda6d-9d8f-4ba2-8476-3f58214c3a8a" type="Person">al-Samh ibn
                <Datum date="730-740">730-740</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Burgund (Frankreich)</Ort>
@@ -37952,11 +38571,10 @@ Vgl. [0047]-[0001].</Anmerkungen>
                <Datum date="730-740">730-740</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
@@ -38009,11 +38627,10 @@ Zur Bezeichnung Abd ar-Rahmans als ‚Statthalter‘ vgl. Ulrich Nonn, Art. Schl
                <Datum date="730-740">730-740</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Frankenreich (Deutschland, Frankreich)</Ort>
@@ -38050,11 +38667,10 @@ Zur Bezeichnung Abd ar-Rahmans als ‚Statthalter‘ vgl. Ulrich Nonn, Art. Schl
                <Datum date="730-740">730-740</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Westfrankenreich (Frankreich)</Ort>
@@ -38110,11 +38726,10 @@ Vgl. [0032]-[0012]; [0042]-[0002].</Anmerkungen>
                <Datum date="750-760">750-760</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
@@ -38155,11 +38770,10 @@ Vgl. [0032]-[0012]; [0042]-[0002].</Anmerkungen>
                <Datum date="750-760">750-760</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Frankenreich (Deutschland, Frankreich)</Ort>
@@ -38201,11 +38815,10 @@ Vgl. [0032]-[0012]; [0042]-[0002].</Anmerkungen>
                <Datum date="770-780">770-780</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
@@ -38255,11 +38868,10 @@ Bei dem sarazenischen ‚König‘ Taurus könnte es sich um den Statthalter von
                <Datum date="790-800">790-800</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
@@ -38315,11 +38927,10 @@ Vgl. zur Datierung und den genannten Personen Évariste Lévi-Provençal, Histoi
                <Datum date="790-800">790-800</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
@@ -38363,11 +38974,10 @@ Vgl. zur Datierung und den genannten Personen Évariste Lévi-Provençal, Histoi
                <Datum date="800-810">800-810</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
@@ -38420,11 +39030,10 @@ Ein ähnlicher Bericht findet sich in der Vita Hludovici Pii imperatoris des Ast
                <Datum date="810-820">810-820</Datum>
             </Berichtszeitraum>
             <Abfassungszeitraum>
-               <Datum date="800-810">800-810</Datum>
+               <Datum date="750-760">750-760</Datum>
+               <Datum date="760-770">760-770</Datum>
                <Datum date="810-820">810-820</Datum>
                <Datum date="820-830">820-830</Datum>
-               <Datum date="830-840">830-840</Datum>
-               <Datum date="840-850">840-850</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
                <Ort id="">Frankenreich (Deutschland, Frankreich)</Ort>
@@ -38467,7 +39076,7 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
          <Datum date="991-998">991-998</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Reims</Ort>
+         <Ort id="da88e8da-c824-43ce-a903-23f6edff3699" cert="">Reims</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
@@ -38635,7 +39244,7 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
          <Datum date="750-760">um 754</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Toledo</Ort>
+         <Ort id="b04b7c4a-7408-4381-bc46-43fd90c91ac3" cert="">Toledo</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>Iberische Halbinsel</Region>
@@ -41553,7 +42162,7 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
          <Datum date="999-1050">nach Gregors Tod (999) und vor Mitte des 11. Jahrhundert</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -41642,7 +42251,7 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
          <Datum date="1175-1195">Ende 12. Jahrhundert, ca. 1180-1190</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="" cert="">Burtscheid</Ort>
+         <Ort id="789e740e-bff4-4af8-8c0c-1de46e3e7c0d" cert="">Burtscheid</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
@@ -41730,7 +42339,7 @@ Bei dem erwähnten princeps Tohaba handelt es sich vermutlich um den syrischen H
          <Datum date="804-830">804-830</Datum>
       </Abfassungszeitraum>
       <Abfassungsort>
-         <Ort Id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
+         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097" cert="high">unbekannt</Ort>
       </Abfassungsort>
       <Regionen>
          <Region>West- und Mitteleuropa – Westfrankenreich</Region>
