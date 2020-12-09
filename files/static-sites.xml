@@ -585,7 +585,11 @@
             }
             .cite-description p {
             margin: 0 0 0 1rem;
-            }</wikisyntax>
+            }
+            .cite-description.type-note {
+            background-color:#F1f1f1;
+            }
+        </wikisyntax>
         </text>
     </page>
     <page>
