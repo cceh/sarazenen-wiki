@@ -112,7 +112,10 @@
                     <xsl:for-each select="distinct-values(current-group()/second)">
                         <second><xsl:value-of select="."/></second>
                     </xsl:for-each>
-                    <xsl:copy-of select="current-group()[1]/Typ"/>
+                   <!-- <xsl:copy-of select="current-group()[1]/Typ"/>-->
+                    <xsl:for-each select="distinct-values(current-group()/Typ)">
+                        <Typ><xsl:value-of select="."/></Typ>
+                    </xsl:for-each>
                     <xsl:copy-of select="current-group()[1]/meta"></xsl:copy-of>
                     <xsl:for-each-group select="current-group()/mentioned" group-by="./name">
                         <xsl:for-each select="current-group()">
@@ -123,7 +126,11 @@
                                 <xsl:value-of select="current-grouping-key()"/>
                             </mentioned>
                         </xsl:for-each>                    
-                    </xsl:for-each-group>
+                    </xsl:for-each-group><test>
+                        <xsl:for-each select="current-group()/meta/node()[.=preceding-sibling::node()]">
+<!--                        <xsl:if test=". !=''"><xsl:element name="{.}"></xsl:element></xsl:if>
+-->                    <xsl:copy-of select="."></xsl:copy-of>
+                        </xsl:for-each></test>
                 </entity>
             </xsl:for-each-group>        
         </xsl:variable>
@@ -164,7 +171,7 @@
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
             version="0.10" xml:lang="de">
-            <!--<xsl:copy-of select="$fill-mergelists"></xsl:copy-of>-->
+            <xsl:copy-of select="$fill-mergelists"></xsl:copy-of>
             <siteinfo>
                 <sitename>Sarazenen Wiki</sitename>
                 <dbname>sarazenen-bonn</dbname>
@@ -472,7 +479,7 @@
    
     <xsl:template match="VerfasserInnen/VerfasserIn | Personen/Person | Orte/Ort" >
         <entity>
-            <xsl:attribute name="id" select="concat(name(),'-',Id)"></xsl:attribute>
+            <xsl:attribute name="id" select="Id"></xsl:attribute>
             <main><xsl:value-of select="Name"/></main>
             <Typ><xsl:value-of select="name()"/></Typ>
             <xsl:for-each select="./Alternativnamen/Name">
