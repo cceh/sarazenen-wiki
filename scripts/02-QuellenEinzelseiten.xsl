@@ -166,7 +166,7 @@
             <title><xsl:value-of select="$quellentitle"/></title>
             <ns>0</ns>
             <id>
-                <xsl:value-of select="index-of($all,.)+ $fid"/>
+<!--                <xsl:value-of select="index-of($all,.)+ $fid"/>-->
             </id>
             <revision>                
                 <id>0</id>

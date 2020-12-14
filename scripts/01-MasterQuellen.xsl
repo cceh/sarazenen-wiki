@@ -67,7 +67,7 @@
             </title>
             <ns>0</ns>
             <id>
-                <xsl:value-of select="position()+$sid"/>
+<!--                <xsl:value-of select="position()+$sid"/>-->
             </id>
             <revision>
                 <id>0</id>

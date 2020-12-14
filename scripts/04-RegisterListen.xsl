@@ -171,7 +171,7 @@
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
             version="0.10" xml:lang="de">
-            <xsl:copy-of select="$fill-mergelists"></xsl:copy-of>
+            <!--<xsl:copy-of select="$fill-mergelists"></xsl:copy-of>-->
             <siteinfo>
                 <sitename>Sarazenen Wiki</sitename>
                 <dbname>sarazenen-bonn</dbname>
@@ -379,7 +379,7 @@
                     </title>
                     <ns>0</ns>
                     <id>
-                        <xsl:value-of select="position() + $fid"/>
+<!--                        <xsl:value-of select="position() + $fid"/>-->
                     </id>
                     <revision>
                         <id>0</id>
@@ -425,7 +425,7 @@
                     </title>
                     <ns>0</ns>
                     <id>
-                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity)"/>
+<!--                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity)"/>-->
                     </id>
                     <revision>
                         <id>0</id>
@@ -438,7 +438,7 @@
                         <format>text/x-wiki</format>
                         <text xml:space="default" bytes="3441">
                             <xsl:value-of select="./link"/>
-                        <!--    [[Kategorie:<xsl:value-of select="./mentioned"/>]]  -->
+                            [[Kategorie:<xsl:value-of select="./mentioned"/>]] 
                         </text>
                         <sha1></sha1>
                     </revision>
@@ -454,8 +454,8 @@
                     </title>
                     <ns>0</ns>
                     <id>
-                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity) + count($mentioned-entrys/entity)"/>
-                    </id>
+<!--                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity) + count($mentioned-entrys/entity)"/>
+-->                    </id>
                     <revision>
                         <id>0</id>
                         <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>

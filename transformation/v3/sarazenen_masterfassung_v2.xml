@@ -5433,7 +5433,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Id>1dfa6434-92e1-4242-9a9f-1e20823b5097</Id>
          <Name>Murbach</Name>
          <Typ>Kloster</Typ>
-         <Name>Ort</Name>
+         <Typ>Ort</Typ>
          <Alternativnamen>
             <Name>Kloster Murbach im Elsaß</Name>
          </Alternativnamen>

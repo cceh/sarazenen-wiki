@@ -633,7 +633,7 @@
             <title>Template:Ort</title>
             <id></id>
             <categories>
-                <category></category>
+                <category>Templates</category>
             </categories>
             <rules>
                 <rule></rule>
@@ -673,9 +673,7 @@
                     |-
                     !colspan="2px" class="map"| MAP
                     |}
-
-
-                    [[Category:Templates]]</noinclude>
+                </div></noinclude>
                 <onlyinclude>
                     <div class="infobox infobox-ort float-right">
 

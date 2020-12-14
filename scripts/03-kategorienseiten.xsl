@@ -137,7 +137,7 @@
             <title>Kategorie:<xsl:value-of select="$data"/></title>
             <ns>0</ns>
             <id>
-                <xsl:value-of select="$pos"/>
+<!--                <xsl:value-of select="$pos"/>-->
             </id>
             <revision>
                 <id>0</id>

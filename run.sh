@@ -6,7 +6,7 @@ master=$files/sarazenen_masterfassung_v2.xml
 negativ=$files/Negativquellen.xml
 
 scripts=$source/scripts
-output=$source/output
+output=$source/output/single
 #java -jar $saxon -s:$master -xsl:$scripts/0-fillMaster.xsl -o:$files/sarazenen_masterfassung_filled.xml;
 master=$files/sarazenen_masterfassung_filled.xml
 java -jar $saxon -s:$master -xsl:$scripts/01-MasterQuellen.xsl -o:$output/01-MasterQuellen.xml fid=300 sid=2;
