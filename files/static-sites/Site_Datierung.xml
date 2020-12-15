@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Datierung</title>
+            <type>Site</type>
+            <id/>
+            <categories>
+                <category>Repertorium Saracenorum</category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            Diese Timeline bietet einen Überblick über die zeitliche Verteilung aller im Repertorium Saracenorum aufgenommenen Quellenstellen. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen. 
+            
+            Die drei Ebenen der Timeline (Jahre, Dekaden, Jahrhunderte) lässt eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timeline (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an.
+            <wikisyntax>
+            {{#ask:
+            [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+            }}    </wikisyntax>       
+        </text>
+    </page>

@@ -32,9 +32,9 @@
             <xsl:variable name="getty" select="doc(concat('http://vocab.getty.edu/tgn/',replace(./text(),' ',''),'.rdf'))"/>
                 <xsl:attribute name="updated" select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/>
                 <coordinates>
-                    <xsl:attribute name="latitude" select="$getty//schema:geo//schema:latitude"/>
-                    <xsl:attribute name="longitude" select="$getty//schema:geo//schema:longitude"></xsl:attribute>
-                    <xsl:value-of select="$getty//schema:geo//schema:latitude"/>,<xsl:value-of select="$getty//schema:geo//schema:longitude"/>                
+                    <xsl:attribute name="latitude"><xsl:call-template name="correct-cords"><xsl:with-param name="cord" select="$getty//schema:geo//schema:latitude"></xsl:with-param></xsl:call-template></xsl:attribute>
+                    <xsl:attribute name="longitude"><xsl:call-template name="correct-cords"><xsl:with-param name="cord" select="$getty//schema:geo//schema:longitude"></xsl:with-param></xsl:call-template></xsl:attribute>
+                    <xsl:call-template name="correct-cords"><xsl:with-param name="cord" select="$getty//schema:geo//schema:latitude"></xsl:with-param></xsl:call-template>,<xsl:call-template name="correct-cords"><xsl:with-param name="cord" select="$getty//schema:geo//schema:longitude"></xsl:with-param></xsl:call-template>             
                 </coordinates>
                 <ScopeNote>
                     <xsl:value-of select="$getty//gvp:ScopeNote/rdf:value"/>
@@ -97,5 +97,14 @@
         <xsl:param name="lib"/>
         <xsl:param name="id"/>
         <xsl:value-of select="doc(concat('https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=SELECT%20%3Fid%20WHERE%20%7B%20%3Fitem%20wdt:P1667%20%22',$id,'%22%20.%20%3Fitem%20wdt:',$lib,'%20%3Fid%20%7D'))//sparql:literal"/>
+    </xsl:template>
+    
+    <xsl:template name="correct-cords">
+        <xsl:param name="cord"/>
+        <xsl:choose>
+            <xsl:when test="starts-with($cord,'.')"><xsl:value-of select="concat('0',$cord)"/></xsl:when>
+            <xsl:when test="starts-with($cord,'-.')"><xsl:value-of select="concat('-0',substring-after($cord,'-'))"/></xsl:when>
+            <xsl:otherwise><xsl:value-of select="$cord"/></xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>

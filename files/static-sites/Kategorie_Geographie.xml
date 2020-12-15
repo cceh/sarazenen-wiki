@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Geographie</title>
+            <type>Kategorie</type>
+            <id/>
+            <categories>
+                <category>Repertorium Saracenorum</category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            Übersicht über alle im Repertorium Saracenorum hinterlegten geographischen Unterkategorien. Über die Auswahl einer geographischen Kategorie können alle Berichte abgerufen werden, zu denen ein Bezug zu dieser Kategorie hinterlegt wurde.
+            
+            Außerdem sind alle geographischen Räume mit Normdaten des <a link="http://www.getty.edu/research/tools/vocabularies/tgn/index.html">Getty Thesaurus of Geographic Names Online</a> verknüpft.
+            
+        </text>
+    </page>

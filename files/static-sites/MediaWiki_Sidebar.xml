@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta><title>Sidebar</title>
+        <type>MediaWiki</type>
+            <id/>
+            <categories>
+                <category/>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+            <text><wikisyntax>* sarazenen
+** Repertorium Saracenorum|Repertorium Saracenorum
+* navigation
+&lt;!-- ** mainpage|mainpage-description --&gt;
+*** Kategorie:werk|Werke
+*** Kategorie:VerfasserIn|VerfasserInnen
+*** Kategorie:Person | Personen
+*** Kategorie:Geographie | Geographie
+*** Kategorie:Abfassungsregion | Abfassungsregion
+*** Kategorie:Auffälligkeit | Auffälligkeiten
+*** Kategorie:Suchbegriffe | Suchbegriffe
+*** Datierung|Datierung
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES</wikisyntax></text>
+    </page>

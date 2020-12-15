@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><Sarazenen>
+<?xml version="1.0" encoding="UTF-8"?>
+<Sarazenen>
     <VerfasserInnen>
         <VerfasserIn id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">
             <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
             <Name>VerfasserIn unbekannt</Name>
             <Alternativnamen/>
             <Lebensdaten date=""/>
-            
-            <wikidata id=""/>
-            
+            <gnd_Id/>
+            <wikidata_Id/>
+            <viaf_Id/>
         </VerfasserIn>
         <VerfasserIn id="3c7e0f93-c523-4340-91e0-d06bc5704d73">
             <Id>3c7e0f93-c523-4340-91e0-d06bc5704d73</Id>
@@ -18,7 +19,7 @@
             </Alternativnamen>
             <Lebensdaten date="845-926">Um 850-nach 921</Lebensdaten>
             <gnd_Id>118646427</gnd_Id>
-            <wikidata id="Q2622892" updated="2020-12-15T11:47:41Z"><desc lang="de"/><desc lang="en">Neustrian Benedictine monk and poet based in Paris (c.850-c.923)</desc></wikidata>
+            <wikidata_Id>Q2622892</wikidata_Id>
             <viaf_Id>25395909</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="a2836ba0-dcfd-4638-9bfe-4cb611936525">
@@ -27,7 +28,7 @@
             <Alternativnamen/>
             <Lebensdaten date="1050-1199">11./12. Jahrhundert</Lebensdaten>
             <gnd_Id>1089614179</gnd_Id>
-            <wikidata id="Q3127452" updated="2020-12-15T11:47:41Z"><desc lang="de"/><desc lang="en">French writer</desc></wikidata>
+            <wikidata_Id>Q3127452</wikidata_Id>
             <viaf_Id>37069954</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="fe3467d7-ee66-49fd-a048-7b8e7eda6b05">
@@ -38,7 +39,7 @@
             </Alternativnamen>
             <Lebensdaten date="1000-1081">gestorben nach 12.10.1081</Lebensdaten>
             <gnd_Id>11850052X</gnd_Id>
-            <wikidata id="Q109244" updated="2020-12-15T11:47:41Z"><desc lang="de">Bremer Kleriker und Theologe</desc><desc lang="en">German medieval chronicler</desc></wikidata>
+            <wikidata_Id>Q109244</wikidata_Id>
             <viaf_Id>84951025</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="77af21e6-b3e3-4029-9a87-34bcdd4dbd1b">
@@ -49,7 +50,7 @@
             </Alternativnamen>
             <Lebensdaten date="800-875">Gest. 16. Dezember 875</Lebensdaten>
             <gnd_Id>119536390</gnd_Id>
-            <wikidata id="Q359951" updated="2020-12-15T11:47:41Z"><desc lang="de">Erzbischof und Heiliger</desc><desc lang="en">Archbishop of Vienne</desc></wikidata>
+            <wikidata_Id>Q359951</wikidata_Id>
             <viaf_Id>73864627</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="cdcc01b5-d4e2-4ccb-983f-21cb0550b6a4">
@@ -58,7 +59,7 @@
             <Alternativnamen/>
             <Lebensdaten date="900-999">10. Jahrhundert</Lebensdaten>
             <gnd_Id>118647091</gnd_Id>
-            <wikidata id="Q378549" updated="2020-12-15T11:47:41Z"><desc lang="de">Theologe und Gelehrter</desc><desc lang="en">French abbot</desc></wikidata>
+            <wikidata_Id>Q378549</wikidata_Id>
             <viaf_Id>100190498</viaf_Id>
         </VerfasserIn>
     </VerfasserInnen>
@@ -74,24 +75,24 @@
                 <Name>Vicente de Huesca</Name>
             </Alternativnamen>
             <gnd_Id>118937065</gnd_Id>
-            <wikidata id="Q318974" updated="2020-12-15T11:47:41Z"><desc lang="de">Diakon und Märtyrer</desc><desc lang="en">saint and martyr</desc></wikidata>
+            <wikidata_Id>Q318974</wikidata_Id>
             <viaf_Id>72193475</viaf_Id>
         </Person>
         <Person id="1975d1e5-746e-45cc-8dff-060249603f68">
             <Id>1975d1e5-746e-45cc-8dff-060249603f68</Id>
             <Name>Basiliscus</Name>
             <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
-            
-            
-            
+            <gnd_Id/>
+            <wikidata_Id/>
+            <viaf_Id/>
         </Person>
         <Person id="22bc55da-c929-4d11-8890-1f0762f6fc41">
             <Id>22bc55da-c929-4d11-8890-1f0762f6fc41</Id>
             <Name>Froia</Name>
             <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
-            
-            
-            
+            <gnd_Id/>
+            <wikidata_Id/>
+            <viaf_Id/>
         </Person>
         <Person id="a5c744fe-bff1-444d-8d82-71102d1ba154">
             <Id>a5c744fe-bff1-444d-8d82-71102d1ba154</Id>
@@ -103,9 +104,9 @@
                 <Name>Erchenbaldus</Name>
                 <Name>Erchembaldus</Name>
             </Alternativnamen>
-            
-            
-            
+            <gnd_Id/>
+            <wikidata_Id/>
+            <viaf_Id/>
         </Person>
         <Person id="cf8371e9-f27f-44c0-957e-912f3a97dfbf">
             <Id>cf8371e9-f27f-44c0-957e-912f3a97dfbf</Id>
@@ -116,9 +117,9 @@
                 <Name>al-Muzar</Name>
                 <Name>Almuzar</Name>
             </Alternativnamen>
-            
-            
-            
+            <gnd_Id/>
+            <wikidata_Id/>
+            <viaf_Id/>
         </Person>
         <Person id="c8660913-da05-439f-9ded-1583aae8283c">
             <Id>c8660913-da05-439f-9ded-1583aae8283c</Id>
@@ -130,7 +131,7 @@
                 <Name>Mu’awiya ibn Abi Sufyan</Name>
             </Alternativnamen>
             <gnd_Id>119217481</gnd_Id>
-            <wikidata id="Q181154" updated="2020-12-15T11:47:41Z"><desc lang="de">erster Kalif der Umayyaden und Begründer dieser Dynastie</desc><desc lang="en">first Umayyad Caliph (r.661-680) and founder of the Umayyad Caliphate</desc></wikidata>
+            <wikidata_Id>Q181154</wikidata_Id>
             <viaf_Id>39541902</viaf_Id>
         </Person>
         <Person id="64144a9c-abdd-476a-9fa5-c108f0a84462">
@@ -145,7 +146,7 @@
                 <Name>Sisenand</Name>
             </Alternativnamen>
             <gnd_Id>103080929</gnd_Id>
-            <wikidata id="Q334811" updated="2020-12-15T11:47:41Z"><desc lang="de">König der Westgoten</desc><desc lang="en">Visigoth king</desc></wikidata>
+            <wikidata_Id>Q334811</wikidata_Id>
             <viaf_Id>32402147</viaf_Id>
         </Person>
     </Personen>
@@ -158,18 +159,18 @@
                 <Name>Iberiam citeriorem</Name>
                 <Name>Ostspanien</Name>
             </Alternativnamen>
-            <getty id="6002557" updated="2020-12-15T11:47:41Z"><coordinates latitude="37.6" longitude="-0.983">37.6,-0.983</coordinates><ScopeNote>Roman province established in 197 BCE along with Hispania Ulterior. It spanned an area from the Ebro Valley to Valencia (Aragon and Catalonia). </ScopeNote></getty>
+            <getty_Id>6002557</getty_Id>
             <Anmerkungen/>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097">
             <Id>e55f8177-2476-4282-ad6b-7a8b0a4e8097</Id>
             <Name>unbekannt</Name>
             <Typ>Ort</Typ>
             <Typ>Kloster</Typ>
             <Alternativnamen/>
-            <getty id="" updated="2020-12-15T11:47:41Z"><coordinates latitude="" longitude="">,</coordinates><ScopeNote/></getty>
+            <getty_Id/>
             <Anmerkungen/>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="9e4acc7a-46e3-4169-b801-e6fed3703f49">
             <Id>9e4acc7a-46e3-4169-b801-e6fed3703f49</Id>
             <Name>St. Riquier</Name>
@@ -178,9 +179,9 @@
             <Alternativnamen>
                 <Name>Saint-Riquier</Name>
             </Alternativnamen>
-            <getty id="7010591" updated="2020-12-15T11:47:41Z"><coordinates latitude="50.132355" longitude="1.947555">50.132355,1.947555</coordinates><ScopeNote/></getty>
+            <getty_Id>7010591</getty_Id>
             <Anmerkungen>Die genauen Koordinaten der Abtei Saint-Riquier lautet: 50° 08′ 03″ Nord, 1° 56′ 55″ Ost.</Anmerkungen>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="a4e8f5c4-600e-4670-b665-347b87da6f8a">
             <Id>a4e8f5c4-600e-4670-b665-347b87da6f8a</Id>
             <Name>St. Wandrille</Name>
@@ -190,17 +191,17 @@
                 <Name>Abtei Saint-Wandrille</Name>
                 <Name>St-Wandrille</Name>
             </Alternativnamen>
-            <getty id="7009660" updated="2020-12-15T11:47:41Z"><coordinates latitude="49.526578" longitude="0.764967">49.526578,0.764967</coordinates><ScopeNote/></getty>
+            <getty_Id>7009660</getty_Id>
             <Anmerkungen>Die Getty-Id bezieht sich auf den Ort Saint-Wandrille, die genauen Koordinaten der Abtei lauten: 49° 31′ 46″ Nord, 0° 46′ 00″ Est.</Anmerkungen>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="51ff124e-66e2-41d0-b1a9-eb1ae214ece4">
             <Id>51ff124e-66e2-41d0-b1a9-eb1ae214ece4</Id>
             <Name>Limoges</Name>
             <Typ>Ort</Typ>
             <Alternativnamen/>
-            <getty id="7008410" updated="2020-12-15T11:47:41Z"><coordinates latitude="45.831534" longitude="1.257805">45.831534,1.257805</coordinates><ScopeNote>Limoges has been the seat of the French porcelain industry since 1736. Limoges flourished as an enamel artwork center in the 12th century; it is home to many artists of enamel painting. Limoges was destroyed in the 5th century, creating two separate towns in the 9th century; the two towns merged in 1792. Limoges was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela; French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. Located in Limoges is a 13th-century Romanesque-Gothic cathedral, various churches, and Roman ruins.</ScopeNote></getty>
+            <getty_Id>7008410</getty_Id>
             <Anmerkungen/>
-        <viaf id="137166008"/><gnd id="4035770-3"/></Ort>
+        </Ort>
         <Ort id="23951a7a-6ecf-4443-a5af-4a7d9b09d2d2">
             <Id>23951a7a-6ecf-4443-a5af-4a7d9b09d2d2</Id>
             <Name>Kloster St. Paul, Monkwearmouth-Jarrow</Name>
@@ -213,9 +214,9 @@
                 <Name>Monasterii Wirimutham-Gyruum</Name>
                 <Name>Kloster St. Paul, Jarrow</Name>
             </Alternativnamen>
-            <getty id="4007331" updated="2020-12-15T11:47:41Z"><coordinates latitude="54.9167" longitude="-1.3833">54.9167,-1.3833</coordinates><ScopeNote/></getty>
+            <getty_Id>4007331</getty_Id>
             <Anmerkungen>Die Benediktiner-Abtei 647 und bestand bis 1539. Um sie herum bildete sich die heutig nordenglische Stadt Sunderland. Die Getty-Id bezieht sich auf Monkwearmouth, dem Ortsteil von Sunderland, in dem die Abtei lag. Die genauen Koordinaten der Abtei lauten: 54° 54′ 47″ Nord, 1° 22′ 30″ West.</Anmerkungen>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc">
             <Id>568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc</Id>
             <Name>Kloster St. Vaast in Arras (Pas-de-Calais)</Name>
@@ -224,9 +225,9 @@
                 <Name>Abbaye Saint-Vaast d'Arras</Name>
                 <Name>Abtei Saint-Vaast</Name>
             </Alternativnamen>
-            <getty id="7008468" updated="2020-12-15T11:47:41Z"><coordinates latitude="50.291799" longitude="2.780306">50.291799,2.780306</coordinates><ScopeNote>Chief town of the Gallic Atrebates; damaged by Attila in 451 and by Northmen in 800; ruled by Flanders; medieval center for tapestry manufacture; ceded to Maximilian of Austria in 1493; held by Spanish Hapsburgs 1640; taken by Louis XIII of France 1640; Arras was the birthplace of Robespierre; the French Revolution and both world wars destroyed many of its old buildings.</ScopeNote></getty>
+            <getty_Id>7008468</getty_Id>
             <Anmerkungen>Die Getty-Id bezieht sich auf die Stadt Arras, in der das Kloster liegt. Die genauen Koordinaten lauten: 50° 17′ 31″ Nord, 2° 46′ 24″ Ost.</Anmerkungen>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="4ebc71c3-f508-462d-accf-346ea70da907">
             <Id>4ebc71c3-f508-462d-accf-346ea70da907</Id>
             <Name>Saint-Maixent-l'École</Name>
@@ -234,9 +235,9 @@
             <Alternativnamen>
                 <Name>Saint-Maixent (Niort)</Name>
             </Alternativnamen>
-            <getty id="4009744" updated="2020-12-15T11:47:41Z"><coordinates latitude="46.413947" longitude="-0.208878">46.413947,-0.208878</coordinates><ScopeNote/></getty>
+            <getty_Id>4009744</getty_Id>
             <Anmerkungen/>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="63b1108b-5ec1-4b39-9f4b-0eb39874519b">
             <Id>63b1108b-5ec1-4b39-9f4b-0eb39874519b</Id>
             <Name>Oudenburg</Name>
@@ -245,9 +246,9 @@
             <Alternativnamen>
                 <Name>Oudenburg (Flandern)</Name>
             </Alternativnamen>
-            <getty id="7249416" updated="2020-12-15T11:47:41Z"><coordinates latitude="51.18489" longitude="3.000354">51.18489,3.000354</coordinates><ScopeNote/></getty>
+            <getty_Id>7249416</getty_Id>
             <Anmerkungen/>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="d6d5b039-8d44-427a-9c96-ca2490eb9cea">
             <Id>d6d5b039-8d44-427a-9c96-ca2490eb9cea</Id>
             <Name>Bad Iburg</Name>
@@ -256,9 +257,9 @@
             <Alternativnamen>
                 <Name>Iburg</Name>
             </Alternativnamen>
-            <getty id="7061235" updated="2020-12-15T11:47:41Z"><coordinates latitude="52.15" longitude="8.05">52.15,8.05</coordinates><ScopeNote/></getty>
+            <getty_Id>7061235</getty_Id>
             <Anmerkungen/>
-        <viaf id=""/><gnd id=""/></Ort>
+        </Ort>
         <Ort id="3e0340cf-81c3-4fb6-b9bf-d9a508508431">
             <Id>3e0340cf-81c3-4fb6-b9bf-d9a508508431</Id>
             <Name>Lüttich</Name>
@@ -266,9 +267,9 @@
             <Alternativnamen>
                 <Name>Liège</Name>
             </Alternativnamen>
-            <getty id="7007945" updated="2020-12-15T11:47:41Z"><coordinates latitude="50.638674" longitude="5.570228">50.638674,5.570228</coordinates><ScopeNote>The city of Liège is located at the confluence of the Ourthe and Meuse Rivers in the province of Liège, of which it is the capital, in eastern Belgium. The site of an ancient settlement, the Romans knew it as Leodium. It was established as a town and bishopric in 721. It became a noted center of learning and art in the Middle Ages. Strife between the guilds and the nobles dominated the early 14th century until political equality was granted to the laborers and to most of the trade guilds in 1313. The town was sacked by Charles the Bold of Burgundy in 15th century, but after his death was rebuilt and prospered. Both France and England attacked it during the War of Spanish Succession. The reign of the nobles ended in 1789, but then France took the town in 1795. After the creation of Belgium in 1830, the town flourished as an industrial center. The German army occupied it in both world wars, and it suffered heavy bombardment in the Second World War. Today it produces steel, coal, glass, copper, and armaments. It has many Romanesque and Gothic churches, and the former palace of the prince-bishops, now the Palais de Justice. It is the cultural center of Wallonie, with many museums and concert halls, an opera, theatre, the state university, the preserved house of the composer César Franck, and the Royal Conservatory of Music. The 2003 estimated population was 185,700.</ScopeNote></getty>
+            <getty_Id>7007945</getty_Id>
             <Anmerkungen/>
-        <viaf id="125420999 137408460"/><gnd id="4074361-5"/></Ort>
+        </Ort>
     </Orte>
      <Dokumente>
       <WerkId>0001</WerkId>
@@ -566,9 +567,9 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
       
       <Werkinformation>Das Werk Destructio monasterii Farfensis (Die Zerstörung des Klosters Farfa) wurde von 998 bis zu dessen Tod 1036/1039 von Hugo von Farfa verfasst. Der Abt des Klosters von Farfa berichtet hier über die Geschichte des Klosters sowie dessen Belagerung und Zerstörung durch sarazenische Angreifer, in dessen Folge das Kloster 898 verlassen werden musste. Um 933 kehrten die Mönche zurück.
 Vgl. auch mit Hinweisen für weiterführende Literatur Susan Boynton, Art. Hugh of Farfa, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 815f.; Hugo Farfensis, Destructio monasterii Farfensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02871.html 2016-08-01]. Zum Kloster Farfa vgl. etwa Herbert Zielinski, Art. Farfa, in: Lexikon des Mittelalters 4, Sp. 295-297 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01].</Werkinformation>
-      
+      <gnd_Id/>
       <wikidata_Id/>
-      
+      <viaf_Id/>
       <Quellen>
          <Quelle>
             <QuellenId>0001</QuellenId>

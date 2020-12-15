@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Werk</title>
+            <type>Kategorie</type>
+            <id/>
+            <categories>
+                <category>Repertorium Saracenorum</category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            Übersicht über alle im '''Repertorium Saracenorum''' aufgenommenen Werke mit Hinweis auf Relevanz (Sarazenenbezug), Verfasserinnen oder Verfasser, Abfassungs- und Berichtszeitraum sowie den Abfassungsort des Werkes. Die Tabelle kann nach Bedarf durch Klick auf einen der Pfeile in jeder Spaltenüberschrift aufsteigend oder absteigend sortiert werden. 
+            
+            Weiter unten befindet sich eine alphabetische Auflistung aller Werke. Über die Auswahl eines Werkes gelangt man zu den Quellenstellen.
+           
+            Zu unterscheiden ist zwischen Werken, die einen sog. Sarazenenbezug haben und jenen, in denen keine Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… überliefert sind.
+            <wikisyntax>
+            {{#ask:
+            [[Kategorie:Werk]]
+            |?Sarazenenbezug#
+            |?VerfasserIn
+            |?Abfassungszeit#
+            |?Berichtszeitraum#
+            |?Abfassungsort
+            |limit=1000|format=table}}     </wikisyntax>
+        </text>
+    </page>

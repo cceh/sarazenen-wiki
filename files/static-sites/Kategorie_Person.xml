@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Person</title>
+            <type>Kategorie</type>
+            <id/>
+            <categories>
+                <category>Repertorium Saracenorum</category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            Alphabetische Übersicht über alle als Person aufgenommenen historischen Persönlichkeiten und in Berichten erwähnte Personen oder Charaktere. Die Auswahl einer Person führt zu einer Auflistung der entsprechenden Berichte, in denen die Person genannt wird.
+            
+            Zu alle Personen sind (sofern verfügbar) <a link="http://lobid.org/gnd">Gemeinsamen Normdatei</a> <a link="https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html">(GND – DNB)</a> hinterlegt, über die weitergehende Informationen abgerufen werden können.
+            
+            Aufgenommen wurden hier keine <a link="Kategorie:VerfasserIn" linking="no">Verfasserinnen und Verfassern</a>.        
+        </text>
+    </page>

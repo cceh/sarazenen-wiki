@@ -493,46 +493,66 @@
     </xsl:template>
     
     <xsl:template match="Rolle">
+        <xsl:if test=". != ''">
         |Rolle=<xsl:value-of select="."/>
+        </xsl:if>
     </xsl:template>
     <xsl:template match="getty">
+        <xsl:if test="./@id != ''">
             |getty_id=<xsl:value-of select="./@id"/>
+        </xsl:if>
         <xsl:if test="./coordinates/@latitude != ''">|getty_coordinates=<xsl:value-of select="./coordinates"/></xsl:if> 
 <!--            |getty_text=<xsl:value-of select="./ScopeNote"/>-->
     </xsl:template>
     
 
     <xsl:template match="wikidata">
+        <xsl:if test="./@id != ''">
         |wikidata_id=<xsl:value-of select="./@id"/>
+        </xsl:if>
+        <xsl:if test="./desc != ''">
         |wikidata_desc=<xsl:choose>
             <xsl:when test="./desc[@lang='de'] != ''"><xsl:value-of select="./desc[@lang='de']"/></xsl:when>
             <xsl:otherwise><xsl:value-of select="./desc[@lang='en']"/></xsl:otherwise>
         </xsl:choose>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="gnd">
-        |gnd_id=<xsl:value-of select="./@id"/>
+        <xsl:if test="./@id != ''">            
+            |gnd_id=<xsl:value-of select="./@id"/>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="gnd_Id">
+        <xsl:if test=". != ''">
         |gnd_id=<xsl:value-of select="."/>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="viaf">
+        <xsl:if test="./@id != ''">
         |viaf_id=<xsl:value-of select="./@id"/>
+        </xsl:if>
     </xsl:template>
     
     
     <xsl:template match="viaf_Id" >
+        <xsl:if test=". != ''">
         |viaf_id=<xsl:value-of select="."/>
+    </xsl:if>
     </xsl:template>
     
     <xsl:template match="Lebensdaten">
+        <xsl:if test=". != ''">
         |Lebensdaten=<xsl:value-of select="."/>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="Alternativnamen/Name">
+        <xsl:if test=". != ''">
         |Alternativnamen=<xsl:value-of select="."/>
+        </xsl:if>
     </xsl:template>
     
     

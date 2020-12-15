@@ -24,7 +24,7 @@
     <page>
         <meta>
             <title>Repertorium Saracenorum</title>
-            <type></type>
+            <type>Site</type>
             <id></id>
             <categories>
                 <category></category>
@@ -310,7 +310,7 @@
     <page>
         <meta>
             <title>Datierung</title>
-            <type></type>
+            <type>Site</type>
             <id></id>
             <categories>
                 <category>Repertorium Saracenorum</category>
@@ -593,21 +593,17 @@
         </text>
     </page>
     <page>
-        <title>MediaWiki:Sidebar</title>
-        <id></id>
-        <revision>
-            <id>173376</id>
-            <parentid>173375</parentid>
-            <timestamp>2020-10-27T16:25:24Z</timestamp>
-            <contributor>
-                <username>Administrator</username>
-                <id>1</id>
-            </contributor>
-            <minor/>
-            <comment>1 Version importiert</comment>
-            <model>wikitext</model>
-            <format>text/x-wiki</format>
-            <text xml:space="preserve" bytes="529">* sarazenen
+        <meta><title>Sidebar</title>
+        <type>MediaWiki</type>
+            <id></id>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule></rule>
+            </rules>
+        </meta>
+            <text><wikisyntax>* sarazenen
 ** Repertorium Saracenorum|Repertorium Saracenorum
 * navigation
 &lt;!-- ** mainpage|mainpage-description --&gt;
@@ -624,13 +620,12 @@
 ** helppage|help
 * SEARCH
 * TOOLBOX
-* LANGUAGES</text>
-            <sha1>1la3jo07p83ia6pxyctxuv15ksamuto</sha1>
-        </revision>
+* LANGUAGES</wikisyntax></text>
     </page>
     <page>
         <meta>
-            <title>Template:Ort</title>
+            <title>Ort</title>
+            <type>Template</type>
             <id></id>
             <categories>
                 <category>Templates</category>
@@ -720,10 +715,11 @@
     </page>
     <page>
         <meta>
-            <title>Template:Werk</title>
+            <title>Werk</title>
+            <type>Template</type>
             <id></id>
             <categories>
-                <category></category>
+                <category>Templates</category>
             </categories>
             <rules>
                 <rule></rule>
@@ -797,17 +793,17 @@
     </page>
     <page>
         <meta>
-            <title>Template:Person</title>
+            <title>Person</title>
+            <type>Template</type>
             <id></id>
             <categories>
-                <category></category>
+                <category>Templates</category>
             </categories>
             <rules>
                 <rule></rule>
             </rules>
         </meta>
-        <text><wikisyntax>
-            <noinclude>[[Category:Templates]]</noinclude>
+        <text><wikisyntax>            
             <onlyinclude>
                 <div class="infobox infobox-person float-right">
                     {| class="wikitable"
@@ -841,10 +837,11 @@
     </page>
     <page>
         <meta>
-            <title>Template:Verfasserin</title>
+            <title>Verfasserin</title>
+            <type>Template</type>
             <id></id>
             <categories>
-                <category></category>
+                <category>Templates</category>
             </categories>
             <rules>
                 <rule></rule>
@@ -886,18 +883,19 @@
         </wikisyntax>
         </text>
     </page>
-    <page>
+   <page>
         <meta>
-            <title>Template:Description</title>
+            <title>Description</title>
             <id></id>
+            <type>Template</type>
             <categories>
-                <category></category>
+                <category>Templates</category>
             </categories>
             <rules>
                 <rule></rule>
             </rules>
         </meta>
-        <text><wikisyntax><noinclude>
+        <text><!--<wikisyntax><noinclude>
             Das Template kennt 4 Typen:
             * Generelle Anmerkung der Bearbeiter <code>type="note"</code>
             * Getty TGN Description <code>type="getty"</code>
@@ -921,7 +919,7 @@
                 }}
                 <div class="cite-description-text"><p>{{{Text}}}</p></div></div></includeonly>
         </div></onlyinclude>
-        </wikisyntax>
+        </wikisyntax>-->
         </text>
     </page>
 </documents>
