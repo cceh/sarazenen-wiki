@@ -74,15 +74,15 @@
         </xsl:for-each>
         </mediawiki>
     </xsl:template>
-    <xsl:template match="div">
+    <xsl:template match="div | pre | noinclude | onlyinclude">
         <xsl:choose>
             <xsl:when test="exists(./attribute())">
-                &lt;div <xsl:for-each select="./attribute()"><xsl:value-of select="name()"/>=&quot;<xsl:value-of select="."/>&quot; </xsl:for-each>&gt;
+                &lt;<xsl:value-of select="name()"/><xsl:text> </xsl:text><xsl:for-each select="./attribute()"><xsl:value-of select="name()"/>=&quot;<xsl:value-of select="."/>&quot; </xsl:for-each>&gt;
             </xsl:when>
             <xsl:otherwise>&lt;div&gt;</xsl:otherwise>
         </xsl:choose>
         <xsl:apply-templates/>
-        &lt;/div&gt;
+        &lt;/<xsl:value-of select="name()"/>&gt;
     </xsl:template>
     <xsl:template match="wikisyntax">
         <xsl:value-of select="."/>

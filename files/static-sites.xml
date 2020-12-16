@@ -727,8 +727,6 @@
         </meta>
         <text>
             <wikisyntax>
-                <noinclude>
-                    [[Category:Templates]]</noinclude>
                 <onlyinclude>
                     <div class="infobox infobox-werk float-right">
 
@@ -847,8 +845,7 @@
                 <rule></rule>
             </rules>
         </meta>
-        <text><wikisyntax>
-            <noinclude>[[Category:Templates]]</noinclude>
+        <text><wikisyntax>            
             <onlyinclude>
                 <div class="infobox infobox-verfasserin float-right">
                     {| class="wikitable"

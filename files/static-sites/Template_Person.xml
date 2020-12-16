@@ -4,41 +4,42 @@
             <type>Template</type>
             <id/>
             <categories>
-                <category>Templates</category>
+                <category></category>
             </categories>
             <rules>
                 <rule/>
             </rules>
         </meta>
         <text><wikisyntax>            
-            <onlyinclude>
-                <div class="infobox infobox-person float-right">
-                    {| class="wikitable"
-                    |- class="head"
-                    !colspan="2"| {{{Name}}}
-                    {{#if:{{{Alternativnamen|}}} |
-                    {{!}}-
-                    {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
-                    {{!}} {{{Alternativnamen}}} }}
-                    {{#if:{{{Rolle|}}} |
-                    {{!}}-
-                    {{!}} Rollen{{#info:{{{Name}}} wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt}}
-                    {{!}} {{{Rolle}}} }}
-                    |- class="subhead"
-                    |colspan="2"| Normdaten
-                    {{#if:{{{gnd_id|}}} |
-                    {{!}}-
-                    {{!}} GND{{#info:Gemeinsame Normdatei}}
-                    {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
-                    {{#if:{{{viaf_id|}}} |
-                    {{!}}-
-                    {{!}} VIAF{{#info:Virtual International Authority File}}
-                    {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }}
-                    {{#if:{{{wikidata_id|}}} |
-                    {{!}}-
-                    {{!}} Wikidata
-                    {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }}
-                    |}</div></onlyinclude>
+            &lt;noinclude&gt;[[Category:Templates]]&lt;/noinclude&gt;
+            &lt;onlyinclude&gt;
+            &lt;div class=&quot;infobox infobox-person float-right&quot;&gt; 
+            {| class=&quot;wikitable&quot;
+            |- class=&quot;head&quot; 
+            !colspan=&quot;2&quot;| {{{Name}}}
+            {{#if:{{{Alternativnamen|}}} |  
+            {{!}}- 
+            {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+            {{!}} {{{Alternativnamen}}} }}
+            {{#if:{{{Rolle|}}} |  
+            {{!}}- 
+            {{!}} Rollen{{#info:{{{Name}}} wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt}}
+            {{!}} {{{Rolle}}} }}
+            |- class=&quot;subhead&quot; 
+            |colspan=&quot;2&quot;| Normdaten 
+            {{#if:{{{gnd_id|}}} |  
+            {{!}}- 
+            {{!}} GND{{#info:Gemeinsame Normdatei}}
+            {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
+            {{#if:{{{viaf_id|}}} |  
+            {{!}}- 
+            {{!}} VIAF{{#info:Virtual International Authority File}}
+            {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }}
+            {{#if:{{{wikidata_id|}}} |  
+            {{!}}- 
+            {{!}} Wikidata
+            {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }}
+            |}&lt;/div&gt;&lt;/onlyinclude&gt;
         </wikisyntax>
         </text>
     </page>

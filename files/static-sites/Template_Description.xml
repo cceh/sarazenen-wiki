@@ -4,36 +4,35 @@
             <id/>
             <type>Template</type>
             <categories>
-                <category>Templates</category>
+                <category></category>
             </categories>
             <rules>
                 <rule/>
             </rules>
         </meta>
-        <text><!--<wikisyntax><noinclude>
-            Das Template kennt 4 Typen:
-            * Generelle Anmerkung der Bearbeiter <code>type="note"</code>
-            * Getty TGN Description <code>type="getty"</code>
-            * Wikidata Description <code>type="wikidata"</code>
-            * GND Weitere Angaben <code>type="gnd"</code>
-            Über den Typ wird jeweils ein eigener Einleitungstext generiert und css-Klassen hinzugefügt, über die sich die Darstellung anpassen lässt.
-            ;Beispiel Aufruf:
-            : Beispiel type=wikidata
-            :: <code><nowiki>{{Vorlage:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?Wikidata|link=none}}|Text=Heerführer beim Ersten Kreuzzug; erster Regent des Königreichs Jerusalem}}</nowiki></code>
-            : Beispiel type=note
-            :: <code><nowiki>{{Template:Description|type=note|Text=Die Spanische Mark bildete die Ursprungsregion des heutigen Kataloniens, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).}}</nowiki></code>
-            [[Category:Templates]]
-        </noinclude>
-            <includeonly>
+        <text>
+            <wikisyntax>&lt;noinclude&gt;
+                Das Template kennt 4 Typen:
+                * Generelle Anmerkung der Bearbeiter &lt;code&gt;type=&quot;note&quot;&lt;/code&gt;
+                * Getty TGN Description &lt;code&gt;type=&quot;getty&quot;&lt;/code&gt;
+                * Wikidata Description &lt;code&gt;type=&quot;wikidata&quot;&lt;/code&gt;
+                * GND Weitere Angaben &lt;code&gt;type=&quot;gnd&quot;&lt;/code&gt;
+                Über den Typ wird jeweils ein eigener Einleitungstext generiert und css-Klassen hinzugefügt, über die sich die Darstellung anpassen lässt.
+                ;Beispiel Aufruf:
+                : Beispiel type=wikidata
+                :: &lt;code&gt;&lt;nowiki&gt;{{Vorlage:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?Wikidata|link=none}}|Text=Heerführer beim Ersten Kreuzzug; erster Regent des Königreichs Jerusalem}}&lt;/nowiki&gt;&lt;/code&gt;
+                : Beispiel type=note
+                :: &lt;code&gt;&lt;nowiki&gt;{{Template:Description|type=note|Text=Die Spanische Mark bildete die Ursprungsregion des heutigen Kataloniens, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).}}&lt;/nowiki&gt;&lt;/code&gt;
+                [[Category:Templates]]
+                &lt;/noinclude&gt;
+                &lt;includeonly&gt;
                 {{#switch:
                 {{{type|}}}
-                |note=<div class="cite-description type-note"><div class="cite-description-head">Anmerkung der BearbeiterInnen:</div>
-                |getty=<div class="cite-description type-getty"><div class="cite-description-head">Beschreibung aus dem '''[http://vocab.getty.edu/page/tgn/{{{id}}} Getty Thesaurus of Geographic Names]'''</div>
-                |wikidata=<div class="cite-description type-wikidata"><div class="cite-description-head">Beschreibung von '''[https://www.wikidata.org/wiki/{{{id}}} Wikidata]'''</div>
-                |gnd=<div class="cceh-callout cite-description type-wikidata">
+                |note=&lt;div class=&quot;cite-description type-note&quot;&gt;&lt;div class=&quot;cite-description-head&quot;&gt;Anmerkung der BearbeiterInnen:&lt;/div&gt;
+                |getty=&lt;div class=&quot;cite-description type-getty&quot;&gt;&lt;div class=&quot;cite-description-head&quot;&gt;Beschreibung aus dem '''[http://vocab.getty.edu/page/tgn/{{{id}}} Getty Thesaurus of Geographic Names]'''&lt;/div&gt;
+                |wikidata=&lt;div class=&quot;cite-description type-wikidata&quot;&gt;&lt;div class=&quot;cite-description-head&quot;&gt;Beschreibung von '''[https://www.wikidata.org/wiki/{{{id}}} Wikidata]'''&lt;/div&gt;
+                |gnd=&lt;div class=&quot;cceh-callout cite-description type-wikidata&quot;&gt;
                 }}
-                <div class="cite-description-text"><p>{{{Text}}}</p></div></div></includeonly>
-        </div></onlyinclude>
-        </wikisyntax>-->
+                &lt;div class=&quot;cite-description-text&quot;&gt;&lt;p&gt;{{{Text}}}&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/includeonly&gt;</wikisyntax>
         </text>
     </page>

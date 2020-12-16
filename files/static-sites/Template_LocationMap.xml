@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+    <meta>
+        <title>LocationMap</title>
+        <type>Template</type>
+        <id/>
+        <categories>
+            <category></category>
+        </categories>
+        <rules>
+            <rule/>
+        </rules>
+    </meta>
+    <text><wikisyntax>            
+        &lt;noinclude&gt;[[Kategorie:Templates]]&lt;/nocinclude&gt;
+        {{#display_map:{{{Koordinaten}}}|centre=Europe|static=yes|layers=Esri.WorldPhysical|width=100%|height:10em|defzoom=3}}
+    </wikisyntax>
+    </text>
+</page>

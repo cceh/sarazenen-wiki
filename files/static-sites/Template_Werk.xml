@@ -4,7 +4,7 @@
             <type>Template</type>
             <id/>
             <categories>
-                <category>Templates</category>
+                <category></category>
             </categories>
             <rules>
                 <rule/>
@@ -12,67 +12,128 @@
         </meta>
         <text>
             <wikisyntax>
-                <noinclude>
-                    [[Category:Templates]]</noinclude>
-                <onlyinclude>
-                    <div class="infobox infobox-werk float-right">
-
-                        {| class="wikitable"
-                        |- class="head"
-                        !colspan="2"| {{{Name}}}
-
-                        |-
-                        {{#if:{{{Subheader|}}} |
-                        {{!}}colspan="2" class="subheader"{{!}} {{{Subheader}}} }}
-
-                        |-
-                        {{#if:{{{Werknummer|}}} |
-                        {{!}} Werknummer
-                        {{!}} {{{Werknummer}}} }}
-
-                        |-
-                        {{#if:{{{VerfasserIn|}}} |
-                        {{!}} VerfasserIn
-                        {{!}} {{{VerfasserIn}}} }}
-
-                        |-
-                        {{#if:{{{Abfassungszeit|}}} |
-                        {{!}} Abfassungszeit
-                        {{!}} {{{Abfassungszeit}}} }}
-
-                        |-
-                        {{#if:{{{Alternativnamen|}}} |
-                        {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
-                        {{!}} {{{Alternativnamen}}} }}
-
-                        |-
-                        {{#if:{{{getty_id|}}}{{{viaf_id|}}}{{{wikidata_id|}}} |
-                        {{!}}colspan="2" class="subhead" {{!}} Normdaten }}
-
-                        |-
-                        {{#if:{{{getty_id|}}} |
-                        {{!}} Getty TGN{{#info:Getty Thesaurus of Geographical Names}}
-                        {{!}} [http://vocab.getty.edu/page/tgn/{{{getty_id}}} {{{getty_id}}}] }}
-
-                        |-
-                        {{#if:{{{viaf_id|}}}|
-                        {{!}} VIAF{{#info:Virtual International Authority File}}
-                        {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }}
-
-                        |-
-                        {{#if:{{{wikidata_id|}}} |
-                        {{!}} Wikidata
-                        {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }}
-
-                        |-
-                        {{#if:{{{getty_coordinates|}}} |
-                        {{!}}colspan="2" class="subhead" {{!}} Lokalisierung
-                        {{!}}-
-                        {{!}} Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
-                        {{!}} {{{getty_coordinates}}}
-                        {{!}}-
-                        !colspan="2px" class="map" {{!}} {{Template:LocationMap | Koordinaten={{{getty_coordinates}}} }} }}
-                        |}</div></onlyinclude>
+                &lt;noinclude&gt;
+                
+                == Aufruf ==
+                &lt;pre&gt;{{Template:Werk
+                |Name={{FULLPAGENAME}}
+                |Subheader=Jahrbücher aus Alemannien/Alemannische Annalen
+                |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+                |Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+                |Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+                |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+                |VerfasserIn=[[VerfasserIn::VerfasserIn unbekannt]]
+                |Lebensdaten=unbekannt
+                |Abfassungsort=Kloster Murbach im Elsaß;Reichenau;St. Gallen
+                |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+                |Abfassungsort_coordinates=
+                |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+                |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+                |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+                |getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}&lt;/pre&gt;
+                
+                == Beispiele ==
+                &lt;div class=&quot;infobox infobox-werk float-right&quot;&gt; 
+                {| class=&quot;wikitable&quot;
+                |- class=&quot;head&quot; 
+                !colspan=&quot;2&quot;| Name
+                |-
+                | Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                | asd, fgh
+                |- class=&quot;subhead&quot; 
+                |colspan=&quot;2&quot; | Normdaten
+                |-
+                | GND{{#info:Gemeinsame Normdatei}}
+                | 1
+                |-
+                | VIAF{{#info:Virtual International Authority File}}
+                | 2
+                |-
+                | Wikidata
+                | 3
+                |- class=&quot;subhead&quot; 
+                |colspan=&quot;2&quot;| Lokalisierung
+                |-
+                | Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
+                | 00°,00°
+                |-
+                !colspan=&quot;2px&quot; class=&quot;map&quot;| MAP
+                |}
+                
+                
+                [[Category:Templates]]&lt;/noinclude&gt;
+                &lt;onlyinclude&gt;
+                &lt;div class=&quot;infobox infobox-werk float-right&quot;&gt; 
+                
+                {| class=&quot;wikitable&quot;
+                |- class=&quot;head&quot; 
+                !colspan=&quot;2&quot;| {{{Name}}}
+                
+                |- 
+                {{#if:{{{Subheader|}}} |  
+                {{!}}colspan=&quot;2&quot; class=&quot;subheader&quot;{{!}} {{{Subheader}}} }} 
+                
+                |- 
+                {{#if:{{{Werknummer|}}} |  
+                {{!}} Werknummer
+                {{!}} {{{Werknummer}}} }} 
+                
+                |- 
+                {{#if:{{{Abfassungszeit|}}} |  
+                {{!}} Abfassungszeit
+                {{!}} {{{Abfassungszeit}}} }} 
+                
+                |- 
+                {{#if:{{{Berichtszeitraum|}}} |  
+                {{!}} Berichtszeitraum
+                {{!}} {{{Berichtszeitraum}}} }} 
+                
+                |- 
+                {{#if:{{{VerfasserIn|}}} |  
+                {{!}} VerfasserIn
+                {{!}} {{{VerfasserIn}}} }} 
+                
+                |- 
+                {{#if:{{{Lebensdaten|}}} |  
+                {{!}} Lebensdaten der VerfasserIn
+                {{!}} {{{Lebensdaten}}} }} 
+                
+                |- 
+                {{#if:{{{Abfassungsort|}}} |  
+                {{!}} Abfassungsort
+                {{!}} {{{Abfassungsort}}} }}
+                
+                |- 
+                {{#if:{{{Alternativnamen|}}} |  
+                {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                {{!}} {{{Alternativnamen}}} }} 
+                
+                |-
+                {{#if:{{{getty_id|}}}{{{viaf_id|}}}{{{wikidata_id|}}} | 
+                {{!}}colspan=&quot;2&quot; class=&quot;subhead&quot; {{!}} Normdaten }}
+                
+                |-
+                {{#if:{{{getty_id|}}} |
+                {{!}} Getty TGN{{#info:Getty Thesaurus of Geographical Names}} 
+                {{!}} [http://vocab.getty.edu/page/tgn/{{{getty_id}}} {{{getty_id}}}] }}
+                
+                |- 
+                {{#if:{{{viaf_id|}}}| 
+                {{!}} VIAF{{#info:Virtual International Authority File}} 
+                {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }} 
+                
+                |- 
+                {{#if:{{{wikidata_id|}}} | 
+                {{!}} Wikidata 
+                {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }} 
+                
+                |-  
+                |colspan=&quot;2&quot; class=&quot;subhead&quot; | Lokalisierung
+                |-
+                |colspan=&quot;2&quot; {{!}} Zeigt die Positionen von allen in den Quellenstellen erwähnten Orten.
+                |-
+                !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:WerkKarte | Name={{{Name}}} }}
+                |}&lt;/div&gt;&lt;/onlyinclude&gt;
             </wikisyntax>
         </text>
     </page>

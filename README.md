@@ -114,6 +114,8 @@ Vorlage:LocationMap
 Vorlage:Ort
 Vorlage:Person
 Vorlage:Description
+Vorlage:Verfasserin
+Vorlage:Werk
 
 
 DELETE FROM page;
