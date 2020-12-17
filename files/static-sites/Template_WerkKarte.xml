@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>   
+  <meta>
+      <title>WerkKarte</title>
+            <type>Template</type>
+            <id/>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text><wikisyntax>{{#ask: [[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]
+ |?Getty coordinates
+ |format=leaflet
+ |limit=50
+ |offset=0
+ |link=all
+ |sort=
+ |order=asc
+ |headers=show
+ |width=100%
+ |height=350px
+ |defzoom=3
+ |maxzoom=3
+ |minzoom=3
+ |centre=Europe
+ |static=yes
+ |layers=Esri.WorldPhysical
+ |type=terrain
+}}</wikisyntax></text>        
+</page>

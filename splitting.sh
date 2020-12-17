@@ -9,6 +9,6 @@ output=$source/output
 
 master=$files/sarazenen_masterfassung_filled.xml
 java -jar $saxon -s:$master -xsl:$scripts/101-merge.xsl -o:$output/101-merge.xml;
-java -jar $saxon -s:$output/101-merge.xml -xsl:$scripts/103-split.xsl foldername=$output/split ;
+java -jar $saxon -s:$output/101-merge.xml -xsl:$scripts/103-split.xsl foldername=$output/split size=1000 div=500;
 
 

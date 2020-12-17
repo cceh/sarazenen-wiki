@@ -4,15 +4,17 @@
     xmlns="http://www.mediawiki.org/xml/export-0.10/"
     exclude-result-prefixes="#all" version="2.0">
     <xsl:param name="fid">1000</xsl:param>
+    <xsl:param name="size">100</xsl:param>
+    <xsl:param name="div">50</xsl:param>
     <xsl:param name="foldername">./output/split</xsl:param>
     <xsl:template match="/">
         <xsl:variable name="all" select="count(.//*:page)"/>
-        <xsl:variable name="max" select="xs:integer(round((count(.//*:page)-50) div 100))"/>
+        <xsl:variable name="max" select="xs:integer(round((count(.//*:page)-$div) div $size))"/>
         <xsl:variable name="page" select="."/>
         <xsl:for-each select="(1 to $max)">
             
-            <xsl:variable name="start" select=". *100 - 99"/>
-            <xsl:variable name="end" select=". * 100"/>
+            <xsl:variable name="start" select="xs:integer((. *$size - ($size -1)))"/>
+            <xsl:variable name="end" select="xs:integer((. * $size))"/>
             
             <xsl:result-document href="{$foldername}/{.}.xml" method="xml">
             <mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -63,8 +65,8 @@
                 </xsl:for-each>
             </mediawiki>
             </xsl:result-document>
-            <xsl:if test="(. * 100) eq $max*100">
-                <xsl:variable name="start" select=". *100 + 1"/>
+            <xsl:if test="xs:integer(. * $size) eq xs:integer($max*$size)">
+                <xsl:variable name="start" select="xs:integer((. *$size + 1))"/>
                 <xsl:result-document href="{$foldername}/{. +1}.xml" method="xml">
                     <mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                         xmlns="http://www.mediawiki.org/xml/export-0.10/"
@@ -125,6 +127,10 @@
         </xsl:copy>
     </xsl:template>
     <xsl:template match="*:page/*:id">
+        <xsl:param name="pos"></xsl:param>
+        <id><xsl:choose><xsl:when test=".=''"><xsl:value-of select="xs:integer($pos)+ $fid"/></xsl:when><xsl:otherwise><xsl:value-of select="."/></xsl:otherwise></xsl:choose></id>
+    </xsl:template>
+    <xsl:template match="*:revision/*:id">
         <xsl:param name="pos"></xsl:param>
         <id><xsl:value-of select="xs:integer($pos)+ $fid"/></id>
     </xsl:template>

@@ -2,13 +2,15 @@
         <meta>
             <title>Common.css</title>
             <type>MediaWiki</type>
-            <id/>
+            <id>211849</id>
             <categories>
                 <category/>
             </categories>
             <rules>
                 <rule/>
             </rules>
+            <model>css</model>
+            <format>text/css</format>
         </meta>
         <text><wikisyntax>
             /* Das folgende CSS wird für alle Benutzeroberflächen geladen. */ .hauptseite-rechts { margin-left: .5em; } .hauptseite-links { margin-right: .5em; } .hauptseite-oben h2, .hauptseite-unten h2 { text-align: center; } .hauptseite-links h2, .hauptseite-rechts h2 { text-indent: .8em; } .hauptseite-oben, .hauptseite-links, .hauptseite-rechts { margin-bottom: 1em; } #hauptseite .inhalt { background: #fff; border: 1px solid #8898bf; border-top-color: rgb(136, 152, 191); border-top-style: solid; border-top-width: 1px; border-top: 0; min-height: 0; padding: .3em .8em .4em; font-color:green; } #hauptseite h2 { background: #d8e8ff; border: 1px solid #8898bf; font-family: inherit; font-size: 1em; font-weight: bold; line-height: 1.5; margin: 0; padding: .1em 0; } #hauptseite div.inhalt { margin-bottom:1em; } .legende{font-size:10px;}
@@ -19,7 +21,7 @@
             .infobox.infobox-werk .wikitable .head th  {border-top-color: #32a852;}
             .infobox .wikitable .head th {border-top: 2px solid ; background:#fff; }
             .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; background:#fff; width:30em;}
-            /* h3 {clear:both;} */
+            h3 {clear:both;} 
             .infobox .wikitable th, .infobox .wikitable tr  {border: 1px solid #aaa;}
             .infobox .wikitable td {border: none; vertical-align:top; padding-top:0.25rem; padding-bottom:0.25rem;}
             .infobox .wikitable .subhead { font-weight:bold; text-align:center; background-color:#f1f1f1;}

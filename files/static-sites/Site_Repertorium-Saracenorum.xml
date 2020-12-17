@@ -40,7 +40,13 @@
             zugänglich gemacht, um weitere Untersuchungen zu
             befördern.
            </div>
-            
+<header level="2">Positionen aller in den Berichten erwähnten Orte</header>               
+               <div class="inhalt">
+                   <wikisyntax>{{#ask:[[getty_coordinates::+]]
+                   |?Getty coordinates
+                   |format=map
+                   }}</wikisyntax>    
+               </div>
                <header level="2">Hinweise zur Benutzung </header>
            <div class="inhalt">
             Das Repertorium Saracenorum bietet eine Sammlung von mittelalterlichen Berichten über <i>Saraceni</i>, <i>Agareni</i>, <i>Mauri</i>…. Jeder thematisch relevante Bericht ist als Quellenstelle auf einer eigenen Seite aufgenommen, diese wiederum einem Werk und sofern möglich einer Verfasserin bzw. einem Verfasser zugeordnet worden. Mit Hilfe von Kategorien und Attributen wurden sowohl die Werkseiten als auch die Quellenstellenseiten verschlagwortet. 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>   
+  <meta>
+      <title>Timeframe</title>
+            <type>Template</type>
+            <id/>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+    <text><wikisyntax>{{#ask: [[ZeitangabeBeginn::+]] [[ZeitangabeBeginn::&gt;{{{start}}}]] [[ZeitangabeBeginn::&lt;{{{ende}}}]] ||
+        [[ZeitangabeBeginn::+]][[ZeitangabeEnde::&gt;{{{start}}}]] [[ZeitangabeEnde::&lt;{{{ende}}}]] ||
+        [[ZeitangabeBeginn::+]][[ZeitangabeBeginn::&lt;{{{start}}}]] [[ZeitangabeEnde::&gt;{{{ende}}}]] 
+        
+        |?ZeitangabeBeginn
+        |?ZeitangabeEnde
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |format=timeline
+        |limit=500
+        |offset=0
+        |link=all
+        |sort=
+        |order=asc
+        |headers=show
+        |searchlabel=… weitere Ergebnisse
+        |timelinesize=800px
+        |timelineposition=end
+        |timelinestart=ZeitangabeBeginn
+        |timelineend=ZeitangabeEnde
+        |timelinebands= YEAR, DECADE, CENTURY
+        }}</wikisyntax></text>        
+</page>

@@ -74,9 +74,9 @@
                     <xsl:with-param name="parent"><xsl:text>Geographie</xsl:text></xsl:with-param>
                 </xsl:call-template>
             </xsl:for-each> 
-            
-            <xsl:variable name="max" select="$max + count($places)"/>
             <!--
+            <xsl:variable name="max" select="$max + count($places)"/>
+            <!-\-
             <xsl:variable name="regionen" select=".//Regionen/Region/data(.)"/>
             <xsl:for-each select="distinct-values($regionen)">
                 <xsl:call-template name="kateg">
@@ -95,7 +95,7 @@
             <item><i>Suchbegriffe</i><e>text</e></item>
             <item><i>VerfasserIn</i><e>page</e></item>
             <item><i>Person</i><e>page</e></item>
-            -->
+            -\->
             <xsl:variable name="attre"><list><item><i>abgefasst in</i><e>text</e></item>
                 <item><i>datiert auf</i><e>text</e></item>
                 <item><i>aus dem Werk</i><e>text</e></item>
@@ -124,7 +124,7 @@
                     <xsl:with-param name="typus" select="./node()[2]"/>
                 </xsl:call-template>
             </xsl:for-each>
-            
+            -->
         </mediawiki>
     </xsl:template> 
     

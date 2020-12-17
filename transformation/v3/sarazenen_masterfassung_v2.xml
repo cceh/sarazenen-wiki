@@ -5082,9 +5082,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Alternativnamen>
             <Name>Saint-Riquier</Name>
          </Alternativnamen>
-         <getty_Id>50° 08′ 03″ N, 1° 56′ 55″ E</getty_Id>
-         <!-- Ermittelte Getty-Id: 7010591 -->
-         <Anmerkungen/>
+         <getty_Id>7010591</getty_Id>
+         <Anmerkungen>Die genauen Koordinaten der Abtei Saint-Riquier lautet: 50° 08′ 03″ Nord, 1° 56′ 55″ Ost.</Anmerkungen>
       </Ort>
       <Ort id="a4e8f5c4-600e-4670-b665-347b87da6f8a">
          <Id>a4e8f5c4-600e-4670-b665-347b87da6f8a</Id>
@@ -5095,9 +5094,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Abtei Saint-Wandrille</Name>
             <Name>St-Wandrille</Name>
          </Alternativnamen>
-         <getty_Id>49° 31′ 46″ N, 0° 46′ 00″ E</getty_Id>
-         <!-- Ermittelte Getty-Id: 7009660 -->
-         <Anmerkungen/>
+         <getty_Id>7009660</getty_Id>
+         <Anmerkungen>Die Getty-Id bezieht sich auf den Ort Saint-Wandrille, die genauen Koordinaten der Abtei lauten: 49° 31′ 46″ Nord, 0° 46′ 00″ Est.</Anmerkungen>
       </Ort>
       <Ort id="51ff124e-66e2-41d0-b1a9-eb1ae214ece4">
          <Id>51ff124e-66e2-41d0-b1a9-eb1ae214ece4</Id>
@@ -5119,9 +5117,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Monasterii Wirimutham-Gyruum</Name>
             <Name>Kloster St. Paul, Jarrow</Name>
          </Alternativnamen>
-         <getty_Id>54° 54′ 47″ N, 1° 22′ 30″ W</getty_Id>
-         <!-- Ermittelte Getty-Id: 4007331 -->
-         <Anmerkungen>Die Benediktiner-Abtei 647 und bestand bis 1539. Um sie herum bildete sich die heutig nordenglische Stadt Sunderland.</Anmerkungen>
+         <getty_Id>4007331</getty_Id>
+         <Anmerkungen>Die Benediktiner-Abtei 647 und bestand bis 1539. Um sie herum bildete sich die heutig nordenglische Stadt Sunderland. Die Getty-Id bezieht sich auf Monkwearmouth, dem Ortsteil von Sunderland, in dem die Abtei lag. Die genauen Koordinaten der Abtei lauten: 54° 54′ 47″ Nord, 1° 22′ 30″ West.</Anmerkungen>
       </Ort>
       <Ort id="568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc">
          <Id>568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc</Id>
@@ -5131,9 +5128,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Abbaye Saint-Vaast d'Arras</Name>
             <Name>Abtei Saint-Vaast</Name>
          </Alternativnamen>
-         <getty_Id>50° 17′ 31″ N, 2° 46′ 24″ E</getty_Id>
-         <!-- Ermittelte Getty-Id: 7008468 -->
-         <Anmerkungen/>
+         <getty_Id>7008468</getty_Id>
+         <Anmerkungen>Die Getty-Id bezieht sich auf die Stadt Arras, in der das Kloster liegt. Die genauen Koordinaten lauten: 50° 17′ 31″ Nord, 2° 46′ 24″ Ost.</Anmerkungen>
       </Ort>
       <Ort id="4ebc71c3-f508-462d-accf-346ea70da907">
          <Id>4ebc71c3-f508-462d-accf-346ea70da907</Id>
@@ -5186,9 +5182,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Sankt-Bavo-Abtei</Name>
             <Name>Abbaye Saint-Bavon de Gand</Name>
          </Alternativnamen>
-         <getty_Id>51° 03′ 14″ N, 3° 44′ 10″ E</getty_Id>
-         <!-- Ermittelte Getty-Id: 7007887 -->
-         <Anmerkungen/>
+         <getty_Id>7007887</getty_Id>
+         <Anmerkungen>Die Getty-Id bezieht sich auf die Stadt Gent in Flandern, die genauen Koordinaten der Abtei lauten: 51° 03′ 14″ Nord, 3° 44′ 10″ Ost.</Anmerkungen>
       </Ort>
       <Ort id="70e6d00a-c450-49a4-afa8-ff8fede7c365">
          <Id>70e6d00a-c450-49a4-afa8-ff8fede7c365</Id>
@@ -7307,7 +7302,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Katalonien</Name>
          </Alternativnamen>
          <getty_Id>7030216</getty_Id>
-         <Anmerkungen>Die Spanische Mark bildete die Ursprungsregion des heutigen Kataloniens, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).</Anmerkungen>
+         <Anmerkungen>Die Spanische Mark bildete die Ursprungsregion des heutigen Kataloniens, daher die Zuordnung der Getty-Id.</Anmerkungen>
       </Ort>
       <Ort id="30622a20-d2d3-48c2-8467-dbd562a1cd15">
          <Id>30622a20-d2d3-48c2-8467-dbd562a1cd15</Id>
@@ -7617,7 +7612,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Marmorica</Name>
          </Alternativnamen>
          <getty_Id>7000643</getty_Id>
-         <Anmerkungen>Hierbei handelt es sich um eine antike Landschaft an der Nordküste Afrikas zwischen Ägypten und Kyrenaia, in römischer Zeit Teil der Provinz Creta et Cyrene, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).</Anmerkungen>
+         <Anmerkungen>Hierbei handelt es sich um eine antike Landschaft an der Nordküste Afrikas zwischen Ägypten und Kyrenaia, in römischer Zeit Teil der Provinz Creta et Cyrene, daher die Zuordnung der Getty-Id.</Anmerkungen>
       </Ort>
       <Ort id="f4941d6c-8ea4-4acd-9715-b5d52e80dd7e">
          <Id>f4941d6c-8ea4-4acd-9715-b5d52e80dd7e</Id>
@@ -7963,7 +7958,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Longana</Name>
          </Alternativnamen>
          <getty_Id>7003678</getty_Id>
-         <Anmerkungen>Hierbei handelt es sich um ein historisches Gebiet an der mitteleren und unteren Lahn, hauptsächlich im heutigen Hessen, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).</Anmerkungen>
+         <Anmerkungen>Hierbei handelt es sich um ein historisches Gebiet an der mitteleren und unteren Lahn, hauptsächlich im heutigen Hessen, daher die Zuordnung der Getty-Id.</Anmerkungen>
       </Ort>
       <Ort id="f8987317-7ee1-413b-949b-e7f594eb4955">
          <Id>f8987317-7ee1-413b-949b-e7f594eb4955</Id>
@@ -8601,9 +8596,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>San Vincenzo al Volturno</Name>
          <Typ>Kloster</Typ>
          <Alternativnamen/>
-         <getty_Id>41° 38′ 59.94″ N, 14° 05′ 16.14″E</getty_Id>
-         <!-- Ermittelte Getty-ID (Cerro al Volturno): 7049310 -->
-         <Anmerkungen>Kein entsprechender Eintrag im Getty Thesaurus of Geographic Names vorhanden.</Anmerkungen>
+         <getty_Id>7049310</getty_Id>
+         <Anmerkungen>Koordinaten: 41°38′59.94″N 14°05′16.14″E, kein entsprechender Eintrag im Getty Thesaurus of Geographic Names vorhanden.</Anmerkungen>
       </Ort>
       <Ort id="fcff5bad-3eb4-4009-8899-d7e8b453a27a">
          <Id>fcff5bad-3eb4-4009-8899-d7e8b453a27a</Id>
@@ -9185,7 +9179,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>Occidentem</Name>
          </Alternativnamen>
          <getty_Id>7594707</getty_Id>
-         <Anmerkungen>Der Begriff umfasst im Wesentlichen den Westen des römischen Reiches, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).</Anmerkungen>
+         <Anmerkungen>Der Begriff umfasst im Wesentlichen den Westen des römischen Reiches, daher die Zuordnung der Getty-Id.</Anmerkungen>
       </Ort>
       <Ort id="278c27e5-51a2-4608-b9fa-aaf47049fdf8">
          <Id>278c27e5-51a2-4608-b9fa-aaf47049fdf8</Id>
@@ -9423,9 +9417,8 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
             <Name>al-Akkari</Name>
             <Name>Akkari</Name>
          </Alternativnamen>
-         <getty_Id>34°40′ 0″ N, 36° 11′ 0″ E</getty_Id>
-         <!-- Ermittelte Getty-ID (Tall Kalakh):1085251 -->
-         <Anmerkungen>Der Ort liegt nördlich der Bucht von Tripoli (Syrien) landeinwärts, heute: al-Akkari.</Anmerkungen>
+         <getty_Id>1085251</getty_Id>
+         <Anmerkungen>Der Ort liegt nördlich der Bucht von Tripoli (Syrien) landeinwärts, heute: al-Akkari; Koordinaten: 34°40′0″N 36°11′0″E</Anmerkungen>
       </Ort>
       <Ort id="b7ae38cb-7dc0-4733-9b5b-6d729f266974">
          <Id>b7ae38cb-7dc0-4733-9b5b-6d729f266974</Id>

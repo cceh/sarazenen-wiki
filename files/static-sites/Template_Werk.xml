@@ -130,7 +130,7 @@
                 |-  
                 |colspan=&quot;2&quot; class=&quot;subhead&quot; | Lokalisierung
                 |-
-                |colspan=&quot;2&quot; {{!}} Zeigt die Positionen von allen in den Quellenstellen erwähnten Orten.
+                |colspan=&quot;2&quot; {{!}} Geographische Bezüge in den ausgewerteten Quellenstellen.
                 |-
                 !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:WerkKarte | Name={{{Name}}} }}
                 |}&lt;/div&gt;&lt;/onlyinclude&gt;

@@ -1,15 +1,17 @@
 source=`pwd`
 saxon=`pwd`/SaxonHE9-9-0-2J/saxon9he.jar
 files=$source/files
-#master=$files/sarazenen_masterfassung_v2.xml
-master=$files/test2.xml
+master=$files/sarazenen_masterfassung_v2-1.xml
+#master=$files/test2.xml
 negativ=$files/Negativquellen.xml
 
 scripts=$source/scripts
 output=$source/output/single
-java -jar $saxon -s:$master -xsl:$scripts/0-fillMaster.xsl -o:$files/sarazenen_masterfassung_filled.xml;
+#java -jar $saxon -s:$master -xsl:$scripts/0-fillMaster.xsl -o:$files/sarazenen_masterfassung_filled.xml;
+
 master=$files/sarazenen_masterfassung_filled.xml
-java -jar $saxon -s:$master -xsl:$scripts/01-MasterQuellen.xsl -o:$output/01-MasterQuellen.xml fid=300 sid=2;
+
+java -jar $saxon -s:$master -xsl:$scripts/01-WerkSeiten.xsl -o:$output/01-MasterQuellen.xml fid=300 sid=2;
 
 java -jar $saxon -s:$master -xsl:$scripts/02-QuellenEinzelseiten.xsl -o:$output/02-QuellenEinzelseiten.xml fid=1000 sid=2;
 
@@ -17,6 +19,10 @@ java -jar $saxon -s:$master -xsl:$scripts/02-QuellenEinzelseiten.xsl -o:$output/
  java -jar $saxon -s:$master -xsl:$scripts/03-kategorienseiten.xsl -o:$output/03-kategorienseiten.xml fid=3000 sid=2;
 #####
  java -jar $saxon -s:$master -xsl:$scripts/04-RegisterListen.xsl -o:$output/04-RegisterListen.xml fid=4000 sid=2;
+ java -jar $saxon -s:$master -xsl:$scripts/06-static_files.xsl -o:$output/06-static-files.xml path=$files/static-sites;
+
+
+ sh splitting.sh
 
 #java -jar $saxon -s:$files/0-title.xml -xsl:$scripts/00-titel.xsl -o:$output/0-title.xml;
 

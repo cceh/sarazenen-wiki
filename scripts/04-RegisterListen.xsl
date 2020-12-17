@@ -83,7 +83,9 @@
                 <xsl:if test="not(functx:eq-any-of(./main,($Register-List//main, $Register-List//second)))">
                     <entity>
                         <xsl:attribute name="id" select="./main"/>
-                        <main><xsl:value-of select="./main"/></main>
+                        <!--<main><xsl:value-of select="./main"/></main>-->
+                        
+                        <xsl:copy-of select="./*"/>
                         <xsl:for-each select="./mentioned">
                             <mentioned><name><xsl:value-of select="."/></name></mentioned>
                         </xsl:for-each>
@@ -375,12 +377,10 @@
                 </xsl:variable>
                 <page>
                     <title>
-                        <xsl:value-of select="$name"/>
+                        <xsl:value-of select="normalize-space($name)"/>
                     </title>
                     <ns>0</ns>
-                    <id>
-<!--                        <xsl:value-of select="position() + $fid"/>-->
-                    </id>
+                    <id>     </id>
                     <revision>
                         <id>0</id>
                         <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
@@ -391,24 +391,51 @@
                         <model>wikitext</model>
                         <format>text/x-wiki</format>
                         <text xml:space="default" bytes="3441">
-                            
-                            
-                            <xsl:choose>
-                                <xsl:when test="./Typ eq 'Ort'">
-                                    {{Template:Ort |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|GettyID={{#show:{{FULLPAGENAME}}|?getty_id|link=none}} |GettyKoordinaten={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}{{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
+                            <xsl:if test="./meta/editorial_notes/notes/note">
+                                <xsl:for-each select="./meta/editorial_notes/notes/note">
+                                    {{Template:Description|type=note|Text=<xsl:value-of select="."/>}}
+                                </xsl:for-each>
+                            </xsl:if>
+                            <xsl:if test="./meta/getty/ScopeNote != ''">
+                                {{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
+                            </xsl:if>                            
+                            <xsl:if test="./meta/wikidata/desc != ''">
+                                {{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose>
+                                    <xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./desc[@lang='de']"/></xsl:when>
+                                    <xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']"/></xsl:otherwise>
+                                </xsl:choose>}}
+                            </xsl:if>                             
+                            <xsl:for-each select="./meta/Typ"><xsl:choose>
+                                <xsl:when test=". eq 'Ort'">
+                                {{Template:Ort |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}||wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
                                 </xsl:when>
-                                <xsl:when test="./Typ eq 'Person'">
-                                    {{Vorlage:Person|Name={{FULLPAGENAME}}|Rolle={{#show:{{FULLPAGENAME}}|?Rollen|link=none}}||GettyID={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}}}
+                                <xsl:when test=". eq 'Person'">
+                                    {{Template:Person |Name={{FULLPAGENAME}}
+                                    |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+                                    |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
+                                    |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
+                                    |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+                                    |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text={{#show:{{FULLPAGENAME}}|?wikidata_desc|link=none}}}}
+                                    
                                 </xsl:when>
-                            </xsl:choose>
-<xsl:if test="./meta/Anmerkungen !=''"> &lt;p class='anmerkungen'&gt;<xsl:value-of select="./meta/Anmerkungen"/> &lt;/p&gt;</xsl:if>                            
+                                <xsl:when test=". eq 'Verfasser'">{{Template:VerfasserIn
+                                    |Name={{FULLPAGENAME}}
+                                    |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+                                    |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
+                                    |Lebensdaten={{#show:{{FULLPAGENAME}}|?Lebensdaten|link=none}}
+                                    |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
+                                    |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+                                    |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
+                            </xsl:choose></xsl:for-each>
 <xsl:value-of select="$output" xml:space="default"/>
+                            
+                            
                             {{#set:
                             <xsl:apply-templates select="./meta"/>
                             }}
                             <xsl:variable name="mentioned" ><xsl:if test="not(./mentioned/@second)"><xsl:value-of select="./mentioned/text()"/></xsl:if></xsl:variable>
                             <xsl:for-each select="distinct-values((./meta/Typ,./mentioned/@second,$mentioned))">
-                               [[Kategorie:<xsl:value-of select="."/>]]  
+<xsl:if test=".!=''">[[Kategorie:<xsl:value-of select="."/>]]  </xsl:if>
                             </xsl:for-each>
                             __SHOWFACTBOX__
                         </text>
@@ -424,9 +451,7 @@
                         <xsl:value-of select="$name"/>
                     </title>
                     <ns>0</ns>
-                    <id>
-<!--                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity)"/>-->
-                    </id>
+                    <id>   </id>
                     <revision>
                         <id>0</id>
                         <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
@@ -446,16 +471,14 @@
             </xsl:for-each>
            
            
-            <xsl:for-each select="$regionen/entity">
+            <!--<xsl:for-each select="$regionen/entity">
                 <xsl:variable name="name" select="./main"/>
                 <page>
                     <title>
                         <xsl:value-of select="$name"/>
                     </title>
                     <ns>0</ns>
-                    <id>
-<!--                        <xsl:value-of select="position() + $fid + count($fill-mergelists/entity) + count($mentioned-entrys/entity)"/>
--->                    </id>
+                    <id>     </id>
                     <revision>
                         <id>0</id>
                         <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
@@ -470,7 +493,7 @@
                         <sha1></sha1>
                     </revision>
                 </page>
-            </xsl:for-each>
+            </xsl:for-each>-->
         </mediawiki>
     </xsl:template>
    

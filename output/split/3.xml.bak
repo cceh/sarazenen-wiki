@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?><mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="de"><siteinfo><sitename>Sarazenen Wiki</sitename><dbname>sarazenen-bonn</dbname><base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base><generator>MediaWiki 1.27.4</generator><case>first-letter</case><namespaces><namespace key="-2" case="first-letter">Medium</namespace><namespace key="-1" case="first-letter">Spezial</namespace><namespace key="0" case="first-letter"/><namespace key="1" case="first-letter">Diskussion</namespace><namespace key="2" case="first-letter">Benutzer</namespace><namespace key="3" case="first-letter">Benutzer Diskussion</namespace><namespace key="4" case="first-letter">Sarazenen Wiki</namespace><namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace><namespace key="6" case="first-letter">Datei</namespace><namespace key="7" case="first-letter">Datei Diskussion</namespace><namespace key="8" case="first-letter">MediaWiki</namespace><namespace key="9" case="first-letter">MediaWiki Diskussion</namespace><namespace key="10" case="first-letter">Vorlage</namespace><namespace key="11" case="first-letter">Vorlage Diskussion</namespace><namespace key="12" case="first-letter">Hilfe</namespace><namespace key="13" case="first-letter">Hilfe Diskussion</namespace><namespace key="14" case="first-letter">Kategorie</namespace><namespace key="15" case="first-letter">Kategorie Diskussion</namespace><namespace key="102" case="first-letter">Attribut</namespace><namespace key="103" case="first-letter">Attribut Diskussion</namespace><namespace key="106" case="first-letter">Formular</namespace><namespace key="107" case="first-letter">Formular Diskussion</namespace><namespace key="108" case="first-letter">Konzept</namespace><namespace key="109" case="first-letter">Konzept Diskussion</namespace><namespace key="170" case="first-letter">Filter</namespace><namespace key="171" case="first-letter">Filter Diskussion</namespace><namespace key="828" case="first-letter">Modul</namespace><namespace key="829" case="first-letter">Modul Diskussion</namespace></namespaces></siteinfo><page><title>Marmorica</title><ns>0</ns><id>3001</id><revision><id>3001</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Marmarica]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Tyrus</title><ns>0</ns><id>3002</id><revision><id>3002</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Tyros]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Baiern</title><ns>0</ns><id>3003</id><revision><id>3003</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Bayern]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Fostat</title><ns>0</ns><id>3004</id><revision><id>3004</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Fostat]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Wasconien</title><ns>0</ns><id>3005</id><revision><id>3005</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Baskenland]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Campagnien</title><ns>0</ns><id>3006</id><revision><id>3006</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Kampanien]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Frankreich</title><ns>0</ns><id>3007</id><revision><id>3007</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Gallien]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Donau (Bulgarien)</title><ns>0</ns><id>3008</id><revision><id>3008</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Donau]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Umbria</title><ns>0</ns><id>3009</id><revision><id>3009</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Umbrien]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Mesopotamien (Syrien, Irak, Iran)</title><ns>0</ns><id>3010</id><revision><id>3010</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Mesopotamien]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Dakien (Rumänien)</title><ns>0</ns><id>3011</id><revision><id>3011</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Dakien]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Kaukasus (Russland)</title><ns>0</ns><id>3012</id><revision><id>3012</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Kaukasus]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Amantea</title><ns>0</ns><id>3013</id><revision><id>3013</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Amantea]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Cosenza</title><ns>0</ns><id>3014</id><revision><id>3014</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Consenza]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Cannae</title><ns>0</ns><id>3015</id><revision><id>3015</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Cannae bei Barletta]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Gaza</title><ns>0</ns><id>3016</id><revision><id>3016</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Gazania]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Alemannien</title><ns>0</ns><id>3017</id><revision><id>3017</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Alamannien]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Saint-Maurice d'Agaune</title><ns>0</ns><id>3018</id><revision><id>3018</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[St. Maurice d'Agaune]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Cadiz</title><ns>0</ns><id>3019</id><revision><id>3019</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Cádiz]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Troia</title><ns>0</ns><id>3020</id><revision><id>3020</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Troja]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>al-Ushmunayn</title><ns>0</ns><id>3021</id><revision><id>3021</id><timestamp>2020-12-17T17:03:12Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="default" bytes="3441">#REDIRECT [[Al Ashmūnayn]]
+                            [[Kategorie:Ort]] 
+                        </text><sha1/></revision></page><page><title>Template:Description</title><ns>0</ns><id>3022</id><revision><id>3022</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;noinclude&gt;
+                Das Template kennt 4 Typen:
+                * Generelle Anmerkung der Bearbeiter &lt;code&gt;type="note"&lt;/code&gt;
+                * Getty TGN Description &lt;code&gt;type="getty"&lt;/code&gt;
+                * Wikidata Description &lt;code&gt;type="wikidata"&lt;/code&gt;
+                * GND Weitere Angaben &lt;code&gt;type="gnd"&lt;/code&gt;
+                Über den Typ wird jeweils ein eigener Einleitungstext generiert und css-Klassen hinzugefügt, über die sich die Darstellung anpassen lässt.
+                ;Beispiel Aufruf:
+                : Beispiel type=wikidata
+                :: &lt;code&gt;&lt;nowiki&gt;{{Vorlage:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?Wikidata|link=none}}|Text=Heerführer beim Ersten Kreuzzug; erster Regent des Königreichs Jerusalem}}&lt;/nowiki&gt;&lt;/code&gt;
+                : Beispiel type=note
+                :: &lt;code&gt;&lt;nowiki&gt;{{Template:Description|type=note|Text=Die Spanische Mark bildete die Ursprungsregion des heutigen Kataloniens, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).}}&lt;/nowiki&gt;&lt;/code&gt;
+                [[Category:Templates]]
+                &lt;/noinclude&gt;
+                &lt;includeonly&gt;
+                {{#switch:
+                {{{type|}}}
+                |note=&lt;div class="cite-description type-note"&gt;&lt;div class="cite-description-head"&gt;Anmerkung der BearbeiterInnen:&lt;/div&gt;
+                |getty=&lt;div class="cite-description type-getty"&gt;&lt;div class="cite-description-head"&gt;Beschreibung aus dem '''[http://vocab.getty.edu/page/tgn/{{{id}}} Getty Thesaurus of Geographic Names]'''&lt;/div&gt;
+                |wikidata=&lt;div class="cite-description type-wikidata"&gt;&lt;div class="cite-description-head"&gt;Beschreibung von '''[https://www.wikidata.org/wiki/{{{id}}} Wikidata]'''&lt;/div&gt;
+                |gnd=&lt;div class="cceh-callout cite-description type-wikidata"&gt;
+                }}
+                &lt;div class="cite-description-text"&gt;&lt;p&gt;{{{Text}}}&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/includeonly&gt;
+<sha1/></revision></page><page><title>Kategorie:Suchbegriffe</title><ns>0</ns><id>3023</id><revision><id>3023</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Alphabetische Übersicht über alle Suchbegriffe, die bei der Bearbeitung der Werke Hinweise auf Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… lieferten. Sie sind für jede Quellenstelle in der orthographisch originalen lateinischen Schreibweise, einer standardisierten lateinischen Schreibweise, sowie in deutscher Übersetzung aufgenommen. 
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>Kategorie:Geographie</title><ns>0</ns><id>3024</id><revision><id>3024</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Übersicht über alle im Repertorium Saracenorum hinterlegten geographischen Unterkategorien. Über die Auswahl einer geographischen Kategorie können alle Berichte abgerufen werden, zu denen ein Bezug zu dieser Kategorie hinterlegt wurde. Außerdem sind alle geographischen Räume mit Normdaten des[[http://www.getty.edu/research/tools/vocabularies/tgn/index.html | Getty Thesaurus of Geographic Names Online ]]verknüpft. 
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>Kategorie:Auffälligkeit</title><ns>0</ns><id>3025</id><revision><id>3025</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Übersicht über alle Auffälligkeiten, die den einzelnen Berichten zugeordnet wurden. Über diese Schlagworte gelangt ein thematischer Zugriff auf die einzelnen Berichte sowie auf inhaltlich vergleichbare Berichte. 
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>Attribute:Relevante Schlagworte</title><ns>0</ns><id>3026</id><revision><id>3026</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;div&gt;
+&lt;/div&gt;
+    
+<sha1/></revision></page><page><title>Attribut:Datum laut Werk</title><ns>0</ns><id>3027</id><revision><id>3027</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Netter Erklärtext
+<sha1/></revision></page><page><title>Kategorie:Werk</title><ns>0</ns><id>3028</id><revision><id>3028</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Übersicht über alle im'''Repertorium Saracenorum'''aufgenommenen Werke mit Hinweis auf Relevanz (Sarazenenbezug), Verfasserinnen oder Verfasser, Abfassungs- und Berichtszeitraum sowie den Abfassungsort des Werkes. Die Tabelle kann nach Bedarf durch Klick auf einen der Pfeile in jeder Spaltenüberschrift aufsteigend oder absteigend sortiert werden. Weiter unten befindet sich eine alphabetische Auflistung aller Werke. Über die Auswahl eines Werkes gelangt man zu den Quellenstellen. Zu unterscheiden ist zwischen Werken, die einen sog. Sarazenenbezug haben und jenen, in denen keine Berichte über ''Saraceni'', ''Agareni'', ''Mauri''… überliefert sind.
+            {{#ask:
+            [[Kategorie:Werk]]
+            |?Sarazenenbezug#
+            |?VerfasserIn
+            |?Abfassungszeit#
+            |?Berichtszeitraum#
+            |?Abfassungsort
+            |limit=1000|format=table}}      
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>Attribut:Interaktion</title><ns>0</ns><id>3029</id><revision><id>3029</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Netter Erklärtext
+<sha1/></revision></page><page><title>Template:WerkKarte</title><ns>0</ns><id>3030</id><revision><id>3030</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>{{#ask: [[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]
+ |?Getty coordinates
+ |format=leaflet
+ |limit=50
+ |offset=0
+ |link=all
+ |sort=
+ |order=asc
+ |headers=show
+ |width=100%
+ |height=350px
+ |defzoom=3
+ |maxzoom=3
+ |minzoom=3
+ |centre=Europe
+ |static=yes
+ |layers=Esri.WorldPhysical
+ |type=terrain
+}}
+<sha1/></revision></page><page><title>Kategorie:VerfasserIn</title><ns>0</ns><id>3031</id><revision><id>3031</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Alphabetische Übersicht über alle mittelalterlichen Verfasserinnen und Verfassern, deren Werke in das Repertorium Saracenorum aufgenommen wurden. Die Auswahl einer Verfasserin oder eines Verfassers führt weiter zu deren/dessen Werken und anschließend zu den im Werk überlieferten Berichten über ''Saraceni'', ''Agareni'', ''Mauri''…. Zu alle Verfasserinnen und Verfasser sind Links zur[[http://lobid.org/gnd | Gemeinsamen Normdatei ]][[https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html | (GND – DNB) ]]hinterlegt, über die weitergehende Informationen abgerufen werden können. Als Verfasserinnen und Verfasser aufgenommene Personen sind nicht unter der Kategorie[[:Kategorie:Person | Person ]]aufgenommen. Unbekannte Verfasser und Verfasserinnen sind unter der Kategorie[[ | VerfasserIn unbekannt ]]zusammengefasst. 
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>Template:Verfasserin</title><ns>0</ns><id>3032</id><revision><id>3032</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>
+            [[Category:Templates]]
+            
+                
+                    {| class="wikitable"
+                    |- class="head"
+                    !colspan="2"| {{{Name}}}{{#if:{{{Alternativnamen|}}}
+                    {{!}}-
+                    {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                    {{!}} {{{Alternativnamen}}} }}
+                    {{#if:{{{Rolle|}}} |
+                    {{!}}-
+                    {{!}} Rollen{{#info:{{{Name}}} wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt}}
+                    {{!}} {{{Rolle}}} }}
+                    {{#if:{{{Lebensdaten|}}} |
+                    {{!}}-
+                    {{!}} Lebensdaten
+                    {{!}} {{{Lebensdaten}}} }}
+                    |- class="subhead"
+                    |colspan="2"| Normdaten
+                    {{#if:{{{gnd_id|}}} |
+                    {{!}}-
+                    {{!}} GND{{#info:Gemeinsame Normdatei}}
+                    {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
+                    {{#if:{{{viaf_id|}}} |
+                    {{!}}-
+                    {{!}} VIAF{{#info:Virtual International Authority File}}
+                    {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }}
+                    {{#if:{{{wikidata_id|}}} |
+                    {{!}}-
+                    {{!}} Wikidata
+                    {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }}
+                    |}
+         
+[[Kategorie:Templates]]
+<sha1/></revision></page><page><title>Kategorie:Person</title><ns>0</ns><id>3033</id><revision><id>3033</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Alphabetische Übersicht über alle als Person aufgenommenen historischen Persönlichkeiten und in Berichten erwähnte Personen oder Charaktere. Die Auswahl einer Person führt zu einer Auflistung der entsprechenden Berichte, in denen die Person genannt wird. Zu alle Personen sind (sofern verfügbar)[[http://lobid.org/gnd | Gemeinsamen Normdatei ]][[https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html | (GND – DNB) ]]hinterlegt, über die weitergehende Informationen abgerufen werden können. Aufgenommen wurden hier keine[[:Kategorie:VerfasserIn | Verfasserinnen und Verfassern ]]. 
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>MediaWiki:Common.css</title><ns>0</ns><id>3034</id><revision><id>3034</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>
+            /* Das folgende CSS wird für alle Benutzeroberflächen geladen. */ .hauptseite-rechts { margin-left: .5em; } .hauptseite-links { margin-right: .5em; } .hauptseite-oben h2, .hauptseite-unten h2 { text-align: center; } .hauptseite-links h2, .hauptseite-rechts h2 { text-indent: .8em; } .hauptseite-oben, .hauptseite-links, .hauptseite-rechts { margin-bottom: 1em; } #hauptseite .inhalt { background: #fff; border: 1px solid #8898bf; border-top-color: rgb(136, 152, 191); border-top-style: solid; border-top-width: 1px; border-top: 0; min-height: 0; padding: .3em .8em .4em; font-color:green; } #hauptseite h2 { background: #d8e8ff; border: 1px solid #8898bf; font-family: inherit; font-size: 1em; font-weight: bold; line-height: 1.5; margin: 0; padding: .1em 0; } #hauptseite div.inhalt { margin-bottom:1em; } .legende{font-size:10px;}
+            /* Template:Infobox Ort/Person */
+            .infobox.infobox-ort .wikitable .head th {border-top-color: #009999;}
+            .infobox.infobox-person .wikitable .head th  {border-top-color: #f5bc4c;}
+            .infobox.infobox-verfasserin .wikitable .head th  {border-top-color: #ff0066;}
+            .infobox.infobox-werk .wikitable .head th  {border-top-color: #32a852;}
+            .infobox .wikitable .head th {border-top: 2px solid ; background:#fff; }
+            .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; background:#fff; width:30em;}
+            h3 {clear:both;} 
+            .infobox .wikitable th, .infobox .wikitable tr  {border: 1px solid #aaa;}
+            .infobox .wikitable td {border: none; vertical-align:top; padding-top:0.25rem; padding-bottom:0.25rem;}
+            .infobox .wikitable .subhead { font-weight:bold; text-align:center; background-color:#f1f1f1;}
+            .infobox .wikitable .subheader { text-align:center; background-color:#f1f1f1;}
+            .infobox .wikitable .map {padding:0;}
+            /* Template:Description */
+            .cite-description {
+            padding: .8em 1em;
+            margin: 0.5rem 0;
+            overflow: auto;
+            }
+            .cite-description-text {
+            border-left: 3px solid #65c2ff;
+            padding: 0.25rem 0;
+            margin-top:0.25rem;
+            }
+            .cite-description p {
+            margin: 0 0 0 1rem;
+            }
+            .cite-description.type-note {
+            background-color:#F1f1f1;
+            }
+        
+<sha1/></revision></page><page><title>Kategorie:Repertorium Saracenorum</title><ns>0</ns><id>3035</id><revision><id>3035</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>
+<sha1/></revision></page><page><title>Attribute:Aus dem Werk</title><ns>0</ns><id>3036</id><revision><id>3036</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;div&gt;
+&lt;/div&gt;
+    
+<sha1/></revision></page><page><title>Template:LocationMap</title><ns>0</ns><id>3037</id><revision><id>3037</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;noinclude&gt;[[Kategorie:Templates]]&lt;/noinclude&gt;&lt;onlyinclude&gt;{{#display_map:{{{Koordinaten}}}|centre=Europe|static=yes|layers=Esri.WorldPhysical|width=100%|height=30em|defzoom=3|maxzoom=3|minzoom=3}}&lt;/onlyinclude&gt;
+<sha1/></revision></page><page><title>MediaWiki:Sidebar</title><ns>0</ns><id>3038</id><revision><id>3038</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>* sarazenen
+** Repertorium Saracenorum|Repertorium Saracenorum
+* navigation
+&lt;!-- ** mainpage|mainpage-description --&gt;
+*** Kategorie:werk|Werke
+*** Kategorie:VerfasserIn|VerfasserInnen
+*** Kategorie:Person | Personen
+*** Kategorie:Geographie | Geographie
+*** Kategorie:Abfassungsregion | Abfassungsregion
+*** Kategorie:Auffälligkeit | Auffälligkeiten
+*** Kategorie:Suchbegriffe | Suchbegriffe
+*** Datierung|Datierung
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES
+<sha1/></revision></page><page><title>Attribut:Berichtet von</title><ns>0</ns><id>3039</id><revision><id>3039</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Netter Erklärtext
+<sha1/></revision></page><page><title>Repertorium Saracenorum</title><ns>0</ns><id>3040</id><revision><id>3040</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>
+&lt;div id="hauptseite" &gt;
+{| style="border-collapse:collapse; width:100%;" | colspan="2" style="padding:0;" |
+&lt;div id="hauptseite-willkommen" class="hauptseite-oben" &gt;
+== Willkommen im Repertorium Saracenorum  ==
+&lt;div class="inhalt" style="text-align:center;margin-bottom:1em;" &gt;
+; Ein Wiki zu''Saraceni'',''Agareni'',''Mauri'', ... in lateinisch-christlichen Quellen des 7. bis 11. JahrhundertsIm Zuge der Expansion der Araber, die ihren Anfang im 7. Jahrhundert nahm und die Eroberer bis auf europäisches Festland führte, wurde auch die Religion des Islam verbreitet. ‚Muslime‘ oder sog. Sarazenen rückten zunehmend in das Blickfeld der lateinisch-christlichen Bevölkerung des westlichen Europas. Bereits die entstehende geographische Nähe führte zu vielfältigen Formen von Begegnungen: zum Beispiel auf Handels-, Gesandtschafts- oder Pilgerreisen, aber auch durch (militärische) Konfrontationen. Diese Entwicklung fand ihren Niederschlag auch in der lateinisch-christlichen Geschichtsschreibung des früheren Mittelalters. Im'''Repertorium Saracenorum'''werden Berichte über''Saraceni'',''Agareni'',''Mauri'', … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts zusammengetragen, in aufbereiteter Form online veröffentlicht und so für Interessierte zugänglich gemacht, um weitere Untersuchungen zu befördern.
+&lt;/div&gt;
+    == Positionen aller in den Berichten erwähnten Orte ==
+&lt;div class="inhalt" &gt;
+{{#ask:[[getty_coordinates::+]]
+                   |?Getty coordinates
+                   |format=map
+                   }}
+&lt;/div&gt;
+    == Hinweise zur Benutzung  ==
+&lt;div class="inhalt" &gt;
+Das Repertorium Saracenorum bietet eine Sammlung von mittelalterlichen Berichten über''Saraceni'',''Agareni'',''Mauri''…. Jeder thematisch relevante Bericht ist als Quellenstelle auf einer eigenen Seite aufgenommen, diese wiederum einem Werk und sofern möglich einer Verfasserin bzw. einem Verfasser zugeordnet worden. Mit Hilfe von Kategorien und Attributen wurden sowohl die Werkseiten als auch die Quellenstellenseiten verschlagwortet. Die Ansicht einer'''Werkseite'''bietet allgemeine Informationen zur Quelle und ihrer Abfassung. Auf dieser Seite finden Sie zunächst eine Infobox, die wesentliche Hinweise (Werktitel und –alternativtitel, eine interne Werknummer, VerfasserIn, Abfassungszeit, Berichtszeitraum, Abfassungsort und Lebensdaten des Verfassers/der Verfasserin) auf einen Blick bietet. Daneben haben wir die Berichtszeit (blau), Abfassungszeit (gelb) und alle relevanten Berichte (schwarz) in einer Graphik dargestellt. Neben den Editionshinweisen und einem kleinen einführenden Text werden außerdem alle in diesem Werk enthaltenen Berichte über''Saraceni'',''Agareni'',''Mauri''… aufgelistet unter Angabe der Datierung und der Inhaltsangabe. Über einen Link gelangen Sie leicht auf die ausgewählte Quellenstellenseite. Die'''Quellenstellenseiten'''bieten dann wiederum in einer Infobox übersichtlich Informationen zur Quellenstelle und ihrer Zitation. Eine deutsche Inhaltsangabe bietet einen ersten Zugriff auf den Inhalt des Berichts. Aufgeführt sind weiterhin der Bericht als Volltext und meist in einer deutschen Übersetzung unter weiteren Angaben zur Überlieferung (Anmerkungen). Es folgen die weiteren Quellenstellen, die zu diesem Werk aufgenommen wurden. Am Ende der Seite sind alle Kategorien aufgeführt und die Attribute in einer Faktenbox transparent zusammengetragen. Auf weiteren thematischen Seiten finden sich Übersichten, die den Einstieg in die Berichte über verschiedenen Schlagworte und Suchbegriffe ermöglichen. Um den Einstieg in das Repertorium Saracenorum insgesamt zu erleichtern, stehen Ihnen mehrere Einstiegsmöglichkeiten und Suchoptionen auf Ebene der Werke sowie auf inhaltlicher Ebene zur Verfügung.
+&lt;/div&gt;
+    
+&lt;/div&gt;
+    |- | style="padding:0; vertical-align:top; width:50%;" |
+&lt;div id="hauptseite-artikel" class="hauptseite-links" &gt;
+== Volltextsuche  ==
+&lt;div class="inhalt" style="margin-bottom:1em;" &gt;
+{{#tag:inputbox|
+            bgcolor=transparent
+            type=fulltext
+            prefix={{{root|{{FULLPAGENAME}}}}}{{#switch:{{{noslash}}}|yes=|no=/|{{{noslash}}}=/}}
+            break={{{search-break|no}}}
+            {{#ifeq:{{{search-width|}}}|auto||
+            width={{{search-width|30}}} }}
+            searchbuttonlabel={{{search-button-label|Suchen}}}
+            }}
+&lt;/div&gt;
+    == Zentrale Inhalte auf einen Blick  ==
+&lt;div class="inhalt" style="margin-bottom:1em;" &gt;
+* [[:Kategorie:Werk  |  Werke ]]* [[:Kategorie:VerfasserIn  |  VerfasserInnen ]]* [[:Kategorie:Person  |  Personen ]]* [[:Kategorie:Geographie  |  Geographie ]]* [[:Kategorie:Abfassungsregion  |  Abfassungsregion ]]* [[:Kategorie:Auffälligkeit  |  Auffälligkeiten ]]* [[:Kategorie:Suchbegriffe  |  Suchbegriffe ]]* [[Datierung | Datierung ]]
+&lt;/div&gt;
+    == Einstieg auf Quellenebenen: Werke, VerfasserInnen, Regionen  ==
+&lt;div class="inhalt" style="margin-bottom:1em;" &gt;
+Der erste Zugang zu den Berichten über''Saraceni'',''Agareni'',''Mauri''… in den lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts n. Chr. sind die überlieferten Texte selbst. Über'''[[:Kategorie:Werk | Werke ]]'''gelangen Sie zu allen Quellen, die im Repertorium Saracenorum bislang aufgenommen wurden. Hierbei ist zu unterscheiden zwischen solchen Werken, die einen sog. Sarazenenbezug haben und jenen, in denen keine Berichte über''Saraceni'',''Agareni'',''Mauri''… überliefert sind. Letztere wurden trotz ihrer ‚Irrelevanz‘ ins Wiki aufgenommen, um die Transparenz der unternommenen Arbeiten zu erhöhen. So kann das Wiki auch dazu dienen, zu untersuchen, dass in bestimmten Werken keine Berichte überliefert wurden. Ähnlich führt der Einstieg über VerfasserInnen zu allen mittelalterlichen'''[[:Kategorie:VerfasserIn | Verfasserinnen und Verfassern ]]''', deren Werke in das Repertorium Saracenorum aufgenommen wurden. Die Auswahl einer Verfasserin oder eines Verfassers führt weiter zu deren/dessen Werken und anschließend zu den im Werk überlieferten Berichten über''Saraceni'',''Agareni'',''Mauri''…. Der Einstieg über'''[[:Kategorie:Abfassungsregion | Abfassungsregion ]]'''ermöglicht es, die Auswahl der Werke anhand ihres Abfassungsortes bzw. ihrer Abfassungsregion einzugrenzen. Im Zuge der Bearbeitung wurden alle Werke einer europäischen Region zugeordnet:''Britische Inseln, Iberische Halbinsel, Italienische Halbinsel sowie West- und Mitteleuropa''. Für Werke, die auf dem Gebiet des Fränkischen Reiches nach der Teilung von 843 verfasst wurden, erfolgte noch einmal eine Einteilung in''West- und Mitteleuropa – Ostfrankenreich''sowie''West- und Mitteleuropa – Westfrankenreich''.
+&lt;/div&gt;
+    
+&lt;/div&gt;
+    | style="padding:0; vertical-align:top; width:50%;" |
+&lt;div id="hauptseite-artikel" class="hauptseite-rechts" &gt;
+== Einstieg auf Inhaltsebene: Personen, Geographie, Auffälligkeiten, Suchbegriffe, Zeiträume  ==
+&lt;div class="inhalt" style="margin-bottom:1em;" &gt;
+Mit Hilfe der den Werken und Quellenstellen zugeordneten Kategorien und Attribute kann auf die Berichte inhaltlich zugegriffen werden. Dies ist entweder über die Quellenstellenseite möglich oder mittels einer der Suchfunktionen, die Semantic MediaWiki bietet, z. B. die Volltextsuche oder das Semantische Browsen (unter Spezialseiten, s. Navigation), das eigenen Fragestellungen an das Wiki zulässt (hier ein paar[[Suchfunktionen im Repertorium Saracenorum | Beispiele ]]dazu). Zu allen Kategorien wurden zudem Übersichtsseiten angelegt, auf denen etwa für Personen und Orte neben Alternativnamen sämtliche Erwähnungen in Quellenstellen tabellarisch aufgeführt werden. Am Ende einer jeden Werk- und Quellenstellenseite werden die Kategorien aufgelistet und die Attribute in einer Faktenbox transparent angezeigt. Folgen Sie hierin dem Link, der dem Wort (z.B. Spanien) hinterlegt ist, gelangen Sie auf eine Seite mit Informationen zum Wert (hier: Spanien) des Attributs (hier: Ort), seinen Alternativbezeichnungen und einem Link zum Getty Thesaurus of Geographic Names Online. Folgen Sie der angezeigten Lupe, so gelangen Sie auf eine Seite, auf der die Ergebnisse des Semantischen Browsens abgebildet sind. Über das Attribut'''[[:Kategorie:Person | Person ]]'''gelangen Sie zu sämtlichen historischen Persönlichkeiten, die im Kontext der Berichte über Saraceni, Agareni, Mauri… erwähnt werden. Die Auswahl einer Person führt zu einer Auflistung der entsprechenden Berichte, in denen die Person genannt wird. Ähnlich besteht die Möglichkeit, über das Attribut'''[[:Kategorie:Geographie | Geographie ]]'''alle Berichte aufzurufen, die sich auf einen geographischen Raum beziehen oder diesen erwähnen. Bei diesen geographischen Angaben wird unterschieden zwischen Bergen/Gebirgen, Flüssen, Klöstern, Regionen und Städten. Neben den entsprechenden Berichten gelangen Sie hier über einen Link zu weiterführenden Informationen im Getty Thesaurus of Geographic Names Online. Mithilfe eines zugeordneten Werts des Attributs'''[[:Kategorie:Auffälligkeit | Auffälligkeit ]]'''wurden die aufgenommenen Berichte inhaltlich verschlagwortet (z. B. Gefangennahme, Kampfhandlung oder auch Herrscherwechsel). Damit besteht die Möglichkeit eines thematischen Zugriffs auf die Berichte. Sämtliche Quellenstellen, die über inhaltlich vergleichbares berichten, können hierüber aufgerufen werden. Unter dem Attribut'''[[:Kategorie:Suchbegriffe | Suchbegriffe ]]'''sind solche lateinischen wie deutschen Schlagworte gelistet, die von den mittelalterlichen Verfasserinnen und Verfassern häufig in Berichten über Saraceni, Agareni, Mauri… genutzt wurden. Sie dienten bei der Bearbeitung dazu, relevante Quellenstellen in den Werken ausfindig zu machen. Im Wiki sind sie aufgeführt, um zum einen diesen Bearbeitungsschritt transparent widerzuspiegeln, zum anderen um auch die Erforschung der verwendeten Begrifflichkeiten zu ermöglichen. Neben den Begriffen ‚Saracenus/Sarazene‘, ‚Maurus/Maure‘, ‚Agarenus/Agarene‘ finden sich hier etwa auch ‚Persus/Perser‘ oder ‚Ismaelitus/Ismaelit‘ sowie Personen- und Ortsnamen. Auch die'''[[Datierung | Datierung ]]'''von Werken und Quellenstellen ist erfasst: Auf jeder Werk-Seite findet sich rechts neben der Infobox eine statische Timeline, die Auskunft über die Berichtszeit (blau) und Abfassungszeit (gelb) sowie über die Datierung (schwarz) aller als relevant aufgenommenen Berichte eines Werkes gibt. Als Jahre angegeben werden Anfang und Ende des Bercihtszeitraums. Am unteren Ende jeder Seite eines Werkes findet sich eine weitere, dynamische Timeline (SIMILE-Timeline), auf der alle Berichte als Quellenstellen hinterlegt sind. Jede Quellenstelle ist als''Zeitraum/mit Anfangs- und Endpunkt''des Berichts angegeben. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen. Die drei Ebenen der Timeline (Jahre, Dekaden, Jahrhunderte) lassen eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timeline (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an. Ein Hinweis auf berichtete Ereignisse: Sofern mehrere Werke über das selbe Ereignis berichten, so sind häufig Querverweise zu weiteren Quellenstellen unter 'Anmerkungen' hinterlegt.
+&lt;/div&gt;
+    
+&lt;/div&gt;
+    |- | colspan="2" style="padding:0;" |
+&lt;div id="hauptseite-footer" class="hauptseite-unten" &gt;
+ Über das Projekt  
+&lt;div class="inhalt" style="margin-bottom:1em;" &gt;
+Hervorgegangen ist das'''Repertorium Saracenorum'''aus einem von der Deutschen Forschungsgemeinschaft (DFG) zwischen 2013 und 2017 geförderten Projekt''Saraceni'',''Agareni'',''Mauri'', … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts" an der Rheinischen Friedrich-Wilhelms-Universität Bonn,[[https://www.igw.uni-bonn.de/de/abteilungsseiten/mittelalter | Abteilung für Mittelalterliche Geschichte ]]unter Leitung von Herrn Prof. Dr. Matthias Becher. Das'''Repertorium Saracenorum'''entsteht als Semantic MediaWiki in Kooperation mit dem[[https://cceh.uni-koeln.de/ | Cologne Center for eHumanities (CCeH) ]]der Universität zu Köln.
+&lt;/div&gt;
+    == Dank  ==
+&lt;div class="inhalt" style="margin-bottom:1em;" &gt;
+Besonderer Dank sei den Mitarbeiter*innen und Hilfskräften der'''Abteilung für Mittelalterliche Geschichte in Bonn'''und des'''Cologne Center for eHumanities in Köln'''ausgesprochen, die über viele Jahre das Projekt vorbereitet, unterstützt und bearbeitet haben, insbesondere sei gedankt: Lukas Müller für die Abteilung für Mittelalterliche Geschichte und Patrick Sahle, Jonathan Blumtritt sowie Ben Bigalke, Dana Persch und Adalbert Wrona für das CCeH. Weiterhin haben von Bonner Seite mitgewirkt Christine Beyer, Daniel Colmenero López, Florian Dahmen, Valentina von Finckenstein, Julia Gehrke, David Gillengerten, Lea Herzog, Florian Hartmann, Ole Höffken, Hendrik Hess, Markus Knipp, Kilian Langmesser, Esther Lindenlauf, Julius Lübbersmann, Philipp Merkel, Inga Mehlert-Garms, Alheydis Plassmann, David Renger, Max Schranner, Anja Lisa Schroll, Lea Weitekamp und Juliet Ziegenbein. Die im Projekt erzielten Daten und der Umgang mit ihnen war Thema eines Hauptseminars geleitet von Øyvind Eide und Katharina Gahbler an der Universität Köln im Wintersemester 2016/17. Allen beteiligten Studierenden, die zum Teil auch über das Seminar hinaus zum Gelingen des Projektes beigetragen haben, sei herzlich für ihr Interesse und ihre Mitarbeit gedankt: Alex Abboud, Andreas Gálffy, Britta Hermans, Stefan Kreinberg, Dominik Leyendecker, Johannes Mertens, Anne Pietsch, Nasrin Saef, Fabian Scheller, Julian Schraven, Kevin Schwarz, Gwenlyn Tiedemann, Maria Wagner, Christian Weitz und Adalbert Wrona. Das'''Repertorium Saracenorum'''bildet nur einen kleinen Ausschnitt aus allen mittelalterlichen Berichten, die über''Saraceni'',''Agareni'',''Mauri''… verfasst wurden und überliefert sind. Es ist trotz sorgfältiger redaktioneller Überarbeitungen nicht fehlerfrei. Die Sammlung soll weiter wachsen. Sie lebt daher von den wertvollen Hinweisen, Kommentaren und der konstruktiven Mitarbeit aller Nutzer*innen! Schreiben Sie uns (abteilung.mittelalter@uni-bonn.de) – vielen Dank!
+&lt;/div&gt;
+    == Zitierhinweis für das Repertorium Saracenorum  ==
+&lt;div class="inhalt" &gt;
+[Titel des Werkes – Nummer der Quellenstelle], in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [URL] (zuletzt abgerufen am [aktuelles Datum]). z.B. Annales Flodoardi-0001, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: http://saraceni.uni-koeln.de/wiki/Annales_Flodoardi-0001 (zuletzt abgerufen am 09.07.2020).
+&lt;/div&gt;
+    
+&lt;/div&gt;
+    
+&lt;/div&gt;
+    
+<sha1/></revision></page><page><title>Template:Timeframe</title><ns>0</ns><id>3041</id><revision><id>3041</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>{{#ask: [[ZeitangabeBeginn::+]] [[ZeitangabeBeginn::&gt;{{{start}}}]] [[ZeitangabeBeginn::&lt;{{{ende}}}]] ||
+        [[ZeitangabeBeginn::+]][[ZeitangabeEnde::&gt;{{{start}}}]] [[ZeitangabeEnde::&lt;{{{ende}}}]] ||
+        [[ZeitangabeBeginn::+]][[ZeitangabeBeginn::&lt;{{{start}}}]] [[ZeitangabeEnde::&gt;{{{ende}}}]] 
+        
+        |?ZeitangabeBeginn
+        |?ZeitangabeEnde
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |?
+        |format=timeline
+        |limit=500
+        |offset=0
+        |link=all
+        |sort=
+        |order=asc
+        |headers=show
+        |searchlabel=… weitere Ergebnisse
+        |timelinesize=800px
+        |timelineposition=end
+        |timelinestart=ZeitangabeBeginn
+        |timelineend=ZeitangabeEnde
+        |timelinebands= YEAR, DECADE, CENTURY
+        }}
+<sha1/></revision></page><page><title>Template:Werk</title><ns>0</ns><id>3042</id><revision><id>3042</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>
+                &lt;noinclude&gt;
+                
+                == Aufruf ==
+                &lt;pre&gt;{{Template:Werk
+                |Name={{FULLPAGENAME}}
+                |Subheader=Jahrbücher aus Alemannien/Alemannische Annalen
+                |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+                |Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+                |Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+                |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+                |VerfasserIn=[[VerfasserIn::VerfasserIn unbekannt]]
+                |Lebensdaten=unbekannt
+                |Abfassungsort=Kloster Murbach im Elsaß;Reichenau;St. Gallen
+                |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+                |Abfassungsort_coordinates=
+                |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+                |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+                |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+                |getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}&lt;/pre&gt;
+                
+                == Beispiele ==
+                &lt;div class="infobox infobox-werk float-right"&gt; 
+                {| class="wikitable"
+                |- class="head" 
+                !colspan="2"| Name
+                |-
+                | Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                | asd, fgh
+                |- class="subhead" 
+                |colspan="2" | Normdaten
+                |-
+                | GND{{#info:Gemeinsame Normdatei}}
+                | 1
+                |-
+                | VIAF{{#info:Virtual International Authority File}}
+                | 2
+                |-
+                | Wikidata
+                | 3
+                |- class="subhead" 
+                |colspan="2"| Lokalisierung
+                |-
+                | Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
+                | 00°,00°
+                |-
+                !colspan="2px" class="map"| MAP
+                |}
+                
+                
+                [[Category:Templates]]&lt;/noinclude&gt;
+                &lt;onlyinclude&gt;
+                &lt;div class="infobox infobox-werk float-right"&gt; 
+                
+                {| class="wikitable"
+                |- class="head" 
+                !colspan="2"| {{{Name}}}
+                
+                |- 
+                {{#if:{{{Subheader|}}} |  
+                {{!}}colspan="2" class="subheader"{{!}} {{{Subheader}}} }} 
+                
+                |- 
+                {{#if:{{{Werknummer|}}} |  
+                {{!}} Werknummer
+                {{!}} {{{Werknummer}}} }} 
+                
+                |- 
+                {{#if:{{{Abfassungszeit|}}} |  
+                {{!}} Abfassungszeit
+                {{!}} {{{Abfassungszeit}}} }} 
+                
+                |- 
+                {{#if:{{{Berichtszeitraum|}}} |  
+                {{!}} Berichtszeitraum
+                {{!}} {{{Berichtszeitraum}}} }} 
+                
+                |- 
+                {{#if:{{{VerfasserIn|}}} |  
+                {{!}} VerfasserIn
+                {{!}} {{{VerfasserIn}}} }} 
+                
+                |- 
+                {{#if:{{{Lebensdaten|}}} |  
+                {{!}} Lebensdaten der VerfasserIn
+                {{!}} {{{Lebensdaten}}} }} 
+                
+                |- 
+                {{#if:{{{Abfassungsort|}}} |  
+                {{!}} Abfassungsort
+                {{!}} {{{Abfassungsort}}} }}
+                
+                |- 
+                {{#if:{{{Alternativnamen|}}} |  
+                {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                {{!}} {{{Alternativnamen}}} }} 
+                
+                |-
+                {{#if:{{{getty_id|}}}{{{viaf_id|}}}{{{wikidata_id|}}} | 
+                {{!}}colspan="2" class="subhead" {{!}} Normdaten }}
+                
+                |-
+                {{#if:{{{getty_id|}}} |
+                {{!}} Getty TGN{{#info:Getty Thesaurus of Geographical Names}} 
+                {{!}} [http://vocab.getty.edu/page/tgn/{{{getty_id}}} {{{getty_id}}}] }}
+                
+                |- 
+                {{#if:{{{viaf_id|}}}| 
+                {{!}} VIAF{{#info:Virtual International Authority File}} 
+                {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }} 
+                
+                |- 
+                {{#if:{{{wikidata_id|}}} | 
+                {{!}} Wikidata 
+                {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }} 
+                
+                |-  
+                |colspan="2" class="subhead" | Lokalisierung
+                |-
+                |colspan="2" {{!}} Geographische Bezüge in den ausgewerteten Quellenstellen.
+                |-
+                !colspan="2px" class="map" {{!}} {{Template:WerkKarte | Name={{{Name}}} }}
+                |}&lt;/div&gt;&lt;/onlyinclude&gt;
+            
+<sha1/></revision></page><page><title>Datierung</title><ns>0</ns><id>3043</id><revision><id>3043</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Diese Timeline bietet einen Überblick über die zeitliche Verteilung aller im Repertorium Saracenorum aufgenommenen Quellenstellen. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen. Die drei Ebenen der Timeline (Jahre, Dekaden, Jahrhunderte) lässt eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timeline (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an.
+            {{#ask:
+            [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+            }}     
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>Kategorie:Abfassungsregion</title><ns>0</ns><id>3044</id><revision><id>3044</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format> 
+[[Kategorie:Repertorium Saracenorum]]
+<sha1/></revision></page><page><title>Template:Vorlage:WikiProject Transwiki/Template:Infobox</title><ns>0</ns><id>3045</id><revision><id>3045</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;noinclude&gt;
+=Usage=
+==Parameters==
+There are some general 'styling' parameters, some 'title' and subtitle parameters, some 'image' parameters', and then parameters for each of the 80 possible 'rows'
+===Style===
+* bodyclass
+* bodystyle
+===Title===
+* title
+* titleclass
+* titlestyle
+* above
+* aboveclass
+* abovestyle
+* subheader
+* subheaderclass
+* subheaderstyle
+
+===Image===
+* image
+* imageclass
+* imagestyle
+* caption
+* captionstyle
+===Rows===
+====For all rows====
+* headerstyle
+* labelstyle
+* datastyle
+====For specific rows====
+For each of the 80 possible rows, replace the 'N' below with the number (e.g. 'header3', 'header80')
+* headerN
+* labelN
+* dataN
+* classN
+
+=Example=
+{| class="wikitable" width="100%"
+! Code
+! Output
+|-
+| &lt;code&gt;&lt;pre&gt;
+{{Wikipedia:WikiProject_Transwiki/Template:Infobox|title=TITLE
+|above=ABOVE
+|subheader=SUBHEADER
+|image=[[Image:Some_image.jpg]]
+|caption=IMAGE_CAPTION
+|header1=HEADER_1
+|label1=LABEL_1
+|data1=DATA_1
+}}
+&lt;/pre&gt;&lt;/code&gt;
+| {{Wikipedia:WikiProject_Transwiki/Template:Infobox|title=TITLE
+|above=ABOVE
+|subheader=SUBHEADER
+|image=[[Image:Some_image.jpg]]
+|caption=IMAGE_CAPTION
+|header1=HEADER_1
+|label1=LABEL_1
+|data1=DATA_1
+}}
+|}
+
+&lt;/noinclude&gt;
+
+{{{!}} class="infobox {{{bodyclass|}}}" cellspacing="5" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; {{{bodystyle|}}}"&lt;!--
+ Caption
+--&gt;{{#if:{{{title|}}}|&lt;nowiki/&gt;
+{{!}}+ 
+{{!}}class="{{{titleclass|}}}" style="font-size: 125%; font-weight: bold; {{{titlestyle|}}}"{{!}}{{{title}}} }}&lt;!--
+ Header
+--&gt;{{#if:{{{above|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{aboveclass|}}}" style="text-align:center; font-size: 125%; font-weight: bold; {{{abovestyle|}}}"{{!}}{{{above}}} }}&lt;!--
+ Subheader
+--&gt;{{#if:{{{subheader|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{subheaderclass|}}}" style="text-align:center; {{{subheaderstyle|}}}"{{!}}{{{subheader}}} }}&lt;!--
+ Image
+--&gt;{{#if:{{{image|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{imageclass|}}}" style="text-align:center; {{{imagestyle|}}}"{{!}} {{{image}}} {{#if:{{{caption|}}}|&lt;br /&gt;
+&lt;span style="{{{captionstyle|}}}"&gt;{{{caption}}}&lt;/span&gt; }} }}&lt;!--
+ Row 1
+--&gt;{{#if:{{{header1|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header1|}}} }}&lt;!--
+--&gt;{{#if:{{{label1|}}}|{{#if:{{{data1|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label1|}}}
+{{!}} class="{{{class1|}}}" style="{{{datastyle|}}}"{{!}}{{{data1|}}} }}|  {{#if:{{{data1|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class1|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data1|}}} }} }}&lt;!--
+ Row 2
+--&gt;{{#if:{{{header2|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header2|}}} }}&lt;!--
+--&gt;{{#if:{{{label2|}}}|{{#if:{{{data2|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label2|}}}
+{{!}} class="{{{class2|}}}" style="{{{datastyle|}}}"{{!}}{{{data2|}}} }}|  {{#if:{{{data2|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class2|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data2|}}} }} }}&lt;!--
+ Row 3
+--&gt;{{#if:{{{header3|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header3|}}} }}&lt;!--
+--&gt;{{#if:{{{label3|}}}|{{#if:{{{data3|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label3|}}}
+{{!}} class="{{{class3|}}}" style="{{{datastyle|}}}"{{!}}{{{data3|}}} }}|  {{#if:{{{data3|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class3|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data3|}}} }} }}&lt;!--
+ Row 4
+--&gt;{{#if:{{{header4|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header4|}}} }}&lt;!--
+--&gt;{{#if:{{{label4|}}}|{{#if:{{{data4|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label4|}}}
+{{!}} class="{{{class4|}}}" style="{{{datastyle|}}}"{{!}}{{{data4|}}} }}|  {{#if:{{{data4|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class4|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data4|}}} }} }}&lt;!--
+ Row 5
+--&gt;{{#if:{{{header5|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header5|}}} }}&lt;!--
+--&gt;{{#if:{{{label5|}}}|{{#if:{{{data5|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label5|}}}
+{{!}} class="{{{class5|}}}" style="{{{datastyle|}}}"{{!}}{{{data5|}}} }}|  {{#if:{{{data5|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class5|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data5|}}} }} }}&lt;!--
+ Row 6
+--&gt;{{#if:{{{header6|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header6|}}} }}&lt;!--
+--&gt;{{#if:{{{label6|}}}|{{#if:{{{data6|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label6|}}}
+{{!}} class="{{{class6|}}}" style="{{{datastyle|}}}"{{!}}{{{data6|}}} }}|  {{#if:{{{data6|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class6|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data6|}}} }} }}&lt;!--
+ Row 7
+--&gt;{{#if:{{{header7|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header7|}}} }}&lt;!--
+--&gt;{{#if:{{{label7|}}}|{{#if:{{{data7|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label7|}}}
+{{!}} class="{{{class7|}}}" style="{{{datastyle|}}}"{{!}}{{{data7|}}} }}|  {{#if:{{{data7|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class7|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data7|}}} }} }}&lt;!--
+ Row 8
+--&gt;{{#if:{{{header8|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header8|}}} }}&lt;!--
+--&gt;{{#if:{{{label8|}}}|{{#if:{{{data8|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label8|}}}
+{{!}} class="{{{class8|}}}" style="{{{datastyle|}}}"{{!}}{{{data8|}}} }}|  {{#if:{{{data8|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class8|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data8|}}} }} }}&lt;!--
+ Row 9
+--&gt;{{#if:{{{header9|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header9|}}} }}&lt;!--
+--&gt;{{#if:{{{label9|}}}|{{#if:{{{data9|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label9|}}}
+{{!}} class="{{{class9|}}}" style="{{{datastyle|}}}"{{!}}{{{data9|}}} }}|  {{#if:{{{data9|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class9|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data9|}}} }} }}&lt;!--
+ Row 10
+--&gt;{{#if:{{{header10|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header10|}}} }}&lt;!--
+--&gt;{{#if:{{{label10|}}}|{{#if:{{{data10|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label10|}}}
+{{!}} class="{{{class10|}}}" style="{{{datastyle|}}}"{{!}}{{{data10|}}} }}|  {{#if:{{{data10|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class10|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data10|}}} }} }}&lt;!--
+ Row 11
+--&gt;{{#if:{{{header11|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header11|}}} }}&lt;!--
+--&gt;{{#if:{{{label11|}}}|{{#if:{{{data11|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label11|}}}
+{{!}} class="{{{class11|}}}" style="{{{datastyle|}}}"{{!}}{{{data11|}}} }}|  {{#if:{{{data11|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class11|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data11|}}} }} }}&lt;!--
+ Row 12
+--&gt;{{#if:{{{header12|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header12|}}} }}&lt;!--
+--&gt;{{#if:{{{label12|}}}|{{#if:{{{data12|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label12|}}}
+{{!}} class="{{{class12|}}}" style="{{{datastyle|}}}"{{!}}{{{data12|}}} }}|  {{#if:{{{data12|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class12|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data12|}}} }} }}&lt;!--
+ Row 13
+--&gt;{{#if:{{{header13|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header13|}}} }}&lt;!--
+--&gt;{{#if:{{{label13|}}}|{{#if:{{{data13|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label13|}}}
+{{!}} class="{{{class13|}}}" style="{{{datastyle|}}}"{{!}}{{{data13|}}} }}|  {{#if:{{{data13|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class13|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data13|}}} }} }}&lt;!--
+ Row 14
+--&gt;{{#if:{{{header14|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header14|}}} }}&lt;!--
+--&gt;{{#if:{{{label14|}}}|{{#if:{{{data14|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label14|}}}
+{{!}} class="{{{class14|}}}" style="{{{datastyle|}}}"{{!}}{{{data14|}}} }}|  {{#if:{{{data14|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class14|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data14|}}} }} }}&lt;!--
+ Row 15
+--&gt;{{#if:{{{header15|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header15|}}} }}&lt;!--
+--&gt;{{#if:{{{label15|}}}|{{#if:{{{data15|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label15|}}}
+{{!}} class="{{{class15|}}}" style="{{{datastyle|}}}"{{!}}{{{data15|}}} }}|  {{#if:{{{data15|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class15|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data15|}}} }} }}&lt;!--
+ Row 16
+--&gt;{{#if:{{{header16|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header16|}}} }}&lt;!--
+--&gt;{{#if:{{{label16|}}}|{{#if:{{{data16|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label16|}}}
+{{!}} class="{{{class16|}}}" style="{{{datastyle|}}}"{{!}}{{{data16|}}} }}|  {{#if:{{{data16|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class16|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data16|}}} }} }}&lt;!--
+ Row 17
+--&gt;{{#if:{{{header17|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header17|}}} }}&lt;!--
+--&gt;{{#if:{{{label17|}}}|{{#if:{{{data17|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label17|}}}
+{{!}} class="{{{class17|}}}" style="{{{datastyle|}}}"{{!}}{{{data17|}}} }}|  {{#if:{{{data17|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class17|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data17|}}} }} }}&lt;!--
+ Row 18
+--&gt;{{#if:{{{header18|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header18|}}} }}&lt;!--
+--&gt;{{#if:{{{label18|}}}|{{#if:{{{data18|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label18|}}}
+{{!}} class="{{{class18|}}}" style="{{{datastyle|}}}"{{!}}{{{data18|}}} }}|  {{#if:{{{data18|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class18|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data18|}}} }} }}&lt;!--
+ Row 19
+--&gt;{{#if:{{{header19|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header19|}}} }}&lt;!--
+--&gt;{{#if:{{{label19|}}}|{{#if:{{{data19|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label19|}}}
+{{!}} class="{{{class19|}}}" style="{{{datastyle|}}}"{{!}}{{{data19|}}} }}|  {{#if:{{{data19|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class19|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data19|}}} }} }}&lt;!--
+ Row 20
+--&gt;{{#if:{{{header20|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header20|}}} }}&lt;!--
+--&gt;{{#if:{{{label20|}}}|{{#if:{{{data20|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label20|}}}
+{{!}} class="{{{class20|}}}" style="{{{datastyle|}}}"{{!}}{{{data20|}}} }}|  {{#if:{{{data20|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class20|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data20|}}} }} }}&lt;!--
+ Row 21
+--&gt;{{#if:{{{header21|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header21|}}} }}&lt;!--
+--&gt;{{#if:{{{label21|}}}|{{#if:{{{data21|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label21|}}}
+{{!}} class="{{{class21|}}}" style="{{{datastyle|}}}"{{!}}{{{data21|}}} }}|  {{#if:{{{data21|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class21|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data21|}}} }} }}&lt;!--
+ Row 22
+--&gt;{{#if:{{{header22|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header22|}}} }}&lt;!--
+--&gt;{{#if:{{{label22|}}}|{{#if:{{{data22|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label22|}}}
+{{!}} class="{{{class22|}}}" style="{{{datastyle|}}}"{{!}}{{{data22|}}} }}|  {{#if:{{{data22|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class22|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data22|}}} }} }}&lt;!--
+ Row 23
+--&gt;{{#if:{{{header23|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header23|}}} }}&lt;!--
+--&gt;{{#if:{{{label23|}}}|{{#if:{{{data23|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label23|}}}
+{{!}} class="{{{class23|}}}" style="{{{datastyle|}}}"{{!}}{{{data23|}}} }}|  {{#if:{{{data23|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class23|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data23|}}} }} }}&lt;!--
+ Row 24
+--&gt;{{#if:{{{header24|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header24|}}} }}&lt;!--
+--&gt;{{#if:{{{label24|}}}|{{#if:{{{data24|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label24|}}}
+{{!}} class="{{{class24|}}}" style="{{{datastyle|}}}"{{!}}{{{data24|}}} }}|  {{#if:{{{data24|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class24|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data24|}}} }} }}&lt;!--
+ Row 25
+--&gt;{{#if:{{{header25|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header25|}}} }}&lt;!--
+--&gt;{{#if:{{{label25|}}}|{{#if:{{{data25|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label25|}}}
+{{!}} class="{{{class25|}}}" style="{{{datastyle|}}}"{{!}}{{{data25|}}} }}|  {{#if:{{{data25|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class25|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data25|}}} }} }}&lt;!--
+ Row 26
+--&gt;{{#if:{{{header26|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header26|}}} }}&lt;!--
+--&gt;{{#if:{{{label26|}}}|{{#if:{{{data26|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label26|}}}
+{{!}} class="{{{class26|}}}" style="{{{datastyle|}}}"{{!}}{{{data26|}}} }}|  {{#if:{{{data26|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class26|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data26|}}} }} }}&lt;!--
+ Row 27
+--&gt;{{#if:{{{header27|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header27|}}} }}&lt;!--
+--&gt;{{#if:{{{label27|}}}|{{#if:{{{data27|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label27|}}}
+{{!}} class="{{{class27|}}}" style="{{{datastyle|}}}"{{!}}{{{data27|}}} }}|  {{#if:{{{data27|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class27|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data27|}}} }} }}&lt;!--
+ Row 28
+--&gt;{{#if:{{{header28|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header28|}}} }}&lt;!--
+--&gt;{{#if:{{{label28|}}}|{{#if:{{{data28|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label28|}}}
+{{!}} class="{{{class28|}}}" style="{{{datastyle|}}}"{{!}}{{{data28|}}} }}|  {{#if:{{{data28|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class28|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data28|}}} }} }}&lt;!--
+ Row 29
+--&gt;{{#if:{{{header29|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header29|}}} }}&lt;!--
+--&gt;{{#if:{{{label29|}}}|{{#if:{{{data29|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label29|}}}
+{{!}} class="{{{class29|}}}" style="{{{datastyle|}}}"{{!}}{{{data29|}}} }}|  {{#if:{{{data29|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class29|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data29|}}} }} }}&lt;!--
+ Row 30
+--&gt;{{#if:{{{header30|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header30|}}} }}&lt;!--
+--&gt;{{#if:{{{label30|}}}|{{#if:{{{data30|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label30|}}}
+{{!}} class="{{{class30|}}}" style="{{{datastyle|}}}"{{!}}{{{data30|}}} }}|  {{#if:{{{data30|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class30|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data30|}}} }} }}&lt;!--
+ Row 31
+--&gt;{{#if:{{{header31|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header31|}}} }}&lt;!--
+--&gt;{{#if:{{{label31|}}}|{{#if:{{{data31|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label31|}}}
+{{!}} class="{{{class31|}}}" style="{{{datastyle|}}}"{{!}}{{{data31|}}} }}|  {{#if:{{{data31|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class31|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data31|}}} }} }}&lt;!--
+ Row 32
+--&gt;{{#if:{{{header32|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header32|}}} }}&lt;!--
+--&gt;{{#if:{{{label32|}}}|{{#if:{{{data32|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label32|}}}
+{{!}} class="{{{class32|}}}" style="{{{datastyle|}}}"{{!}}{{{data32|}}} }}|  {{#if:{{{data32|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class32|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data32|}}} }} }}&lt;!--
+ Row 33
+--&gt;{{#if:{{{header33|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header33|}}} }}&lt;!--
+--&gt;{{#if:{{{label33|}}}|{{#if:{{{data33|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label33|}}}
+{{!}} class="{{{class33|}}}" style="{{{datastyle|}}}"{{!}}{{{data33|}}} }}|  {{#if:{{{data33|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class33|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data33|}}} }} }}&lt;!--
+ Row 34
+--&gt;{{#if:{{{header34|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header34|}}} }}&lt;!--
+--&gt;{{#if:{{{label34|}}}|{{#if:{{{data34|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label34|}}}
+{{!}} class="{{{class34|}}}" style="{{{datastyle|}}}"{{!}}{{{data34|}}} }}|  {{#if:{{{data34|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class34|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data34|}}} }} }}&lt;!--
+ Row 35
+--&gt;{{#if:{{{header35|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header35|}}} }}&lt;!--
+--&gt;{{#if:{{{label35|}}}|{{#if:{{{data35|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label35|}}}
+{{!}} class="{{{class35|}}}" style="{{{datastyle|}}}"{{!}}{{{data35|}}} }}|  {{#if:{{{data35|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class35|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data35|}}} }} }}&lt;!--
+ Row 36
+--&gt;{{#if:{{{header36|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header36|}}} }}&lt;!--
+--&gt;{{#if:{{{label36|}}}|{{#if:{{{data36|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label36|}}}
+{{!}} class="{{{class36|}}}" style="{{{datastyle|}}}"{{!}}{{{data36|}}} }}|  {{#if:{{{data36|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class36|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data36|}}} }} }}&lt;!--
+ Row 37
+--&gt;{{#if:{{{header37|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header37|}}} }}&lt;!--
+--&gt;{{#if:{{{label37|}}}|{{#if:{{{data37|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label37|}}}
+{{!}} class="{{{class37|}}}" style="{{{datastyle|}}}"{{!}}{{{data37|}}} }}|  {{#if:{{{data37|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class37|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data37|}}} }} }}&lt;!--
+ Row 38
+--&gt;{{#if:{{{header38|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header38|}}} }}&lt;!--
+--&gt;{{#if:{{{label38|}}}|{{#if:{{{data38|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label38|}}}
+{{!}} class="{{{class38|}}}" style="{{{datastyle|}}}"{{!}}{{{data38|}}} }}|  {{#if:{{{data38|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class38|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data38|}}} }} }}&lt;!--
+ Row 39
+--&gt;{{#if:{{{header39|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header39|}}} }}&lt;!--
+--&gt;{{#if:{{{label39|}}}|{{#if:{{{data39|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label39|}}}
+{{!}} class="{{{class39|}}}" style="{{{datastyle|}}}"{{!}}{{{data39|}}} }}|  {{#if:{{{data39|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class39|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data39|}}} }} }}&lt;!--
+ Row 40
+--&gt;{{#if:{{{header40|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header40|}}} }}&lt;!--
+--&gt;{{#if:{{{label40|}}}|{{#if:{{{data40|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label40|}}}
+{{!}} class="{{{class40|}}}" style="{{{datastyle|}}}"{{!}}{{{data40|}}} }}|  {{#if:{{{data40|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class40|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data40|}}} }} }}&lt;!--
+ Row 41
+--&gt;{{#if:{{{header41|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header41|}}} }}&lt;!--
+--&gt;{{#if:{{{label41|}}}|{{#if:{{{data41|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label41|}}}
+{{!}} class="{{{class41|}}}" style="{{{datastyle|}}}"{{!}}{{{data41|}}} }}|  {{#if:{{{data41|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class41|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data41|}}} }} }}&lt;!--
+ Row 42
+--&gt;{{#if:{{{header42|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header42|}}} }}&lt;!--
+--&gt;{{#if:{{{label42|}}}|{{#if:{{{data42|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label42|}}}
+{{!}} class="{{{class42|}}}" style="{{{datastyle|}}}"{{!}}{{{data42|}}} }}|  {{#if:{{{data42|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class42|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data42|}}} }} }}&lt;!--
+ Row 43
+--&gt;{{#if:{{{header43|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header43|}}} }}&lt;!--
+--&gt;{{#if:{{{label43|}}}|{{#if:{{{data43|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label43|}}}
+{{!}} class="{{{class43|}}}" style="{{{datastyle|}}}"{{!}}{{{data43|}}} }}|  {{#if:{{{data43|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class43|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data43|}}} }} }}&lt;!--
+ Row 44
+--&gt;{{#if:{{{header44|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header44|}}} }}&lt;!--
+--&gt;{{#if:{{{label44|}}}|{{#if:{{{data44|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label44|}}}
+{{!}} class="{{{class44|}}}" style="{{{datastyle|}}}"{{!}}{{{data44|}}} }}|  {{#if:{{{data44|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class44|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data44|}}} }} }}&lt;!--
+ Row 45
+--&gt;{{#if:{{{header45|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header45|}}} }}&lt;!--
+--&gt;{{#if:{{{label45|}}}|{{#if:{{{data45|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label45|}}}
+{{!}} class="{{{class45|}}}" style="{{{datastyle|}}}"{{!}}{{{data45|}}} }}|  {{#if:{{{data45|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class45|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data45|}}} }} }}&lt;!--
+ Row 46
+--&gt;{{#if:{{{header46|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header46|}}} }}&lt;!--
+--&gt;{{#if:{{{label46|}}}|{{#if:{{{data46|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label46|}}}
+{{!}} class="{{{class46|}}}" style="{{{datastyle|}}}"{{!}}{{{data46|}}} }}|  {{#if:{{{data46|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class46|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data46|}}} }} }}&lt;!--
+ Row 47
+--&gt;{{#if:{{{header47|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header47|}}} }}&lt;!--
+--&gt;{{#if:{{{label47|}}}|{{#if:{{{data47|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label47|}}}
+{{!}} class="{{{class47|}}}" style="{{{datastyle|}}}"{{!}}{{{data47|}}} }}|  {{#if:{{{data47|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class47|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data47|}}} }} }}&lt;!--
+ Row 48
+--&gt;{{#if:{{{header48|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header48|}}} }}&lt;!--
+--&gt;{{#if:{{{label48|}}}|{{#if:{{{data48|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label48|}}}
+{{!}} class="{{{class48|}}}" style="{{{datastyle|}}}"{{!}}{{{data48|}}} }}|  {{#if:{{{data48|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class48|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data48|}}} }} }}&lt;!--
+ Row 49
+--&gt;{{#if:{{{header49|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header49|}}} }}&lt;!--
+--&gt;{{#if:{{{label49|}}}|{{#if:{{{data49|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label49|}}}
+{{!}} class="{{{class49|}}}" style="{{{datastyle|}}}"{{!}}{{{data49|}}} }}|  {{#if:{{{data49|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class49|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data49|}}} }} }}&lt;!--
+ Row 50
+--&gt;{{#if:{{{header50|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header50|}}} }}&lt;!--
+--&gt;{{#if:{{{label50|}}}|{{#if:{{{data50|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label50|}}}
+{{!}} class="{{{class50|}}}" style="{{{datastyle|}}}"{{!}}{{{data50|}}} }}|  {{#if:{{{data50|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class50|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data50|}}} }} }}&lt;!--
+ Row 51
+--&gt;{{#if:{{{header51|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header51|}}} }}&lt;!--
+--&gt;{{#if:{{{label51|}}}|{{#if:{{{data51|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label51|}}}
+{{!}} class="{{{class51|}}}" style="{{{datastyle|}}}"{{!}}{{{data51|}}} }}|  {{#if:{{{data51|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class51|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data51|}}} }} }}&lt;!--
+ Row 52
+--&gt;{{#if:{{{header52|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header52|}}} }}&lt;!--
+--&gt;{{#if:{{{label52|}}}|{{#if:{{{data52|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label52|}}}
+{{!}} class="{{{class52|}}}" style="{{{datastyle|}}}"{{!}}{{{data52|}}} }}|  {{#if:{{{data52|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class52|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data52|}}} }} }}&lt;!--
+ Row 53
+--&gt;{{#if:{{{header53|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header53|}}} }}&lt;!--
+--&gt;{{#if:{{{label53|}}}|{{#if:{{{data53|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label53|}}}
+{{!}} class="{{{class53|}}}" style="{{{datastyle|}}}"{{!}}{{{data53|}}} }}|  {{#if:{{{data53|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class53|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data53|}}} }} }}&lt;!--
+ Row 54
+--&gt;{{#if:{{{header54|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header54|}}} }}&lt;!--
+--&gt;{{#if:{{{label54|}}}|{{#if:{{{data54|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label54|}}}
+{{!}} class="{{{class54|}}}" style="{{{datastyle|}}}"{{!}}{{{data54|}}} }}|  {{#if:{{{data54|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class54|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data54|}}} }} }}&lt;!--
+ Row 55
+--&gt;{{#if:{{{header55|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header55|}}} }}&lt;!--
+--&gt;{{#if:{{{label55|}}}|{{#if:{{{data55|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label55|}}}
+{{!}} class="{{{class55|}}}" style="{{{datastyle|}}}"{{!}}{{{data55|}}} }}|  {{#if:{{{data55|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class55|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data55|}}} }} }}&lt;!--
+ Row 56
+--&gt;{{#if:{{{header56|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header56|}}} }}&lt;!--
+--&gt;{{#if:{{{label56|}}}|{{#if:{{{data56|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label56|}}}
+{{!}} class="{{{class56|}}}" style="{{{datastyle|}}}"{{!}}{{{data56|}}} }}|  {{#if:{{{data56|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class56|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data56|}}} }} }}&lt;!--
+ Row 57
+--&gt;{{#if:{{{header57|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header57|}}} }}&lt;!--
+--&gt;{{#if:{{{label57|}}}|{{#if:{{{data57|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label57|}}}
+{{!}} class="{{{class57|}}}" style="{{{datastyle|}}}"{{!}}{{{data57|}}} }}|  {{#if:{{{data57|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class57|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data57|}}} }} }}&lt;!--
+ Row 58
+--&gt;{{#if:{{{header58|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header58|}}} }}&lt;!--
+--&gt;{{#if:{{{label58|}}}|{{#if:{{{data58|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label58|}}}
+{{!}} class="{{{class58|}}}" style="{{{datastyle|}}}"{{!}}{{{data58|}}} }}|  {{#if:{{{data58|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class58|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data58|}}} }} }}&lt;!--
+ Row 59
+--&gt;{{#if:{{{header59|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header59|}}} }}&lt;!--
+--&gt;{{#if:{{{label59|}}}|{{#if:{{{data59|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label59|}}}
+{{!}} class="{{{class59|}}}" style="{{{datastyle|}}}"{{!}}{{{data59|}}} }}|  {{#if:{{{data59|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class59|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data59|}}} }} }}&lt;!--
+ Row 60
+--&gt;{{#if:{{{header60|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header60|}}} }}&lt;!--
+--&gt;{{#if:{{{label60|}}}|{{#if:{{{data60|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label60|}}}
+{{!}} class="{{{class60|}}}" style="{{{datastyle|}}}"{{!}}{{{data60|}}} }}|  {{#if:{{{data60|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class60|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data60|}}} }} }}&lt;!--
+ Row 61
+--&gt;{{#if:{{{header61|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header61|}}} }}&lt;!--
+--&gt;{{#if:{{{label61|}}}|{{#if:{{{data61|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label61|}}}
+{{!}} class="{{{class61|}}}" style="{{{datastyle|}}}"{{!}}{{{data61|}}} }}|  {{#if:{{{data61|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class61|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data61|}}} }} }}&lt;!--
+ Row 62
+--&gt;{{#if:{{{header62|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header62|}}} }}&lt;!--
+--&gt;{{#if:{{{label62|}}}|{{#if:{{{data62|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label62|}}}
+{{!}} class="{{{class62|}}}" style="{{{datastyle|}}}"{{!}}{{{data62|}}} }}|  {{#if:{{{data62|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class62|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data62|}}} }} }}&lt;!--
+ Row 63
+--&gt;{{#if:{{{header63|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header63|}}} }}&lt;!--
+--&gt;{{#if:{{{label63|}}}|{{#if:{{{data63|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label63|}}}
+{{!}} class="{{{class63|}}}" style="{{{datastyle|}}}"{{!}}{{{data63|}}} }}|  {{#if:{{{data63|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class63|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data63|}}} }} }}&lt;!--
+ Row 64
+--&gt;{{#if:{{{header64|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header64|}}} }}&lt;!--
+--&gt;{{#if:{{{label64|}}}|{{#if:{{{data64|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label64|}}}
+{{!}} class="{{{class64|}}}" style="{{{datastyle|}}}"{{!}}{{{data64|}}} }}|  {{#if:{{{data64|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class64|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data64|}}} }} }}&lt;!--
+ Row 65
+--&gt;{{#if:{{{header65|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header65|}}} }}&lt;!--
+--&gt;{{#if:{{{label65|}}}|{{#if:{{{data65|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label65|}}}
+{{!}} class="{{{class65|}}}" style="{{{datastyle|}}}"{{!}}{{{data65|}}} }}|  {{#if:{{{data65|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class65|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data65|}}} }} }}&lt;!--
+ Row 66
+--&gt;{{#if:{{{header66|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header66|}}} }}&lt;!--
+--&gt;{{#if:{{{label66|}}}|{{#if:{{{data66|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label66|}}}
+{{!}} class="{{{class66|}}}" style="{{{datastyle|}}}"{{!}}{{{data66|}}} }}|  {{#if:{{{data66|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class66|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data66|}}} }} }}&lt;!--
+ Row 67
+--&gt;{{#if:{{{header67|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header67|}}} }}&lt;!--
+--&gt;{{#if:{{{label67|}}}|{{#if:{{{data67|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label67|}}}
+{{!}} class="{{{class67|}}}" style="{{{datastyle|}}}"{{!}}{{{data67|}}} }}|  {{#if:{{{data67|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class67|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data67|}}} }} }}&lt;!--
+ Row 68
+--&gt;{{#if:{{{header68|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header68|}}} }}&lt;!--
+--&gt;{{#if:{{{label68|}}}|{{#if:{{{data68|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label68|}}}
+{{!}} class="{{{class68|}}}" style="{{{datastyle|}}}"{{!}}{{{data68|}}} }}|  {{#if:{{{data68|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class68|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data68|}}} }} }}&lt;!--
+ Row 69
+--&gt;{{#if:{{{header69|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header69|}}} }}&lt;!--
+--&gt;{{#if:{{{label69|}}}|{{#if:{{{data69|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label69|}}}
+{{!}} class="{{{class69|}}}" style="{{{datastyle|}}}"{{!}}{{{data69|}}} }}|  {{#if:{{{data69|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class69|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data69|}}} }} }}&lt;!--
+ Row 70
+--&gt;{{#if:{{{header70|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header70|}}} }}&lt;!--
+--&gt;{{#if:{{{label70|}}}|{{#if:{{{data70|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label70|}}}
+{{!}} class="{{{class70|}}}" style="{{{datastyle|}}}"{{!}}{{{data70|}}} }}|  {{#if:{{{data70|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class70|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data70|}}} }} }}&lt;!--
+ Row 71
+--&gt;{{#if:{{{header71|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header71|}}} }}&lt;!--
+--&gt;{{#if:{{{label71|}}}|{{#if:{{{data71|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label71|}}}
+{{!}} class="{{{class71|}}}" style="{{{datastyle|}}}"{{!}}{{{data71|}}} }}|  {{#if:{{{data71|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class71|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data71|}}} }} }}&lt;!--
+ Row 72
+--&gt;{{#if:{{{header72|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header72|}}} }}&lt;!--
+--&gt;{{#if:{{{label72|}}}|{{#if:{{{data72|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label72|}}}
+{{!}} class="{{{class72|}}}" style="{{{datastyle|}}}"{{!}}{{{data72|}}} }}|  {{#if:{{{data72|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class72|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data72|}}} }} }}&lt;!--
+ Row 73
+--&gt;{{#if:{{{header73|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header73|}}} }}&lt;!--
+--&gt;{{#if:{{{label73|}}}|{{#if:{{{data73|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label73|}}}
+{{!}} class="{{{class73|}}}" style="{{{datastyle|}}}"{{!}}{{{data73|}}} }}|  {{#if:{{{data73|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class73|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data73|}}} }} }}&lt;!--
+ Row 74
+--&gt;{{#if:{{{header74|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header74|}}} }}&lt;!--
+--&gt;{{#if:{{{label74|}}}|{{#if:{{{data74|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label74|}}}
+{{!}} class="{{{class74|}}}" style="{{{datastyle|}}}"{{!}}{{{data74|}}} }}|  {{#if:{{{data74|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class74|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data74|}}} }} }}&lt;!--
+ Row 75
+--&gt;{{#if:{{{header75|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header75|}}} }}&lt;!--
+--&gt;{{#if:{{{label75|}}}|{{#if:{{{data75|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label75|}}}
+{{!}} class="{{{class75|}}}" style="{{{datastyle|}}}"{{!}}{{{data75|}}} }}|  {{#if:{{{data75|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class75|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data75|}}} }} }}&lt;!--
+ Row 76
+--&gt;{{#if:{{{header76|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header76|}}} }}&lt;!--
+--&gt;{{#if:{{{label76|}}}|{{#if:{{{data76|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label76|}}}
+{{!}} class="{{{class76|}}}" style="{{{datastyle|}}}"{{!}}{{{data76|}}} }}|  {{#if:{{{data76|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class76|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data76|}}} }} }}&lt;!--
+ Row 77
+--&gt;{{#if:{{{header77|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header77|}}} }}&lt;!--
+--&gt;{{#if:{{{label77|}}}|{{#if:{{{data77|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label77|}}}
+{{!}} class="{{{class77|}}}" style="{{{datastyle|}}}"{{!}}{{{data77|}}} }}|  {{#if:{{{data77|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class77|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data77|}}} }} }}&lt;!--
+ Row 78
+--&gt;{{#if:{{{header78|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header78|}}} }}&lt;!--
+--&gt;{{#if:{{{label78|}}}|{{#if:{{{data78|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label78|}}}
+{{!}} class="{{{class78|}}}" style="{{{datastyle|}}}"{{!}}{{{data78|}}} }}|  {{#if:{{{data78|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class78|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data78|}}} }} }}&lt;!--
+ Row 79
+--&gt;{{#if:{{{header79|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header79|}}} }}&lt;!--
+--&gt;{{#if:{{{label79|}}}|{{#if:{{{data79|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label79|}}}
+{{!}} class="{{{class79|}}}" style="{{{datastyle|}}}"{{!}}{{{data79|}}} }}|  {{#if:{{{data79|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class79|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data79|}}} }} }}&lt;!--
+ Row 80
+--&gt;{{#if:{{{header80|}}}|&lt;nowiki/&gt;
+{{!}}-
+! colspan="2" style="text-align:center; {{{headerstyle|}}}"{{!}}{{{header80|}}} }}&lt;!--
+--&gt;{{#if:{{{label80|}}}|{{#if:{{{data80|}}}|&lt;nowiki/&gt;
+{{!}}- 
+! style="{{{labelstyle|}}}"{{!}}{{{label80|}}}
+{{!}} class="{{{class80|}}}" style="{{{datastyle|}}}"{{!}}{{{data80|}}} }}|  {{#if:{{{data80|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" class="{{{class80|}}}" style="text-align:center; {{{datastyle|}}}"{{!}}{{{data80|}}} }} }}&lt;!--
+ Below
+--&gt;{{#if:{{{below|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}colspan="2" style="text-align:center; {{{belowstyle|}}}"{{!}}{{{below|}}} }}&lt;!--
+
+--&gt;{{#if:{{{name|}}}|&lt;nowiki/&gt;
+{{!}}-
+{{!}}style="text-align:right;" colspan=2"{{!}}{{Tnavbar|{{{name}}}|noedit={{{noedit|0}}}}} }}
+{{!}}}
+<sha1/></revision></page><page><title>Template:Person</title><ns>0</ns><id>3046</id><revision><id>3046</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>            
+            &lt;noinclude&gt;[[Category:Templates]]&lt;/noinclude&gt;
+            &lt;onlyinclude&gt;
+            &lt;div class="infobox infobox-person float-right"&gt; 
+            {| class="wikitable"
+            |- class="head" 
+            !colspan="2"| {{{Name}}}
+            {{#if:{{{Alternativnamen|}}} |  
+            {{!}}- 
+            {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+            {{!}} {{{Alternativnamen}}} }}
+            {{#if:{{{Rolle|}}} |  
+            {{!}}- 
+            {{!}} Rollen{{#info:{{{Name}}} wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt}}
+            {{!}} {{{Rolle}}} }}
+            |- class="subhead" 
+            |colspan="2"| Normdaten 
+            {{#if:{{{gnd_id|}}} |  
+            {{!}}- 
+            {{!}} GND{{#info:Gemeinsame Normdatei}}
+            {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
+            {{#if:{{{viaf_id|}}} |  
+            {{!}}- 
+            {{!}} VIAF{{#info:Virtual International Authority File}}
+            {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }}
+            {{#if:{{{wikidata_id|}}} |  
+            {{!}}- 
+            {{!}} Wikidata
+            {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }}
+            |}&lt;/div&gt;&lt;/onlyinclude&gt;
+        
+<sha1/></revision></page><page><title>Attribut:Abgefasst in</title><ns>0</ns><id>3047</id><revision><id>3047</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Netter Erklärtext
+<sha1/></revision></page><page><title>Attribute:Abgefasst von</title><ns>0</ns><id>3048</id><revision><id>3048</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;div&gt;
+&lt;/div&gt;
+    
+<sha1/></revision></page><page><title>Attribut:Datiert auf</title><ns>0</ns><id>3049</id><revision><id>3049</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Netter Erklärtext
+<sha1/></revision></page><page><title>Attribute:Zitiert nach</title><ns>0</ns><id>3050</id><revision><id>3050</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;div&gt;
+&lt;/div&gt;
+    
+<sha1/></revision></page><page><title>Template:Ort</title><ns>0</ns><id>3051</id><revision><id>3051</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>&lt;noinclude&gt;
+                
+                == Aufruf ==
+                &lt;pre&gt;{{Template:Ort|Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}&lt;/pre&gt;
+                
+                == Beispiele ==
+                &lt;div class="infobox infobox-ort float-right"&gt; 
+                {| class="wikitable"
+                |- class="head" 
+                !colspan="2"| Name
+                |-
+                | Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                | asd, fgh
+                |- class="subhead" 
+                |colspan="2" | Normdaten
+                |-
+                | GND{{#info:Gemeinsame Normdatei}}
+                | 1
+                |-
+                | VIAF{{#info:Virtual International Authority File}}
+                | 2
+                |-
+                | Wikidata
+                | 3
+                |- class="subhead" 
+                |colspan="2"| Lokalisierung
+                |-
+                | Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
+                | 00°,00°
+                |-
+                !colspan="2px" class="map"| MAP
+                |}
+                
+                
+                [[Category:Templates]]&lt;/noinclude&gt;
+                &lt;onlyinclude&gt;
+                &lt;div class="infobox infobox-ort float-right"&gt; 
+                
+                {| class="wikitable"
+                |- class="head" 
+                !colspan="2"| {{{Name}}}
+                
+                |- 
+                {{#if:{{{Alternativnamen|}}} |  
+                {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
+                {{!}} {{{Alternativnamen}}} }} 
+                
+                |-
+                {{#if:{{{getty_id|}}}{{{viaf_id|}}}{{{wikidata_id|}}} | 
+                {{!}}colspan="2" class="subhead" {{!}} Normdaten }}
+                
+                |-
+                {{#if:{{{getty_id|}}} |
+                {{!}} Getty TGN{{#info:Getty Thesaurus of Geographical Names}} 
+                {{!}} [http://vocab.getty.edu/page/tgn/{{{getty_id}}} {{{getty_id}}}] }}
+                
+                |- 
+                {{#if:{{{viaf_id|}}}| 
+                {{!}} VIAF{{#info:Virtual International Authority File}} 
+                {{!}} [https://viaf.org/viaf/{{{viaf_id}}} {{{viaf_id}}}] }} 
+                
+                |- 
+                {{#if:{{{wikidata_id|}}} | 
+                {{!}} Wikidata 
+                {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }} 
+                
+                |-  
+                {{#if:{{{getty_coordinates|}}} |  
+                {{!}}colspan="2" class="subhead" {{!}} Lokalisierung
+                {{!}}-
+                {{!}} Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
+                {{!}} {{{getty_coordinates}}} 
+                {{!}}-
+                !colspan="2px" class="map" {{!}} {{Template:LocationMap | Koordinaten={{{getty_coordinates}}} }} }}
+                |}&lt;/div&gt;&lt;/onlyinclude&gt;
+            
+<sha1/></revision></page><page><title>Attribut:Geographischer Bezug</title><ns>0</ns><id>3052</id><revision><id>3052</id><timestamp>2020-12-17T17:03:16Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format>Netter Erklärtext
+<sha1/></revision></page><page><title>Kategorie:Quelle</title><ns>0</ns><id>3053</id><revision><id>3053</id><timestamp>2020-12-17T17:03:11Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="preserve" bytes="3441">
+                    
+                    [[Kategorie:Repertorium Saracenorum]]
+            </text><sha1/></revision></page><page><title>Kategorie:Ort</title><ns>0</ns><id>3054</id><revision><id>3054</id><timestamp>2020-12-17T17:03:11Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="preserve" bytes="3441">
+                    
+                    [[Kategorie:Geographie]]
+            </text><sha1/></revision></page><page><title>Kategorie:Kloster</title><ns>0</ns><id>3055</id><revision><id>3055</id><timestamp>2020-12-17T17:03:11Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="preserve" bytes="3441">
+                    
+                    [[Kategorie:Geographie]]
+            </text><sha1/></revision></page><page><title>Kategorie:Region</title><ns>0</ns><id>3056</id><revision><id>3056</id><timestamp>2020-12-17T17:03:11Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="preserve" bytes="3441">
+                    
+                    [[Kategorie:Geographie]]
+            </text><sha1/></revision></page><page><title>Kategorie:</title><ns>0</ns><id>3057</id><revision><id>3057</id><timestamp>2020-12-17T17:03:11Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="preserve" bytes="3441">
+                    
+                    [[Kategorie:Geographie]]
+            </text><sha1/></revision></page><page><title>Kategorie:Fluss</title><ns>0</ns><id>3058</id><revision><id>3058</id><timestamp>2020-12-17T17:03:11Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="preserve" bytes="3441">
+                    
+                    [[Kategorie:Geographie]]
+            </text><sha1/></revision></page><page><title>Kategorie:Berg</title><ns>0</ns><id>3059</id><revision><id>3059</id><timestamp>2020-12-17T17:03:11Z</timestamp><contributor><username>Administrator</username><id>1</id></contributor><model>wikitext</model><format>text/x-wiki</format><text xml:space="preserve" bytes="3441">
+                    
+                    [[Kategorie:Geographie]]
+            </text><sha1/></revision></page></mediawiki>

@@ -97,6 +97,7 @@ Normal rights:
   w-saraze rlidwk
 ```
 #### Export ####
+```
 Repertorium Saracenorum
 Kategorie:Werk
 Kategorie:Auffälligkeit
@@ -116,6 +117,13 @@ Vorlage:Person
 Vorlage:Description
 Vorlage:Verfasserin
 Vorlage:Werk
-
-
+Template:WerkKarte
+Template:Timeframe
+```
 DELETE FROM page;
+
+#### Import ####
+Die Dateien in ```output/split``` nach ```/afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/files``` hochladen und mit ```php maintenance/importDump.php ../files/1.xml```  das script ausführen 
+  
+  You might want to run rebuildrecentchanges.php to regenerate RecentChanges,
+  and initSiteStats.php to update page and revision counts

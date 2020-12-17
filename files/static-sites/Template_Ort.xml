@@ -11,8 +11,7 @@
             </rules>
         </meta>
         <text>
-            <wikisyntax>
-                &lt;noinclude&gt;
+            <wikisyntax>&lt;noinclude&gt;
                 
                 == Aufruf ==
                 &lt;pre&gt;{{Template:Ort|Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}&lt;/pre&gt;
