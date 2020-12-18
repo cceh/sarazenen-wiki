@@ -86,15 +86,11 @@
 <xsl:otherwise>&lt;div&gt;</xsl:otherwise>
         </xsl:choose>
         <xsl:apply-templates xml:space="default"/>
-&lt;/<xsl:value-of select="name()"/>&gt;
-    </xsl:template>
+&lt;/<xsl:value-of select="name()"/>&gt;</xsl:template>
     <xsl:template match="wikisyntax" xml:space="default">
         <xsl:value-of select="."/>
     </xsl:template>
-    <xsl:template match="header" xml:space="default">
-<xsl:variable name="level"><xsl:for-each select="(1 to ./@level)">=</xsl:for-each></xsl:variable>
-<xsl:value-of select="string-join(($level,.,$level),' ')"/>
-    </xsl:template>
+    <xsl:template match="header" xml:space="default"><xsl:variable name="level"><xsl:for-each select="(1 to ./@level)">=</xsl:for-each></xsl:variable><xsl:value-of select="string-join(($level,.,$level),' ')" xml:space="default"/></xsl:template>
     <xsl:template match="ul" xml:space="default">
 <xsl:for-each select="./li">* <xsl:apply-templates/>
 </xsl:for-each>

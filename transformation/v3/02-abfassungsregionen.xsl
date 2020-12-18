@@ -18,8 +18,10 @@
                     <Region>
                         <Name><xsl:value-of select="."/></Name>
                         <Orte>
+                            <xsl:variable name="region" select="."/>
                         <xsl:for-each-group select="current-group()/parent::node()/parent::node()/Abfassungsort/Ort" group-by="./@id">
                                 <Ort>
+                                    <xsl:attribute name="region" select="normalize-space($region)"/>
                                     <xsl:attribute name="id" select="current-grouping-key()"/>
                                     <xsl:value-of select="."/>
                                 </Ort>

@@ -169,13 +169,13 @@
 |VerfasserIn=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
                             <xsl:for-each select="./Autoren/Autor">
                                 <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
+                                <xsl:text>[[abgefasst von::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
                             </xsl:for-each>
                         </xsl:when>
                             <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
-                                <xsl:text>[[VerfasserIn::VerfasserIn unbekannt]]</xsl:text>
+                                <xsl:text>[[abgefasst von::VerfasserIn unbekannt]]</xsl:text>
                             </xsl:when>
-                            <xsl:otherwise><xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
+                            <xsl:otherwise><xsl:text>[[abgefasst von::</xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
                         </xsl:choose></xsl:value-of>
 |Lebensdaten=<xsl:value-of xml:space="default">
     <xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">

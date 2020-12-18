@@ -67,12 +67,12 @@
            
             <xsl:variable name="places" select="distinct-values(./Sarazenen/Orte/Ort/Typ/data(.))"/>
             <xsl:for-each select="$places">
-                <xsl:call-template name="kateg">
+               <xsl:if test=".!=''"> <xsl:call-template name="kateg">
                     <xsl:with-param name="data" select="."/>
                     <xsl:with-param name="pos" select="position() + $fid + $max"/>
                     <xsl:with-param name="pos2" select="position() + $fid"/>
                     <xsl:with-param name="parent"><xsl:text>Geographie</xsl:text></xsl:with-param>
-                </xsl:call-template>
+                </xsl:call-template></xsl:if>
             </xsl:for-each> 
             <!--
             <xsl:variable name="max" select="$max + count($places)"/>

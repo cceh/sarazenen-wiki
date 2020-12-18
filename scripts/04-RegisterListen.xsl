@@ -173,7 +173,7 @@
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
             version="0.10" xml:lang="de">
-            <!--<xsl:copy-of select="$fill-mergelists"></xsl:copy-of>-->
+            <xsl:copy-of select="$fill-mergelists"></xsl:copy-of>
             <siteinfo>
                 <sitename>Sarazenen Wiki</sitename>
                 <dbname>sarazenen-bonn</dbname>
@@ -214,7 +214,7 @@
             <xsl:for-each select="$fill-mergelists/entity">
                 <xsl:variable name="name" select="./main"/>
                 <xsl:variable name="output" xml:space="default">
-                    <xsl:for-each select="mentioned" xml:space="default">
+                    <xsl:for-each select="(mentioned, ./meta/Typ)" xml:space="default">
                         <xsl:if test="not(exists(./attribute()))">
                             <xsl:choose xml:space="default">
                                 <xsl:when test=". eq 'VerfasserIn'">
@@ -393,40 +393,40 @@
                         <text xml:space="default" bytes="3441">
                             <xsl:if test="./meta/editorial_notes/notes/note">
                                 <xsl:for-each select="./meta/editorial_notes/notes/note">
-                                    {{Template:Description|type=note|Text=<xsl:value-of select="."/>}}
+{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}
                                 </xsl:for-each>
                             </xsl:if>
                             <xsl:if test="./meta/getty/ScopeNote != ''">
-                                {{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
+{{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
                             </xsl:if>                            
                             <xsl:if test="./meta/wikidata/desc != ''">
-                                {{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose>
-                                    <xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./desc[@lang='de']"/></xsl:when>
-                                    <xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']"/></xsl:otherwise>
+{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose>
+    <xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./meta/wikidata/desc[@lang='de']/data(.)"/></xsl:when>
+    <xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']/data(.)"/></xsl:otherwise>
                                 </xsl:choose>}}
                             </xsl:if>                             
-                            <xsl:for-each select="./meta/Typ"><xsl:choose>
+<xsl:variable name="typs" xml:space="default"><xsl:for-each select="./meta/Typ" xml:space="default"><xsl:choose>
                                 <xsl:when test=". eq 'Ort'">
-                                {{Template:Ort |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}||wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+{{Template:Ort |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}||wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
                                 </xsl:when>
                                 <xsl:when test=". eq 'Person'">
-                                    {{Template:Person |Name={{FULLPAGENAME}}
-                                    |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
-                                    |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
-                                    |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
-                                    |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-                                    |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text={{#show:{{FULLPAGENAME}}|?wikidata_desc|link=none}}}}
-                                    
+{{Template:Person |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
+|gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text={{#show:{{FULLPAGENAME}}|?wikidata_desc|link=none}}}}
                                 </xsl:when>
-                                <xsl:when test=". eq 'Verfasser'">{{Template:VerfasserIn
-                                    |Name={{FULLPAGENAME}}
-                                    |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
-                                    |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
-                                    |Lebensdaten={{#show:{{FULLPAGENAME}}|?Lebensdaten|link=none}}
-                                    |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
-                                    |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-                                    |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
-                            </xsl:choose></xsl:for-each>
+                                <xsl:when test=". eq 'VerfasserIn'">
+{{Template:VerfasserIn
+|Name={{FULLPAGENAME}}
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
+|Lebensdaten={{#show:{{FULLPAGENAME}}|?Lebensdaten|link=none}}
+|gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
+                            </xsl:choose></xsl:for-each></xsl:variable>
+<xsl:value-of select="$typs" xml:space="default"/>
 <xsl:value-of select="$output" xml:space="default"/>
                             
                             

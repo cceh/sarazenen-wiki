@@ -5063,6 +5063,8 @@ Hier bitte strukturelle Ã„nderungen im Dokument festhalten. Alle strukturellen Ã
    <Orte>
       <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097">
          <Id>e55f8177-2476-4282-ad6b-7a8b0a4e8097</Id>
+         <Abfassungsregion from="yyyy" to="yyyy">Westfranken</Abfassungsregion>
+         <Abfassungsregion from="yyyy" to="yyyy">Ostfranken</Abfassungsregion>
          <Name>unbekannt</Name>
          <Typ>Ort</Typ>
          <Typ>Kloster</Typ>
