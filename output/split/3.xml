@@ -1,10 +1,1021 @@
 <?xml version="1.0" encoding="UTF-8"?><mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="de"><siteinfo><sitename>Sarazenen Wiki</sitename><dbname>sarazenen-bonn</dbname><base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base><generator>MediaWiki 1.27.4</generator><case>first-letter</case><namespaces><namespace key="-2" case="first-letter">Medium</namespace><namespace key="-1" case="first-letter">Spezial</namespace><namespace key="0" case="first-letter"/><namespace key="1" case="first-letter">Diskussion</namespace><namespace key="2" case="first-letter">Benutzer</namespace><namespace key="3" case="first-letter">Benutzer Diskussion</namespace><namespace key="4" case="first-letter">Sarazenen Wiki</namespace><namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace><namespace key="6" case="first-letter">Datei</namespace><namespace key="7" case="first-letter">Datei Diskussion</namespace><namespace key="8" case="first-letter">MediaWiki</namespace><namespace key="9" case="first-letter">MediaWiki Diskussion</namespace><namespace key="10" case="first-letter">Vorlage</namespace><namespace key="11" case="first-letter">Vorlage Diskussion</namespace><namespace key="12" case="first-letter">Hilfe</namespace><namespace key="13" case="first-letter">Hilfe Diskussion</namespace><namespace key="14" case="first-letter">Kategorie</namespace><namespace key="15" case="first-letter">Kategorie Diskussion</namespace><namespace key="102" case="first-letter">Attribut</namespace><namespace key="103" case="first-letter">Attribut Diskussion</namespace><namespace key="106" case="first-letter">Formular</namespace><namespace key="107" case="first-letter">Formular Diskussion</namespace><namespace key="108" case="first-letter">Konzept</namespace><namespace key="109" case="first-letter">Konzept Diskussion</namespace><namespace key="170" case="first-letter">Filter</namespace><namespace key="171" case="first-letter">Filter Diskussion</namespace><namespace key="828" case="first-letter">Modul</namespace><namespace key="829" case="first-letter">Modul Diskussion</namespace></namespaces></siteinfo><page>
-      <title>Primordia coenobii Gandersheimensis</title>
+      <title>Historia Remensis ecclesiae</title>
       <ns>0</ns>
       <id>3001</id>
       <revision>
          <id>3001</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">
+                   {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Historia ecclesiae Remensis/Geschichte der Reimser Kirche
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Flodoard von Reims]]
+|Lebensdaten=Flodoard von Reims: {{#show: Flodoard von Reims |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Reims]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Reims]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550 0 1700 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="550" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="550" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="550" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="550"  y1="80" x2="1000" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="550" y="95" class="year"&gt;550 &lt;/text&gt;
+                        
+                             &lt;line  x1="600" y1="0" x2="600" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="600" y="95" class="year"&gt;600 &lt;/text&gt;
+                        
+                             &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="650" y="95" class="year"&gt;650 &lt;/text&gt;
+                        
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                        
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="948" y="12" width="4" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="-5200" y="26" width="6148" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="-480" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;-5200&lt;/text&gt;
+        &lt;text x="948" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;948&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="345" y="26" width="10" height="37"
+        label="Quelle 0001: um 350"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="886" y="26" width="1" height="37"
+        label="Quelle 0002: 886"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="892" y="26" width="1" height="37"
+        label="Quelle 0003: 892"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="925" y="26" width="1" height="37"
+        label="Quelle 0004: 925"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=948-952
+|Berichtszeitraum=Weltchronik bis zum Jahr 948
+|Werknummer=0068
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Die Historia ecclesiae Remensis ist eine Geschichte des Bistums Reims, die zwischen 948 und 952 von Flodoard von Reims (geb. wohl 894, gest. 966) in vier Büchern verfasst wurde. Flodoard berichtet hier über die Zeit der Gründung der Stadt bis zum Jahr 948. Gewidmet ist das Buch einem gewissen ‚R‘ (in dem Erzbischof Robert von Trier vermutet wird). Neben klassichen Werken, Heiligenleben etc. griff Flodoard bei der Niederschirft auch auf das Archiv des Bistums zurück.
+Vgl. mit Hinweisen für weiterführende Literatur: P. Chr. Jacobsen, Art. Flodoard v. Reims, in: Lexikon des Mittelalters 4, Sp. 549-550 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Flodoardus canonicus Remensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118534009.html 2016-11-07]; Historia ecclesiae Remensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02240.html 2016-11-07]; Régis Rech, Art. Flodoard of Reims, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 623f.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Flodoard von Reims, Die Geschichte der Reimser Kirche, ed. Martina Stratmann (MGH SS 36), Hannover 1998. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Historia Remensis ecclesiae]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Historia Remensis ecclesiae]]
+                        [[Zeitangabe::+]]
+|?Zeitangabe  
+  |sort=Zeitangabe
+ |order=descending
+ |format=eventline
+ |timelinebands= YEAR, DECADE,CENTURY
+ |timelineposition=start
+ |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ 
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Mariani Scotti Chronicon</title>
+      <ns>0</ns>
+      <id>3002</id>
+      <revision>
+         <id>3002</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">
+                   {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Chronicon/Chronik
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Marianus Scottus]]
+|Lebensdaten=Marianus Scottus: {{#show: Marianus Scottus |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Mainz]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Mainz]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550 0 1850 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="550" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="550" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="550" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="550"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="550" y="95" class="year"&gt;550 &lt;/text&gt;
+                        
+                             &lt;line  x1="600" y1="0" x2="600" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="600" y="95" class="year"&gt;600 &lt;/text&gt;
+                        
+                             &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="650" y="95" class="year"&gt;650 &lt;/text&gt;
+                        
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                        
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                        
+                             &lt;line  x1="1100" y1="0" x2="1100" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1100" y="95" class="year"&gt;1100 &lt;/text&gt;
+                        
+                             &lt;line  x1="1150" y1="0" x2="1150" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1150" y="95" class="year"&gt;1150 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="1072" y="12" width="10" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="-5200" y="26" width="6282" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="-480" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;-5200&lt;/text&gt;
+        &lt;text x="1082" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;1082&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="604" y="26" width="1" height="37"
+        label="Quelle 0001: 604"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="660" y="26" width="9" height="37"
+        label="Quelle 0002: 660er/670er Jahre"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="670" y="26" width="1" height="37"
+        label="Quelle 0002: 660er/670er Jahre"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="685" y="26" width="1" height="37"
+        label="Quelle 0003: 685/688"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="688" y="26" width="1" height="37"
+        label="Quelle 0003: 685/688"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="715" y="26" width="1" height="37"
+        label="Quelle 0004: 715"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="717" y="26" width="1" height="37"
+        label="Quelle 0005: 717/718"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="718" y="26" width="1" height="37"
+        label="Quelle 0005: 717/718"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="718" y="26" width="37" height="37"
+        label="Quelle 0006: 718-755"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="717" y="26" width="1" height="37"
+        label="Quelle 0007: 717/718"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="718" y="26" width="1" height="37"
+        label="Quelle 0007: 717/718"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="795" y="26" width="10" height="37"
+        label="Quelle 0008: um 800"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="802" y="26" width="1" height="37"
+        label="Quelle 0009: 802"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1064" y="26" width="1" height="37"
+        label="Quelle 0010: 1064/1065"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1065" y="26" width="1" height="37"
+        label="Quelle 0010: 1064/1065"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=1072-1082
+|Berichtszeitraum=Weltchronik bis zum Jahr 1082
+|Werknummer=0069
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Das Chronicon des Marianus Scottus (geb. 1028, gest. 1082) wurde zwischen 1072 und 1082 in drei Büchern von dem Mönch und Inklusen verfasst. Das erste Buch behandelt die Zeit von der Schöpfung bis zur Geburt Christi, das zweite Buch behandelt das Leben Christi auf Erden, das dritte Buch reicht bis in die Zeit Marianus‘ selbst (bis 1073/1082). Auffallend ist die Jahreszählung des Werkes. Aus Irland stammend war Marianus zunächst Mönch im Kloster Magh Bhille, ab 1056 im Kloster Groß St. Martin in Mainz. Zeitweilig lebte er als Inkluse in Fulda, ab 1069 wieder in Mainz.
+Vgl. mit Hinweisen für weiterführende Literatur: D. Ó Cróinín, Art. Marianus Scot(t)us, in: Lexikon des Mittelalters 6, Sp. 285-286 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Marianus Scottus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100952984.html 2016-11-07]; Chronicon (Marianus Scottus), in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03350.html?pers_PND=PND100952984 2016-11-07]; Peter Verbist, Art. Marianus Scotus (Máel Brigte), in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1079.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Mariani Scotti Chronicon, ed. Georg Waitz, in: MGH SS 5, Hannover 1844, S. 481-564. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Mariani Scotti Chronicon]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Mariani Scotti Chronicon]]
+                        [[Zeitangabe::+]]
+|?Zeitangabe  
+  |sort=Zeitangabe
+ |order=descending
+ |format=eventline
+ |timelinebands= YEAR, DECADE,CENTURY
+ |timelineposition=start
+ |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ 
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Annales Fuldense antiquissimi</title>
+      <ns>0</ns>
+      <id>3003</id>
+      <revision>
+         <id>3003</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">
+                   {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Älteste Jahrbücher von Fulda
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
+|Lebensdaten=unbekannt
+|Abfassungsort=[[Abfassungsort::Fulda]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Fulda]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700 0 1750 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="700" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="710" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="700" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="710" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="700" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="710" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="700"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                        
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="742" y="12" width="96" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="742" y="26" width="96" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="742" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;742&lt;/text&gt;
+        &lt;text x="838" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;838&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=742-822 mit Nachträgen zu 831, 832 und 838
+|Berichtszeitraum=742-822 mit Nachträgen zu 831, 832 und 838
+|Werknummer=9999
+                    |Abfassungsregion= West- und Mitteleuropa
+
+
+}}
+&lt;poem&gt;Vgl.: Annales Fuldenses antiquissimi, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00270.html 2018-02-06].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Annales Fuldenses Antiquissimi, ed. Friedrich Kurze, in: MGH SS rer. Germ. [7], Hannover 1891, S. 136-138. [ ]
+
+&lt;/poem&gt;
+                    
+                    
+                        
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ 
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa | West- und Mitteleuropa]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Annales Vedastini</title>
+      <ns>0</ns>
+      <id>3004</id>
+      <revision>
+         <id>3004</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">
+                   {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Jahrbücher von St. Vaast
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
+|Lebensdaten=unbekannt
+|Abfassungsort=[[Abfassungsort::Kloster St. Vaast in Arras (Pas-de-Calais)]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Kloster St. Vaast in Arras (Pas-de-Calais)]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="800 0 1900 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="800" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="810" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="800" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="810" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="800" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="810" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="800"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="891" y="12" width="29" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="873" y="26" width="27" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="873" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;873&lt;/text&gt;
+        &lt;text x="900" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;900&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=Nach 891
+|Berichtszeitraum=873-900
+|Werknummer=9998
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Vgl.: Annales Vedastini, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00438.html 2018-02-06]; Sören Kaschke, Art. Annales Vedastini, in: Ecyclopedia of the Medieval Chronicle 1 (2010), S. 94.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Annales Vedastini, ed. Bernhard von Simson, in: MGH SS rer. Germ. [12], Hannover – Leipzig 1909, S. 40-82. [ ]
+
+&lt;/poem&gt;
+                    
+                    
+                        
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ 
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Carmina duo in honorem gloriosissimi Pippini regis</title>
+      <ns>0</ns>
+      <id>3005</id>
+      <revision>
+         <id>3005</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">
+                   {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Zwei Gedichte zu Ehren des ruhmreichen Königs Pippin
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Ermoldus Nigellus]]
+|Lebensdaten=Ermoldus Nigellus: {{#show: Ermoldus Nigellus |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Straßburg]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Straßburg]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="750 0 1800 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="750" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="760" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="750" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="760" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="750" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="760" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="750"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="823" y="12" width="7" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="817" y="26" width="13" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="817" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;817&lt;/text&gt;
+        &lt;text x="830" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;830&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=823-830
+|Berichtszeitraum=817-830
+|Werknummer=9997
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Vgl. zum Werk: Carmina duo in honorem gloriosissimi Pippini regis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02193.html 2018-02-07]; vgl. zum Autor: Ermoldus Nigellus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_10094065X.html 2018-02-07].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Carmen Nigelli Ermoldi exulis in laudem gloriosissimi Pippini regis, ed. Ernst Dümmler, in: MGH Poetae 2, Berlin 1884, S. 79-91. [ ]
+
+&lt;/poem&gt;
+                    
+                    
+                        
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ 
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Epitaphium Adelheidae Imperatricis</title>
+      <ns>0</ns>
+      <id>3006</id>
+      <revision>
+         <id>3006</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">
+                   {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Leben der Kaiserin Adelheid
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Odilo von Cluny]]
+|Lebensdaten=Odilo von Cluny: {{#show: Odilo von Cluny |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Cluny]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2100 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                        
+                             &lt;line  x1="1100" y1="0" x2="1100" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1100" y="95" class="year"&gt;1100 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="995" y="12" width="10" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1024" y="12" width="2" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="910" y="26" width="89" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="910" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;910&lt;/text&gt;
+        &lt;text x="999" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;999&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=Um 1000 1024-1026
+|Berichtszeitraum=910-999
+|Werknummer=9996
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Vgl. zum Werk: Epitaphium Adelheidae Imperatricis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03740.html 2018-02-07]; vgl. zum Autor: Odilo abbas Cluniacensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100955835.html 2018-02-07].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Epitaphium Adalheidae imperatricis auctore Odilone, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover 1841, S. 633-649. [ ]
+
+&lt;/poem&gt;
+                    
+                    
+                        
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ 
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Miracula s. Willehadi</title>
+      <ns>0</ns>
+      <id>3007</id>
+      <revision>
+         <id>3007</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">
+                   {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Vita sancti Willehadi/Wunder des hl. Willehad
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Ansgar von Bremen]]
+|Lebensdaten=Ansgar von Bremen: {{#show: Ansgar von Bremen |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Bremen]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Bremen]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700 0 1750 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="700" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="710" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="700" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="710" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="700" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="710" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="700"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                        
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="860" y="12" width="5" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="770" y="26" width="95" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="770" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;770&lt;/text&gt;
+        &lt;text x="865" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;865&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=860-865
+|Berichtszeitraum=770-865
+|Werknummer=9995
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Vgl. zum Werk: Miracula s. Willehadihrz, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_00496.html 2018-02-07]; vgl. zum Autor: Anskarius archiepiscopus Bremensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118503286.html 2018-02-07].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Anskarii Vita sancti Willehadi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 378-390. [ ]
+
+&lt;/poem&gt;
+                    
+                    
+                        
+                        {{#set:
+                        Sarazenenbezug=nein}}
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ 
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Primordia coenobii Gandersheimensis</title>
+      <ns>0</ns>
+      <id>3008</id>
+      <revision>
+         <id>3008</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -118,10 +1129,10 @@ Abfassungszeit=Um 960-973
    </page><page>
       <title>Saxonicum bellum</title>
       <ns>0</ns>
-      <id>3002</id>
+      <id>3009</id>
       <revision>
-         <id>3002</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3009</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -233,10 +1244,10 @@ Brunos Buch vom Sachsenkrieg, ed. Hans-Eberhard Lohmann (MGH Dt. MA 2), Leipzig 
    </page><page>
       <title>Translatio s. Alexandri</title>
       <ns>0</ns>
-      <id>3003</id>
+      <id>3010</id>
       <revision>
-         <id>3003</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3010</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -345,10 +1356,10 @@ Translatio s. Alexandri auctoribus Ruodolfo et Meginharto, ed. Georg Heinrich Pe
    </page><page>
       <title>Translatio s. Liborii</title>
       <ns>0</ns>
-      <id>3004</id>
+      <id>3011</id>
       <revision>
-         <id>3004</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3011</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -459,10 +1470,10 @@ Abfassungszeit=836-900
    </page><page>
       <title>Vita Anskarii</title>
       <ns>0</ns>
-      <id>3005</id>
+      <id>3012</id>
       <revision>
-         <id>3005</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3012</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -595,10 +1606,10 @@ Vita sancti Anskarii. A Rimberto et alio discipulo Anskarii conscripta, ed. Chri
    </page><page>
       <title>Vita Bernwardi episcopi Hildesheimensis</title>
       <ns>0</ns>
-      <id>3006</id>
+      <id>3013</id>
       <revision>
-         <id>3006</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3013</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -713,10 +1724,10 @@ Vita Bernwardi episcopi Hildesheimensis auctore Thangmaro, ed. Georg Heinrich Pe
    </page><page>
       <title>Vita Brunonis archiepiscopi Coloniensis</title>
       <ns>0</ns>
-      <id>3007</id>
+      <id>3014</id>
       <revision>
-         <id>3007</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3014</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -825,10 +1836,10 @@ Ruotgeri vita Brunonis archiepiscopi Coloniensis, ed. Irene Ott (MGH SS rer. Ger
    </page><page>
       <title>Vita et obitus Hathumodae primae abbatissae Gandersheimensis</title>
       <ns>0</ns>
-      <id>3008</id>
+      <id>3015</id>
       <revision>
-         <id>3008</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3015</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -940,10 +1951,10 @@ Agii vita et obitus Hathumodae, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover
    </page><page>
       <title>Vita Gregorii abbatis Traiectensis</title>
       <ns>0</ns>
-      <id>3009</id>
+      <id>3016</id>
       <revision>
-         <id>3009</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3016</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1058,10 +2069,10 @@ Liudgeri vita Gregorii abbatis Traiectensis, ed. Oswald Holder-Egger, in: MGH SS
    </page><page>
       <title>Annales Brunwilarenses</title>
       <ns>0</ns>
-      <id>3010</id>
+      <id>3017</id>
       <revision>
-         <id>3010</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3017</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1177,10 +2188,10 @@ Annales Brunwilarenses, ed. Georg Heinrich Pertz, in: MGH SS 16, Hannover 1859, 
    </page><page>
       <title>Annales Floriacenses</title>
       <ns>0</ns>
-      <id>3011</id>
+      <id>3018</id>
       <revision>
-         <id>3011</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3018</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1313,10 +2324,10 @@ Annales Floriacenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Annales Lemovicenses</title>
       <ns>0</ns>
-      <id>3012</id>
+      <id>3019</id>
       <revision>
-         <id>3012</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3019</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1437,10 +2448,10 @@ Annales Lemovicenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Annales qui dicuntur Alcuini</title>
       <ns>0</ns>
-      <id>3013</id>
+      <id>3020</id>
       <revision>
-         <id>3013</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3020</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1549,10 +2560,10 @@ Annales ut videtur Alcuini, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover 184
    </page><page>
       <title>Annales S. Amandi breves</title>
       <ns>0</ns>
-      <id>3014</id>
+      <id>3021</id>
       <revision>
-         <id>3014</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3021</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1667,10 +2678,10 @@ Annales S. Amandi breves, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829,
    </page><page>
       <title>Annales S. Bavonis Gandensis</title>
       <ns>0</ns>
-      <id>3015</id>
+      <id>3022</id>
       <revision>
-         <id>3015</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3022</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1818,10 +2829,10 @@ Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1
    </page><page>
       <title>Annales S. Maximini Trevirensis</title>
       <ns>0</ns>
-      <id>3016</id>
+      <id>3023</id>
       <revision>
-         <id>3016</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3023</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1970,10 +2981,10 @@ Annales Sancti Maximini Trevirensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Han
    </page><page>
       <title>Bella Parisicae urbis</title>
       <ns>0</ns>
-      <id>3017</id>
+      <id>3024</id>
       <revision>
-         <id>3017</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3024</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2082,10 +3093,10 @@ Abbonis bella Parisiacae urbis, ed. Paul von Winterfeld, in: MGH Poeta 4,1, Berl
    </page><page>
       <title>Breviarium regum Francorum</title>
       <ns>0</ns>
-      <id>3018</id>
+      <id>3025</id>
       <revision>
-         <id>3018</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3025</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2212,10 +3223,10 @@ Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, 
    </page><page>
       <title>Carmen de gestis Oddonis I imperatoris</title>
       <ns>0</ns>
-      <id>3019</id>
+      <id>3026</id>
       <revision>
-         <id>3019</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3026</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2326,10 +3337,10 @@ Abfassungszeit=960-973
    </page><page>
       <title>Carmen de Carolo Magno</title>
       <ns>0</ns>
-      <id>3020</id>
+      <id>3027</id>
       <revision>
-         <id>3020</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3027</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2438,10 +3449,10 @@ Angilberti carmen de Karolo Magno, ed. Georg Heinrich Pertz, in: MGH SS 2, Hanno
    </page><page>
       <title>Casus S. Galli</title>
       <ns>0</ns>
-      <id>3021</id>
+      <id>3028</id>
       <revision>
-         <id>3021</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3028</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2568,10 +3579,10 @@ Casus S. Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 59-74  Rat
    </page><page>
       <title>Casuum S. Galli continuatio secunda</title>
       <ns>0</ns>
-      <id>3022</id>
+      <id>3029</id>
       <revision>
-         <id>3022</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3029</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2690,10 +3701,10 @@ Casuum S. Galli contiuatio II, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829
    </page><page>
       <title>Casuum S. Galli continuatio tertia</title>
       <ns>0</ns>
-      <id>3023</id>
+      <id>3030</id>
       <revision>
-         <id>3023</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3030</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2803,10 +3814,10 @@ Casuum S. Galli contiuatio III auctore Conrado de Fabaria, ed. Ildefons von Arx,
    </page><page>
       <title>Liber historiae Francorum</title>
       <ns>0</ns>
-      <id>3024</id>
+      <id>3031</id>
       <revision>
-         <id>3024</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3031</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2924,10 +3935,10 @@ Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 
    </page><page>
       <title>Historia Daretis Frigii de origine Francorum</title>
       <ns>0</ns>
-      <id>3025</id>
+      <id>3032</id>
       <revision>
-         <id>3025</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3032</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3048,10 +4059,10 @@ Historia Daretis Frigii de origine Francorum, ed. Bruno Krusch, in: MGH SS rer. 
    </page><page>
       <title>Vita Leobae</title>
       <ns>0</ns>
-      <id>3026</id>
+      <id>3033</id>
       <revision>
-         <id>3026</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3033</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3169,10 +4180,10 @@ Vita Leobae abbatissae Bischofesheimensis auctore Rudolfo Fuldensi, ed. Georg Wa
    </page><page>
       <title>Vita Mathildis reginae</title>
       <ns>0</ns>
-      <id>3027</id>
+      <id>3034</id>
       <revision>
-         <id>3027</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3034</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3293,10 +4304,10 @@ Die Lebensbeschreibungen der Königin Mathilde, ed. Bernd Schütte (MGH SS rer. 
    </page><page>
       <title>Vita s. Adalhardi abbatis Corbeiensis</title>
       <ns>0</ns>
-      <id>3028</id>
+      <id>3035</id>
       <revision>
-         <id>3028</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3035</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3411,10 +4422,10 @@ Ex vita Adalhard, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 524-
    </page><page>
       <title>Vita s. Arnulfi Suessionensis</title>
       <ns>0</ns>
-      <id>3029</id>
+      <id>3036</id>
       <revision>
-         <id>3029</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3036</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3526,10 +4537,10 @@ Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. O
    </page><page>
       <title>Vita s. Bennonis II episcopi Osnabrugensis</title>
       <ns>0</ns>
-      <id>3030</id>
+      <id>3037</id>
       <revision>
-         <id>3030</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3037</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3644,10 +4655,10 @@ Vita Bennonis II. episcopi Osnabrvgensis avctore Nortberto abbate Ibvrgensi, ed.
    </page><page>
       <title>Vita s. Eigilis abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3031</id>
+      <id>3038</id>
       <revision>
-         <id>3031</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3038</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3762,10 +4773,10 @@ Vita Eigilis abbatis Fuldensis auctore Candido, ed. Georg Waitz, in: MGH SS 15,1
    </page><page>
       <title>Vita s. Hugonis abbatis</title>
       <ns>0</ns>
-      <id>3032</id>
+      <id>3039</id>
       <revision>
-         <id>3032</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3039</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3880,10 +4891,10 @@ Ex vita Hugonis auctore Rainaldo, ed. Lothar von Heinemann, in: MGH SS 15,2, Han
    </page><page>
       <title>Vita s. Lebuini</title>
       <ns>0</ns>
-      <id>3033</id>
+      <id>3040</id>
       <revision>
-         <id>3033</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3040</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4007,10 +5018,10 @@ Ex vita sancti Lebuini auctore Hucbaldo monacho s. Armandi, ed. Georg Heinrich P
    </page><page>
       <title>Vita s. Liudgeri episcopi Mimigardenfordensis</title>
       <ns>0</ns>
-      <id>3034</id>
+      <id>3041</id>
       <revision>
-         <id>3034</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3041</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4128,10 +5139,10 @@ Altfridi vita sancti Liudgeri, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 
    </page><page>
       <title>Vita s. Sturmi abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3035</id>
+      <id>3042</id>
       <revision>
-         <id>3035</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3042</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4246,10 +5257,10 @@ Eigilis vita sancit Sturmi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 182
    </page><page>
       <title>Vita s. Godehardi</title>
       <ns>0</ns>
-      <id>3036</id>
+      <id>3043</id>
       <revision>
-         <id>3036</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3043</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4370,10 +5381,10 @@ Wolferi vita Godehardi episcopi piror, ed. Georg Heinrich Pertz, in: MGH SS 11, 
    </page><page>
       <title>Vita s. Leudegardi</title>
       <ns>0</ns>
-      <id>3037</id>
+      <id>3044</id>
       <revision>
-         <id>3037</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3044</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4494,10 +5505,10 @@ Passio Leudegarii episcopi Augustodunensis auctore Ursino, ed. Bruno Krusch, in:
    </page><page>
       <title>Vita s. Otmari</title>
       <ns>0</ns>
-      <id>3038</id>
+      <id>3045</id>
       <revision>
-         <id>3038</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3045</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4615,10 +5626,10 @@ Walafride Strabonis vita sancti Otmari abbatis Sangallensis, ed. Ildefons von Ar
    </page><page>
       <title>Relatio de miraculis sancti Othmari</title>
       <ns>0</ns>
-      <id>3039</id>
+      <id>3046</id>
       <revision>
-         <id>3039</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3046</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4733,10 +5744,10 @@ Ysonis de miraculis s. Otmari libri II, ed. Ildefons von Arx, in: MGH SS 2, Hann
    </page><page>
       <title>Rhythmi de sancto Otmaro</title>
       <ns>0</ns>
-      <id>3040</id>
+      <id>3047</id>
       <revision>
-         <id>3040</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3047</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4866,10 +5877,10 @@ Rhythmi de sancto Otmaro, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Vita sancti Willibrordi Traiectensis episcopi</title>
       <ns>0</ns>
-      <id>3041</id>
+      <id>3048</id>
       <revision>
-         <id>3041</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3048</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4983,10 +5994,10 @@ Abfassungszeit=760-797
    </page><page>
       <title>Vita s. Galli</title>
       <ns>0</ns>
-      <id>3042</id>
+      <id>3049</id>
       <revision>
-         <id>3042</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3049</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5107,10 +6118,10 @@ Vita sancti Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 1-21  G
    </page><page>
       <title>Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris</title>
       <ns>0</ns>
-      <id>3043</id>
+      <id>3050</id>
       <revision>
-         <id>3043</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3050</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5242,10 +6253,10 @@ Ermenrici coenobitae Augiensis tentamen vitae s. Galli adornandae in prosa et me
    </page><page>
       <title>Chronica de sex aetatibus mundi</title>
       <ns>0</ns>
-      <id>3044</id>
+      <id>3051</id>
       <revision>
-         <id>3044</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3051</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5372,10 +6383,10 @@ Chronica de sex aetatibus mundi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannove
    </page><page>
       <title>Abbatum s. Galli catalogus</title>
       <ns>0</ns>
-      <id>3045</id>
+      <id>3052</id>
       <revision>
-         <id>3045</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3052</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5506,10 +6517,10 @@ Abbatum s. Galli catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S
    </page><page>
       <title>Abbates monasterii Augensis catalogus</title>
       <ns>0</ns>
-      <id>3046</id>
+      <id>3053</id>
       <revision>
-         <id>3046</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3053</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5643,10 +6654,10 @@ Abbatum monasterii Augensis catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
    </page><page>
       <title>Episcoporum Constantiensium catalogus</title>
       <ns>0</ns>
-      <id>3047</id>
+      <id>3054</id>
       <revision>
-         <id>3047</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3054</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5777,10 +6788,10 @@ Episcoporum Constantiensium catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
    </page><page>
       <title>Vita s. Bonifatii</title>
       <ns>0</ns>
-      <id>3048</id>
+      <id>3055</id>
       <revision>
-         <id>3048</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3055</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5892,10 +6903,10 @@ Vita s. Bonifatii archiepiscopi auctore Willibaldo presbytero, ed. Georg Heinric
    </page><page>
       <title>Chronicon Aquitanicum</title>
       <ns>0</ns>
-      <id>3049</id>
+      <id>3056</id>
       <revision>
-         <id>3049</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3056</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6016,10 +7027,10 @@ Chronicon Aquitanicum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S.
    </page><page>
       <title>Vita s. Idae</title>
       <ns>0</ns>
-      <id>3050</id>
+      <id>3057</id>
       <revision>
-         <id>3050</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3057</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6143,10 +7154,10 @@ Ex vita s. Idae auctore Uffingo monacho Werthiniensi, ed. Georg Heinrich Pertz, 
    </page><page>
       <title>Vita sanctae Chrothildis</title>
       <ns>0</ns>
-      <id>3051</id>
+      <id>3058</id>
       <revision>
-         <id>3051</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3058</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6279,10 +7290,10 @@ Vita sanctae Chrothildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1
    </page><page>
       <title>Vita sancti Arnulfi</title>
       <ns>0</ns>
-      <id>3052</id>
+      <id>3059</id>
       <revision>
-         <id>3052</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3059</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6397,10 +7408,10 @@ Vita sancti Arnulfi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1888, 
    </page><page>
       <title>Genealogia regum Francorum</title>
       <ns>0</ns>
-      <id>3053</id>
+      <id>3060</id>
       <revision>
-         <id>3053</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3060</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6503,10 +7514,10 @@ Regum Francorum genealogiae, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 18
    </page><page>
       <title>Vitae sanctorum Columbani</title>
       <ns>0</ns>
-      <id>3054</id>
+      <id>3061</id>
       <revision>
-         <id>3054</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3061</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6609,10 +7620,10 @@ Vitae Columbani abbatis discipulorumque eius libri II, ed. Bruno Krusch, in: MGH
    </page><page>
       <title>Chronicon sancti Martini Coloniensis</title>
       <ns>0</ns>
-      <id>3055</id>
+      <id>3062</id>
       <revision>
-         <id>3055</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3062</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6730,10 +7741,10 @@ Chronicon Sancti Martini Coloniensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Ha
    </page><page>
       <title>Annales breves Fuldenses</title>
       <ns>0</ns>
-      <id>3056</id>
+      <id>3063</id>
       <revision>
-         <id>3056</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3063</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6848,10 +7859,10 @@ Annales breves Fuldenses ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, 
    </page><page>
       <title>Vita S. Rimberti archiepiscopi Hammaburgensis</title>
       <ns>0</ns>
-      <id>3057</id>
+      <id>3064</id>
       <revision>
-         <id>3057</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3064</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6957,10 +7968,10 @@ Vita s. Rimberti ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 764-7
    </page><page>
       <title>Translatio s. Pusinnae</title>
       <ns>0</ns>
-      <id>3058</id>
+      <id>3065</id>
       <revision>
-         <id>3058</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3065</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7023,10 +8034,10 @@ Ex historia translationis sanctae Pusinnae ed. Georg Heinrich Pertz, in: MGH SS 
    </page><page>
       <title>Historia translationis s. Viti</title>
       <ns>0</ns>
-      <id>3059</id>
+      <id>3066</id>
       <revision>
-         <id>3059</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3066</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7089,10 +8100,10 @@ Historia translationis s. Viti, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
    </page><page>
       <title>Passio sancti Sigismundi regis</title>
       <ns>0</ns>
-      <id>3060</id>
+      <id>3067</id>
       <revision>
-         <id>3060</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3067</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7195,10 +8206,10 @@ Passio sancti Sigismundi regis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hann
    </page><page>
       <title>Gesta Theoderici regis. Vita ex Aimoino hausta</title>
       <ns>0</ns>
-      <id>3061</id>
+      <id>3068</id>
       <revision>
-         <id>3061</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3068</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7331,10 +8342,10 @@ Gesta Theoderici regis. Vita ex Aimoino hausta, ed. Bruno Krusch, in: MGH SS rer
    </page><page>
       <title>Vita s. Radegundis</title>
       <ns>0</ns>
-      <id>3062</id>
+      <id>3069</id>
       <revision>
-         <id>3062</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3069</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7397,10 +8408,10 @@ De vita sanctae Radegundis libri duo, ed. Bruno Krusch, in: MGH SS rer. Merov. 2
    </page><page>
       <title>Vita sancti Chlodovaldi</title>
       <ns>0</ns>
-      <id>3063</id>
+      <id>3070</id>
       <revision>
-         <id>3063</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3070</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7463,10 +8474,10 @@ Vita sancti Chlodovaldi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita s. Geretrudis</title>
       <ns>0</ns>
-      <id>3064</id>
+      <id>3071</id>
       <revision>
-         <id>3064</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3071</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7529,10 +8540,10 @@ Vita sanctae Geretrudis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita sanctae Balthildis</title>
       <ns>0</ns>
-      <id>3065</id>
+      <id>3072</id>
       <revision>
-         <id>3065</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3072</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7635,10 +8646,10 @@ Vita sanctae Balthildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita Dagoberti III. regis Francorum</title>
       <ns>0</ns>
-      <id>3066</id>
+      <id>3073</id>
       <revision>
-         <id>3066</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3073</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7747,10 +8758,10 @@ Vita Dagoberti III. regis Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2,
    </page><page>
       <title>Annales S. Albani Moguntini</title>
       <ns>0</ns>
-      <id>3067</id>
+      <id>3074</id>
       <revision>
-         <id>3067</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3074</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7883,10 +8894,10 @@ Annales Wirziburgenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S
    </page><page>
       <title>Gesta Theoderici regis. Vita Fuldensis</title>
       <ns>0</ns>
-      <id>3068</id>
+      <id>3075</id>
       <revision>
-         <id>3068</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3075</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8001,10 +9012,10 @@ Gesta Theoderici regis. Vita Fuldensis, ed. Bruno Krusch, in: MGH SS rer. Merov.
    </page><page>
       <title>Historiae Francorum libri quatuor</title>
       <ns>0</ns>
-      <id>3069</id>
+      <id>3076</id>
       <revision>
-         <id>3069</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3076</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8177,10 +9188,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon Novaliciense</title>
       <ns>0</ns>
-      <id>3070</id>
+      <id>3077</id>
       <revision>
-         <id>3070</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3077</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8411,10 +9422,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon Moissiacense</title>
       <ns>0</ns>
-      <id>3071</id>
+      <id>3078</id>
       <revision>
-         <id>3071</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3078</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8628,10 +9639,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historiarum libri IV</title>
       <ns>0</ns>
-      <id>3072</id>
+      <id>3079</id>
       <revision>
-         <id>3072</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3079</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8785,10 +9796,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronica Muzarabica</title>
       <ns>0</ns>
-      <id>3073</id>
+      <id>3080</id>
       <revision>
-         <id>3073</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3080</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9226,10 +10237,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Gregorii abbatis prior</title>
       <ns>0</ns>
-      <id>3074</id>
+      <id>3081</id>
       <revision>
-         <id>3074</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3081</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9377,10 +10388,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Gregorii abbatis porcetensis posterior</title>
       <ns>0</ns>
-      <id>3075</id>
+      <id>3082</id>
       <revision>
-         <id>3075</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3082</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9530,10 +10541,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Mettenses priores</title>
       <ns>0</ns>
-      <id>3076</id>
+      <id>3083</id>
       <revision>
-         <id>3076</id>
-         <timestamp>2021-01-14T17:18:37Z</timestamp>
+         <id>3083</id>
+         <timestamp>2021-01-14T19:40:57Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>

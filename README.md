@@ -124,6 +124,6 @@ DELETE FROM page;
 
 #### Import ####
 Die Dateien in ```output/split``` nach ```/afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/files``` hochladen und mit ```php maintenance/importDump.php ../files/1.xml```  das script ausführen 
-  
+  In ```/afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/wiki``` den Befehl ```sh update.sh``` ausführen
   You might want to run rebuildrecentchanges.php to regenerate RecentChanges,
   and initSiteStats.php to update page and revision counts

@@ -41,6 +41,12 @@
                     <mentioned>Ort</mentioned>
                 </entity>
             </xsl:for-each>
+            <xsl:for-each select="distinct-values(.//Regionen/Region)">
+                <entity>
+                    <main><xsl:value-of select="."/></main>
+                    <mentioned>Abfassungsregion</mentioned>
+                </entity>
+            </xsl:for-each>
         </xsl:variable>
         
         <xsl:variable name="Merge-List-from-Quellen">
@@ -292,6 +298,32 @@
 |mainlabel=Auffälligkeit
 }}
                                 </xsl:when>
+                                <xsl:when test=". eq 'Abfassungsregion'">
+                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
+                                    |?Abfassungsort
+                                    |format=broadtable
+                                    |limit=500
+                                    |offset=0
+                                    |link=all
+                                    |sort=
+                                    |order=asc
+                                    |headers=show
+                                    |searchlabel=… weitere Ergebnisse
+                                    |class=sortable wikitable smwtable
+                                    }}
+                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
+                                    [[Kategorie:Ort]]
+                                    |format=broadtable
+                                    |limit=500
+                                    |offset=0
+                                    |link=all
+                                    |sort=
+                                    |order=asc
+                                    |headers=show
+                                    |searchlabel=… weitere Ergebnisse
+                                    |class=sortable wikitable smwtable
+                                    }}
+                                </xsl:when>
                             </xsl:choose>                                
                         </xsl:if>
                     </xsl:for-each>                    
@@ -369,6 +401,32 @@
 |format=table
 |mainlabel=Auffälligkeit <xsl:value-of select="."/>
 }}
+
+                                </xsl:when><xsl:when test="./@second eq 'Abfassungsregion'">
+                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
+                                    |?Abfassungsort
+                                    |format=broadtable
+                                    |limit=500
+                                    |offset=0
+                                    |link=all
+                                    |sort=
+                                    |order=asc
+                                    |headers=show
+                                    |searchlabel=… weitere Ergebnisse
+                                    |class=sortable wikitable smwtable
+                                    }}
+                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
+                                    [[Kategorie:Ort]]
+                                    |format=broadtable
+                                    |limit=500
+                                    |offset=0
+                                    |link=all
+                                    |sort=
+                                    |order=asc
+                                    |headers=show
+                                    |searchlabel=… weitere Ergebnisse
+                                    |class=sortable wikitable smwtable
+                                    }}
                                 </xsl:when>
                             </xsl:choose>                                                 
                             
@@ -425,7 +483,7 @@
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
 |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
-<xsl:when test=". eq 'Region'">
+<!--<xsl:when test=". eq 'Region'">
     {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
     |?Abfassungsort
     |format=broadtable
@@ -450,7 +508,7 @@
     |searchlabel=… weitere Ergebnisse
     |class=sortable wikitable smwtable
     }}
-</xsl:when>                            
+</xsl:when>-->                            
 </xsl:choose></xsl:for-each></xsl:variable>
 <xsl:value-of select="$typs" xml:space="default"/>
 <xsl:value-of select="$output" xml:space="default"/>

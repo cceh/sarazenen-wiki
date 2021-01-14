@@ -95,11 +95,12 @@
 <xsl:for-each select="./li">* <xsl:apply-templates/>
 </xsl:for-each>
     </xsl:template>
-    <xsl:template match="a" xml:space="default"> [[<xsl:if test="./@linking = 'no'">:</xsl:if><xsl:value-of select="./@link"/> | <xsl:value-of select="."/>]] </xsl:template>
-    <xsl:template match="b" xml:space="default">'''<xsl:apply-templates xml:space="default"/>'''</xsl:template>
-    <xsl:template match="i" xml:space="default">''<xsl:apply-templates xml:space="default"/>''</xsl:template>
+    <xsl:template match="a[@linking]" xml:space="default"> [[<xsl:if test="./@linking = 'no'">:</xsl:if><xsl:value-of select="./@link"/> | <xsl:value-of select="."/>]] </xsl:template>
+    <xsl:template match="a[not(@linking)]" xml:space="default"> [<xsl:value-of select="./@link"/><xsl:text> </xsl:text><xsl:value-of select="."/>] </xsl:template>
+    <xsl:template match="b" xml:space="default"> '''<xsl:apply-templates xml:space="default"/>''' </xsl:template>
+    <xsl:template match="i" xml:space="default"> ''<xsl:apply-templates xml:space="default"/>'' </xsl:template>
     <xsl:template match="tab" xml:space="default">; <xsl:apply-templates xml:space="default"/></xsl:template>
-    <xsl:template match="hasPropertyDiscreption" xml:space="default">[[Has property description::<xsl:value-of select="."/>@de]]</xsl:template>
+    <xsl:template match="hasPropertyDiscreption" xml:space="default">[[Has property description::<xsl:value-of select="normalize-space(.)"/>@de]]</xsl:template>
     <xsl:template match="text()" xml:space="default"><xsl:value-of select="normalize-space(.)"/></xsl:template>
     
 </xsl:stylesheet>
