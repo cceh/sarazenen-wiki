@@ -32,7 +32,7 @@
             <xsl:for-each select="distinct-values(.//Suchbegriffe/Suchwort)">
                 <entity>
                     <main><xsl:value-of select="."/></main>
-                    <mentioned>Suchwort</mentioned>
+                    <mentioned>Suchbegriffe</mentioned>
                 </entity>
             </xsl:for-each>
             <xsl:for-each select="distinct-values(.//GeographischesStichwort/Ort)">
@@ -136,7 +136,7 @@
                 </entity>
             </xsl:for-each-group>        
         </xsl:variable>
-        
+        <!--
         <xsl:variable name="regionen">
             <xsl:for-each select="distinct-values(.//Regionen/Region)">
                 <entity>
@@ -145,7 +145,7 @@
                 </entity>
             </xsl:for-each>
         </xsl:variable>
-        
+        -->
         <xsl:variable name="mentioned-entrys">
             <xsl:for-each select="$fill-mergelists//mentioned">
                 <xsl:if test="exists(./attribute())">
@@ -393,7 +393,7 @@
                         <text xml:space="default" bytes="3441">
                             <xsl:if test="./meta/editorial_notes/notes/note">
                                 <xsl:for-each select="./meta/editorial_notes/notes/note">
-{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}
+<xsl:if test=". != ''">{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}</xsl:if>
                                 </xsl:for-each>
                             </xsl:if>
                             <xsl:if test="./meta/getty/ScopeNote != ''">
@@ -425,7 +425,33 @@
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
 |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
-                            </xsl:choose></xsl:for-each></xsl:variable>
+<xsl:when test=". eq 'Region'">
+    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
+    |?Abfassungsort
+    |format=broadtable
+    |limit=500
+    |offset=0
+    |link=all
+    |sort=
+    |order=asc
+    |headers=show
+    |searchlabel=… weitere Ergebnisse
+    |class=sortable wikitable smwtable
+    }}
+    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
+    [[Kategorie:Ort]]
+    |format=broadtable
+    |limit=500
+    |offset=0
+    |link=all
+    |sort=
+    |order=asc
+    |headers=show
+    |searchlabel=… weitere Ergebnisse
+    |class=sortable wikitable smwtable
+    }}
+</xsl:when>                            
+</xsl:choose></xsl:for-each></xsl:variable>
 <xsl:value-of select="$typs" xml:space="default"/>
 <xsl:value-of select="$output" xml:space="default"/>
                             
@@ -501,15 +527,20 @@
    
    
     <xsl:template match="VerfasserInnen/VerfasserIn | Personen/Person | Orte/Ort" >
+        <xsl:variable name="id" select="./@id"/>
         <entity>
             <xsl:attribute name="id" select="Id"></xsl:attribute>
             <main><xsl:value-of select="Name"/></main>
             <Typ><xsl:value-of select="name()"/></Typ>
             <xsl:for-each select="./Alternativnamen/Name">
                 <second><xsl:value-of select="."/></second>
-            </xsl:for-each>
+            </xsl:for-each>            
           <meta>
               <xsl:if test="not(exists(./Typ))"><Typ><xsl:value-of select="name()"/></Typ></xsl:if>
+              <xsl:if test="name() eq 'Ort'">
+                  <root><xsl:value-of select="parent::node()/parent::node()/name()"/></root>
+                  <xsl:for-each select="distinct-values(parent::node()/parent::node()//Abfassungsort/Ort[@id=$id]/parent::node()/parent::node()/Regionen/Region)"><Abfassungsregion><xsl:value-of select="."/></Abfassungsregion></xsl:for-each>
+              </xsl:if>
               <xsl:copy-of select="./node()"></xsl:copy-of>
           </meta>
         </entity>
@@ -534,7 +565,7 @@
         |wikidata_id=<xsl:value-of select="./@id"/>
         </xsl:if>
         <xsl:if test="./desc != ''">
-        |wikidata_desc=<xsl:choose>
+        |wikidata_description=<xsl:choose>
             <xsl:when test="./desc[@lang='de'] != ''"><xsl:value-of select="./desc[@lang='de']"/></xsl:when>
             <xsl:otherwise><xsl:value-of select="./desc[@lang='en']"/></xsl:otherwise>
         </xsl:choose>
@@ -577,7 +608,12 @@
         |Alternativnamen=<xsl:value-of select="."/>
         </xsl:if>
     </xsl:template>
+    <xsl:template match="editorial_notes/coordinates">
+        |getty_coordinates_editorial=<xsl:value-of select="."/>
+    </xsl:template>
     
-    
+    <xsl:template match="meta/Abfassungsregion">
+        |Abfassungsregion=<xsl:value-of select="."/>
+    </xsl:template>
     <xsl:template match="text()"></xsl:template>
 </xsl:stylesheet>

@@ -244,6 +244,7 @@
                     | datiert auf= <xsl:value-of select="$datierung"/>
                     | Datum laut Werk=<xsl:value-of select="$datierungQuelle"/>
                     | Inhaltsangabe=<xsl:value-of select="replace(replace($inhalt,'\&#93;',''),'\&#91;','')"/>
+                    | Abfassungsregion=<xsl:value-of select="$parent//Regionen/Region"/>
                     }}
                     
 <xsl:value-of select="$index"/>

@@ -9,4 +9,4 @@ afs/timeline/*
 afs/extensions/*
 files/old
 output/*.xml
-output/*/*.xml
+output/single/*.xml
