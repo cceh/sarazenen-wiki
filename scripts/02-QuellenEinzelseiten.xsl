@@ -125,7 +125,7 @@
         <xsl:variable name="zeitangabe">
             <xsl:call-template name="normDate"><xsl:with-param name="date" select="./ZeitangabeWissenschaft/Datum[1]/@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template>
            
-        </xsl:variable>
+        </xsl:variable><!--
         <xsl:variable name="individuen"><xsl:for-each select="./Beteiligte/Beteiligter">
             <xsl:if test="ends-with(.,'I')"><item><xsl:choose>
                 <xsl:when test=". eq 'sI'">| Individuen=Sarazenische Individuen</xsl:when>
@@ -135,8 +135,17 @@
                 <xsl:otherwise></xsl:otherwise>
             </xsl:choose></item>
             </xsl:if>                            
-        </xsl:for-each></xsl:variable>
+        </xsl:for-each></xsl:variable>-->
         
+        <xsl:variable name="individuen"><xsl:for-each select="./Beteiligte/Beteiligter">
+            <item><xsl:choose>
+                <xsl:when test=". eq 'sI'">| Individuen=Sarazenische Individuen</xsl:when>
+                <xsl:when test=". eq 'aI'">| Individuen=Andere Individuen</xsl:when>                
+                <xsl:when test=". eq 'sK'">| Kollektive=Sarazenische Kollektive</xsl:when>
+                <xsl:when test=". eq 'aK'">| Kollektive=Andere Kollektive</xsl:when>
+                <xsl:otherwise></xsl:otherwise>
+            </xsl:choose></item>                                        
+        </xsl:for-each></xsl:variable>
         <xsl:variable name="inhalt" xml:space="default"><xsl:for-each select="tokenize(./Inhaltsangabe,' ')">
             <xsl:if test="position() &#60; 20">
                 <xsl:value-of select="."/>
@@ -159,7 +168,7 @@
             <xsl:if test="./ZitationUebersetzung != '' and ./ZitationUebersetzung != '-'">
 === Hinweise zur Übersetzung ===<xsl:apply-templates select="./ZitationUebersetzung" xml:space="default"/>
             </xsl:if>
-            <xsl:if test="./Anmerkungen != '' and ./Anmerkungen != '-'">
+            <xsl:if test="./editorial_notes/notes/note != ''">
 === Anmerkungen ===<xsl:apply-templates select="./Anmerkungen" xml:space="default"/>
             </xsl:if></xsl:variable>
         <page>
@@ -245,6 +254,7 @@
                     | Datum laut Werk=<xsl:value-of select="$datierungQuelle"/>
                     | Inhaltsangabe=<xsl:value-of select="replace(replace($inhalt,'\&#93;',''),'\&#91;','')"/>
                     | Abfassungsregion=<xsl:value-of select="$parent//Regionen/Region"/>
+                    | aus dem Werk=<xsl:value-of select="$parent/WerkTitel"/>
                     }}
                     
 <xsl:value-of select="$index"/>
@@ -313,7 +323,7 @@
     </xsl:template>
     <xsl:template match="entity">
         <xsl:variable name="ia" select="./@id/data(.)"/> 
-        <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]&#x200b;]</xsl:text>
+        <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]&#x200b;]</xsl:text>
     </xsl:template>
     <xsl:template match="VolltextOriginalsprache | VolltextUebersetzung | Inhaltsangabe | ZitationUebersetzung" xml:space="default" >
         &lt;poem&gt;<xsl:apply-templates/>&lt;/poem&gt;

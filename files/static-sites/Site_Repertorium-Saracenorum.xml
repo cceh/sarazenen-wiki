@@ -66,7 +66,7 @@
             
            <div id="hauptseite-artikel" class="hauptseite-links">
             
-               <header level="2">Volltextsuche </header>
+<header level="2">Volltextsuche </header>
            <div class="inhalt" style="margin-bottom:1em;">
                <wikisyntax>{{#tag:inputbox|
             bgcolor=transparent
@@ -88,7 +88,7 @@
             <li><a link="Kategorie:Abfassungsregion " linking="no"> Abfassungsregion</a></li>
             <li><a link="Kategorie:Auffälligkeit " linking="no"> Auffälligkeiten</a></li>
             <li><a link="Kategorie:Suchbegriffe " linking="no"> Suchbegriffe</a></li>
-            <li><a link="Datierung">Datierung</a></li></ul>
+            <li><a intern="Datierung">Datierung</a></li></ul>
            </div>
             
                <header level="2">Einstieg auf Quellenebenen: Werke, VerfasserInnen, Regionen </header>
@@ -134,7 +134,7 @@
             </unknown>
            <div id="hauptseite-footer" class="hauptseite-unten">
             
-            <header>Über das Projekt </header>
+            <header level="2">Über das Projekt </header>
            <div class="inhalt" style="margin-bottom:1em;">
             Hervorgegangen ist das <b>Repertorium Saracenorum</b> aus einem von der Deutschen Forschungsgemeinschaft (DFG) zwischen 2013 und 2017 geförderten Projekt <i>Saraceni</i>, <i>Agareni</i>, <i>Mauri</i>, … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts" an der Rheinischen Friedrich-Wilhelms-Universität Bonn, <a link="https://www.igw.uni-bonn.de/de/abteilungsseiten/mittelalter"><b>Abteilung für Mittelalterliche Geschichte</b></a> unter Leitung von Herrn Prof. Dr. Matthias Becher.
             

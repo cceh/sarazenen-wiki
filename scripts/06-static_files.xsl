@@ -68,9 +68,13 @@
                     </xsl:when>
                     <xsl:otherwise>
                 <model>wikitext</model>
-                <format>text/x-wiki</format></xsl:otherwise></xsl:choose><text xml:space="preserve" bytes="3441"><xsl:apply-templates select="./text" xml:space="default"/><xsl:for-each select="./meta/categories/category" xml:space="default"><xsl:if test=". != ''"> 
+                <format>text/x-wiki</format></xsl:otherwise></xsl:choose><text xml:space="preserve" bytes="3441"><xsl:apply-templates select="./text" xml:space="default"/>
+                    <xsl:apply-templates select="./meta" xml:space="default"/>
+<!--<xsl:for-each select="./meta/categories/category" xml:space="default"><xsl:if test=". != ''"> 
 [[Kategorie:<xsl:value-of select="."/>]]</xsl:if>
 </xsl:for-each>
+                    <xsl:for-each select="./meta/rules/rule"><xsl:if test=". !=''">___<xsl:value-of select="."/>___</xsl:if>
+</xsl:for-each>-->
 </text>
                 <sha1/>
             </revision>
@@ -83,24 +87,29 @@
 <xsl:when test="exists(./attribute())">
 &lt;<xsl:value-of select="name()"/><xsl:text> </xsl:text><xsl:for-each select="./attribute()"><xsl:value-of select="name()"/>=&quot;<xsl:value-of select="."/>&quot; </xsl:for-each>&gt;
 </xsl:when>
-<xsl:otherwise>&lt;div&gt;</xsl:otherwise>
-        </xsl:choose>
-        <xsl:apply-templates xml:space="default"/>
-&lt;/<xsl:value-of select="name()"/>&gt;</xsl:template>
+<xsl:otherwise>&lt;<xsl:value-of select="name()"/>&gt;</xsl:otherwise>
+</xsl:choose>
+<xsl:apply-templates xml:space="default"/>
+&lt;/<xsl:value-of select="name()"/>&gt;
+</xsl:template>
     <xsl:template match="wikisyntax" xml:space="default">
         <xsl:value-of select="."/>
     </xsl:template>
     <xsl:template match="header" xml:space="default"><xsl:variable name="level"><xsl:for-each select="(1 to ./@level)">=</xsl:for-each></xsl:variable><xsl:value-of select="string-join(($level,.,$level),' ')" xml:space="default"/></xsl:template>
     <xsl:template match="ul" xml:space="default">
-<xsl:for-each select="./li">* <xsl:apply-templates/>
+<xsl:for-each select="./li">
+* <xsl:apply-templates/>
 </xsl:for-each>
     </xsl:template>
-    <xsl:template match="a[@linking]" xml:space="default"> [[<xsl:if test="./@linking = 'no'">:</xsl:if><xsl:value-of select="./@link"/> | <xsl:value-of select="."/>]] </xsl:template>
-    <xsl:template match="a[not(@linking)]" xml:space="default"> [<xsl:value-of select="./@link"/><xsl:text> </xsl:text><xsl:value-of select="."/>] </xsl:template>
+    <xsl:template match="a[@linking][@link]" xml:space="default"> [[<xsl:if test="./@linking = 'no'">:</xsl:if><xsl:value-of select="./@link"/> | <xsl:value-of select="."/>]] </xsl:template>
+    <xsl:template match="a[not(@linking)][@link]" xml:space="default"> [<xsl:value-of select="./@link"/><xsl:text> </xsl:text><xsl:value-of select="."/>] </xsl:template>
+    <xsl:template match="a[not(@linking)][@intern]" xml:space="default"> [[<xsl:value-of select="./@intern"/><xsl:text> | </xsl:text><xsl:value-of select="."/>]] </xsl:template>
     <xsl:template match="b" xml:space="default"> '''<xsl:apply-templates xml:space="default"/>''' </xsl:template>
     <xsl:template match="i" xml:space="default"> ''<xsl:apply-templates xml:space="default"/>'' </xsl:template>
     <xsl:template match="tab" xml:space="default">; <xsl:apply-templates xml:space="default"/></xsl:template>
     <xsl:template match="hasPropertyDiscreption" xml:space="default">[[Has property description::<xsl:value-of select="normalize-space(.)"/>@de]]</xsl:template>
     <xsl:template match="text()" xml:space="default"><xsl:value-of select="normalize-space(.)"/></xsl:template>
-    
+    <xsl:template match="category"><xsl:if test=". !=''">[[Kategorie:<xsl:value-of select="."/>]]</xsl:if></xsl:template>
+    <xsl:template match="rule"><xsl:if test=". !=''">___<xsl:value-of select="."/>___</xsl:if></xsl:template>
+    <xsl:template match="wikitype"><xsl:if test=". !=''">[[Has type::<xsl:value-of select="."/>]]</xsl:if></xsl:template>
 </xsl:stylesheet>

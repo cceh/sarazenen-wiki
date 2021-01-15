@@ -2,7 +2,7 @@
 source=`pwd`
 saxon=`pwd`/SaxonHE9-9-0-2J/saxon9he.jar
 files=$source/files
-master=$files/sarazenen_masterfassung_v2-1.xml
+master=$files/sarazenen_masterfassung_v2-2.xml
 #master=$files/test2.xml
 negativ=$files/Negativquellen.xml
 

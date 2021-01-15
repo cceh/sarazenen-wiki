@@ -5966,7 +5966,6 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
          <Name>Iberische Halbinsel (Spanien, Portugal)</Name>
          <Typ>Region</Typ>
          <Alternativnamen>
-            <Name>Iberische Halbinsel</Name>
             <Name>Iberische Halbinsel (Spanien)</Name>
             <Name>Iberische Halbinsel (Portugal)</Name>
          </Alternativnamen>
@@ -14356,7 +14355,7 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
                <Datum date="880-890">880-890</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
-               <Ort id="">Iberische Halbinsel</Ort>
+               <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
                <Ort id="">Galizien</Ort>
                <Ort id="">Frankenreich (Deutschland, Frankreich)</Ort>
                <Ort id="">Toulouse</Ort>
@@ -14552,7 +14551,7 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
                <Datum date="880-890">880-890</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
-               <Ort id="">Iberische Halbinsel</Ort>
+               <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
                <Ort id="">Cordoba</Ort>
                <Ort id="">Westfrankenreich (Frankreich)</Ort>
                <Ort id="">Reims</Ort>
@@ -14603,7 +14602,7 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
                <Datum date="880-890">880-890</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
-               <Ort id="">Iberische Halbinsel</Ort>
+               <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
             </GeographischesStichwort>
             <Beteiligte>
                <Beteiligter>aI</Beteiligter>
@@ -14937,7 +14936,7 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
                <Datum date="880-890">880-890</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
-               <Ort id="">Iberische Halbinsel</Ort>
+               <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
                <Ort id="">Barcelona</Ort>
             </GeographischesStichwort>
             <Beteiligte>
@@ -15034,7 +15033,7 @@ Hinkmar von Reims: um 806-21.12.882</LebensdatenVerfasserIn>
                <Datum date="880-890">880-890</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
-               <Ort id="">Iberische Halbinsel</Ort>
+               <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
                <Ort id="">Cordoba</Ort>
             </GeographischesStichwort>
             <Beteiligte>
@@ -23054,7 +23053,7 @@ In der Forschung wird zuweilen angezweifelt, ob es zu dieser Zeit bereits mauris
                <Datum date="1050-1060">1050-1060</Datum>
             </Abfassungszeitraum>
             <GeographischesStichwort>
-               <Ort id="">Iberische Halbinsel</Ort>
+               <Ort id="">Iberische Halbinsel (Spanien, Portugal)</Ort>
                <Ort id="">Balearen</Ort>
                <Ort id="">Barcelona</Ort>
                <Ort id="">Huesca</Ort>
@@ -41204,7 +41203,7 @@ Der Vita Hludovici Pii imperatoris des Astronomus zufolge schloss der Emir von C
             <Zitation>Chronica Muzarabica 2, ed. Gil 1973, S. 17.</Zitation>
             <ZeitangabeQuelle>Ära 649-653</ZeitangabeQuelle>
             <Inhaltsangabe>Nicetas, der Heerführer des oströmischen Kaisers Herakleios, attackiert 649 [Anfang des 7. Jahrhunderts] die Perser und stellt wieder die Herrschaft über die Provinzen Ägypten, Syrien, Arabien, Judäa und Mesopotamien her. Die Perser werden zurückgedrängt, bringen aber die anliegenden Provinzen dazu, sich ihnen anzuschließen. Der Sohn des persischen Königs Cavades II. Scheroes wendet sich von seinem Vater Chosroes II. Parwez ab und bietet Herakleios seine Dienste mit dem Versprechen an, ihm ganz Persien zu unterwerfen.</Inhaltsangabe>
-            <VolltextOriginalsprache>[2] Nichita <entity id="355b5d57-a521-4169-bc3b-f6480472d9ff" type="Person">Niketas</entity> vero heremi desert penetrando Egiptum <entity id="b438b117-135e-4f05-98f1-9c1780bed98f" type="Ort">Ägypten</entity>, Siriam <entity id="6b7dd679-8d0e-44c4-a2bc-b368dd787db2" type="Ort">Syrien</entity>, Arabiam <entity id="6e13edc1-97a6-4ed0-b402-b1cd9a8bc748" type="Ort">Arabien</entity>, Iudeam <entity id="9fb0d551-33ba-465b-972f-7d0ac01dadbc" type="Ort">Judäa</entity> et Mesopotamiam <entity id="4d4f70af-6efb-40f2-9948-a6c66e708cdc" type="Ort">Mesopotamien</entity> adgressus est, Persas acriter insequendo et supra nominatas provincias imperiali dominatui restaurando. Sed Perse suis a sedibus prosilentes, confidentes ex virtute et numero iterum sibi vicinas provincias stimulant reformando, filiusque Cosdroe <entity id="3522ac00-f0f1-4ad2-903f-1c7100553555" type="Ort">Cavades II. Scheroes</entity> regis Persarum patrem tumultualiter effugiendo principi se dedit Romano, spondens omne Persidam vivide trader iam dicto Augusto <entity id="cb408318-a0b1-4031-9bb1-1021bb296145" type="Person">Herakleios</entity>.</VolltextOriginalsprache>
+            <VolltextOriginalsprache>[2] Nichita <entity id="355b5d57-a521-4169-bc3b-f6480472d9ff" type="Person">Niketas</entity> vero heremi desert penetrando Egiptum <entity id="b438b117-135e-4f05-98f1-9c1780bed98f" type="Ort">Ägypten</entity>, Siriam <entity id="6b7dd679-8d0e-44c4-a2bc-b368dd787db2" type="Ort">Syrien</entity>, Arabiam <entity id="6e13edc1-97a6-4ed0-b402-b1cd9a8bc748" type="Ort">Arabien</entity>, Iudeam <entity id="9fb0d551-33ba-465b-972f-7d0ac01dadbc" type="Ort">Judäa</entity> et Mesopotamiam <entity id="4d4f70af-6efb-40f2-9948-a6c66e708cdc" type="Ort">Mesopotamien</entity> adgressus est, Persas acriter insequendo et supra nominatas provincias imperiali dominatui restaurando. Sed Perse suis a sedibus prosilentes, confidentes ex virtute et numero iterum sibi vicinas provincias stimulant reformando, filiusque Cosdroe <entity id="3522ac00-f0f1-4ad2-903f-1c7100553555" type="Person">Cavades II. Scheroes</entity> regis Persarum patrem tumultualiter effugiendo principi se dedit Romano, spondens omne Persidam vivide trader iam dicto Augusto <entity id="cb408318-a0b1-4031-9bb1-1021bb296145" type="Person">Herakleios</entity>.</VolltextOriginalsprache>
             <VolltextUebersetzung/>
             <ZitationUebersetzung/>
             <ZeitangabeWissenschaft>
@@ -44265,7 +44264,7 @@ Die hier beschriebenen Ereignisse erzählt der Chronist später noch einmal deta
                <Ort id="">Ägypten</Ort>
                <Ort id="">al-Ushmunayn</Ort>
                <Ort id="">Nil</Ort>
-               <Ort id="">Spanien</Ort>
+               <Ort id="">Iberische Halbinsel (Spanien)</Ort>
             </GeographischesStichwort>
             <Beteiligte>
                <Beteiligter>sK</Beteiligter>

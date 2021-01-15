@@ -264,7 +264,7 @@ Sarazenenbezug=ja
  
  __SHOWFACTBOX__
 <xsl:value-of xml:space="default">[[Kategorie: Werk]]</xsl:value-of>  
-<xsl:value-of xml:space="default"><xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>
+<!--<xsl:value-of xml:space="default"><xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>-->
                         </text>
                 <sha1></sha1>
             </revision>

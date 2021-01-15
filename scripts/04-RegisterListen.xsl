@@ -267,7 +267,7 @@
 |mainlabel=Ortsnennungen
 }}
                                 </xsl:when>
-                                <xsl:when test=". eq 'Suchwort'">
+                                <xsl:when test=". eq 'Suchbegriffe'">
 === Suchbegriff ===
 Übersicht über die Verwendung von <xsl:value-of select="$name"/> als Suchbegriff:
 {{#ask: 
@@ -372,7 +372,7 @@
 |mainlabel=Ortsnennungen <xsl:value-of select="."/>
 }}
                                 </xsl:when>
-                                <xsl:when test="./@second eq 'Suchwort'">
+                                <xsl:when test="./@second eq 'Suchbegriffe'">
 === Suchbegriff <xsl:value-of select="."/> ===
 {{#ask: 
 [[Kategorie:Quelle]]
@@ -403,30 +403,30 @@
 }}
 
                                 </xsl:when><xsl:when test="./@second eq 'Abfassungsregion'">
-                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
-                                    |?Abfassungsort
-                                    |format=broadtable
-                                    |limit=500
-                                    |offset=0
-                                    |link=all
-                                    |sort=
-                                    |order=asc
-                                    |headers=show
-                                    |searchlabel=… weitere Ergebnisse
-                                    |class=sortable wikitable smwtable
-                                    }}
-                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
-                                    [[Kategorie:Ort]]
-                                    |format=broadtable
-                                    |limit=500
-                                    |offset=0
-                                    |link=all
-                                    |sort=
-                                    |order=asc
-                                    |headers=show
-                                    |searchlabel=… weitere Ergebnisse
-                                    |class=sortable wikitable smwtable
-                                    }}
+{{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
+|?Abfassungsort
+|format=broadtable
+|limit=500
+|offset=0
+|link=all
+|sort=
+|order=asc
+|headers=show
+|searchlabel=… weitere Ergebnisse
+|class=sortable wikitable smwtable
+}}
+{{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
+[[Kategorie:Ort]]
+|format=broadtable
+|limit=500
+|offset=0
+|link=all
+|sort=
+|order=asc
+|headers=show
+|searchlabel=… weitere Ergebnisse
+|class=sortable wikitable smwtable
+}}
                                 </xsl:when>
                             </xsl:choose>                                                 
                             

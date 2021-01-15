@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><page>
         <meta>
-            <title>Geographischer Bezug</title>
+            <title>Ort</title>
             <type>Attribut</type>
-            <wikitype>page</wikitype>
+            <wikitype>text</wikitype>
             <id/>
             <categories>
                 <category/>
@@ -13,7 +13,7 @@
         </meta>
         <text>
             <hasPropertyDiscreption>
-                Orte und Regionen, an denen sich das berichtete zutrug bzw. die im Text erwähnt werden.
+               Tooltip
             </hasPropertyDiscreption>          
         </text>
     </page>
