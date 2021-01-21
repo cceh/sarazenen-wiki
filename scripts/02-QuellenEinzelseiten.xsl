@@ -169,7 +169,7 @@
 === Hinweise zur Übersetzung ===<xsl:apply-templates select="./ZitationUebersetzung" xml:space="default"/>
             </xsl:if>
             <xsl:if test="./editorial_notes/notes/note != ''">
-=== Anmerkungen ===<xsl:apply-templates select="./Anmerkungen" xml:space="default"/>
+=== Anmerkungen ===<xsl:apply-templates select="./editorial_notes/notes/note" xml:space="default"/>
             </xsl:if></xsl:variable>
         <page>
             <title><xsl:value-of select="$quellentitle"/></title>
@@ -188,7 +188,7 @@
                 <format>text/x-wiki</format>
                 <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:right;margin-right:50px;}}
 &lt;div&gt;[[<xsl:value-of select="$parent/WerkTitel"/>|Zurück zum Werk (<xsl:value-of select="$parent/WerkTitel"/>)]]&lt;/div&gt;
-{{WikiProject_Transwiki/Template:Infobox
+<!--{{WikiProject_Transwiki/Template:Infobox
 |title=|above=<xsl:value-of xml:space="default">
         <xsl:value-of  xml:space="default" ><xsl:value-of select="$parent/WerkTitel"/>, <xsl:value-of select="$datierung"/>
             </xsl:value-of>
@@ -223,7 +223,15 @@
                         </xsl:choose></xsl:value-of>
 |label7=abgefasst in
 |data7=[[abgefasst in::<xsl:value-of select="$abfssungsort"/>]]
-}}
+}}-->
+                    
+                    {{Template:Quelle
+                |Name={{FULLPAGENAME}}
+                |aus dem Werk={{#show:{{FULLPAGENAME}}|?aus dem Werk}}
+                |Zitation=<xsl:value-of select="./Zitation"/>
+                |zeitliche (Quellen-)Angabe=<xsl:value-of select="$datierungQuelle"/>
+                |datiert auf=<xsl:value-of select="$datierung"/>
+                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst von}}}}
 {{#set: 
     Zitation=<xsl:value-of select="./Zitation"/>
                    <!--<xsl:value-of select="$zeitangabe/node()/node()/data(.)"/>-->
@@ -253,8 +261,8 @@
                     | datiert auf= <xsl:value-of select="$datierung"/>
                     | Datum laut Werk=<xsl:value-of select="$datierungQuelle"/>
                     | Inhaltsangabe=<xsl:value-of select="replace(replace($inhalt,'\&#93;',''),'\&#91;','')"/>
-                    | Abfassungsregion=<xsl:value-of select="$parent//Regionen/Region"/>
-                    | aus dem Werk=<xsl:value-of select="$parent/WerkTitel"/>
+<!--                    | Abfassungsregion=<xsl:value-of select="$parent//Regionen/Region"/>
+-->                    | aus dem Werk=<xsl:value-of select="$parent/WerkTitel"/>
                     }}
                     
 <xsl:value-of select="$index"/>
@@ -293,7 +301,7 @@
         </page>
          </xsl:template>
     
-    <xsl:template match="Quelle/Anmerkungen">
+    <xsl:template match="Quelle/editorial_notes/notes/note">
 &lt;poem&gt;<xsl:variable name="na" select="."/>
             <xsl:analyze-string select="." regex="\[(\d\d\d\d)\]\-\[(\d\d\d\d)\]">
                 <xsl:matching-substring xml:space="default">[[<xsl:value-of select="normalize-space($na/parent::node()/parent::node()/parent::node()/parent::node()/Dokumente[./WerkId eq regex-group(1)]/WerkTitel)"/><xsl:text> </xsl:text><xsl:value-of select="regex-group(2)"/>]]</xsl:matching-substring>
@@ -323,7 +331,13 @@
     </xsl:template>
     <xsl:template match="entity">
         <xsl:variable name="ia" select="./@id/data(.)"/> 
-        <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]&#x200b;]</xsl:text>
+        <xsl:variable name="img" >
+            <xsl:choose>
+                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie.png|25px|Beschreibung]]</xsl:when>
+                <xsl:when test="./@type eq 'Person'">[[Datei:Personen1.png|25px|Beschreibung]]</xsl:when>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text><xsl:value-of select="$img"/><xsl:text>&#x200b;]</xsl:text>
     </xsl:template>
     <xsl:template match="VolltextOriginalsprache | VolltextUebersetzung | Inhaltsangabe | ZitationUebersetzung" xml:space="default" >
         &lt;poem&gt;<xsl:apply-templates/>&lt;/poem&gt;

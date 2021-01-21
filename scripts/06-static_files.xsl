@@ -112,4 +112,6 @@
     <xsl:template match="category"><xsl:if test=". !=''">[[Kategorie:<xsl:value-of select="."/>]]</xsl:if></xsl:template>
     <xsl:template match="rule"><xsl:if test=". !=''">___<xsl:value-of select="."/>___</xsl:if></xsl:template>
     <xsl:template match="wikitype"><xsl:if test=". !=''">[[Has type::<xsl:value-of select="."/>]]</xsl:if></xsl:template>
+    <xsl:template match="img">[[Datei:<xsl:value-of select="./@url"/>|<xsl:value-of select="./@size"/>px]]</xsl:template>
+    <xsl:template match="meta/node()/text()"></xsl:template>
 </xsl:stylesheet>

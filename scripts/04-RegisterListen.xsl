@@ -41,12 +41,6 @@
                     <mentioned>Ort</mentioned>
                 </entity>
             </xsl:for-each>
-            <xsl:for-each select="distinct-values(.//Regionen/Region)">
-                <entity>
-                    <main><xsl:value-of select="."/></main>
-                    <mentioned>Abfassungsregion</mentioned>
-                </entity>
-            </xsl:for-each>
         </xsl:variable>
         
         <xsl:variable name="Merge-List-from-Quellen">
@@ -298,32 +292,6 @@
 |mainlabel=Auffälligkeit
 }}
                                 </xsl:when>
-                                <xsl:when test=". eq 'Abfassungsregion'">
-                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
-                                    |?Abfassungsort
-                                    |format=broadtable
-                                    |limit=500
-                                    |offset=0
-                                    |link=all
-                                    |sort=
-                                    |order=asc
-                                    |headers=show
-                                    |searchlabel=… weitere Ergebnisse
-                                    |class=sortable wikitable smwtable
-                                    }}
-                                    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
-                                    [[Kategorie:Ort]]
-                                    |format=broadtable
-                                    |limit=500
-                                    |offset=0
-                                    |link=all
-                                    |sort=
-                                    |order=asc
-                                    |headers=show
-                                    |searchlabel=… weitere Ergebnisse
-                                    |class=sortable wikitable smwtable
-                                    }}
-                                </xsl:when>
                             </xsl:choose>                                
                         </xsl:if>
                     </xsl:for-each>                    
@@ -349,7 +317,7 @@
 [[Person::<xsl:value-of select="."/>]]
 |?Interaktion# 
 |?abgefasst von
-|?Werk
+|?aus dem Werk
 |?datiert auf#
 |?Datum laut Werk#
 |?abgefasst in
@@ -361,10 +329,10 @@
 === Ortsnennungen <xsl:value-of select="."/> ===
 {{#ask: 
 [[Kategorie:Quelle]]
-[[Ort::<xsl:value-of select="."/>]]
+[[Geographischer Bezug::<xsl:value-of select="."/>]]
 |?Interaktion# 
 |?abgefasst von 
-|?Werk
+|?aus dem Werk
 |?datiert auf#
 |?Datum laut Werk#
 |?abgefasst in
@@ -402,31 +370,6 @@
 |mainlabel=Auffälligkeit <xsl:value-of select="."/>
 }}
 
-                                </xsl:when><xsl:when test="./@second eq 'Abfassungsregion'">
-{{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
-|?Abfassungsort
-|format=broadtable
-|limit=500
-|offset=0
-|link=all
-|sort=
-|order=asc
-|headers=show
-|searchlabel=… weitere Ergebnisse
-|class=sortable wikitable smwtable
-}}
-{{#ask: [[Abfassungsregion::<xsl:value-of select="."/>]] 
-[[Kategorie:Ort]]
-|format=broadtable
-|limit=500
-|offset=0
-|link=all
-|sort=
-|order=asc
-|headers=show
-|searchlabel=… weitere Ergebnisse
-|class=sortable wikitable smwtable
-}}
                                 </xsl:when>
                             </xsl:choose>                                                 
                             
@@ -472,7 +415,7 @@
 |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text={{#show:{{FULLPAGENAME}}|?wikidata_desc|link=none}}}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}<!--{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text={{#show:{{FULLPAGENAME}}|?wikidata_desc|link=none}}}}-->
                                 </xsl:when>
                                 <xsl:when test=". eq 'VerfasserIn'">
 {{Template:VerfasserIn
@@ -482,41 +425,15 @@
 |Lebensdaten={{#show:{{FULLPAGENAME}}|?Lebensdaten|link=none}}
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
-<!--<xsl:when test=". eq 'Region'">
-    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
-    |?Abfassungsort
-    |format=broadtable
-    |limit=500
-    |offset=0
-    |link=all
-    |sort=
-    |order=asc
-    |headers=show
-    |searchlabel=… weitere Ergebnisse
-    |class=sortable wikitable smwtable
-    }}
-    {{#ask: [[Abfassungsregion::<xsl:value-of select="normalize-space($name)"/>]] 
-    [[Kategorie:Ort]]
-    |format=broadtable
-    |limit=500
-    |offset=0
-    |link=all
-    |sort=
-    |order=asc
-    |headers=show
-    |searchlabel=… weitere Ergebnisse
-    |class=sortable wikitable smwtable
-    }}
-</xsl:when>-->                            
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>                     
 </xsl:choose></xsl:for-each></xsl:variable>
 <xsl:value-of select="$typs" xml:space="default"/>
 <xsl:value-of select="$output" xml:space="default"/>
                             
                             
-                            {{#set:
-                            <xsl:apply-templates select="./meta"/>
-                            }}
+                            <xsl:variable name="meta" xml:space="default"><xsl:apply-templates select="./meta"/></xsl:variable>
+                            <xsl:if test="$meta != ''">{{#set:<xsl:value-of select="$meta"/>
+                                }}</xsl:if>
                             <xsl:variable name="mentioned" ><xsl:if test="not(./mentioned/@second)"><xsl:value-of select="./mentioned/text()"/></xsl:if></xsl:variable>
                             <xsl:for-each select="distinct-values((./meta/Typ,./mentioned/@second,$mentioned))">
 <xsl:if test=".!=''">[[Kategorie:<xsl:value-of select="."/>]]  </xsl:if>
@@ -553,31 +470,6 @@
                     </revision>
                 </page>
             </xsl:for-each>
-           
-           
-            <!--<xsl:for-each select="$regionen/entity">
-                <xsl:variable name="name" select="./main"/>
-                <page>
-                    <title>
-                        <xsl:value-of select="$name"/>
-                    </title>
-                    <ns>0</ns>
-                    <id>     </id>
-                    <revision>
-                        <id>0</id>
-                        <timestamp><xsl:value-of select="format-dateTime(current-dateTime(), '[Y]-[M01]-[D01]T[H]:[m]:[s]Z')"/></timestamp>
-                        <contributor>
-                            <username>Administrator</username>
-                            <id>1</id>
-                        </contributor>
-                        <model>wikitext</model>
-                        <format>text/x-wiki</format>
-                        <text xml:space="default" bytes="3441">
-                        </text>
-                        <sha1></sha1>
-                    </revision>
-                </page>
-            </xsl:for-each>-->
         </mediawiki>
     </xsl:template>
    

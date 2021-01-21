@@ -8,7 +8,7 @@
     xmlns:schemaDataset="http://schema.org/Dataset"
     exclude-result-prefixes="#all"
     version="2.0">
-    
+    <!--<xsl:output method="text"></xsl:output>-->
     <xsl:template match="@* | node()">
         <xsl:copy>
             <xsl:apply-templates select="@* | node()"/>
@@ -90,8 +90,15 @@
             <xsl:element name="{name()}">
                 <xsl:value-of select="."/>
             </xsl:element>
+            <!--
+            <xsl:if test="name() eq 'gnd_Id'">
+                <germania>
+                    <xsl:call-template name="germania-sacra"><xsl:with-param name="gnd" select="."/></xsl:call-template>
+                </germania>
+            </xsl:if>-->
         </xsl:if>
     </xsl:template>
+    
     
     <xsl:template name="sparql">
         <xsl:param name="lib"/>
@@ -107,4 +114,15 @@
             <xsl:otherwise><xsl:value-of select="$cord"/></xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    <!--
+    <xsl:template name="germania-sacra">
+        <xsl:param name="gnd"/>
+        <xsl:variable name="amp"><xsl:text disable-output-escaping="yes"><![CDATA[&]]></xsl:text></xsl:variable>
+        <xsl:variable name="output" select="concat('http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer',$amp,'query[0][value]=',$gnd,$amp,'format=xml')"/>
+        <xsl:value-of select="$output"  disable-output-escaping="yes"/>
+        <!-\-
+        <xsl:if test="$o1">
+            <xsl:copy-of  select="$o1" ></xsl:copy-of>
+        </xsl:if>-\->
+    </xsl:template>-->
 </xsl:stylesheet>

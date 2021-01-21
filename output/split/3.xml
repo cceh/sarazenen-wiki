@@ -1,18 +1,1270 @@
 <?xml version="1.0" encoding="UTF-8"?><mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="de"><siteinfo><sitename>Sarazenen Wiki</sitename><dbname>sarazenen-bonn</dbname><base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base><generator>MediaWiki 1.27.4</generator><case>first-letter</case><namespaces><namespace key="-2" case="first-letter">Medium</namespace><namespace key="-1" case="first-letter">Spezial</namespace><namespace key="0" case="first-letter"/><namespace key="1" case="first-letter">Diskussion</namespace><namespace key="2" case="first-letter">Benutzer</namespace><namespace key="3" case="first-letter">Benutzer Diskussion</namespace><namespace key="4" case="first-letter">Sarazenen Wiki</namespace><namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace><namespace key="6" case="first-letter">Datei</namespace><namespace key="7" case="first-letter">Datei Diskussion</namespace><namespace key="8" case="first-letter">MediaWiki</namespace><namespace key="9" case="first-letter">MediaWiki Diskussion</namespace><namespace key="10" case="first-letter">Vorlage</namespace><namespace key="11" case="first-letter">Vorlage Diskussion</namespace><namespace key="12" case="first-letter">Hilfe</namespace><namespace key="13" case="first-letter">Hilfe Diskussion</namespace><namespace key="14" case="first-letter">Kategorie</namespace><namespace key="15" case="first-letter">Kategorie Diskussion</namespace><namespace key="102" case="first-letter">Attribut</namespace><namespace key="103" case="first-letter">Attribut Diskussion</namespace><namespace key="106" case="first-letter">Formular</namespace><namespace key="107" case="first-letter">Formular Diskussion</namespace><namespace key="108" case="first-letter">Konzept</namespace><namespace key="109" case="first-letter">Konzept Diskussion</namespace><namespace key="170" case="first-letter">Filter</namespace><namespace key="171" case="first-letter">Filter Diskussion</namespace><namespace key="828" case="first-letter">Modul</namespace><namespace key="829" case="first-letter">Modul Diskussion</namespace></namespaces></siteinfo><page>
-      <title>Historia Remensis ecclesiae</title>
+      <title>Vita des Johannes von Gorze</title>
       <ns>0</ns>
       <id>3001</id>
       <revision>
          <id>3001</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Vita Iohannis abbatis Gorziensis auctore Iohanne abbate S. Arnulfi/Prefatio sequenis Hystoriae de vita domni Iohannis gorzie coenobii abbatis/Leben des Johannes von Gorze/Die Geschichte vom Leben des Johannes
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Johannes von St. Arnulf in Metz]]
+|Lebensdaten=Johannes von St. Arnulf in Metz: {{#show: Johannes von St. Arnulf in Metz |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Metz]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Metz]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2050 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="974" y="12" width="10" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="900" y="26" width="74" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="900" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;900&lt;/text&gt;
+        &lt;text x="974" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;974&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="950" y="26" width="6" height="37"
+        label="Quelle 0001: 950-956"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=974 bis 984
+|Berichtszeitraum=900-974
+|Werknummer=0059
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Die Vita des Johannes von Gorze ist eine von Abt Johannes von St. Arnulf in Metz (gest. (vor) 984) verfasste Lebensgeschichte des Gorzer Abtes Johannes (auch Johannes von Vandières, gest. 974). Im letzten Teil der kurz nach Johannes‘ Tod abgefassten, aber unvermittelt abbrechenden Vita sind Ausführungen zu einer Gesandtschaftsreise überliefert, die den Mönch Johannes von Gorze in den 950er Jahre im Auftrag Ottos I. an den Hof des Kalifen Abd ar-Rahman III. von Córdoba führte.
+Vgl. mit Hinweisen für weiterführende Literatur: Michel Parisse, Art. Johann, 39. J. v. Vandières, Abt v. Gorze, in: Lexikon des Mittelalters 5, Sp. 514 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Vita Iohannis Gorziensis abbatis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03024.html 2016-11-10]; Iohannes de S. Arnulfo de Metis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_102535698.html 2016-11-10].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Die Geschichte vom Leben des Johannes, Abt des Klosters Gorze / Hystoria de vita domni Iohannis Gorzie coenobii abbatis, ed. Peter Christian Jacobsen (MGH SS rer. Germ. 81), Wiesbaden 2016. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Vita des Johannes von Gorze]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Vita des Johannes von Gorze]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Vita Symeonis Achivi</title>
+      <ns>0</ns>
+      <id>3002</id>
+      <revision>
+         <id>3002</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Die Lebensbeschreibung des Griechen Symeon
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
+|Lebensdaten=unbekannt
+|Abfassungsort=[[Abfassungsort::Reichenau]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Reichenau]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2050 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="950" y="12" width="50" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="900" y="26" width="100" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="900" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;900&lt;/text&gt;
+        &lt;text x="1000" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;1000&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="930" y="26" width="39" height="37"
+        label="Quelle 0001: Mitte des 10. Jahrhunderts"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="930" y="26" width="39" height="37"
+        label="Quelle 0002: Mitte 10. Jahrhundert"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="950" y="26" width="50" height="37"
+        label="Quelle 0003: zwischen 950-1000"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=Mitte des 10. Jahrhunderts
+|Berichtszeitraum=10. Jahrhundert
+|Werknummer=0060
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Die Vita Symeonis Achivi ist eine Lebensgeschichte, die in der Mitte des 10. Jahrhundert im Kloster Reichenau entstanden ist. Sie berichtet über den Griechen und Heiligen Symeon Achivi, der Mönch im Kloster Reichenau wurde, und erklärt in diesem Rahmen auch, wie eine Reliquie, ein Kana-Krug, dorthin gelangt ist.
+Vgl. Theo Klüppel – Walter Berschin, [Einleitung zu] Vita Symeonis Achivi, in: Die Abtei Reichenau. Neue Beiträge zur Geschichte und Kultur des Inselklosters, hg. von Helmut Maurer (Bodensee-Bibliothek 20), Sigmaringen 1974, S. 115ff.; Theodor Klüppel, [Einleitung zu ]Vita Symeonis Achivi. Die Lebensbeschreibung des Griechen Symeon, in: Die Legende vom Reichenauer Kana-Krug. Die Lebensbeschreibung des Griechen Symeon, hg. von Walter Berschin – Theodor Küppel (Reichenauer Texte und Bilder 2), Sigmaringen 1992, S. 19-25; Axel Bayer, Griechen im Westen im 10. und 11. Jahrhundert. Simeon von Trier und Simeon von Reichenau, in: Kaiserin Theophanu. Begegnung des Ostens und Westens um die Wende des ersten Jahrtausends. Gedenkschrift des Kölner Schnütgen-Museums zum 1000. Todesjahr der Kaiserin, Bd. 1, hg. von Anton von Euw – Peter Schreiner, Köln 1991, S. 335-341.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Vita Symeonis Achivi]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Vita Symeonis Achivi]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Etymologiae</title>
+      <ns>0</ns>
+      <id>3003</id>
+      <revision>
+         <id>3003</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Etymologiae sive Originum libri XX/Enzyklopädie
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Isidor von Sevilla]]
+|Lebensdaten=Isidor von Sevilla: {{#show: Isidor von Sevilla |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Sevilla]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Sevilla]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550 0 1400 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="550" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="550" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="550" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="560" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="550"  y1="80" x2="700" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="550" y="95" class="year"&gt;550 &lt;/text&gt;
+                        
+                             &lt;line  x1="600" y1="0" x2="600" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="600" y="95" class="year"&gt;600 &lt;/text&gt;
+                        
+                             &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="650" y="95" class="year"&gt;650 &lt;/text&gt;
+                        
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="595" y="12" width="41" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                                          
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=ca. 600-636
+|Berichtszeitraum=Hierbei handelt es sich nicht um einen historischen Bericht.
+|Werknummer=0061
+                    |Abfassungsregion= Iberische Halbinsel
+
+
+}}
+&lt;poem&gt;Die Etymologiae sind eines der wichtigsten Werke des Isidor von Sevilla, ab ca. 600 Bischof von Sevilla (geb. ca. 560, gest. 636). Isidor behandelt hier in kürzeren Abhandlungen einen Überblick über das Wissen seiner Zeit.
+Vgl. mit Hinweisen für weiterführende Literatur: Jacques Fontaine, Art. Isidor v. Sevilla, in: Lexikon des Mittelalters 5, Sp. 677-679 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-07]; Thomas O‘Loughlin, Art. Isidore of Sevilla, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 880-883.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX, ed. Wallace Martin Lindsay (Scriptorum Classicorum Bibliotheca Oxoniensis), 2 Bde., Oxford 1911. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Etymologiae]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Etymologiae]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Vita Sancti Udalrici</title>
+      <ns>0</ns>
+      <id>3004</id>
+      <revision>
+         <id>3004</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Vita Sancti Uodalrici/Vita Sancti Oudalrici episcopi Augustani/Leben des hl. Udalrich/Leben des hl. Ulrich
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Gerhard von Augsburg]]
+|Lebensdaten=Gerhard von Augsburg: {{#show: Gerhard von Augsburg |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Augsburg]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Augsburg]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2050 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="983" y="12" width="10" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="923" y="26" width="70" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="923" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;923&lt;/text&gt;
+        &lt;text x="993" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;993&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="935" y="26" width="10" height="37"
+        label="Quelle 0001: um 940"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="982" y="26" width="1" height="37"
+        label="Quelle 0002: 982"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=983-993
+|Berichtszeitraum=923-993
+|Werknummer=0062
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Die Vita Sancti Udalrici ist eine Lebensbeschreibung des Bischofs Udalrich von Augsburg (923-973), die von Gerhard von Augsburg als Augenzeugen zwischen 983 und 993 verfasst wurde.
+Vgl. mit Hinweisen für weiterführende Literatur: Vita s. Udalrici, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02408.html 2016-11-14]; Gerhardus praepositus Augustanus, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_119134632.html 2016-11-14]; G. Kreuzer, Art. Udalrich, hl., Bf. v. Augsburg, in: Lexikon des Mittelalters 8, Sp. 1173-1174 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-14].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Vita Sancti Udalrici]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Vita Sancti Udalrici]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Vita sancti Maioli</title>
+      <ns>0</ns>
+      <id>3005</id>
+      <revision>
+         <id>3005</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Leben des hl. Maiolus
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Odilo von Cluny]]
+|Lebensdaten=Odilo von Cluny: {{#show: Odilo von Cluny |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Cluny]][[Abfassungsort::Burgund]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}{{#show:[[Ort:Burgund]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2100 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                        
+                             &lt;line  x1="1100" y1="0" x2="1100" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1100" y="95" class="year"&gt;1100 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="1033" y="12" width="0" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="900" y="26" width="94" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="900" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;900&lt;/text&gt;
+        &lt;text x="994" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;994&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="972" y="26" width="1" height="37"
+        label="Quelle 0001: 972/973"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="973" y="26" width="1" height="37"
+        label="Quelle 0001: 972/973"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=1033
+|Berichtszeitraum=900-994
+|Werknummer=0063
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Die Vita sancti Maioli ist eine Lebensbeschreibung des Heiligen Maiolus, Abt des Kloster Cluny (geb. nach 909, gest. 994), die von einem seiner Schüler und Nachfolger, Abt Odilo von Cluny (geb. um 961/62, gest. 1049), wohl 1033 verfasst wurde. Odilo berichtet hier auch über die Entführung des Maiolus durch Sarazenen.
+Vgl. mit Hinweisen für weiterführende Literatur: Neithard Bulst, Art. Maiolus, in: Lexikon des Mittelalters 6, Sp. 145-146 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-11]; Vita sancti Maioli, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03741.html 2016-11-11]; Odilo abbas Cluniacensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_100955835.html 2016-11-10]; Scott G. Bruce, Cluny and the Muslims of La Garde-Freinet. Hagiography and the problem of Islam in Medieval Europe, Ithaca – London 2015, S. 55ff.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Vita sancti Maioli auctore S. Odilo Abbate et S. Maijoli successore, in: Acta Sanctorum Mai 2, 21. Mai, ed. Godefridus Henschenius – Daniele Paperbrochius – Joanne Carnandet, Paris – Rom ²1866, S. 683-688. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Vita sancti Maioli]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Vita sancti Maioli]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Vita Sancti Maioli</title>
+      <ns>0</ns>
+      <id>3006</id>
+      <revision>
+         <id>3006</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Vita Maioli abbatis Cluniacensis/Vita sancti Maioli auctore Syrus edita ab Aldebaldo/Lebensbeschreibung des heiligen Maiolus
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Syrus von Cluny]]
+|Lebensdaten=Syrus von Cluny: {{#show: Syrus von Cluny |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Cluny]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2050 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="1005" y="12" width="10" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="904" y="26" width="90" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="904" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;904&lt;/text&gt;
+        &lt;text x="994" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;994&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="972" y="26" width="1" height="37"
+        label="Quelle 0001: 972/973"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="973" y="26" width="1" height="37"
+        label="Quelle 0001: 972/973"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=um 1010
+|Berichtszeitraum=um 909-994
+|Werknummer=0064
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Die Vita Sancti Maioli ist eine Lebensbeschreibung des Heiligen Maiolus, Abt des Klosters Cluny (geb. nach 909, gest. 994), die von einem Mönch namens Syrus um 1010 im Auftrag Abt Odilos von Cluny verfasst wurde. Die Vita berichtet auch über die Entführung des Maiolus durch Sarazenen. Der Berichtszeitraum der Vita war nicht eindeutig zu ermitteln und wurde aus den Lebensdaten des Hl. Maiolus geschlossen.
+Vgl. mit Hinweisen für weiterführende Literatur: Neithard Bulst, Art. Maiolus, in: Lexikon des Mittelalters 6, Sp. 145-146 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-11]; Scott G. Bruce, Cluny and the Muslims of La Garde-Freinet. Hagiography and the problem of Islam in Medieval Europe, Ithaca – London 2015, S. 51.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Ex Syri Vita S. Maioli, ed. Georg Waitz, in: MGH SS 4, Hannover 1841, S. 649-655. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Vita Sancti Maioli]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Vita Sancti Maioli]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Vita Sancti Willibaldi</title>
+      <ns>0</ns>
+      <id>3007</id>
+      <revision>
+         <id>3007</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Vita S. Willibaldi/Vita Willibaldi episcopi Eichstetensis/Leben des hl. Willibald/Itinerarium s. Willibaldi in Terram Sanctam/Hodoeporicon
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Hugeburg von Heidenheim]]
+|Lebensdaten=Hugeburg von Heidenheim: {{#show: Hugeburg von Heidenheim |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Heidenheim]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Heidenheim]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650 0 1650 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="650" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="660" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="650" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="660" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="650" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="660" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="650"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="650" y="95" class="year"&gt;650 &lt;/text&gt;
+                        
+                             &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="700" y="95" class="year"&gt;700 &lt;/text&gt;
+                        
+                             &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="750" y="95" class="year"&gt;750 &lt;/text&gt;
+                        
+                             &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="800" y="95" class="year"&gt;800 &lt;/text&gt;
+                        
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="778" y="12" width="9" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="695" y="26" width="92" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="695" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;695&lt;/text&gt;
+        &lt;text x="787" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;787&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="724" y="26" width="10" height="37"
+        label="Quelle 0001: nach 16.04.724"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="724" y="26" width="1" height="37"
+        label="Quelle 0002: 724"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="724" y="26" width="1" height="37"
+        label="Quelle 0003: 724"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="724" y="26" width="1" height="37"
+        label="Quelle 0004: 724"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="724" y="26" width="1" height="37"
+        label="Quelle 0005: 724"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="726" y="26" width="1" height="37"
+        label="Quelle 0006: 726"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="723" y="26" width="6" height="37"
+        label="Quelle 0007: 723-729"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="739" y="26" width="1" height="37"
+        label="Quelle 0007: 739/740"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="740" y="26" width="1" height="37"
+        label="Quelle 0007: 739/740"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=778-787
+|Berichtszeitraum=um 700-787
+|Werknummer=0065
+                    |Abfassungsregion= West- und Mitteleuropa – Ostfrankenreich
+
+
+}}
+&lt;poem&gt;Die Vita Sancti Willibaldi ist eine Lebensbeschreibung des Heiligen Willibald, des ersten Bischofs von Eichstätt (gest. 787), verfasst vermutlich 778 noch zu seinen Lebzeiten von einer Nichte Willibalds, Hugeburc (geb. um 730, gest. nach 778). Hugeburc war angelsächsischer Herkunft und ab den 760er Jahre Nonne im Kloster Heidenheim. Die Vita basiert auf mündlichen Berichten des Willibald und erzählt auch von Willibalds Pilgerfahrt ins Heilige Land (723-729).
+Vgl. mit Hinweisen für weiterführende Literatur: Elisabeth Heyse, Art. Hugeburc, in: Lexikon des Mittelalters 5, Sp. 157 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-11]; Vita s. Willibaldi, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02868.html 2016-11-11]; Hugeburc, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118707892.html 2016-11-10].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Vita Willibaldi episcopi Eichstetensis, ed. Oswald Holder-Egger, in: MGH SS 15, 1, Hannover 1887, S. 86-106. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Vita Sancti Willibaldi]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Vita Sancti Willibaldi]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Vita S. Maioli</title>
+      <ns>0</ns>
+      <id>3008</id>
+      <revision>
+         <id>3008</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Vita sancti Maioli abbatis Cluniacensis/Lebensbeschreibung des heiligen Maiolus
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Nagold]]
+|Lebensdaten=Nagold: {{#show: Nagold |?Lebensdaten | link=none}}
+|Abfassungsort=[[Abfassungsort::Cluny]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2050 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="975" y="12" width="25" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="904" y="26" width="90" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="904" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;904&lt;/text&gt;
+        &lt;text x="994" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;994&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="928" y="26" width="10" height="37"
+        label="Quelle 0001: vor 938"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="972" y="26" width="1" height="37"
+        label="Quelle 0002: 972/973"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="973" y="26" width="1" height="37"
+        label="Quelle 0002: 972/973"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=Ende des 10. Jahrhunderts
+|Berichtszeitraum=um 909-994
+|Werknummer=0066
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Die Vita S. Maioli ist eine Lebensbeschreibung des Heiligen Maiolus, Abt des Klosters Cluny (geb. nach 909, gest. 994), die von einem Mönch namens Nalgodus verfasst wurde. Der Berichtszeitraum der Vita war nicht eindeutig zu ermitteln und wurde aus den Lebensdaten des Hl. Maiolus geschlossen.
+Vgl. mit Hinweisen für weiterführende Literatur: Neithard Bulst, Art. Maiolus, in: Lexikon des Mittelalters 6, Sp. 145-146 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-11].&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Vita sancti Maioli ex prolixoribus coaevorum actis a Nalgodo monacho post sequi secum contracta, in: Acta Sanctorum Mai 2, 21. Mai, ed. Godefridus Henschenius – Daniele Paperbrochius – Joanne Carnadet, Paris – Rom ²1866, S. 657-667. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Vita S. Maioli]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[aus dem Werk::Vita S. Maioli]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Historia Remensis ecclesiae</title>
+      <ns>0</ns>
+      <id>3009</id>
+      <revision>
+         <id>3009</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Historia ecclesiae Remensis/Geschichte der Reimser Kirche
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -147,18 +1399,22 @@ Flodoard von Reims, Die Geschichte der Reimser Kirche, ed. Martina Stratmann (MG
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Historia Remensis ecclesiae]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -168,28 +1424,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Mariani Scotti Chronicon</title>
       <ns>0</ns>
-      <id>3002</id>
+      <id>3010</id>
       <revision>
-         <id>3002</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3010</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Chronicon/Chronik
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -388,18 +1642,22 @@ Mariani Scotti Chronicon, ed. Georg Waitz, in: MGH SS 5, Hannover 1844, S. 481-5
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Mariani Scotti Chronicon]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -409,28 +1667,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales Fuldense antiquissimi</title>
       <ns>0</ns>
-      <id>3003</id>
+      <id>3011</id>
       <revision>
-         <id>3003</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3011</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Älteste Jahrbücher von Fulda
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -527,28 +1783,26 @@ Annales Fuldenses Antiquissimi, ed. Friedrich Kurze, in: MGH SS rer. Germ. [7], 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa | West- und Mitteleuropa]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales Vedastini</title>
       <ns>0</ns>
-      <id>3004</id>
+      <id>3012</id>
       <revision>
-         <id>3004</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3012</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher von St. Vaast
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -642,28 +1896,26 @@ Annales Vedastini, ed. Bernhard von Simson, in: MGH SS rer. Germ. [12], Hannover
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Carmina duo in honorem gloriosissimi Pippini regis</title>
       <ns>0</ns>
-      <id>3005</id>
+      <id>3013</id>
       <revision>
-         <id>3005</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3013</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Zwei Gedichte zu Ehren des ruhmreichen Königs Pippin
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -757,28 +2009,26 @@ Carmen Nigelli Ermoldi exulis in laudem gloriosissimi Pippini regis, ed. Ernst D
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Epitaphium Adelheidae Imperatricis</title>
       <ns>0</ns>
-      <id>3006</id>
+      <id>3014</id>
       <revision>
-         <id>3006</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3014</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben der Kaiserin Adelheid
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -884,28 +2134,26 @@ Epitaphium Adalheidae imperatricis auctore Odilone, ed. Georg Heinrich Pertz, in
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Miracula s. Willehadi</title>
       <ns>0</ns>
-      <id>3007</id>
+      <id>3015</id>
       <revision>
-         <id>3007</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3015</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Vita sancti Willehadi/Wunder des hl. Willehad
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1002,28 +2250,26 @@ Anskarii Vita sancti Willehadi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Primordia coenobii Gandersheimensis</title>
       <ns>0</ns>
-      <id>3008</id>
+      <id>3016</id>
       <revision>
-         <id>3008</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3016</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Die Anfänge des Klosters Gandersheim
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1119,28 +2365,26 @@ Abfassungszeit=Um 960-973
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Saxonicum bellum</title>
       <ns>0</ns>
-      <id>3009</id>
+      <id>3017</id>
       <revision>
-         <id>3009</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3017</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=De bello Saxonico liber/Der Sachsenkrieg
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1234,28 +2478,26 @@ Brunos Buch vom Sachsenkrieg, ed. Hans-Eberhard Lohmann (MGH Dt. MA 2), Leipzig 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Translatio s. Alexandri</title>
       <ns>0</ns>
-      <id>3010</id>
+      <id>3018</id>
       <revision>
-         <id>3010</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3018</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Übertragung des hl. Alexander
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1346,28 +2588,26 @@ Translatio s. Alexandri auctoribus Ruodolfo et Meginharto, ed. Georg Heinrich Pe
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Translatio s. Liborii</title>
       <ns>0</ns>
-      <id>3011</id>
+      <id>3019</id>
       <revision>
-         <id>3011</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3019</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Übertragung des hl. Liborius
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1460,36 +2700,34 @@ Abfassungszeit=836-900
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Anskarii</title>
       <ns>0</ns>
-      <id>3012</id>
+      <id>3020</id>
       <revision>
-         <id>3012</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3020</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben Ansgars
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
 |Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
 |Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
-|VerfasserIn=[[abgefasst von::Rimbert von Hambrug-Bremen]]
-|Lebensdaten=Rimbert von Hambrug-Bremen: {{#show: Rimbert von Hambrug-Bremen |?Lebensdaten | link=none}}
+|VerfasserIn=[[abgefasst von::Rimbert von Hamburg-Bremen]]
+|Lebensdaten=Rimbert von Hamburg-Bremen: {{#show: Rimbert von Hamburg-Bremen |?Lebensdaten | link=none}}
 |Abfassungsort=[[Abfassungsort::Bremen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Bremen]]|?getty_coordinates|link=none}}
@@ -1596,28 +2834,26 @@ Vita sancti Anskarii. A Rimberto et alio discipulo Anskarii conscripta, ed. Chri
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Bernwardi episcopi Hildesheimensis</title>
       <ns>0</ns>
-      <id>3013</id>
+      <id>3021</id>
       <revision>
-         <id>3013</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3021</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des Bischofs Bernward von Hildesheim
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1714,28 +2950,26 @@ Vita Bernwardi episcopi Hildesheimensis auctore Thangmaro, ed. Georg Heinrich Pe
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Brunonis archiepiscopi Coloniensis</title>
       <ns>0</ns>
-      <id>3014</id>
+      <id>3022</id>
       <revision>
-         <id>3014</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3022</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des Erzbischofs Brun von Köln
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1826,28 +3060,26 @@ Ruotgeri vita Brunonis archiepiscopi Coloniensis, ed. Irene Ott (MGH SS rer. Ger
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita et obitus Hathumodae primae abbatissae Gandersheimensis</title>
       <ns>0</ns>
-      <id>3015</id>
+      <id>3023</id>
       <revision>
-         <id>3015</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3023</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben und Sterben Hathumods, der ersten Äbtissin von Gandersheim
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -1941,28 +3173,26 @@ Agii vita et obitus Hathumodae, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Gregorii abbatis Traiectensis</title>
       <ns>0</ns>
-      <id>3016</id>
+      <id>3024</id>
       <revision>
-         <id>3016</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3024</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des Abtes Gregor von Utrecht
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2059,28 +3289,26 @@ Liudgeri vita Gregorii abbatis Traiectensis, ed. Oswald Holder-Egger, in: MGH SS
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales Brunwilarenses</title>
       <ns>0</ns>
-      <id>3017</id>
+      <id>3025</id>
       <revision>
-         <id>3017</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3025</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher von Brauweiler
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2178,28 +3406,26 @@ Annales Brunwilarenses, ed. Georg Heinrich Pertz, in: MGH SS 16, Hannover 1859, 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales Floriacenses</title>
       <ns>0</ns>
-      <id>3018</id>
+      <id>3026</id>
       <revision>
-         <id>3018</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3026</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher von Fleury
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2314,28 +3540,26 @@ Annales Floriacenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales Lemovicenses</title>
       <ns>0</ns>
-      <id>3019</id>
+      <id>3027</id>
       <revision>
-         <id>3019</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3027</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher von Limoges
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2438,28 +3662,26 @@ Annales Lemovicenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales qui dicuntur Alcuini</title>
       <ns>0</ns>
-      <id>3020</id>
+      <id>3028</id>
       <revision>
-         <id>3020</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3028</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher Alkuins
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2550,28 +3772,26 @@ Annales ut videtur Alcuini, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover 184
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales S. Amandi breves</title>
       <ns>0</ns>
-      <id>3021</id>
+      <id>3029</id>
       <revision>
-         <id>3021</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3029</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Kurze Jahrbücher von St. Amand
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2668,28 +3888,26 @@ Annales S. Amandi breves, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829,
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales S. Bavonis Gandensis</title>
       <ns>0</ns>
-      <id>3022</id>
+      <id>3030</id>
       <revision>
-         <id>3022</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3030</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher von St. Bavo in Gent
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2819,28 +4037,26 @@ Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales S. Maximini Trevirensis</title>
       <ns>0</ns>
-      <id>3023</id>
+      <id>3031</id>
       <revision>
-         <id>3023</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3031</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher von St. Maximin in Trier
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -2971,28 +4187,26 @@ Annales Sancti Maximini Trevirensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Han
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Bella Parisicae urbis</title>
       <ns>0</ns>
-      <id>3024</id>
+      <id>3032</id>
       <revision>
-         <id>3024</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3032</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=De bellis Parisiacae urbis
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3083,28 +4297,26 @@ Abbonis bella Parisiacae urbis, ed. Paul von Winterfeld, in: MGH Poeta 4,1, Berl
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Breviarium regum Francorum</title>
       <ns>0</ns>
-      <id>3025</id>
+      <id>3033</id>
       <revision>
-         <id>3025</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3033</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Kurze Geschichte der Frankenkönige
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3213,28 +4425,26 @@ Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Carmen de gestis Oddonis I imperatoris</title>
       <ns>0</ns>
-      <id>3026</id>
+      <id>3034</id>
       <revision>
-         <id>3026</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3034</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Dichtung von den Taten Kaiser Ottos I.
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3327,28 +4537,26 @@ Abfassungszeit=960-973
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Carmen de Carolo Magno</title>
       <ns>0</ns>
-      <id>3027</id>
+      <id>3035</id>
       <revision>
-         <id>3027</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3035</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Karolus Magnus et Leo Papa/Aachener Karlsepos
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3439,28 +4647,26 @@ Angilberti carmen de Karolo Magno, ed. Georg Heinrich Pertz, in: MGH SS 2, Hanno
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa | West- und Mitteleuropa]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Casus S. Galli</title>
       <ns>0</ns>
-      <id>3028</id>
+      <id>3036</id>
       <revision>
-         <id>3028</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3036</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Textus de origine et diversis casibus monast. S. Galli/St. Galler Klostergeschichte
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3569,28 +4775,26 @@ Casus S. Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 59-74  Rat
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Casuum S. Galli continuatio secunda</title>
       <ns>0</ns>
-      <id>3029</id>
+      <id>3037</id>
       <revision>
-         <id>3029</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3037</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Zweite Fortsetzung zu den St. Galler Klostergeschichten
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3691,28 +4895,26 @@ Casuum S. Galli contiuatio II, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Casuum S. Galli continuatio tertia</title>
       <ns>0</ns>
-      <id>3030</id>
+      <id>3038</id>
       <revision>
-         <id>3030</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3038</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Dritte Fortsetzung der St. Galler Klostergeschichte
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3804,28 +5006,26 @@ Casuum S. Galli contiuatio III auctore Conrado de Fabaria, ed. Ildefons von Arx,
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Liber historiae Francorum</title>
       <ns>0</ns>
-      <id>3031</id>
+      <id>3039</id>
       <revision>
-         <id>3031</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3039</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Geschichte der Franken
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -3925,28 +5125,26 @@ Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa | West- und Mitteleuropa]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Historia Daretis Frigii de origine Francorum</title>
       <ns>0</ns>
-      <id>3032</id>
+      <id>3040</id>
       <revision>
-         <id>3032</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3040</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4049,28 +5247,26 @@ Historia Daretis Frigii de origine Francorum, ed. Bruno Krusch, in: MGH SS rer. 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Leobae</title>
       <ns>0</ns>
-      <id>3033</id>
+      <id>3041</id>
       <revision>
-         <id>3033</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3041</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben Leobas
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4170,28 +5366,26 @@ Vita Leobae abbatissae Bischofesheimensis auctore Rudolfo Fuldensi, ed. Georg Wa
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Mathildis reginae</title>
       <ns>0</ns>
-      <id>3034</id>
+      <id>3042</id>
       <revision>
-         <id>3034</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3042</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben der Königin Mathilde
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4294,28 +5488,26 @@ Die Lebensbeschreibungen der Königin Mathilde, ed. Bernd Schütte (MGH SS rer. 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Adalhardi abbatis Corbeiensis</title>
       <ns>0</ns>
-      <id>3035</id>
+      <id>3043</id>
       <revision>
-         <id>3035</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3043</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Abtes Adalhard von Corbie
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4412,28 +5604,26 @@ Ex vita Adalhard, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 524-
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Arnulfi Suessionensis</title>
       <ns>0</ns>
-      <id>3036</id>
+      <id>3044</id>
       <revision>
-         <id>3036</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3044</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Arnulf von Soissons
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4527,28 +5717,26 @@ Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. O
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Bennonis II episcopi Osnabrugensis</title>
       <ns>0</ns>
-      <id>3037</id>
+      <id>3045</id>
       <revision>
-         <id>3037</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3045</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Bischofs Benno II. von Osnabrück
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4645,28 +5833,26 @@ Vita Bennonis II. episcopi Osnabrvgensis avctore Nortberto abbate Ibvrgensi, ed.
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Eigilis abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3038</id>
+      <id>3046</id>
       <revision>
-         <id>3038</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3046</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Abtes Eigil von Fulda
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4763,28 +5949,26 @@ Vita Eigilis abbatis Fuldensis auctore Candido, ed. Georg Waitz, in: MGH SS 15,1
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Hugonis abbatis</title>
       <ns>0</ns>
-      <id>3039</id>
+      <id>3047</id>
       <revision>
-         <id>3039</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3047</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Lebensbeschreibung des Abtes Hugo von Cluny
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -4881,28 +6065,26 @@ Ex vita Hugonis auctore Rainaldo, ed. Lothar von Heinemann, in: MGH SS 15,2, Han
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Lebuini</title>
       <ns>0</ns>
-      <id>3040</id>
+      <id>3048</id>
       <revision>
-         <id>3040</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3048</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Lebensbeschreibung des hl. Lebuin
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5008,28 +6190,26 @@ Ex vita sancti Lebuini auctore Hucbaldo monacho s. Armandi, ed. Georg Heinrich P
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Liudgeri episcopi Mimigardenfordensis</title>
       <ns>0</ns>
-      <id>3041</id>
+      <id>3049</id>
       <revision>
-         <id>3041</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3049</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Bischofs Liudger von Münster
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5129,28 +6309,26 @@ Altfridi vita sancti Liudgeri, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Sturmi abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3042</id>
+      <id>3050</id>
       <revision>
-         <id>3042</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3050</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Sturmi, Abt von Fulda
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5247,28 +6425,26 @@ Eigilis vita sancit Sturmi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 182
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Godehardi</title>
       <ns>0</ns>
-      <id>3043</id>
+      <id>3051</id>
       <revision>
-         <id>3043</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3051</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Godehard
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5371,28 +6547,26 @@ Wolferi vita Godehardi episcopi piror, ed. Georg Heinrich Pertz, in: MGH SS 11, 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Leudegardi</title>
       <ns>0</ns>
-      <id>3044</id>
+      <id>3052</id>
       <revision>
-         <id>3044</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3052</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Vita s. Leodegarii episcopus Augustodunensis vel passio Leudegarii/Leben des hl. Leodegar von Autun
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5495,28 +6669,26 @@ Passio Leudegarii episcopi Augustodunensis auctore Ursino, ed. Bruno Krusch, in:
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Otmari</title>
       <ns>0</ns>
-      <id>3045</id>
+      <id>3053</id>
       <revision>
-         <id>3045</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3053</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Otmar
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5616,28 +6788,26 @@ Walafride Strabonis vita sancti Otmari abbatis Sangallensis, ed. Ildefons von Ar
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Relatio de miraculis sancti Othmari</title>
       <ns>0</ns>
-      <id>3046</id>
+      <id>3054</id>
       <revision>
-         <id>3046</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3054</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Bericht über die Wunder des hl. Othmar
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5734,28 +6904,26 @@ Ysonis de miraculis s. Otmari libri II, ed. Ildefons von Arx, in: MGH SS 2, Hann
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Rhythmi de sancto Otmaro</title>
       <ns>0</ns>
-      <id>3047</id>
+      <id>3055</id>
       <revision>
-         <id>3047</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3055</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Verse über den hl. Otmar
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5867,28 +7035,26 @@ Rhythmi de sancto Otmaro, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita sancti Willibrordi Traiectensis episcopi</title>
       <ns>0</ns>
-      <id>3048</id>
+      <id>3056</id>
       <revision>
-         <id>3048</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3056</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Bischofs Willibrord von Utrecht
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -5984,28 +7150,26 @@ Abfassungszeit=760-797
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Galli</title>
       <ns>0</ns>
-      <id>3049</id>
+      <id>3057</id>
       <revision>
-         <id>3049</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3057</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Gallus
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -6108,28 +7272,26 @@ Vita sancti Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 1-21  G
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris</title>
       <ns>0</ns>
-      <id>3050</id>
+      <id>3058</id>
       <revision>
-         <id>3050</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3058</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Tentamen vitae s. Galli adornandae in prosa et metro/Brief an Abt Grimald
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -6243,28 +7405,26 @@ Ermenrici coenobitae Augiensis tentamen vitae s. Galli adornandae in prosa et me
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Chronica de sex aetatibus mundi</title>
       <ns>0</ns>
-      <id>3051</id>
+      <id>3059</id>
       <revision>
-         <id>3051</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3059</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Chronik der sechs Weltzeitalter
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -6373,28 +7533,26 @@ Chronica de sex aetatibus mundi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannove
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Abbatum s. Galli catalogus</title>
       <ns>0</ns>
-      <id>3052</id>
+      <id>3060</id>
       <revision>
-         <id>3052</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3060</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Katalog der Äbte von St. Gallen
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -6507,28 +7665,26 @@ Abbatum s. Galli catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Abbates monasterii Augensis catalogus</title>
       <ns>0</ns>
-      <id>3053</id>
+      <id>3061</id>
       <revision>
-         <id>3053</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3061</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Katalog der Äbte des Klosters Reichenau
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -6644,28 +7800,26 @@ Abbatum monasterii Augensis catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Episcoporum Constantiensium catalogus</title>
       <ns>0</ns>
-      <id>3054</id>
+      <id>3062</id>
       <revision>
-         <id>3054</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3062</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Katalog der Bischöfe von Konstanz
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -6778,28 +7932,26 @@ Episcoporum Constantiensium catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Bonifatii</title>
       <ns>0</ns>
-      <id>3055</id>
+      <id>3063</id>
       <revision>
-         <id>3055</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3063</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Bonifatius
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -6893,28 +8045,26 @@ Vita s. Bonifatii archiepiscopi auctore Willibaldo presbytero, ed. Georg Heinric
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Chronicon Aquitanicum</title>
       <ns>0</ns>
-      <id>3056</id>
+      <id>3064</id>
       <revision>
-         <id>3056</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3064</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Aquitanische Chronik
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7017,28 +8167,26 @@ Chronicon Aquitanicum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S.
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Idae</title>
       <ns>0</ns>
-      <id>3057</id>
+      <id>3065</id>
       <revision>
-         <id>3057</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3065</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben der hl. Ida
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7144,28 +8292,26 @@ Ex vita s. Idae auctore Uffingo monacho Werthiniensi, ed. Georg Heinrich Pertz, 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita sanctae Chrothildis</title>
       <ns>0</ns>
-      <id>3058</id>
+      <id>3066</id>
       <revision>
-         <id>3058</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3066</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben der hl. Chrotildis
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7280,28 +8426,26 @@ Vita sanctae Chrothildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita sancti Arnulfi</title>
       <ns>0</ns>
-      <id>3059</id>
+      <id>3067</id>
       <revision>
-         <id>3059</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3067</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Vita Arnulfi episcopi Mettensis/Leben des hl. Arnulf von Metz
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7398,28 +8542,26 @@ Vita sancti Arnulfi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1888, 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Genealogia regum Francorum</title>
       <ns>0</ns>
-      <id>3060</id>
+      <id>3068</id>
       <revision>
-         <id>3060</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3068</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Regum Francorum genealogiae
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7504,28 +8646,26 @@ Regum Francorum genealogiae, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 18
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa | West- und Mitteleuropa]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vitae sanctorum Columbani</title>
       <ns>0</ns>
-      <id>3061</id>
+      <id>3069</id>
       <revision>
-         <id>3061</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3069</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7610,28 +8750,26 @@ Vitae Columbani abbatis discipulorumque eius libri II, ed. Bruno Krusch, in: MGH
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Chronicon sancti Martini Coloniensis</title>
       <ns>0</ns>
-      <id>3062</id>
+      <id>3070</id>
       <revision>
-         <id>3062</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3070</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Chronik von Groß St. Martin in Köln
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7731,28 +8869,26 @@ Chronicon Sancti Martini Coloniensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Ha
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales breves Fuldenses</title>
       <ns>0</ns>
-      <id>3063</id>
+      <id>3071</id>
       <revision>
-         <id>3063</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3071</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Kurze Annalen von Fulda
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7849,28 +8985,26 @@ Annales breves Fuldenses ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita S. Rimberti archiepiscopi Hammaburgensis</title>
       <ns>0</ns>
-      <id>3064</id>
+      <id>3072</id>
       <revision>
-         <id>3064</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3072</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Erzbischofs Rimbert von Hamburg
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -7958,28 +9092,26 @@ Vita s. Rimberti ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 764-7
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Translatio s. Pusinnae</title>
       <ns>0</ns>
-      <id>3065</id>
+      <id>3073</id>
       <revision>
-         <id>3065</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3073</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Geschichte der Translation der hl. Pusinna
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8024,28 +9156,26 @@ Ex historia translationis sanctae Pusinnae ed. Georg Heinrich Pertz, in: MGH SS 
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Historia translationis s. Viti</title>
       <ns>0</ns>
-      <id>3066</id>
+      <id>3074</id>
       <revision>
-         <id>3066</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3074</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Geschichte der Translation des hl. Vitus
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8090,28 +9220,26 @@ Historia translationis s. Viti, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Passio sancti Sigismundi regis</title>
       <ns>0</ns>
-      <id>3067</id>
+      <id>3075</id>
       <revision>
-         <id>3067</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3075</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Passion des hl. König Sigismund
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8196,28 +9324,26 @@ Passio sancti Sigismundi regis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hann
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Gesta Theoderici regis. Vita ex Aimoino hausta</title>
       <ns>0</ns>
-      <id>3068</id>
+      <id>3076</id>
       <revision>
-         <id>3068</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3076</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Vita Theoderici regis/Taten König Theoderichs. Die Lebensbeschreibung aus Aimoin geschöpft
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8332,28 +9458,26 @@ Gesta Theoderici regis. Vita ex Aimoino hausta, ed. Bruno Krusch, in: MGH SS rer
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Radegundis</title>
       <ns>0</ns>
-      <id>3069</id>
+      <id>3077</id>
       <revision>
-         <id>3069</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3077</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben der hl. Radegundis
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8398,28 +9522,26 @@ De vita sanctae Radegundis libri duo, ed. Bruno Krusch, in: MGH SS rer. Merov. 2
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita sancti Chlodovaldi</title>
       <ns>0</ns>
-      <id>3070</id>
+      <id>3078</id>
       <revision>
-         <id>3070</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3078</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des hl. Chlodovald
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8464,28 +9586,26 @@ Vita sancti Chlodovaldi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita s. Geretrudis</title>
       <ns>0</ns>
-      <id>3071</id>
+      <id>3079</id>
       <revision>
-         <id>3071</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3079</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben der hl. Gertrud
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8530,28 +9650,26 @@ Vita sanctae Geretrudis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita sanctae Balthildis</title>
       <ns>0</ns>
-      <id>3072</id>
+      <id>3080</id>
       <revision>
-         <id>3072</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3080</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben der hl. Balthilde
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8636,28 +9754,26 @@ Vita sanctae Balthildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Dagoberti III. regis Francorum</title>
       <ns>0</ns>
-      <id>3073</id>
+      <id>3081</id>
       <revision>
-         <id>3073</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3081</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Leben des Frankenkönigs Dagobert III.
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8748,28 +9864,26 @@ Vita Dagoberti III. regis Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2,
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: unbekannte Region | unbekannte Region]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales S. Albani Moguntini</title>
       <ns>0</ns>
-      <id>3074</id>
+      <id>3082</id>
       <revision>
-         <id>3074</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3082</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Jahrbücher von St. Alban in Mainz
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -8884,28 +9998,26 @@ Annales Wirziburgenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Gesta Theoderici regis. Vita Fuldensis</title>
       <ns>0</ns>
-      <id>3075</id>
+      <id>3083</id>
       <revision>
-         <id>3075</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3083</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Vita Theoderici regis; Taten König Theoderichs. Die Fuldaer Lebensbeschreibung
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -9002,28 +10114,26 @@ Gesta Theoderici regis. Vita Fuldensis, ed. Bruno Krusch, in: MGH SS rer. Merov.
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa | West- und Mitteleuropa]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Historiae Francorum libri quatuor</title>
       <ns>0</ns>
-      <id>3076</id>
+      <id>3084</id>
       <revision>
-         <id>3076</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3084</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Historia Francorum/Geschichte der Franken
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -9157,18 +10267,22 @@ Aimoini historiae Francorum libri quatuor, ed. Jacques-Paul Migne, in: PL 139, P
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Historiae Francorum libri quatuor]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -9178,28 +10292,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Chronicon Novaliciense</title>
       <ns>0</ns>
-      <id>3077</id>
+      <id>3085</id>
       <revision>
-         <id>3077</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3085</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Chronik von Novalesa
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -9391,18 +10503,22 @@ Chronicon Novaliciense, ed. Ludwig Konrad Bethmann, in: MGH SS 7, Hannover 1846,
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Chronicon Novaliciense]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -9412,28 +10528,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: Italienische Halbinsel | Italienische Halbinsel]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Chronicon Moissiacense</title>
       <ns>0</ns>
-      <id>3078</id>
+      <id>3086</id>
       <revision>
-         <id>3078</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3086</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Chronik von Moissac
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -9608,18 +10722,22 @@ Chronicon Moissiacense, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Chronicon Moissiacense]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -9629,28 +10747,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Historiarum libri IV</title>
       <ns>0</ns>
-      <id>3079</id>
+      <id>3087</id>
       <revision>
-         <id>3079</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3087</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -9765,18 +10881,22 @@ Richer von Saint-Remi, Historiarum libri IV ed. Hartmut Hoffmann (MGH SS 38), Ha
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Historiarum libri IV]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -9786,28 +10906,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Chronica Muzarabica</title>
       <ns>0</ns>
-      <id>3080</id>
+      <id>3088</id>
       <revision>
-         <id>3080</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3088</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Continuatio Isidoriana Hispana/Mozarabische Chronik/Mozarabische Chronik von 754
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -10206,18 +11324,22 @@ Abfassungszeit=um 754
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Chronica Muzarabica]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -10227,28 +11349,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: Iberische Halbinsel | Iberische Halbinsel]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Gregorii abbatis prior</title>
       <ns>0</ns>
-      <id>3081</id>
+      <id>3089</id>
       <revision>
-         <id>3081</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3089</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Vita prior
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -10357,18 +11477,22 @@ Vita Gregorii abbatis prior, ed. Oswald Holder-Egger, in: MGH SS 15,2, Hannover 
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Vita Gregorii abbatis prior]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -10378,28 +11502,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Vita Gregorii abbatis porcetensis posterior</title>
       <ns>0</ns>
-      <id>3082</id>
+      <id>3090</id>
       <revision>
-         <id>3082</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3090</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=spätere Gregor-Vita/Vita posterior
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -10510,18 +11632,22 @@ Vita Gregorii abbatis porcetensis posterior, ed. Oswald Holder-Egger, in: MGH SS
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Vita Gregorii abbatis porcetensis posterior]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -10531,28 +11657,26 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Ostfrankenreich | West- und Mitteleuropa – Ostfrankenreich]]
                         </text>
          <sha1/>
       </revision>
    </page><page>
       <title>Annales Mettenses priores</title>
       <ns>0</ns>
-      <id>3083</id>
+      <id>3091</id>
       <revision>
-         <id>3083</id>
-         <timestamp>2021-01-14T19:40:57Z</timestamp>
+         <id>3091</id>
+         <timestamp>2021-01-21T16:18:20Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
          </contributor>
          <model>wikitext</model>
          <format>text/x-wiki</format>
-         <text xml:space="preserve" bytes="3441">
-                   {{Template:Werk
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=Ältere Jahrbücher von Metz
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -10730,18 +11854,22 @@ Annales Mettenses priores, ed. Bernhard von Simson (MGH SS rer. Germ. [10]), Han
                     |format=table
                     |headers=plain
 }}
-
 === Datierung ===
 {{#ask:
 [[aus dem Werk::Annales Mettenses priores]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
@@ -10751,10 +11879,8 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 {{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
 
- 
  __SHOWFACTBOX__
 [[Kategorie: Werk]]  
-[[Kategorie: West- und Mitteleuropa – Westfrankenreich | West- und Mitteleuropa – Westfrankenreich]]
                         </text>
          <sha1/>
       </revision>

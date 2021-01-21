@@ -207,7 +207,7 @@ $wgHTMLTagsAttributes['line'] = array( 'style', 'x1', 'y1', 'x2', 'y2', 'stroke'
 $wgNativeSvgHandlerEnableLinks = true; 
 #$wgSVGEditEditor = 'http://tools.wmflabs.org/svgedit/editor/svg-editor.html';
 
-$wgFileExtensions[] = 'svg';
+#$wgFileExtensions[] = 'svg';
 $wgUseTidy=false;
 $wgRawHtml=true;
 

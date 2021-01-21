@@ -92,67 +92,8 @@
                 </contributor>
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
-                <text xml:space="preserve" bytes="3441"><!--{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
-{{WikiProject_Transwiki/Template:Infobox
-|title=
-<xsl:text>|above=</xsl:text>[[Werk::<xsl:value-of select="WerkTitel"/>]]
-                    <xsl:choose>
-                        <xsl:when test="exists(Alternativtitel/Titel)">
-                            <xsl:text>|subheader=</xsl:text><xsl:value-of select="string-join(Alternativtitel/Titel,'/')"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:text>|subheader=</xsl:text><xsl:value-of select="Alternativtitel"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-|image=
-|caption=
-
-|bodyclass = class;
-|bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
-|abovestyle = background:#1b98d0; 
-|headerstyle  = background:#1b98d0; 
-|labelstyle   = background:#1b98d0; width:30%;
-|datastyle    = 
-
-|label1=Werknummer
-|data1=<xsl:value-of select="WerkId"/>
-|label2=VerfasserIn
-|data2=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
-                            <xsl:for-each select="./Autoren/Autor">
-                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
-                            </xsl:for-each>
-                        </xsl:when>
-                            <xsl:when test="./Autoren/Autor[1] eq 'unbekannt'">
-                                <xsl:text>[[VerfasserIn::VerfasserIn unbekannt]]</xsl:text>
-                            </xsl:when>
-                            <xsl:otherwise><xsl:text>[[VerfasserIn::</xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/>]]</xsl:otherwise>
-                        </xsl:choose></xsl:value-of>
-|label3=Abfassungszeit
-|data3=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
-|label4=Berichtszeitraum
-|data4=<xsl:value-of select="Berichtszeitraum/Datum/data(.)"/>
-|label5=Abfassungsort
-|data5=[[Abfassungsort::<xsl:value-of select="$abfssungsort"/>]]
-|label6=Lebensdaten des Verfassers
-|data6=<xsl:value-of xml:space="default">
-    <xsl:choose><xsl:when test="exists(./Autoren/Autor[2])">
-                            <xsl:for-each select="./Autoren/Autor">
-                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:choose>
-                                    <xsl:when test=". eq 'VerfasserIn unbekannt'"><xsl:value-of select="."/><xsl:text>: unbekannt</xsl:text></xsl:when>
-                                    <xsl:otherwise><xsl:value-of select="."/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./data(.)"/><xsl:text> |?Lebensdaten | link=none}}</xsl:text></xsl:otherwise>
-                                </xsl:choose>
-                            </xsl:for-each>
-                        </xsl:when>
-                            <xsl:when test="./Autoren/Autor[1] eq 'VerfasserIn unbekannt'">
-                                <xsl:text>unbekannt</xsl:text>
-                            </xsl:when>
-                            <xsl:otherwise><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> |?Lebensdaten | link=none}}</xsl:text></xsl:otherwise>
-                        </xsl:choose>
-</xsl:value-of>
-}}-->
-                   <!-- {{#show:Reichenau|?getty_coordinates|link=none}}-->{{Template:Werk
+                <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=<xsl:choose xml:space="default">
                         <xsl:when test="exists(Alternativtitel/Titel)">
@@ -232,39 +173,37 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
                     |format=table
                     |headers=plain
 }}
-<!--[[Kategorie:Sarazenenbezug]]-->
 === Datierung ===
 {{#ask:
 [[aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
                         [[Zeitangabe::+]]
-|?Zeitangabe  
-  |sort=Zeitangabe
- |order=descending
- |format=eventline
- |timelinebands= YEAR, DECADE,CENTURY
- |timelineposition=start
- |limit=1000
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
 }}
 {{#set:
 Sarazenenbezug=ja
 }}
                     </xsl:if>
                     <xsl:if test="not(exists(./Quellen/Quelle))">
-                        <!--[[Kategorie:Kein Sarazenenbezug]]-->
+                        
                         {{#set:
                         Sarazenenbezug=nein}}
                     </xsl:if>
 === Zitationshinweis ===
 <xsl:text>{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).</xsl:text>
-<!--
-=== Kategorisierung ===
-                    &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Abfassungszeitraum | Abfassungszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Abfassungszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;
-                    &lt;div id='catlinks' class='catlinks'&gt;&lt;div id=&quot;mw-normal-catlinks&quot; class=&quot;mw-normal-catlinks&quot;&gt;&lt;li&gt;[[:Kategorie: Berichtszeitraum | Berichtszeitraum]]: <xsl:call-template name="split-numbers-kat.leiste"><xsl:with-param name="data" select="./Berichtszeitraum"></xsl:with-param></xsl:call-template>&lt;/div&gt;&lt;/div&gt;     
--->
- 
+
  __SHOWFACTBOX__
 <xsl:value-of xml:space="default">[[Kategorie: Werk]]</xsl:value-of>  
-<!--<xsl:value-of xml:space="default"><xsl:for-each select="Regionen/Region"><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>[[Kategorie: <xsl:value-of select="."/> | <xsl:value-of select="."/>]]</xsl:for-each></xsl:value-of>-->
                         </text>
                 <sha1></sha1>
             </revision>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Quelle</title>
+            <type>Template</type>
+            <id/>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            <wikisyntax>
+                &lt;noinclude&gt;
+                
+                == Aufruf ==
+                &lt;pre&gt;{{Template:Quelle
+                |Name={{FULLPAGENAME}}
+                |aus dem Werk={{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}
+                |Zitation=Thietmar, Chronicon II, 25, ed. Holtzmann 1935, S. 68-71.
+                |zeitliche (Quellen-)Angabe=970
+                |datiert auf=zwischen 965 und 969
+                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst von}}}}
+                |abgefasst in={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst in}}}}&lt;/pre&gt;
+                
+                == Beispiele ==
+                &lt;div class=&quot;infobox infobox-quelle float-right&quot;&gt; 
+                {| class=&quot;wikitable&quot;
+                |- class=&quot;head&quot; 
+                !colspan=&quot;2&quot;| Name
+
+                |}
+                
+                
+                [[Category:Templates]]&lt;/noinclude&gt;
+                &lt;onlyinclude&gt;
+                &lt;div class=&quot;infobox infobox-quelle float-right&quot;&gt; 
+                
+                {| class=&quot;wikitable&quot;
+                |- class=&quot;head&quot; 
+                !colspan=&quot;2&quot;| {{{Name}}}
+                
+                |- 
+                {{#if:{{{aus dem Werk|}}} |  
+                {{!}} aus dem Werk
+                {{!}} {{{aus dem Werk}}} }} 
+                
+                |- 
+                {{#if:{{{Zitation|}}} |  
+                {{!}} Zitation
+                {{!}} {{{Zitation}}} }} 
+                
+                |- 
+                {{#if:{{{zeitliche (Quellen-)Angabe|}}} |  
+                {{!}} zeitliche (Quellen-)Angabe
+                {{!}} {{{zeitliche (Quellen-)Angabe}}} }} 
+                
+                |- 
+                {{#if:{{{datiert auf|}}} |  
+                {{!}} datiert auf
+                {{!}} {{{datiert auf}}} }} 
+                
+                |- 
+                {{#if:{{{VerfasserIn|}}} |  
+                {{!}} VerfasserIn
+                {{!}} {{{VerfasserIn}}} }}
+                |}
+                &lt;/div&gt;&lt;/onlyinclude&gt;
+            </wikisyntax>
+        </text>
+    </page>

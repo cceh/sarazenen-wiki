@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Sarazenen>
-    <VerfasserInnen>
+<?xml version="1.0" encoding="UTF-8"?><!-- 
+Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen Änderungen haben Auswirkungen auf die Transformationen!
+--><Sarazenen>
+    <VerfasserInnen>               
         <VerfasserIn id="47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa">
             <Id>47q8uc8o-m82y-0oca-ldn4-gd5k8qeqmmxa</Id>
             <Name>VerfasserIn unbekannt</Name>
             <Alternativnamen/>
             <Lebensdaten date=""/>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
+            
+            <wikidata id=""/>
+            
         </VerfasserIn>
         <VerfasserIn id="3c7e0f93-c523-4340-91e0-d06bc5704d73">
             <Id>3c7e0f93-c523-4340-91e0-d06bc5704d73</Id>
@@ -18,8 +19,8 @@
                 <Name>Abbo Parisiensis</Name>
             </Alternativnamen>
             <Lebensdaten date="845-926">Um 850-nach 921</Lebensdaten>
-            <gnd_Id>118646427</gnd_Id>
-            <wikidata_Id>Q2622892</wikidata_Id>
+            <gnd_Id>118646427</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=118646427&format=xml</germania>
+            <wikidata id="Q2622892" updated="2021-01-21T14:54:57Z"><desc lang="de"/><desc lang="en">Neustrian Benedictine monk and poet based in Paris (c.850-c.923)</desc></wikidata>
             <viaf_Id>25395909</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="a2836ba0-dcfd-4638-9bfe-4cb611936525">
@@ -27,8 +28,8 @@
             <Name>Abt Hairulf von Oudenburg</Name>
             <Alternativnamen/>
             <Lebensdaten date="1050-1199">11./12. Jahrhundert</Lebensdaten>
-            <gnd_Id>1089614179</gnd_Id>
-            <wikidata_Id>Q3127452</wikidata_Id>
+            <gnd_Id>1089614179</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=1089614179&format=xml</germania>
+            <wikidata id="Q3127452" updated="2021-01-21T14:54:57Z"><desc lang="de"/><desc lang="en">French writer</desc></wikidata>
             <viaf_Id>37069954</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="fe3467d7-ee66-49fd-a048-7b8e7eda6b05">
@@ -38,8 +39,8 @@
                 <Name>Adam Bremensis</Name>
             </Alternativnamen>
             <Lebensdaten date="1000-1081">gestorben nach 12.10.1081</Lebensdaten>
-            <gnd_Id>11850052X</gnd_Id>
-            <wikidata_Id>Q109244</wikidata_Id>
+            <gnd_Id>11850052X</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=11850052X&format=xml</germania>
+            <wikidata id="Q109244" updated="2021-01-21T14:54:57Z"><desc lang="de">Bremer Kleriker und Theologe</desc><desc lang="en">German medieval chronicler</desc></wikidata>
             <viaf_Id>84951025</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="77af21e6-b3e3-4029-9a87-34bcdd4dbd1b">
@@ -49,8 +50,8 @@
                 <Name>S. Ado Archiepiscopus Viennensis</Name>
             </Alternativnamen>
             <Lebensdaten date="800-875">Gest. 16. Dezember 875</Lebensdaten>
-            <gnd_Id>119536390</gnd_Id>
-            <wikidata_Id>Q359951</wikidata_Id>
+            <gnd_Id>119536390</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=119536390&format=xml</germania>
+            <wikidata id="Q359951" updated="2021-01-21T14:54:57Z"><desc lang="de">Erzbischof und Heiliger</desc><desc lang="en">Archbishop of Vienne</desc></wikidata>
             <viaf_Id>73864627</viaf_Id>
         </VerfasserIn>
         <VerfasserIn id="cdcc01b5-d4e2-4ccb-983f-21cb0550b6a4">
@@ -58,10 +59,21 @@
             <Name>Adso von Montiér-en-Der</Name>
             <Alternativnamen/>
             <Lebensdaten date="900-999">10. Jahrhundert</Lebensdaten>
-            <gnd_Id>118647091</gnd_Id>
-            <wikidata_Id>Q378549</wikidata_Id>
+            <gnd_Id>118647091</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=118647091&format=xml</germania>
+            <wikidata id="Q378549" updated="2021-01-21T14:54:57Z"><desc lang="de">Theologe und Gelehrter</desc><desc lang="en">French abbot</desc></wikidata>
             <viaf_Id>100190498</viaf_Id>
         </VerfasserIn>
+        <VerfasserIn id="db3be3d6-6bb3-4a1d-a8c7-fd1f7623ae3e">
+            <Id>db3be3d6-6bb3-4a1d-a8c7-fd1f7623ae3e</Id>
+            <Name>Agius, Bruder der Äbtissin Hathumod</Name>
+            <Alternativnamen>
+                <Name>Agius frater Hathumodae abbatissae</Name>
+            </Alternativnamen>
+            <Lebensdaten date="850-900">Zweite Hälfte des 9. Jahrhunderts</Lebensdaten>
+            <gnd_Id>100935575</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=100935575&format=xml</germania>
+            <wikidata id="Q394149" updated="2021-01-21T14:54:57Z"><desc lang="de">Mönch in Corvey und lateinischer Dichter</desc><desc lang="en">German monk and author</desc></wikidata>
+            <viaf_Id>64362351</viaf_Id>
+        </VerfasserIn>                      
     </VerfasserInnen>
     <Personen>
         <Person id="bb6d5bfc-33b8-45dc-8054-fd5ea3b76ed9">
@@ -74,25 +86,25 @@
                 <Name>Vinzenz von Valencia</Name>
                 <Name>Vicente de Huesca</Name>
             </Alternativnamen>
-            <gnd_Id>118937065</gnd_Id>
-            <wikidata_Id>Q318974</wikidata_Id>
+            <gnd_Id>118937065</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=118937065&format=xml</germania>
+            <wikidata id="Q318974" updated="2021-01-21T14:54:57Z"><desc lang="de">Diakon und Märtyrer</desc><desc lang="en">saint and martyr</desc></wikidata>
             <viaf_Id>72193475</viaf_Id>
         </Person>
         <Person id="1975d1e5-746e-45cc-8dff-060249603f68">
             <Id>1975d1e5-746e-45cc-8dff-060249603f68</Id>
             <Name>Basiliscus</Name>
             <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
+            
+            
+            
         </Person>
         <Person id="22bc55da-c929-4d11-8890-1f0762f6fc41">
             <Id>22bc55da-c929-4d11-8890-1f0762f6fc41</Id>
             <Name>Froia</Name>
             <Rolle>Gesandter König Alfons II. von Galizien und Asturien</Rolle>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
+            
+            
+            
         </Person>
         <Person id="a5c744fe-bff1-444d-8d82-71102d1ba154">
             <Id>a5c744fe-bff1-444d-8d82-71102d1ba154</Id>
@@ -104,9 +116,9 @@
                 <Name>Erchenbaldus</Name>
                 <Name>Erchembaldus</Name>
             </Alternativnamen>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
+            
+            
+            
         </Person>
         <Person id="cf8371e9-f27f-44c0-957e-912f3a97dfbf">
             <Id>cf8371e9-f27f-44c0-957e-912f3a97dfbf</Id>
@@ -117,60 +129,21 @@
                 <Name>al-Muzar</Name>
                 <Name>Almuzar</Name>
             </Alternativnamen>
-            <gnd_Id/>
-            <wikidata_Id/>
-            <viaf_Id/>
-        </Person>
-        <Person id="c8660913-da05-439f-9ded-1583aae8283c">
-            <Id>c8660913-da05-439f-9ded-1583aae8283c</Id>
-            <Name>Muawiya ibn Abi Sufyan</Name>
-            <Rolle>Kalif von Damaskus</Rolle>
-            <Alternativnamen>
-                <Name>Kalif Muawiya ibn Abi Sufyan</Name>
-                <Name>Moabia</Name>
-                <Name>Mu’awiya ibn Abi Sufyan</Name>
-            </Alternativnamen>
-            <gnd_Id>119217481</gnd_Id>
-            <wikidata_Id>Q181154</wikidata_Id>
-            <viaf_Id>39541902</viaf_Id>
-        </Person>
-        <Person id="64144a9c-abdd-476a-9fa5-c108f0a84462">
-            <Id>64144a9c-abdd-476a-9fa5-c108f0a84462</Id>
-            <Name>Sisinanth</Name>
-            <Rolle>westgotischer König</Rolle>
-            <Rolle>König der Westgoten</Rolle>
-            <Rolle>König der Visigoten</Rolle>
-            <Alternativnamen>
-                <Name>Sisinanth</Name>
-                <Name>Sisenandus</Name>
-                <Name>Sisenand</Name>
-            </Alternativnamen>
-            <gnd_Id>103080929</gnd_Id>
-            <wikidata_Id>Q334811</wikidata_Id>
-            <viaf_Id>32402147</viaf_Id>
+            
+            
+            
         </Person>
     </Personen>
     <Orte>
-        <Ort id="cb780dff-f3d9-41db-8e8c-a292b426685f">
-            <Id>cb780dff-f3d9-41db-8e8c-a292b426685f</Id>
-            <Name>Hispania Citerior</Name>
-            <Typ>Region</Typ>
-            <Alternativnamen>
-                <Name>Iberiam citeriorem</Name>
-                <Name>Ostspanien</Name>
-            </Alternativnamen>
-            <getty_Id>6002557</getty_Id>
-            <Anmerkungen/>
-        </Ort>
         <Ort id="e55f8177-2476-4282-ad6b-7a8b0a4e8097">
             <Id>e55f8177-2476-4282-ad6b-7a8b0a4e8097</Id>
             <Name>unbekannt</Name>
             <Typ>Ort</Typ>
             <Typ>Kloster</Typ>
             <Alternativnamen/>
-            <getty_Id/>
-            <Anmerkungen/>
-        </Ort>
+            <getty id="" updated="2021-01-21T14:54:57Z"><coordinates latitude="" longitude="">,</coordinates><ScopeNote/></getty>
+            <editorial_notes/>
+        <viaf id=""/><gnd id=""/></Ort>
         <Ort id="9e4acc7a-46e3-4169-b801-e6fed3703f49">
             <Id>9e4acc7a-46e3-4169-b801-e6fed3703f49</Id>
             <Name>St. Riquier</Name>
@@ -179,9 +152,14 @@
             <Alternativnamen>
                 <Name>Saint-Riquier</Name>
             </Alternativnamen>
-            <getty_Id>7010591</getty_Id>
-            <Anmerkungen>Die genauen Koordinaten der Abtei Saint-Riquier lautet: 50° 08′ 03″ Nord, 1° 56′ 55″ Ost.</Anmerkungen>
-        </Ort>
+            <getty id="7010591" updated="2021-01-21T14:54:57Z"><coordinates latitude="50.132355" longitude="1.947555">50.132355,1.947555</coordinates><ScopeNote/></getty>
+            <editorial_notes>
+                <coordinates>50°08′03″N 1°56′55″E</coordinates>
+                <notes>
+                    <note>Der Eintrag im Getty Thesaurus of Geographic Names bezieht sich auf den gleichnamigen Ort St. Riquier. Das Kloster ist dort nicht separat aufgeführt. Die exakten Koordinaten des Klosters lauten: 50° 08′ 03″ N, 1° 56′ 55″ E</note>
+                </notes>
+            </editorial_notes>
+        <viaf id=""/><gnd id=""/></Ort>
         <Ort id="a4e8f5c4-600e-4670-b665-347b87da6f8a">
             <Id>a4e8f5c4-600e-4670-b665-347b87da6f8a</Id>
             <Name>St. Wandrille</Name>
@@ -191,87 +169,24 @@
                 <Name>Abtei Saint-Wandrille</Name>
                 <Name>St-Wandrille</Name>
             </Alternativnamen>
-            <getty_Id>7009660</getty_Id>
-            <Anmerkungen>Die Getty-Id bezieht sich auf den Ort Saint-Wandrille, die genauen Koordinaten der Abtei lauten: 49° 31′ 46″ Nord, 0° 46′ 00″ Est.</Anmerkungen>
-        </Ort>
+            <getty id="7009660" updated="2021-01-21T14:54:57Z"><coordinates latitude="49.526578" longitude="0.764967">49.526578,0.764967</coordinates><ScopeNote/></getty>
+            <editorial_notes>
+                <coordinates>49°31′46″N 0°46′00″E</coordinates>
+                <notes>
+                    <note>Der Eintrag im Getty Thesaurus of Geographic Names bezieht sich auf den gleichnamigen Ort St. Wandrille. Das Kloster ist dort nicht separat aufgeführt. Die exakten Koordinaten des Klosters lauten: 49° 31′ 46″ N, 0° 46′ 00″ E</note>
+                </notes>
+            </editorial_notes>
+        <viaf id=""/><gnd id=""/></Ort>
         <Ort id="51ff124e-66e2-41d0-b1a9-eb1ae214ece4">
             <Id>51ff124e-66e2-41d0-b1a9-eb1ae214ece4</Id>
             <Name>Limoges</Name>
             <Typ>Ort</Typ>
             <Alternativnamen/>
-            <getty_Id>7008410</getty_Id>
-            <Anmerkungen/>
-        </Ort>
-        <Ort id="23951a7a-6ecf-4443-a5af-4a7d9b09d2d2">
-            <Id>23951a7a-6ecf-4443-a5af-4a7d9b09d2d2</Id>
-            <Name>Kloster St. Paul, Monkwearmouth-Jarrow</Name>
-            <Typ>Kloster</Typ>
-            <Alternativnamen>
-                <Name>Kloster Monkwearmouth-Jarrow</Name>
-                <Name>Kloster St. Paul</Name>
-                <Name>Abbey Church of Saint Peter and Saint Paul, Monkwearmouth–Jarrow</Name>
-                <Name>Monkwearmouth–Jarrow Abbey</Name>
-                <Name>Monasterii Wirimutham-Gyruum</Name>
-                <Name>Kloster St. Paul, Jarrow</Name>
-            </Alternativnamen>
-            <getty_Id>4007331</getty_Id>
-            <Anmerkungen>Die Benediktiner-Abtei 647 und bestand bis 1539. Um sie herum bildete sich die heutig nordenglische Stadt Sunderland. Die Getty-Id bezieht sich auf Monkwearmouth, dem Ortsteil von Sunderland, in dem die Abtei lag. Die genauen Koordinaten der Abtei lauten: 54° 54′ 47″ Nord, 1° 22′ 30″ West.</Anmerkungen>
-        </Ort>
-        <Ort id="568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc">
-            <Id>568dfe1d-5eaa-4b8b-bd79-d9eed11a71fc</Id>
-            <Name>Kloster St. Vaast in Arras (Pas-de-Calais)</Name>
-            <Typ>Kloster</Typ>
-            <Alternativnamen>
-                <Name>Abbaye Saint-Vaast d'Arras</Name>
-                <Name>Abtei Saint-Vaast</Name>
-            </Alternativnamen>
-            <getty_Id>7008468</getty_Id>
-            <Anmerkungen>Die Getty-Id bezieht sich auf die Stadt Arras, in der das Kloster liegt. Die genauen Koordinaten lauten: 50° 17′ 31″ Nord, 2° 46′ 24″ Ost.</Anmerkungen>
-        </Ort>
-        <Ort id="4ebc71c3-f508-462d-accf-346ea70da907">
-            <Id>4ebc71c3-f508-462d-accf-346ea70da907</Id>
-            <Name>Saint-Maixent-l'École</Name>
-            <Typ>Ort</Typ>
-            <Alternativnamen>
-                <Name>Saint-Maixent (Niort)</Name>
-            </Alternativnamen>
-            <getty_Id>4009744</getty_Id>
-            <Anmerkungen/>
-        </Ort>
-        <Ort id="63b1108b-5ec1-4b39-9f4b-0eb39874519b">
-            <Id>63b1108b-5ec1-4b39-9f4b-0eb39874519b</Id>
-            <Name>Oudenburg</Name>
-            <Typ>Ort</Typ>
-            <Typ>Kloster</Typ>
-            <Alternativnamen>
-                <Name>Oudenburg (Flandern)</Name>
-            </Alternativnamen>
-            <getty_Id>7249416</getty_Id>
-            <Anmerkungen/>
-        </Ort>
-        <Ort id="d6d5b039-8d44-427a-9c96-ca2490eb9cea">
-            <Id>d6d5b039-8d44-427a-9c96-ca2490eb9cea</Id>
-            <Name>Bad Iburg</Name>
-            <Typ>Ort</Typ>
-            <Typ>Kloster</Typ>
-            <Alternativnamen>
-                <Name>Iburg</Name>
-            </Alternativnamen>
-            <getty_Id>7061235</getty_Id>
-            <Anmerkungen/>
-        </Ort>
-        <Ort id="3e0340cf-81c3-4fb6-b9bf-d9a508508431">
-            <Id>3e0340cf-81c3-4fb6-b9bf-d9a508508431</Id>
-            <Name>Lüttich</Name>
-            <Typ>Ort</Typ>
-            <Alternativnamen>
-                <Name>Liège</Name>
-            </Alternativnamen>
-            <getty_Id>7007945</getty_Id>
-            <Anmerkungen/>
-        </Ort>
+            <getty id="7008410" updated="2021-01-21T14:54:57Z"><coordinates latitude="45.831534" longitude="1.257805">45.831534,1.257805</coordinates><ScopeNote>Limoges has been the seat of the French porcelain industry since 1736. Limoges flourished as an enamel artwork center in the 12th century; it is home to many artists of enamel painting. Limoges was destroyed in the 5th century, creating two separate towns in the 9th century; the two towns merged in 1792. Limoges was one of the pilgrimage sites on route to the Cathedral of Santiago de Compostela; French pilgrimage routes to Compostela tend to follow old Roman roads, many of which continued to be utilized as primary roads of communication during the Middle Ages. Located in Limoges is a 13th-century Romanesque-Gothic cathedral, various churches, and Roman ruins.</ScopeNote></getty>
+            <editorial_notes/>
+        <viaf id="137166008"/><gnd id="4035770-3"/></Ort>
     </Orte>
-     <Dokumente>
+ <Dokumente>
       <WerkId>0001</WerkId>
       <WerkTitel>Chronicon sive Gesta Saxonum</WerkTitel>
       <Alternativtitel>
@@ -294,11 +209,13 @@
       <Berichtszeitraum>
          <Datum date="901-1018">901-1018</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._N._S._9">Thietmar von Merseburg, Chronicon, ed. Robert Holtzmann (MGH SS rer. Germ. N.S. 9), Berlin 1935.</edition></Editionshinweise>
+      <Editionshinweise>
+         <edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._N._S._9">Thietmar von Merseburg, Chronicon, ed. Robert Holtzmann (MGH SS rer. Germ. N.S. 9), Berlin 1935.</edition>
+      </Editionshinweise>
       
       <Werkinformation>Das Chronicon sive Gesta Saxonum, auch Chronik oder Geschichte der Sachsen genannt, wurde von Thietmar von Merseburg zwischen 1012 und 1018 in acht Büchern verfasst. Thietmar, seit 1009 Bischof von Merseburg, berichtet seit Beginn des zehnten Jahrhunderts bis zu seinem Tod über die Geschichte seines Bistums.
 Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburgensis, Chronicon sive Gesta Saxonum, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04425.html 2016-08-01]; Gerd Althoff, Art. Thietmar v. Merseburg, in: Lexikon des Mittelalters 8, Sp. 694-695 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; David A. Warner, Art. Thietmar of Merseburg, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1424f.</Werkinformation>
-      <gnd_Id>4668392-6</gnd_Id>
+      <gnd_Id>4668392-6</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=4668392-6&format=xml</germania>
       <wikidata_Id/>
       <viaf_Id>278615725</viaf_Id>
       <Quellen>
@@ -341,7 +258,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0002</QuellenId>
@@ -376,7 +293,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0003</QuellenId>
@@ -417,7 +334,11 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen>Gemeint ist die Schlacht von Capo Colonne, die zwischen dem 13. und 16. Juli 982 stattgefunden hat, vgl. Thietmar von Merseburg, Chronik III, 20, bearb. von Werner Trillmich (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 9), Darmstadt 2002, S. 109, Anm. 81.</Anmerkungen>
+            <editorial_notes>
+               <notes>
+                  <note>Gemeint ist die Schlacht von Capo Colonne, die zwischen dem 13. und 16. Juli 982 stattgefunden hat, vgl. Thietmar von Merseburg, Chronik III, 20, bearb. von Werner Trillmich (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 9), Darmstadt 2002, S. 109, Anm. 81.</note>
+               </notes>
+            </editorial_notes>
          </Quelle>
          <Quelle>
             <QuellenId>0004</QuellenId>
@@ -454,7 +375,11 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
                <Suchwort>Hostis</Suchwort>
                <Suchwort>Feind</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen>Werner Trillmich identifiziert Juden, den Thietmar Calonimus nennt, mit dem Mainzer Rabbi Kalonymos ben Meschullam (gest. 1096). Dieser scheidet jedoch schon aufgrund der Datierung des Berichts in das Jahr 982 aus. Wahrscheinlich wird es sich hier um seinen Vater Meschullam ben Kalonymos handeln.</Anmerkungen>
+            <editorial_notes>
+               <notes>
+                  <note>Werner Trillmich identifiziert Juden, den Thietmar Calonimus nennt, mit dem Mainzer Rabbi Kalonymos ben Meschullam (gest. 1096). Dieser scheidet jedoch schon aufgrund der Datierung des Berichts in das Jahr 982 aus. Wahrscheinlich wird es sich hier um seinen Vater Meschullam ben Kalonymos handeln.</note>
+               </notes>
+            </editorial_notes>
          </Quelle>
          <Quelle>
             <QuellenId>0005</QuellenId>
@@ -489,7 +414,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0006</QuellenId>
@@ -537,7 +462,7 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
       </Quellen>
    </Dokumente>
@@ -563,13 +488,15 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Thietmarus ep. Merseburge
       <Berichtszeitraum>
          <Datum date="885-998">um 890-998</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_11_S._532">Hugo von Farfa, Destructio monasterii Farfensis, ed. Ludwig C. Bethmann, in: MGH SS 11, Hannover 1854, S. 532-539.</edition></Editionshinweise>
+      <Editionshinweise>
+         <edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_11_S._532">Hugo von Farfa, Destructio monasterii Farfensis, ed. Ludwig C. Bethmann, in: MGH SS 11, Hannover 1854, S. 532-539.</edition>
+      </Editionshinweise>
       
       <Werkinformation>Das Werk Destructio monasterii Farfensis (Die Zerstörung des Klosters Farfa) wurde von 998 bis zu dessen Tod 1036/1039 von Hugo von Farfa verfasst. Der Abt des Klosters von Farfa berichtet hier über die Geschichte des Klosters sowie dessen Belagerung und Zerstörung durch sarazenische Angreifer, in dessen Folge das Kloster 898 verlassen werden musste. Um 933 kehrten die Mönche zurück.
 Vgl. auch mit Hinweisen für weiterführende Literatur Susan Boynton, Art. Hugh of Farfa, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 815f.; Hugo Farfensis, Destructio monasterii Farfensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02871.html 2016-08-01]. Zum Kloster Farfa vgl. etwa Herbert Zielinski, Art. Farfa, in: Lexikon des Mittelalters 4, Sp. 295-297 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01].</Werkinformation>
-      <gnd_Id/>
+      
       <wikidata_Id/>
-      <viaf_Id/>
+      
       <Quellen>
          <Quelle>
             <QuellenId>0001</QuellenId>
@@ -628,8 +555,12 @@ Vgl. auch mit Hinweisen für weiterführende Literatur Susan Boynton, Art. Hugh 
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen>Eine jüngere Edition, die sich marginal von der hier zitierten MGH-Edition unterscheidet, ist unter folgendem Titel erschienen: Hugo von Farfa, Destructio monasterii Farfensis, ed. Ugo Balzani, in: Il Chronicon Farfense di Gregorio di Catino (Fonti per la Storia d’Italia 33, 1), Rom 1903, S. 25-51.
-Zur Datierung vgl. Jean-Marie Sansterre, “Destructio” et “diminution” d’une grande abbaye royale. La perception et la mémoire des crises à Farfa au Xe et dans les premières décennies du XIe siècle, in: Les élites au Haut Moyen Âge, hg. von François Bougard – Laurent Feller – Régine Le Jan (Collection Haut Moyen Âge 1), Turnhout 2006, S. 469-485.</Anmerkungen>
+            <editorial_notes>
+               <notes>
+                  <note>Eine jüngere Edition, die sich marginal von der hier zitierten MGH-Edition unterscheidet, ist unter folgendem Titel erschienen: Hugo von Farfa, Destructio monasterii Farfensis, ed. Ugo Balzani, in: Il Chronicon Farfense di Gregorio di Catino (Fonti per la Storia d’Italia 33, 1), Rom 1903, S. 25-51.
+Zur Datierung vgl. Jean-Marie Sansterre, “Destructio” et “diminution” d’une grande abbaye royale. La perception et la mémoire des crises à Farfa au Xe et dans les premières décennies du XIe siècle, in: Les élites au Haut Moyen Âge, hg. von François Bougard – Laurent Feller – Régine Le Jan (Collection Haut Moyen Âge 1), Turnhout 2006, S. 469-485.</note>
+               </notes>
+            </editorial_notes>
          </Quelle>
       </Quellen>
    </Dokumente>
@@ -658,11 +589,13 @@ Zur Datierung vgl. Jean-Marie Sansterre, “Destructio” et “diminution” d�
       <Berichtszeitraum>
          <Datum date="893-931">893-931</Datum>
       </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._41_S._1">Liudprand von Cremona, Antapodosis, in: Die Werke Liudprands von Cremona, ed. Joseph Becker (MGH SS. rer. Germ. [41]), Hannover – Leipzig ³1915, S. 1-158.</edition></Editionshinweise>
+      <Editionshinweise>
+         <edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._41_S._1">Liudprand von Cremona, Antapodosis, in: Die Werke Liudprands von Cremona, ed. Joseph Becker (MGH SS. rer. Germ. [41]), Hannover – Leipzig ³1915, S. 1-158.</edition>
+      </Editionshinweise>
       
       <Werkinformation>Die Antapodosis (Liber antapodoseos) wurde von Liudprand von Cremona (geb. ca. 920, gest. 970/972) zwischen 958 und 962 unter dem Titel Liber retributionis als Chronik über die Taten der Herrscher ganz Europas verfasst. Angeregt durch ein Zusammentreffen mit Reccemund, Bischof von Elvira, an den das Buch gerichtet ist, berichtet Liudprand (seit 961 Bischof von Cremona) während seiner Zeit im Exil bei Otto I. in sechs Büchern über die Jahre 893 bis 931.
 Vgl. auch mit Hinweisen für weiterführende Literatur Liutprandus Cremonensis, Antapodosis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_03302.html 2016-08-01]. Zu Liudprand von Cremona vgl. Ernst Karpf, Art. Liutprand v. Cremona, in: Lexikon des Mittelalters 5, Sp. 2041-2042 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-01]; Stephen Penn, Art. Liutprand of Cremona, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1034.</Werkinformation>
-      <gnd_Id>4369757-4</gnd_Id>
+      <gnd_Id>4369757-4</gnd_Id><germania>http://personendatenbank.germania-sacra.de/api/v1.0/person?query[0][field]=person.gndnummer&query[0][value]=4369757-4&format=xml</germania>
       <wikidata_Id>Q564374</wikidata_Id>
       <viaf_Id>309564121</viaf_Id>
       <Quellen>
@@ -723,7 +656,11 @@ IIII. Interea Provincialium, quae illis gens erat vicinior, invidia coepit inter
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen>Die zeitliche Quellenangabe ist in dieser Textstelle nicht explizit genannt, sie wird aber aus dem Berichtszeitraum der Antapodosis [888-950] ersichtlich, vgl. hierzu Joseph Becker, Einleitung, in: MGH SS rer. Germ. [41], Hannover – Leipzig ³1915, S. XVII.</Anmerkungen>
+            <editorial_notes>
+               <notes>
+                  <note>Die zeitliche Quellenangabe ist in dieser Textstelle nicht explizit genannt, sie wird aber aus dem Berichtszeitraum der Antapodosis [888-950] ersichtlich, vgl. hierzu Joseph Becker, Einleitung, in: MGH SS rer. Germ. [41], Hannover – Leipzig ³1915, S. XVII.</note>
+               </notes>
+            </editorial_notes>
          </Quelle>
          <Quelle>
             <QuellenId>0002</QuellenId>
@@ -767,7 +704,7 @@ IIII. Interea Provincialium, quae illis gens erat vicinior, invidia coepit inter
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0003</QuellenId>
@@ -818,7 +755,7 @@ IIII. Interea Provincialium, quae illis gens erat vicinior, invidia coepit inter
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0004</QuellenId>
@@ -875,8 +812,12 @@ IIII. Interea Provincialium, quae illis gens erat vicinior, invidia coepit inter
                <Suchwort>Constantinopolitanus</Suchwort>
                <Suchwort>Konstantinopel</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen>Zu einer genauen Datierung der Herrschaft Kaiser Romanos I. vgl. Liudprand von Cremona, Antapodosis, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 378f., Anm. 24; ebenfalls allgemein [0003]-[0007].
-Zu den geplünderten Städten vgl. [0003]-[0003].</Anmerkungen>
+            <editorial_notes>
+               <notes>
+                  <note>Zu einer genauen Datierung der Herrschaft Kaiser Romanos I. vgl. Liudprand von Cremona, Antapodosis, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 244-495, S. 378f., Anm. 24; ebenfalls allgemein [0003]-[0007].
+Zu den geplünderten Städten vgl. [0003]-[0003].</note>
+               </notes>
+            </editorial_notes>
          </Quelle>
          <Quelle>
             <QuellenId>0005</QuellenId>
@@ -921,7 +862,7 @@ L. LX denique huiusmodi inventis sibique traditis Poenos contra properat latuitq
                <Suchwort>Poenus</Suchwort>
                <Suchwort>Punier</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0006</QuellenId>
@@ -978,7 +919,11 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Poenus</Suchwort>
                <Suchwort>Punier</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen>Gemeint ist die sog. Schlacht am Garigliano von 915, vgl. Liudprand, Antapodosis II, 54, ed. Becker 1915, S. 62, Anm. 5.</Anmerkungen>
+            <editorial_notes>
+               <notes>
+                  <note>Gemeint ist die sog. Schlacht am Garigliano von 915, vgl. Liudprand, Antapodosis II, 54, ed. Becker 1915, S. 62, Anm. 5.</note>
+               </notes>
+            </editorial_notes>
          </Quelle>
          <Quelle>
             <QuellenId>0007</QuellenId>
@@ -1012,7 +957,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0008</QuellenId>
@@ -1056,7 +1001,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0009</QuellenId>
@@ -1098,8 +1043,12 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Fraxinetum</Suchwort>
                <Suchwort>La Garde-Freinet</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen>Zu der Plünderung von Acqui vgl. auch [0003]-[0003].
-        Sagittus, der Anführer der Sarazenen, ist nicht näher zu identifizieren. Wohlmöglich handelt es sich bei "Sagittus" nicht um die latinisierte Form eines arabischen Namens, sondern leitet sich vom lateinischen Wort "sagitta" für Pfeil ab, womit Liudprand die Funktion als Werkzeuge Gottes unterstreicht, die er den Sarazenen in seinem Werk zuordnent, vgl. hierzu Katharina Gahbler, Zwischen Heilsgeschichte und politischer Propaganda. Datstellungsweisen und Darstellungsmuster von Sarazenen uas der Zeit Ottos I. (Historische Studien 514), Husum 2019,S. 275-277.</Anmerkungen>
+            <editorial_notes>
+               <notes>
+                  <note>Zu der Plünderung von Acqui vgl. auch [0003]-[0003].
+        Sagittus, der Anführer der Sarazenen, ist nicht näher zu identifizieren. Wohlmöglich handelt es sich bei "Sagittus" nicht um die latinisierte Form eines arabischen Namens, sondern leitet sich vom lateinischen Wort "sagitta" für Pfeil ab, womit Liudprand die Funktion als Werkzeuge Gottes unterstreicht, die er den Sarazenen in seinem Werk zuordnent, vgl. hierzu Katharina Gahbler, Zwischen Heilsgeschichte und politischer Propaganda. Datstellungsweisen und Darstellungsmuster von Sarazenen uas der Zeit Ottos I. (Historische Studien 514), Husum 2019,S. 275-277.</note>
+               </notes>
+            </editorial_notes>
          </Quelle>
          <Quelle>
             <QuellenId>0010</QuellenId>
@@ -1142,7 +1091,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Poenus</Suchwort>
                <Suchwort>Punier</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0011</QuellenId>
@@ -1193,7 +1142,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0012</QuellenId>
@@ -1227,7 +1176,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Maurus</Suchwort>
                <Suchwort>Maure</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0013</QuellenId>
@@ -1269,7 +1218,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0014</QuellenId>
@@ -1311,7 +1260,7 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Sarracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
          <Quelle>
             <QuellenId>0015</QuellenId>
@@ -1351,171 +1300,8 @@ LIIII. Grecis igitur Latinisque cottidie conflictantibus, Deo miserante, Poenoru
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
             </Suchbegriffe>
-            <Anmerkungen/>
+            <editorial_notes/>
          </Quelle>
       </Quellen>
    </Dokumente>
-   <Dokumente>
-      <WerkId>0004</WerkId>
-      <WerkTitel>Rerum gestarum Saxonicarum libri tres</WerkTitel>
-      <Alternativtitel>
-         <Titel>Sächsische Geschichte in drei Büchern</Titel>
-         <Titel>Sachsengeschichte</Titel>
-      </Alternativtitel>
-      <Autoren>
-         <Autor Id="ahvg3o2f-shst-ajr8-cr7g-gib1z028o894">Widukind von Corvey</Autor>
-      </Autoren>
-      <LebensdatenVerfasserIn>10. Jahrhundert</LebensdatenVerfasserIn>
-      <Abfassungszeitraum>
-         <Datum date="962-973">um 967-973</Datum>
-      </Abfassungszeitraum>
-      <Abfassungsort>
-         <Ort id="02a4c625-8a91-4afa-9ed6-0b996dff4dfb" cert="">Corvey</Ort>
-      </Abfassungsort>
-      <Regionen>
-         <Region>West- und Mitteleuropa – Ostfrankenreich</Region>
-      </Regionen>
-      <Berichtszeitraum>
-         <Datum date="-5200-973">Frühgeschichte des sächsischen Stammes bis 973</Datum>
-      </Berichtszeitraum>
-      <Editionshinweise><edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_3_S._408">Widukind von Corvey, Rerum gestarum Saxonicarum libri tres, ed. Georg Waitz, in: MGH SS 3, Hannover 1839, S. 408-467</edition>;<edition url="http://www.mgh.de/dmgh/resolving/MGH_SS_rer._Germ._60"> Widukind von Corvey, Rerum gestarum Saxonicarum libri tres / Die Sachsengeschichte des Widukind von Corvey, ed. Hans-Eberhard Lohmann, überarb. von Paul Hirsch (MGH SS rer. Germ. [60]), Hannover 1935.</edition></Editionshinweise>
-      
-      
-      <Werkinformation>Die Rerum Gestarum Saxonicarum libri tres oder Sachsengeschichte wurde zwischen 967 und 973 von Widukind von Corvey verfasst. In drei Büchern berichtet der Corveyer Mönch darin über die sächsische gens beginnend mit ihrer (mythischen) Herkunft bis in die Zeit Ottos des Großen. Der Text existiert in drei Versionen.
-Vgl. auch mit Hinweisen für weiterführende Literatur Widukindus monachus Corbeiensis, Rerum gestarum Saxonicarum libri tres, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04614.html 2016-08-10]. Zu Widukind von Corvey vgl. Gerd Althoff, Art. Widukind von Corvey, in: Lexikon des Mittelalters 9, Sp. 76-78 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-10]; David A. Warner, Art. Widukind von Corvey, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1504.</Werkinformation>
-      <gnd_Id>7779464-3</gnd_Id>
-      <wikidata_Id>Q9068196</wikidata_Id>
-      <viaf_Id>184583404</viaf_Id>
-      <Quellen>
-         <Quelle>
-            <QuellenId>0001</QuellenId>
-            <Zitation>Widukind, Rerum gestarum Saxonicarum III, 56, ed. Hirsch – Lohmann 51935, S. 135.</Zitation>
-            <ZeitangabeQuelle/>
-            <Inhaltsangabe>Kaiser Otto I. empfängt [956] viele Gesandtschaften, u.a. von Sarazenen.</Inhaltsangabe>
-            <VolltextOriginalsprache>Crebris victoriis imperator <entity id="d0af59f7-9a56-4788-a442-b04a20f68eb8" type="Person">Otto I.</entity> gloriosus factus atque famosus multorum regum ac gentium timorem pariter et favorem promeruit. Unde plurimos legatos suscipit, Romanorum scilicet et Graecorum Sarracenorumque, […].</VolltextOriginalsprache>
-            <VolltextUebersetzung>Durch seine vielen Siege berühmt und verherrlicht, erweckte der Kaiser <entity id="d0af59f7-9a56-4788-a442-b04a20f68eb8" type="Person">Otto I.</entity> die Furcht ebenso wie die Gunst vieler Könige und Völker; daher empfing er zahlreiche Gesandtschaften, nämlich von Römern, Griechen und Sarazenen, […].</VolltextUebersetzung>
-            <ZitationUebersetzung>Widukind von Corvey, Rerum gestarum Saxonicarum III, 56, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 16-183, S. 165.</ZitationUebersetzung>
-            <ZeitangabeWissenschaft>
-               <Datum date="956-956">956</Datum>
-            </ZeitangabeWissenschaft>
-            <Berichtszeitraum>
-               <Datum date="950-960">950-960</Datum>
-            </Berichtszeitraum>
-            <Abfassungszeitraum>
-               <Datum date="960-970">960-970</Datum>
-               <Datum date="970-980">970-980</Datum>
-            </Abfassungszeitraum>
-            <GeographischesStichwort>
-               <Ort id="">Ostfrankenreich (Deutschland)</Ort>
-            </GeographischesStichwort>
-            <Beteiligte>
-               <Beteiligter>aI</Beteiligter>
-               <Beteiligter>sK</Beteiligter>
-            </Beteiligte>
-            <Interaktion>j</Interaktion>
-            <Auffaelligkeiten>
-               <Schlagwort>Gesandtschaft</Schlagwort>
-            </Auffaelligkeiten>
-            <Suchbegriffe>
-               <Suchwort>Saracenus</Suchwort>
-               <Suchwort>Sarracenus</Suchwort>
-               <Suchwort>Sarazene</Suchwort>
-            </Suchbegriffe>
-            <Anmerkungen/>
-         </Quelle>
-         <Quelle>
-            <QuellenId>0002</QuellenId>
-            <Zitation>Widukind, Rerum gestarum Saxonicarum III, 70, ed. Hirsch – Lohmann 51935, S. 146f.</Zitation>
-            <ZeitangabeQuelle/>
-            <Inhaltsangabe>Kaiser Otto I. berichtet [am 18.01.968] den sächsischen Herzögen Hermann und Theoderich von den Friedensverhandlungen mit dem byzantinischen Kaiser Nikephoros II. um Apulien und Kalabrien sowie von seinem Vorhaben zu ihnen zu gelangen. Zuvor möchte jedoch nach La Garde-Freinet ziehen und die dort ansässigen Sarazenen bekämpfen.</Inhaltsangabe>
-            <VolltextOriginalsprache>Caeterum nuntii Constantinopolitani regis <entity id="ee97e738-ac31-44f7-92dd-dc31f9e6861b" type="Person">Nikephoros II.</entity> dignitate satis insignes nos adeunt, pacem, ut intelleximus, admodum quaerentes. Quoquo modo tamen res agatur, bello Deo volente nullo modo nos temptare audebunt. Apuliam <entity id="d112f9b0-266e-4af8-b02a-9f598f65e717" type="Ort">Apulien</entity> et Calabriam <entity id="5fed8063-6730-4ad2-960c-7a7160d4838f" type="Ort">Kalabrien</entity> provincias, quas hactenus tenuere, nisi conveniamus, dabunt. Si vero voluntati nostrae paruerint, ut presenti aestate coniugem cum aequivoco nostro in Franciam <entity id="70bc6619-fbfd-4236-bcb4-38a456235ac8" type="Ort">Ostfrankenreich</entity> dirigentes, per Fraxanetum <entity id="dd931c19-4b3f-4431-9fca-62eeb12226e3" type="Ort">La Garde-Freinet</entity> ad destruendos Sarracenos Deo comite iter arripiemus, et sic ad vos, disponimus.</VolltextOriginalsprache>
-            <VolltextUebersetzung>Auch kommen zu uns Gesandte des Königs von Konstantinopel <entity id="ee97e738-ac31-44f7-92dd-dc31f9e6861b" type="Person">Nikephoros II.</entity>, sehr vornehme Männer, und verlangen, wie wir gehört haben, angelegentlichst nach Frieden. Wie sich jedoch die Sache auch gestalten mag, mit Krieg, so Gott will, werden sie auf keine Weise wagen, sich an uns zu versuchen. Die Provinzen Apulien <entity id="d112f9b0-266e-4af8-b02a-9f598f65e717" type="Ort">Apulien</entity> und Kalabrien <entity id="5fed8063-6730-4ad2-960c-7a7160d4838f" type="Ort">Kalabrien</entity>, die sie bis jetzt besessen haben, werden sie, wenn wir nicht einig werden, uns geben müssen. Wenn sie sich aber unserem Willen fügen, werden wir in gegenwärtigem Sommer unsere Gemahlin nebst dem Träger unseres Namens nach Franken <entity id="70bc6619-fbfd-4236-bcb4-38a456235ac8" type="Ort">Ostfrankenreich</entity> schicken und selbst über Fraînet <entity id="dd931c19-4b3f-4431-9fca-62eeb12226e3" type="Ort">La Garde-Freinet</entity>, die Sarazenen zu vertilgen, mit Gottes Geleit den Weg antreten und gedenken dann zu euch zu kommen.</VolltextUebersetzung>
-            <ZitationUebersetzung>Widukind von Corvey, Rerum gestarum Saxonicarum III, 70, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 16-183, S. 175.</ZitationUebersetzung>
-            <ZeitangabeWissenschaft>
-               <Datum date="968-968">18.01.968</Datum>
-            </ZeitangabeWissenschaft>
-            <Berichtszeitraum>
-               <Datum date="960-970">960-970</Datum>
-            </Berichtszeitraum>
-            <Abfassungszeitraum>
-               <Datum date="960-970">960-970</Datum>
-               <Datum date="970-980">970-980</Datum>
-            </Abfassungszeitraum>
-            <GeographischesStichwort>
-               <Ort id="">Italien</Ort>
-               <Ort id="">Apulien</Ort>
-               <Ort id="">Kalabrien</Ort>
-               <Ort id="">Ostfrankenreich (Deutschland)</Ort>
-               <Ort id="">La Garde-Freinet</Ort>
-               <Ort id="">Burgund</Ort>
-            </GeographischesStichwort>
-            <Beteiligte>
-               <Beteiligter>aI</Beteiligter>
-               <Beteiligter>sK</Beteiligter>
-            </Beteiligte>
-            <Interaktion>n</Interaktion>
-            <Auffaelligkeiten>
-               <Schlagwort>Gesandtschaft</Schlagwort>
-               <Schlagwort>Verhandlungen</Schlagwort>
-               <Schlagwort>Bündnis</Schlagwort>
-            </Auffaelligkeiten>
-            <Suchbegriffe>
-               <Suchwort>Constantinopolitanus</Suchwort>
-               <Suchwort>Konstantinopel</Suchwort>
-               <Suchwort>Fraxinetum</Suchwort>
-               <Suchwort>La Garde-Freinet</Suchwort>
-               <Suchwort>Saracenus</Suchwort>
-               <Suchwort>Sarracenus</Suchwort>
-               <Suchwort>Sarazene</Suchwort>
-            </Suchbegriffe>
-            <Anmerkungen>Der Brief ist auch aufgenommen in Die Urkunden der deutschen Könige und Kaiser, Bd. 1: Die Urkunden Konrad I. Heinrich I. und Otto I., ed. Theodor Sickel (MGH D O I.), Hannover 1879-1884, Nr. 355, S. 487f.</Anmerkungen>
-         </Quelle>
-         <Quelle>
-            <QuellenId>0003</QuellenId>
-            <Zitation>Widukind, Rerum gestarum Saxonicarum III, 75, ed. Hirsch – Lohmann 51935, S. 152f.</Zitation>
-            <ZeitangabeQuelle/>
-            <Inhaltsangabe>Kaiser Otto I. kehrt [972] ruhmreich aus Italien zurück u.a. nach dem Sieg über die Sarazenen. Hier empfängt er eine Gesandtschaft aus Afrika. Nach seinem Tod [07.05.973] gedenkt das Volk ihm zu Ehren dieser Siege.</Inhaltsangabe>
-            <VolltextOriginalsprache>Egressus est <entity id="d0af59f7-9a56-4788-a442-b04a20f68eb8" type="Person">Otto I.</entity> itaque de Italia <entity id="650b43d3-3751-4410-a116-9bafde2cfb82" type="Ort">Italien</entity> cum magna gloria, capto rege Longobardorum <entity id="6dc9d401-2fcc-4690-a2db-a6b255e2695b" type="Person">Berengar II. von Ivrea</entity>, superatis Graecis victisque Sarracenis, […]. Post susceptos ab Africa <entity id="ba80122a-4252-4873-8bf3-70e81768f5cb" type="Ort">Afrika</entity> legatos eum regio honore et munere visitantes secum fecit manere. […] Populus autem pro eius laude et gratiarum actione multa locutus memoravit eum paterna subiectos rexisse pietate, ab hostibus eos liberasse, superbos hostes Avares, Sarracenos, Danos, Sclavos armis vicisse […].</VolltextOriginalsprache>
-            <VolltextUebersetzung>So verließ er <entity id="d0af59f7-9a56-4788-a442-b04a20f68eb8" type="Person">Otto I.</entity> denn Italien mit großen Ruhm, da er den König der Langobarden <entity id="6dc9d401-2fcc-4690-a2db-a6b255e2695b" type="Person">Berengar II. von Ivrea</entity> gefangengenommen, die Griechen überwunden und die Sarazenen besiegt hatte; […]. Darauf empfing er Gesandte aus Afrika <entity id="ba80122a-4252-4873-8bf3-70e81768f5cb" type="Ort">Afrika</entity>, die ihm mit königlicher Ehre und mit Geschenken aufwarteten, und hieß sie bei ihm bleiben. […] Das Volk aber sprach viel zu seinem Lobe in dankbarer Erinnerung, wie er mit väterlicher Milde seine Untertanen regiert und sie von den Feinden befreit, die übermächtigen Feinde, Awaren, Sarazenen, Dänen, Slawen, mit Waffengewalt besiegt, […].</VolltextUebersetzung>
-            <ZitationUebersetzung>Widukind von Corvey, Rerum gestarum Saxonicarum III, 75, in: Quellen zur Geschichte der Sächsischen Kaiserzeit, bearb. von Albert Bauer – Reinhold Rau (Ausgewählte Quellen zur deutschen Geschichte des Mittelalters. Freiherr vom Stein-Gedächtnisausgabe 8), Darmstadt 2002, S. 16-183, S. 181 ff.</ZitationUebersetzung>
-            <ZeitangabeWissenschaft>
-               <Datum date="972-972">972</Datum>
-               <Datum date="973-973">Mai 973</Datum>
-               <Datum date="973-973">07.05.973</Datum>
-            </ZeitangabeWissenschaft>
-            <Berichtszeitraum>
-               <Datum date="970-980">970-980</Datum>
-            </Berichtszeitraum>
-            <Abfassungszeitraum>
-               <Datum date="960-970">960-970</Datum>
-               <Datum date="970-980">970-980</Datum>
-            </Abfassungszeitraum>
-            <GeographischesStichwort>
-               <Ort id="">Italien</Ort>
-            </GeographischesStichwort>
-            <Beteiligte>
-               <Beteiligter>aI</Beteiligter>
-               <Beteiligter>sK</Beteiligter>
-            </Beteiligte>
-            <Interaktion>j</Interaktion>
-            <Auffaelligkeiten>
-               <Schlagwort>Kampfhandlung</Schlagwort>
-               <Schlagwort>Sieg</Schlagwort>
-               <Schlagwort>Gefangennahme</Schlagwort>
-               <Schlagwort>Würdigung</Schlagwort>
-            </Auffaelligkeiten>
-            <Suchbegriffe>
-               <Suchwort>Hostis</Suchwort>
-               <Suchwort>Feind</Suchwort>
-               <Suchwort>Saracenus</Suchwort>
-               <Suchwort>Sarracenus</Suchwort>
-               <Suchwort>Sarazene</Suchwort>
-               <Suchwort>Africa</Suchwort>
-               <Suchwort>Afrika</Suchwort>
-            </Suchbegriffe>
-            <Anmerkungen>Kaiser Otto I. verstarb am 07.05.973 in Memleben, vgl. Tilman Struve, Art. Otto I., in: Lexikon des Mittelalters 6, Sp. 1563-1567 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2017-05-22].</Anmerkungen>
-         </Quelle>
-      </Quellen>
-   </Dokumente>
-   
-</Sarazenen>
+   </Sarazenen>

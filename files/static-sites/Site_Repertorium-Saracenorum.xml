@@ -81,14 +81,14 @@
                <header level="2">Zentrale Inhalte auf einen Blick </header>
            <div class="inhalt" style="margin-bottom:1em;">
                <ul>
-                <li><a link="Kategorie:Werk " linking="no"> Werke</a></li>            
-               <li><a link="Kategorie:VerfasserIn " linking="no"> VerfasserInnen</a></li>
-            <li><a link="Kategorie:Person " linking="no"> Personen</a></li>
-            <li><a link="Kategorie:Geographie " linking="no"> Geographie</a></li>
-            <li><a link="Kategorie:Abfassungsregion " linking="no"> Abfassungsregion</a></li>
-            <li><a link="Kategorie:Auffälligkeit " linking="no"> Auffälligkeiten</a></li>
-            <li><a link="Kategorie:Suchbegriffe " linking="no"> Suchbegriffe</a></li>
-            <li><a intern="Datierung">Datierung</a></li></ul>
+                   <li><img url="Werke.png" size="25"/><a link="Kategorie:Werk " linking="no"> Werke</a></li>            
+                   <li><img url="VerfasserIn.jpg" size="25"/><a link="Kategorie:VerfasserIn " linking="no"> VerfasserInnen</a></li>
+                   <li><img url="Personen1.png" size="25"/><a link="Kategorie:Person " linking="no"> Personen</a></li>
+                   <li><img url="Geographie.png" size="25"/><a link="Kategorie:Geographie " linking="no"> Geographie</a></li>
+                   <li><a link="Kategorie:Abfassungsregion " linking="no"> Abfassungsregion</a></li>
+                   <li><img url="Auffälligkeiten.jpg" size="25"/><a link="Kategorie:Auffälligkeit " linking="no"> Auffälligkeiten</a></li>
+                   <li><a link="Kategorie:Suchbegriffe " linking="no"> Suchbegriffe</a></li>
+                   <li><img url="Datierung.png" size="25"/><a intern="Datierung">Datierung</a></li></ul>
            </div>
             
                <header level="2">Einstieg auf Quellenebenen: Werke, VerfasserInnen, Regionen </header>
