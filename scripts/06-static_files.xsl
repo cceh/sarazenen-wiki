@@ -69,7 +69,7 @@
                     <xsl:otherwise>
                 <model>wikitext</model>
                 <format>text/x-wiki</format></xsl:otherwise></xsl:choose><text xml:space="preserve" bytes="3441"><xsl:apply-templates select="./text" xml:space="default"/>
-                    <xsl:apply-templates select="./meta" xml:space="default"/>
+<xsl:apply-templates select="./meta" xml:space="default"/>
 <!--<xsl:for-each select="./meta/categories/category" xml:space="default"><xsl:if test=". != ''"> 
 [[Kategorie:<xsl:value-of select="."/>]]</xsl:if>
 </xsl:for-each>

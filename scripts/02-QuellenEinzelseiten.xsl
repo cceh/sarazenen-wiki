@@ -231,7 +231,8 @@
                 |Zitation=<xsl:value-of select="./Zitation"/>
                 |zeitliche (Quellen-)Angabe=<xsl:value-of select="$datierungQuelle"/>
                 |datiert auf=<xsl:value-of select="$datierung"/>
-                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst von}}}}
+                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst von}}
+                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst in}}}}
 {{#set: 
     Zitation=<xsl:value-of select="./Zitation"/>
                    <!--<xsl:value-of select="$zeitangabe/node()/node()/data(.)"/>-->

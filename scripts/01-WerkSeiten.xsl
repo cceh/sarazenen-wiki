@@ -134,7 +134,7 @@
                             <xsl:otherwise><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> |?Lebensdaten | link=none}}</xsl:text></xsl:otherwise>
                         </xsl:choose>
 </xsl:value-of>
-|Abfassungsort=<xsl:value-of select="string-join($abfssungsort,', ')"/>
+|abgefasst in=<xsl:value-of select="string-join($abfssungsort,', ')"/>
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten=<xsl:value-of select="string-join($abfssungsort-set,', ')"/>
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
