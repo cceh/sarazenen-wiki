@@ -99,9 +99,9 @@
                 {{!}} {{{Lebensdaten}}} }} 
                 
                 |- 
-                {{#if:{{{Abfassungsort|}}} |  
+                {{#if:{{{abgefasst in|}}} |  
                 {{!}} Abfassungsort
-                {{!}} {{{Abfassungsort}}} }}
+                {{!}} {{{abgefasst in}}} }}
                 
                 |- 
                 {{#if:{{{Alternativnamen|}}} |  

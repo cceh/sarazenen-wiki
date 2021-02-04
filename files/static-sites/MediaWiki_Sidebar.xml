@@ -11,15 +11,18 @@
         </meta>
             <text><wikisyntax>* sarazenen
 ** Repertorium Saracenorum|Repertorium Saracenorum
-* navigation
-*** Kategorie:werk|Werke
-*** Kategorie:VerfasserIn|VerfasserInnen
-*** Kategorie:Person | Personen
-*** Kategorie:Geographie | Geographie
-*** Kategorie:Abfassungsregion | Abfassungsregion
-*** Kategorie:Auffälligkeit | Auffälligkeiten
-*** Kategorie:Suchbegriffe | Suchbegriffe
-*** Datierung|Datierung
+* Werke
+** Kategorie:werk|Werke
+** Kategorie:VerfasserIn|VerfasserInnen
+** Datierung|Datierung
+* Quellenstellen
+** Kategorie:Person | Personen
+** Kategorie:Geographie | Geographie
+** Kategorie:Abfassungsregion | Abfassungsregion
+** Kategorie:Auffälligkeit | Auffälligkeiten
+** Kategorie:Suchbegriffe | Suchbegriffe
+* Mehr
+** [[Spezial:Semantische_Suche|Semantische Suche]]
 ** recentchanges-url|recentchanges
 ** randompage-url|randompage
 ** helppage|help

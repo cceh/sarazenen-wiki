@@ -23,7 +23,7 @@
             |?abgefasst von
             |?Abfassungszeit#
             |?Berichtszeitraum#
-            |?Abfassungsort
+            |?abgefasst in
             |limit=1000|format=table}}     </wikisyntax>
         </text>
     </page>

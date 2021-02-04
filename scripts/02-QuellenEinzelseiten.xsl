@@ -231,8 +231,9 @@
                 |Zitation=<xsl:value-of select="./Zitation"/>
                 |zeitliche (Quellen-)Angabe=<xsl:value-of select="$datierungQuelle"/>
                 |datiert auf=<xsl:value-of select="$datierung"/>
-                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst von}}
-                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk}}|?abgefasst in}}}}
+                |VerfasserIn={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}|?abgefasst von}}
+                |abgefasst in={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}|?abgefasst in}}
+                }}
 {{#set: 
     Zitation=<xsl:value-of select="./Zitation"/>
                    <!--<xsl:value-of select="$zeitangabe/node()/node()/data(.)"/>-->
@@ -262,8 +263,8 @@
                     | datiert auf= <xsl:value-of select="$datierung"/>
                     | Datum laut Werk=<xsl:value-of select="$datierungQuelle"/>
                     | Inhaltsangabe=<xsl:value-of select="replace(replace($inhalt,'\&#93;',''),'\&#91;','')"/>
-<!--                    | Abfassungsregion=<xsl:value-of select="$parent//Regionen/Region"/>
--->                    | aus dem Werk=<xsl:value-of select="$parent/WerkTitel"/>
+                    | Abfassungsregion={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}|?Abfassungsregion|link=none}}
+                    | aus dem Werk=<xsl:value-of select="$parent/WerkTitel"/>
                     }}
                     
 <xsl:value-of select="$index"/>
@@ -285,6 +286,7 @@
     <xsl:for-each select="./ZeitangabeWissenschaft/Datum">
                      <xsl:variable name="res"><xsl:call-template name="normDate"><xsl:with-param name="date" select="./@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template></xsl:variable>
                      {{#subobject:
+                     |werk={{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}
         <xsl:value-of select="$res/node()/node()[1]/data(.)"/> 
                     <xsl:if test="exists($res/node()/node()[2]/data(.))"><xsl:value-of select="$res/node()/node()[2]/data(.)"/></xsl:if>}}
             </xsl:for-each>     
@@ -334,8 +336,8 @@
         <xsl:variable name="ia" select="./@id/data(.)"/> 
         <xsl:variable name="img" >
             <xsl:choose>
-                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie.png|25px|Beschreibung]]</xsl:when>
-                <xsl:when test="./@type eq 'Person'">[[Datei:Personen1.png|25px|Beschreibung]]</xsl:when>
+                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie.png|1em|Beschreibung]]</xsl:when>
+                <xsl:when test="./@type eq 'Person'">[[Datei:Personen1.png|1em|Beschreibung]]</xsl:when>
             </xsl:choose>
         </xsl:variable>
         <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text><xsl:value-of select="$img"/><xsl:text>&#x200b;]</xsl:text>

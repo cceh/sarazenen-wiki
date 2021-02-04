@@ -231,7 +231,7 @@
                                 </xsl:when>
                                 <xsl:when test=". eq 'Person'">
 === Personennennung ===
-Übersicht über die Nennung von <xsl:value-of select="$name"/> im Repertorium Saracenorum:
+Übersicht über die Nennung von "<xsl:value-of select="$name"/>" im Repertorium Saracenorum:
 {{#ask: 
 [[Kategorie:Quelle]]
 [[Person::<xsl:value-of select="$name"/>]]
@@ -247,7 +247,7 @@
                                 </xsl:when>
                                 <xsl:when test=". eq 'Ort'">
 === Ortsnennungen ===
-Übersicht über die Nennung von <xsl:value-of select="$name"/> im Repertorium Saracenorum
+Übersicht über die Nennung von "<xsl:value-of select="$name"/>" im Repertorium Saracenorum
 {{#ask: 
 [[Kategorie:Quelle]]
 [[geographischer Bezug::<xsl:value-of select="$name"/>]]
@@ -263,7 +263,7 @@
                                 </xsl:when>
                                 <xsl:when test=". eq 'Suchbegriffe'">
 === Suchbegriff ===
-Übersicht über die Verwendung von <xsl:value-of select="$name"/> als Suchbegriff:
+Übersicht über die Verwendung von "<xsl:value-of select="$name"/>" als Suchbegriff:
 {{#ask: 
 [[Kategorie:Quelle]]
 [[relevante Schlagworte::<xsl:value-of select="$name"/>]]
@@ -278,7 +278,8 @@
 }}
                                 </xsl:when>
                                 <xsl:when test=". eq 'Auffälligkeit'">
-=== Vorkommen ===
+=== Auffälligkeit ===
+Auflistung aller mit der Auffälligkeit "<xsl:value-of select="$name"/> " annotierten Quellenstellen
 {{#ask: 
 [[Kategorie:Quelle]]
 [[berichtet von::<xsl:value-of select="$name"/>]]
@@ -312,6 +313,7 @@
                                 </xsl:when>
                                 <xsl:when test="./@second eq 'Person'">
 === Personennennung <xsl:value-of select="."/> ===
+Übersicht über die Nennung von "<xsl:value-of select="."/>" im Repertorium Saracenorum:
 {{#ask: 
 [[Kategorie:Quelle]]
 [[Person::<xsl:value-of select="."/>]]
@@ -327,6 +329,7 @@
                                 </xsl:when>
                                 <xsl:when test="./@second eq 'Ort'">
 === Ortsnennungen <xsl:value-of select="."/> ===
+Übersicht über die Nennung von "<xsl:value-of select="."/>" im Repertorium Saracenorum:                    
 {{#ask: 
 [[Kategorie:Quelle]]
 [[Geographischer Bezug::<xsl:value-of select="."/>]]
@@ -342,6 +345,7 @@
                                 </xsl:when>
                                 <xsl:when test="./@second eq 'Suchbegriffe'">
 === Suchbegriff <xsl:value-of select="."/> ===
+Auflistung aller mit der Suchbegriff "<xsl:value-of select="."/> " annotierten Quellenstellen
 {{#ask: 
 [[Kategorie:Quelle]]
 [[relevante Schlagworte::<xsl:value-of select="."/>]]
@@ -356,7 +360,8 @@
 }}
                                 </xsl:when>
                                 <xsl:when test="./@second eq 'Auffälligkeit'">
-=== Vorkommen <xsl:value-of select="."/> ===
+=== Auffälligkeit <xsl:value-of select="."/> ===
+Auflistung aller mit der Auffälligkeit "<xsl:value-of select="."/> " annotierten Quellenstellen
 {{#ask: 
 [[Kategorie:Quelle]]
 [[berichtet von::<xsl:value-of select="."/>]]

@@ -1,10 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?><mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="de"><siteinfo><sitename>Sarazenen Wiki</sitename><dbname>sarazenen-bonn</dbname><base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base><generator>MediaWiki 1.27.4</generator><case>first-letter</case><namespaces><namespace key="-2" case="first-letter">Medium</namespace><namespace key="-1" case="first-letter">Spezial</namespace><namespace key="0" case="first-letter"/><namespace key="1" case="first-letter">Diskussion</namespace><namespace key="2" case="first-letter">Benutzer</namespace><namespace key="3" case="first-letter">Benutzer Diskussion</namespace><namespace key="4" case="first-letter">Sarazenen Wiki</namespace><namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace><namespace key="6" case="first-letter">Datei</namespace><namespace key="7" case="first-letter">Datei Diskussion</namespace><namespace key="8" case="first-letter">MediaWiki</namespace><namespace key="9" case="first-letter">MediaWiki Diskussion</namespace><namespace key="10" case="first-letter">Vorlage</namespace><namespace key="11" case="first-letter">Vorlage Diskussion</namespace><namespace key="12" case="first-letter">Hilfe</namespace><namespace key="13" case="first-letter">Hilfe Diskussion</namespace><namespace key="14" case="first-letter">Kategorie</namespace><namespace key="15" case="first-letter">Kategorie Diskussion</namespace><namespace key="102" case="first-letter">Attribut</namespace><namespace key="103" case="first-letter">Attribut Diskussion</namespace><namespace key="106" case="first-letter">Formular</namespace><namespace key="107" case="first-letter">Formular Diskussion</namespace><namespace key="108" case="first-letter">Konzept</namespace><namespace key="109" case="first-letter">Konzept Diskussion</namespace><namespace key="170" case="first-letter">Filter</namespace><namespace key="171" case="first-letter">Filter Diskussion</namespace><namespace key="828" case="first-letter">Modul</namespace><namespace key="829" case="first-letter">Modul Diskussion</namespace></namespaces></siteinfo><page>
-      <title>Vita des Johannes von Gorze</title>
+      <title>Annales Flodoardi</title>
       <ns>0</ns>
       <id>3001</id>
       <revision>
          <id>3001</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
+{{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Annales/Annalen/Jahrbücher
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Flodoard von Reims]]
+|Lebensdaten=Flodoard von Reims: {{#show: Flodoard von Reims |?Lebensdaten | link=none}}
+|abgefasst in=[[abgefasst in::Reims]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Reims]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+
+
+                        &lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850 0 2050 100" width="3000" height="200"&gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="850" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="919" y="12" width="59" height="45" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="919" y="26" width="59" height="45" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="919" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;919&lt;/text&gt;
+        &lt;text x="978" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;978&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="921" y="26" width="1" height="37"
+        label="Quelle 0001: 921"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="923" y="26" width="1" height="37"
+        label="Quelle 0002: 923"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="929" y="26" width="1" height="37"
+        label="Quelle 0003: 929"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="931" y="26" width="1" height="37"
+        label="Quelle 0004: 931"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="931" y="26" width="1" height="37"
+        label="Quelle 0005: 931"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="933" y="26" width="1" height="37"
+        label="Quelle 0006: 933"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="936" y="26" width="1" height="37"
+        label="Quelle 0007: 936"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="939" y="26" width="1" height="37"
+        label="Quelle 0008: 939"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="940" y="26" width="1" height="37"
+        label="Quelle 0009: 940"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="942" y="26" width="1" height="37"
+        label="Quelle 0010: 942"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="951" y="26" width="1" height="37"
+        label="Quelle 0011: 951"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=919-966, Postume Fortsetzung bis 978
+|Berichtszeitraum=919-978
+|Werknummer=0058
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;poem&gt;Die Annales des Flodoard von Reims (geb. 893/94, gest. 966) sind zeitgleich entstandene Notizen für die Jahre 919 bis 966, die verlässlich über die Geschichte des Westfrankenreiches, Lothringens und – wenngleich weniger ausführlich – des Ostfrankenreiches berichten. Nach dem Tod Flodoards 966 erfolgte eine Fortführung der Annales bis zum Jahr 978.
+Vgl. mit Hinweisen für weiterführende Literatur: Peter Christian Jacobsen, Art. Flodoard v. Reims, in: Lexikon des Mittelalters 4, Sp. 549-550 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-11-10]; Annales (Flodoard von Reims), in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_02239.html 2016-11-10]; Flodoardus canonicus Remensis, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repPers_118534009.html 2016-11-10]; Régis Rech, Art. Flodoard of Reims, in: Encyclopedia of the Medieval Chronicle 1 (2010), S. 623f.&lt;/poem&gt;
+
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Les Annales de Flodoard, ed. Philippe Lauer (Collection de Textes pour servir a l’étude et a l’enseignement de l’histoire), Paris 1905. [ ]
+
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Annales Flodoardi]]
+                    |mainlabel=Zitation
+                    |?Inhaltsangabe#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{#ask:
+[[Werk::Annales Flodoardi]]
+                        [[Zeitangabe::+]]
+       [[ZeitangabeBeginn::+]]
+            |?ZeitangabeBeginn
+            |?ZeitangabeEnde
+            |timelinestart =ZeitangabeBeginn
+            |timelineend=ZeitangabeEnde        
+            |timelinesize=800px
+            |sort=ZeitangabeBeginn
+            |order=descending
+            |format=timeline
+            |timelinebands= YEAR, DECADE, CENTURY
+            |timelineposition=end
+            |limit=1000
+}}
+{{#set:
+Sarazenenbezug=ja
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).
+
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Vita des Johannes von Gorze</title>
+      <ns>0</ns>
+      <id>3002</id>
+      <revision>
+         <id>3002</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -21,7 +220,7 @@
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Johannes von St. Arnulf in Metz]]
 |Lebensdaten=Johannes von St. Arnulf in Metz: {{#show: Johannes von St. Arnulf in Metz |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Metz]]
+|abgefasst in=[[abgefasst in::Metz]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Metz]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -119,7 +318,7 @@ Die Geschichte vom Leben des Johannes, Abt des Klosters Gorze / Hystoria de vita
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita des Johannes von Gorze]]
+[[Werk::Vita des Johannes von Gorze]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -150,10 +349,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Symeonis Achivi</title>
       <ns>0</ns>
-      <id>3002</id>
+      <id>3003</id>
       <revision>
-         <id>3002</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3003</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -170,7 +369,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Reichenau]]
+|abgefasst in=[[abgefasst in::Reichenau]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Reichenau]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -277,7 +476,7 @@ Vgl. Theo Klüppel – Walter Berschin, [Einleitung zu] Vita Symeonis Achivi, in
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita Symeonis Achivi]]
+[[Werk::Vita Symeonis Achivi]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -308,10 +507,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Etymologiae</title>
       <ns>0</ns>
-      <id>3003</id>
+      <id>3004</id>
       <revision>
-         <id>3003</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3004</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -328,7 +527,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Isidor von Sevilla]]
 |Lebensdaten=Isidor von Sevilla: {{#show: Isidor von Sevilla |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Sevilla]]
+|abgefasst in=[[abgefasst in::Sevilla]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Sevilla]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -410,7 +609,7 @@ Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX, ed. Wallace M
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Etymologiae]]
+[[Werk::Etymologiae]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -441,10 +640,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Sancti Udalrici</title>
       <ns>0</ns>
-      <id>3004</id>
+      <id>3005</id>
       <revision>
-         <id>3004</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3005</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -461,7 +660,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Gerhard von Augsburg]]
 |Lebensdaten=Gerhard von Augsburg: {{#show: Gerhard von Augsburg |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Augsburg]]
+|abgefasst in=[[abgefasst in::Augsburg]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Augsburg]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -563,7 +762,7 @@ Vgl. mit Hinweisen für weiterführende Literatur: Vita s. Udalrici, in: Reperto
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita Sancti Udalrici]]
+[[Werk::Vita Sancti Udalrici]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -594,10 +793,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita sancti Maioli</title>
       <ns>0</ns>
-      <id>3005</id>
+      <id>3006</id>
       <revision>
-         <id>3005</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3006</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -614,7 +813,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Odilo von Cluny]]
 |Lebensdaten=Odilo von Cluny: {{#show: Odilo von Cluny |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Cluny]][[Abfassungsort::Burgund]]
+|abgefasst in=[[abgefasst in::Cluny]][[abgefasst in::Burgund]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}{{#show:[[Ort:Burgund]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -720,7 +919,7 @@ Vita sancti Maioli auctore S. Odilo Abbate et S. Maijoli successore, in: Acta Sa
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita sancti Maioli]]
+[[Werk::Vita sancti Maioli]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -751,10 +950,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Sancti Maioli</title>
       <ns>0</ns>
-      <id>3006</id>
+      <id>3007</id>
       <revision>
-         <id>3006</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3007</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -771,7 +970,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Syrus von Cluny]]
 |Lebensdaten=Syrus von Cluny: {{#show: Syrus von Cluny |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Cluny]]
+|abgefasst in=[[abgefasst in::Cluny]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -874,7 +1073,7 @@ Ex Syri Vita S. Maioli, ed. Georg Waitz, in: MGH SS 4, Hannover 1841, S. 649-655
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita Sancti Maioli]]
+[[Werk::Vita Sancti Maioli]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -905,10 +1104,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Sancti Willibaldi</title>
       <ns>0</ns>
-      <id>3007</id>
+      <id>3008</id>
       <revision>
-         <id>3007</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3008</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -925,7 +1124,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Hugeburg von Heidenheim]]
 |Lebensdaten=Hugeburg von Heidenheim: {{#show: Hugeburg von Heidenheim |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Heidenheim]]
+|abgefasst in=[[abgefasst in::Heidenheim]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Heidenheim]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -1063,7 +1262,7 @@ Vita Willibaldi episcopi Eichstetensis, ed. Oswald Holder-Egger, in: MGH SS 15, 
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita Sancti Willibaldi]]
+[[Werk::Vita Sancti Willibaldi]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -1094,10 +1293,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita S. Maioli</title>
       <ns>0</ns>
-      <id>3008</id>
+      <id>3009</id>
       <revision>
-         <id>3008</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3009</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1114,7 +1313,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Nagold]]
 |Lebensdaten=Nagold: {{#show: Nagold |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Cluny]]
+|abgefasst in=[[abgefasst in::Cluny]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -1222,7 +1421,7 @@ Vita sancti Maioli ex prolixoribus coaevorum actis a Nalgodo monacho post sequi 
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita S. Maioli]]
+[[Werk::Vita S. Maioli]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -1253,10 +1452,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historia Remensis ecclesiae</title>
       <ns>0</ns>
-      <id>3009</id>
+      <id>3010</id>
       <revision>
-         <id>3009</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3010</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1273,7 +1472,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Flodoard von Reims]]
 |Lebensdaten=Flodoard von Reims: {{#show: Flodoard von Reims |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Reims]]
+|abgefasst in=[[abgefasst in::Reims]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Reims]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -1401,7 +1600,7 @@ Flodoard von Reims, Die Geschichte der Reimser Kirche, ed. Martina Stratmann (MG
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Historia Remensis ecclesiae]]
+[[Werk::Historia Remensis ecclesiae]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -1432,10 +1631,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Mariani Scotti Chronicon</title>
       <ns>0</ns>
-      <id>3010</id>
+      <id>3011</id>
       <revision>
-         <id>3010</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3011</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1452,7 +1651,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Marianus Scottus]]
 |Lebensdaten=Marianus Scottus: {{#show: Marianus Scottus |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Mainz]]
+|abgefasst in=[[abgefasst in::Mainz]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Mainz]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -1644,7 +1843,7 @@ Mariani Scotti Chronicon, ed. Georg Waitz, in: MGH SS 5, Hannover 1844, S. 481-5
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Mariani Scotti Chronicon]]
+[[Werk::Mariani Scotti Chronicon]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -1675,10 +1874,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Fuldense antiquissimi</title>
       <ns>0</ns>
-      <id>3011</id>
+      <id>3012</id>
       <revision>
-         <id>3011</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3012</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1695,7 +1894,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Fulda]]
+|abgefasst in=[[abgefasst in::Fulda]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Fulda]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -1791,10 +1990,10 @@ Annales Fuldenses Antiquissimi, ed. Friedrich Kurze, in: MGH SS rer. Germ. [7], 
    </page><page>
       <title>Annales Vedastini</title>
       <ns>0</ns>
-      <id>3012</id>
+      <id>3013</id>
       <revision>
-         <id>3012</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3013</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1811,7 +2010,7 @@ Annales Fuldenses Antiquissimi, ed. Friedrich Kurze, in: MGH SS rer. Germ. [7], 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Kloster St. Vaast in Arras (Pas-de-Calais)]]
+|abgefasst in=[[abgefasst in::Kloster St. Vaast in Arras (Pas-de-Calais)]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Kloster St. Vaast in Arras (Pas-de-Calais)]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -1904,10 +2103,10 @@ Annales Vedastini, ed. Bernhard von Simson, in: MGH SS rer. Germ. [12], Hannover
    </page><page>
       <title>Carmina duo in honorem gloriosissimi Pippini regis</title>
       <ns>0</ns>
-      <id>3013</id>
+      <id>3014</id>
       <revision>
-         <id>3013</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3014</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1924,7 +2123,7 @@ Annales Vedastini, ed. Bernhard von Simson, in: MGH SS rer. Germ. [12], Hannover
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ermoldus Nigellus]]
 |Lebensdaten=Ermoldus Nigellus: {{#show: Ermoldus Nigellus |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Straßburg]]
+|abgefasst in=[[abgefasst in::Straßburg]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Straßburg]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2017,10 +2216,10 @@ Carmen Nigelli Ermoldi exulis in laudem gloriosissimi Pippini regis, ed. Ernst D
    </page><page>
       <title>Epitaphium Adelheidae Imperatricis</title>
       <ns>0</ns>
-      <id>3014</id>
+      <id>3015</id>
       <revision>
-         <id>3014</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3015</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2037,7 +2236,7 @@ Carmen Nigelli Ermoldi exulis in laudem gloriosissimi Pippini regis, ed. Ernst D
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Odilo von Cluny]]
 |Lebensdaten=Odilo von Cluny: {{#show: Odilo von Cluny |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Cluny]]
+|abgefasst in=[[abgefasst in::Cluny]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2142,10 +2341,10 @@ Epitaphium Adalheidae imperatricis auctore Odilone, ed. Georg Heinrich Pertz, in
    </page><page>
       <title>Miracula s. Willehadi</title>
       <ns>0</ns>
-      <id>3015</id>
+      <id>3016</id>
       <revision>
-         <id>3015</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3016</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2162,7 +2361,7 @@ Epitaphium Adalheidae imperatricis auctore Odilone, ed. Georg Heinrich Pertz, in
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ansgar von Bremen]]
 |Lebensdaten=Ansgar von Bremen: {{#show: Ansgar von Bremen |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Bremen]]
+|abgefasst in=[[abgefasst in::Bremen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Bremen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2258,10 +2457,10 @@ Anskarii Vita sancti Willehadi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
    </page><page>
       <title>Primordia coenobii Gandersheimensis</title>
       <ns>0</ns>
-      <id>3016</id>
+      <id>3017</id>
       <revision>
-         <id>3016</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3017</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2278,7 +2477,7 @@ Anskarii Vita sancti Willehadi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Hrotsvit von Gandersheim]]
 |Lebensdaten=Hrotsvit von Gandersheim: {{#show: Hrotsvit von Gandersheim |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Stift Gandersheim]]
+|abgefasst in=[[abgefasst in::Stift Gandersheim]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Stift Gandersheim]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2373,10 +2572,10 @@ Abfassungszeit=Um 960-973
    </page><page>
       <title>Saxonicum bellum</title>
       <ns>0</ns>
-      <id>3017</id>
+      <id>3018</id>
       <revision>
-         <id>3017</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3018</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2393,7 +2592,7 @@ Abfassungszeit=Um 960-973
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Bruno von Merseburg]]
 |Lebensdaten=Bruno von Merseburg: {{#show: Bruno von Merseburg |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Merseburg]]
+|abgefasst in=[[abgefasst in::Merseburg]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Merseburg]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2486,10 +2685,10 @@ Brunos Buch vom Sachsenkrieg, ed. Hans-Eberhard Lohmann (MGH Dt. MA 2), Leipzig 
    </page><page>
       <title>Translatio s. Alexandri</title>
       <ns>0</ns>
-      <id>3018</id>
+      <id>3019</id>
       <revision>
-         <id>3018</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3019</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2506,7 +2705,7 @@ Brunos Buch vom Sachsenkrieg, ed. Hans-Eberhard Lohmann (MGH Dt. MA 2), Leipzig 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Rudolf von Fulda]]; [[abgefasst von::Meginhard von Fulda]]
 |Lebensdaten=Rudolf von Fulda: {{#show: Rudolf von Fulda |?Lebensdaten | link=none}}; Meginhard von Fulda: {{#show: Meginhard von Fulda |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Fulda]]
+|abgefasst in=[[abgefasst in::Fulda]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Fulda]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2596,10 +2795,10 @@ Translatio s. Alexandri auctoribus Ruodolfo et Meginharto, ed. Georg Heinrich Pe
    </page><page>
       <title>Translatio s. Liborii</title>
       <ns>0</ns>
-      <id>3019</id>
+      <id>3020</id>
       <revision>
-         <id>3019</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3020</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2616,7 +2815,7 @@ Translatio s. Alexandri auctoribus Ruodolfo et Meginharto, ed. Georg Heinrich Pe
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Erchanrad von Le Mans]]
 |Lebensdaten=Erchanrad von Le Mans: {{#show: Erchanrad von Le Mans |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Le Mans]]
+|abgefasst in=[[abgefasst in::Le Mans]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Le Mans]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2708,10 +2907,10 @@ Abfassungszeit=836-900
    </page><page>
       <title>Vita Anskarii</title>
       <ns>0</ns>
-      <id>3020</id>
+      <id>3021</id>
       <revision>
-         <id>3020</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3021</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2728,7 +2927,7 @@ Abfassungszeit=836-900
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Rimbert von Hamburg-Bremen]]
 |Lebensdaten=Rimbert von Hamburg-Bremen: {{#show: Rimbert von Hamburg-Bremen |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Bremen]]
+|abgefasst in=[[abgefasst in::Bremen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Bremen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2842,10 +3041,10 @@ Vita sancti Anskarii. A Rimberto et alio discipulo Anskarii conscripta, ed. Chri
    </page><page>
       <title>Vita Bernwardi episcopi Hildesheimensis</title>
       <ns>0</ns>
-      <id>3021</id>
+      <id>3022</id>
       <revision>
-         <id>3021</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3022</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2862,7 +3061,7 @@ Vita sancti Anskarii. A Rimberto et alio discipulo Anskarii conscripta, ed. Chri
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Thangmar von Hildesheim]]
 |Lebensdaten=Thangmar von Hildesheim: {{#show: Thangmar von Hildesheim |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Hildesheim]]
+|abgefasst in=[[abgefasst in::Hildesheim]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Hildesheim]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -2958,10 +3157,10 @@ Vita Bernwardi episcopi Hildesheimensis auctore Thangmaro, ed. Georg Heinrich Pe
    </page><page>
       <title>Vita Brunonis archiepiscopi Coloniensis</title>
       <ns>0</ns>
-      <id>3022</id>
+      <id>3023</id>
       <revision>
-         <id>3022</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3023</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2978,7 +3177,7 @@ Vita Bernwardi episcopi Hildesheimensis auctore Thangmaro, ed. Georg Heinrich Pe
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ruotger]]
 |Lebensdaten=Ruotger: {{#show: Ruotger |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Köln]]
+|abgefasst in=[[abgefasst in::Köln]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Köln]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3068,10 +3267,10 @@ Ruotgeri vita Brunonis archiepiscopi Coloniensis, ed. Irene Ott (MGH SS rer. Ger
    </page><page>
       <title>Vita et obitus Hathumodae primae abbatissae Gandersheimensis</title>
       <ns>0</ns>
-      <id>3023</id>
+      <id>3024</id>
       <revision>
-         <id>3023</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3024</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3088,7 +3287,7 @@ Ruotgeri vita Brunonis archiepiscopi Coloniensis, ed. Irene Ott (MGH SS rer. Ger
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Agius, Bruder der Äbtissin Hathumod]]
 |Lebensdaten=Agius, Bruder der Äbtissin Hathumod: {{#show: Agius, Bruder der Äbtissin Hathumod |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Corvey]]
+|abgefasst in=[[abgefasst in::Corvey]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Corvey]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3181,10 +3380,10 @@ Agii vita et obitus Hathumodae, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover
    </page><page>
       <title>Vita Gregorii abbatis Traiectensis</title>
       <ns>0</ns>
-      <id>3024</id>
+      <id>3025</id>
       <revision>
-         <id>3024</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3025</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3201,7 +3400,7 @@ Agii vita et obitus Hathumodae, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Liudger von Münster]]
 |Lebensdaten=Liudger von Münster: {{#show: Liudger von Münster |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Utrecht]]
+|abgefasst in=[[abgefasst in::Utrecht]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Utrecht]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3297,10 +3496,10 @@ Liudgeri vita Gregorii abbatis Traiectensis, ed. Oswald Holder-Egger, in: MGH SS
    </page><page>
       <title>Annales Brunwilarenses</title>
       <ns>0</ns>
-      <id>3025</id>
+      <id>3026</id>
       <revision>
-         <id>3025</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3026</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3317,7 +3516,7 @@ Liudgeri vita Gregorii abbatis Traiectensis, ed. Oswald Holder-Egger, in: MGH SS
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Brauweiler]][[Abfassungsort::Köln]]
+|abgefasst in=[[abgefasst in::Brauweiler]][[abgefasst in::Köln]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Brauweiler]]|?getty_coordinates|link=none}}{{#show:[[Ort:Köln]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3414,10 +3613,10 @@ Annales Brunwilarenses, ed. Georg Heinrich Pertz, in: MGH SS 16, Hannover 1859, 
    </page><page>
       <title>Annales Floriacenses</title>
       <ns>0</ns>
-      <id>3026</id>
+      <id>3027</id>
       <revision>
-         <id>3026</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3027</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3434,7 +3633,7 @@ Annales Brunwilarenses, ed. Georg Heinrich Pertz, in: MGH SS 16, Hannover 1859, 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Saint-Benoît-sur-Loire]]
+|abgefasst in=[[abgefasst in::Saint-Benoît-sur-Loire]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Saint-Benoît-sur-Loire]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3548,10 +3747,10 @@ Annales Floriacenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Annales Lemovicenses</title>
       <ns>0</ns>
-      <id>3027</id>
+      <id>3028</id>
       <revision>
-         <id>3027</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3028</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3568,7 +3767,7 @@ Annales Floriacenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Limoges]]
+|abgefasst in=[[abgefasst in::Limoges]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Limoges]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3670,10 +3869,10 @@ Annales Lemovicenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Annales qui dicuntur Alcuini</title>
       <ns>0</ns>
-      <id>3028</id>
+      <id>3029</id>
       <revision>
-         <id>3028</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3029</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3690,7 +3889,7 @@ Annales Lemovicenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Alkuin von Tours]]
 |Lebensdaten=Alkuin von Tours: {{#show: Alkuin von Tours |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Niederalteich]]
+|abgefasst in=[[abgefasst in::Niederalteich]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Niederalteich]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3780,10 +3979,10 @@ Annales ut videtur Alcuini, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover 184
    </page><page>
       <title>Annales S. Amandi breves</title>
       <ns>0</ns>
-      <id>3029</id>
+      <id>3030</id>
       <revision>
-         <id>3029</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3030</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3800,7 +3999,7 @@ Annales ut videtur Alcuini, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover 184
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Saint-Amand-les-Eaux]]
+|abgefasst in=[[abgefasst in::Saint-Amand-les-Eaux]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Saint-Amand-les-Eaux]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -3896,10 +4095,10 @@ Annales S. Amandi breves, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829,
    </page><page>
       <title>Annales S. Bavonis Gandensis</title>
       <ns>0</ns>
-      <id>3030</id>
+      <id>3031</id>
       <revision>
-         <id>3030</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3031</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3916,7 +4115,7 @@ Annales S. Amandi breves, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829,
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abtei St. Bavo in Gent]]
+|abgefasst in=[[abgefasst in::Abtei St. Bavo in Gent]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abtei St. Bavo in Gent]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4045,10 +4244,10 @@ Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1
    </page><page>
       <title>Annales S. Maximini Trevirensis</title>
       <ns>0</ns>
-      <id>3031</id>
+      <id>3032</id>
       <revision>
-         <id>3031</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3032</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4065,7 +4264,7 @@ Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Trier]]
+|abgefasst in=[[abgefasst in::Trier]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Trier]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4195,10 +4394,10 @@ Annales Sancti Maximini Trevirensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Han
    </page><page>
       <title>Bella Parisicae urbis</title>
       <ns>0</ns>
-      <id>3032</id>
+      <id>3033</id>
       <revision>
-         <id>3032</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3033</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4215,7 +4414,7 @@ Annales Sancti Maximini Trevirensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Han
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Abbo von Saint-Germain]]
 |Lebensdaten=Abbo von Saint-Germain: {{#show: Abbo von Saint-Germain |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Saint-Germain-des-Prés]]
+|abgefasst in=[[abgefasst in::Saint-Germain-des-Prés]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Saint-Germain-des-Prés]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4305,10 +4504,10 @@ Abbonis bella Parisiacae urbis, ed. Paul von Winterfeld, in: MGH Poeta 4,1, Berl
    </page><page>
       <title>Breviarium regum Francorum</title>
       <ns>0</ns>
-      <id>3033</id>
+      <id>3034</id>
       <revision>
-         <id>3033</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3034</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4325,7 +4524,7 @@ Abbonis bella Parisiacae urbis, ed. Paul von Winterfeld, in: MGH Poeta 4,1, Berl
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Erchanbert]]; [[abgefasst von::Notker der Stammler]]
 |Lebensdaten=Erchanbert: {{#show: Erchanbert |?Lebensdaten | link=none}}; Notker der Stammler: {{#show: Notker der Stammler |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4433,10 +4632,10 @@ Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, 
    </page><page>
       <title>Carmen de gestis Oddonis I imperatoris</title>
       <ns>0</ns>
-      <id>3034</id>
+      <id>3035</id>
       <revision>
-         <id>3034</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3035</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4453,7 +4652,7 @@ Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Hrotsvit von Gandersheim]]
 |Lebensdaten=Hrotsvit von Gandersheim: {{#show: Hrotsvit von Gandersheim |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Stift Gandersheim]]
+|abgefasst in=[[abgefasst in::Stift Gandersheim]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Stift Gandersheim]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4545,10 +4744,10 @@ Abfassungszeit=960-973
    </page><page>
       <title>Carmen de Carolo Magno</title>
       <ns>0</ns>
-      <id>3035</id>
+      <id>3036</id>
       <revision>
-         <id>3035</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3036</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4565,7 +4764,7 @@ Abfassungszeit=960-973
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4655,10 +4854,10 @@ Angilberti carmen de Karolo Magno, ed. Georg Heinrich Pertz, in: MGH SS 2, Hanno
    </page><page>
       <title>Casus S. Galli</title>
       <ns>0</ns>
-      <id>3036</id>
+      <id>3037</id>
       <revision>
-         <id>3036</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3037</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4675,7 +4874,7 @@ Angilberti carmen de Karolo Magno, ed. Georg Heinrich Pertz, in: MGH SS 2, Hanno
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ratpert von St. Gallen]]
 |Lebensdaten=Ratpert von St. Gallen: {{#show: Ratpert von St. Gallen |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::St. Gallen]]
+|abgefasst in=[[abgefasst in::St. Gallen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:St. Gallen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4783,10 +4982,10 @@ Casus S. Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 59-74  Rat
    </page><page>
       <title>Casuum S. Galli continuatio secunda</title>
       <ns>0</ns>
-      <id>3037</id>
+      <id>3038</id>
       <revision>
-         <id>3037</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3038</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4803,7 +5002,7 @@ Casus S. Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 59-74  Rat
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::St. Gallen]]
+|abgefasst in=[[abgefasst in::St. Gallen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:St. Gallen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -4903,10 +5102,10 @@ Casuum S. Galli contiuatio II, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829
    </page><page>
       <title>Casuum S. Galli continuatio tertia</title>
       <ns>0</ns>
-      <id>3038</id>
+      <id>3039</id>
       <revision>
-         <id>3038</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3039</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4923,7 +5122,7 @@ Casuum S. Galli contiuatio II, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Konrad von Pfäfers]]
 |Lebensdaten=Konrad von Pfäfers: {{#show: Konrad von Pfäfers |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::St. Gallen]]
+|abgefasst in=[[abgefasst in::St. Gallen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:St. Gallen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5014,10 +5213,10 @@ Casuum S. Galli contiuatio III auctore Conrado de Fabaria, ed. Ildefons von Arx,
    </page><page>
       <title>Liber historiae Francorum</title>
       <ns>0</ns>
-      <id>3039</id>
+      <id>3040</id>
       <revision>
-         <id>3039</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3040</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5034,7 +5233,7 @@ Casuum S. Galli contiuatio III auctore Conrado de Fabaria, ed. Ildefons von Arx,
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5133,10 +5332,10 @@ Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 
    </page><page>
       <title>Historia Daretis Frigii de origine Francorum</title>
       <ns>0</ns>
-      <id>3040</id>
+      <id>3041</id>
       <revision>
-         <id>3040</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3041</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5153,7 +5352,7 @@ Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5255,10 +5454,10 @@ Historia Daretis Frigii de origine Francorum, ed. Bruno Krusch, in: MGH SS rer. 
    </page><page>
       <title>Vita Leobae</title>
       <ns>0</ns>
-      <id>3041</id>
+      <id>3042</id>
       <revision>
-         <id>3041</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3042</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5275,7 +5474,7 @@ Historia Daretis Frigii de origine Francorum, ed. Bruno Krusch, in: MGH SS rer. 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Rudolf von Fulda]]
 |Lebensdaten=Rudolf von Fulda: {{#show: Rudolf von Fulda |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Fulda]]
+|abgefasst in=[[abgefasst in::Fulda]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Fulda]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5374,10 +5573,10 @@ Vita Leobae abbatissae Bischofesheimensis auctore Rudolfo Fuldensi, ed. Georg Wa
    </page><page>
       <title>Vita Mathildis reginae</title>
       <ns>0</ns>
-      <id>3042</id>
+      <id>3043</id>
       <revision>
-         <id>3042</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3043</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5394,7 +5593,7 @@ Vita Leobae abbatissae Bischofesheimensis auctore Rudolfo Fuldensi, ed. Georg Wa
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Nordhausen]][[Abfassungsort::Quedlinburg]]
+|abgefasst in=[[abgefasst in::Nordhausen]][[abgefasst in::Quedlinburg]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Nordhausen]]|?getty_coordinates|link=none}}{{#show:[[Ort:Quedlinburg]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5496,10 +5695,10 @@ Die Lebensbeschreibungen der Königin Mathilde, ed. Bernd Schütte (MGH SS rer. 
    </page><page>
       <title>Vita s. Adalhardi abbatis Corbeiensis</title>
       <ns>0</ns>
-      <id>3043</id>
+      <id>3044</id>
       <revision>
-         <id>3043</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3044</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5516,7 +5715,7 @@ Die Lebensbeschreibungen der Königin Mathilde, ed. Bernd Schütte (MGH SS rer. 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ratpert von Corbie]]
 |Lebensdaten=Ratpert von Corbie: {{#show: Ratpert von Corbie |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Corbie]]
+|abgefasst in=[[abgefasst in::Corbie]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Corbie]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5612,10 +5811,10 @@ Ex vita Adalhard, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 524-
    </page><page>
       <title>Vita s. Arnulfi Suessionensis</title>
       <ns>0</ns>
-      <id>3044</id>
+      <id>3045</id>
       <revision>
-         <id>3044</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3045</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5632,7 +5831,7 @@ Ex vita Adalhard, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 524-
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Bf. Lisiard von Soissons]]; [[abgefasst von::Abt Hairulf von Oudenburg]]
 |Lebensdaten=Bf. Lisiard von Soissons: {{#show: Bf. Lisiard von Soissons |?Lebensdaten | link=none}}; Abt Hairulf von Oudenburg: {{#show: Abt Hairulf von Oudenburg |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Oudenburg (Flandern)]]
+|abgefasst in=[[abgefasst in::Oudenburg (Flandern)]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Oudenburg (Flandern)]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5725,10 +5924,10 @@ Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. O
    </page><page>
       <title>Vita s. Bennonis II episcopi Osnabrugensis</title>
       <ns>0</ns>
-      <id>3045</id>
+      <id>3046</id>
       <revision>
-         <id>3045</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3046</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5745,7 +5944,7 @@ Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. O
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Norbert von Iburg]]
 |Lebensdaten=Norbert von Iburg: {{#show: Norbert von Iburg |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Iburg]]
+|abgefasst in=[[abgefasst in::Iburg]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Iburg]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5841,10 +6040,10 @@ Vita Bennonis II. episcopi Osnabrvgensis avctore Nortberto abbate Ibvrgensi, ed.
    </page><page>
       <title>Vita s. Eigilis abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3046</id>
+      <id>3047</id>
       <revision>
-         <id>3046</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3047</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5861,7 +6060,7 @@ Vita Bennonis II. episcopi Osnabrvgensis avctore Nortberto abbate Ibvrgensi, ed.
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Bruun]]
 |Lebensdaten=Bruun: {{#show: Bruun |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Fulda]]
+|abgefasst in=[[abgefasst in::Fulda]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Fulda]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -5957,10 +6156,10 @@ Vita Eigilis abbatis Fuldensis auctore Candido, ed. Georg Waitz, in: MGH SS 15,1
    </page><page>
       <title>Vita s. Hugonis abbatis</title>
       <ns>0</ns>
-      <id>3047</id>
+      <id>3048</id>
       <revision>
-         <id>3047</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3048</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5977,7 +6176,7 @@ Vita Eigilis abbatis Fuldensis auctore Candido, ed. Georg Waitz, in: MGH SS 15,1
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Rainald von Vézelay]]
 |Lebensdaten=Rainald von Vézelay: {{#show: Rainald von Vézelay |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Cluny]]
+|abgefasst in=[[abgefasst in::Cluny]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6073,10 +6272,10 @@ Ex vita Hugonis auctore Rainaldo, ed. Lothar von Heinemann, in: MGH SS 15,2, Han
    </page><page>
       <title>Vita s. Lebuini</title>
       <ns>0</ns>
-      <id>3048</id>
+      <id>3049</id>
       <revision>
-         <id>3048</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3049</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6093,7 +6292,7 @@ Ex vita Hugonis auctore Rainaldo, ed. Lothar von Heinemann, in: MGH SS 15,2, Han
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Hucbald von St. Armand]]
 |Lebensdaten=Hucbald von St. Armand: {{#show: Hucbald von St. Armand |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Saint-Amand-les-Eaux]]
+|abgefasst in=[[abgefasst in::Saint-Amand-les-Eaux]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Saint-Amand-les-Eaux]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6198,10 +6397,10 @@ Ex vita sancti Lebuini auctore Hucbaldo monacho s. Armandi, ed. Georg Heinrich P
    </page><page>
       <title>Vita s. Liudgeri episcopi Mimigardenfordensis</title>
       <ns>0</ns>
-      <id>3049</id>
+      <id>3050</id>
       <revision>
-         <id>3049</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3050</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6218,7 +6417,7 @@ Ex vita sancti Lebuini auctore Hucbaldo monacho s. Armandi, ed. Georg Heinrich P
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Altfried von Münster]]
 |Lebensdaten=Altfried von Münster: {{#show: Altfried von Münster |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Münster]]
+|abgefasst in=[[abgefasst in::Münster]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Münster]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6317,10 +6516,10 @@ Altfridi vita sancti Liudgeri, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 
    </page><page>
       <title>Vita s. Sturmi abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3050</id>
+      <id>3051</id>
       <revision>
-         <id>3050</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3051</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6337,7 +6536,7 @@ Altfridi vita sancti Liudgeri, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Eigil von Fulda]]
 |Lebensdaten=Eigil von Fulda: {{#show: Eigil von Fulda |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Fulda]]
+|abgefasst in=[[abgefasst in::Fulda]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Fulda]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6433,10 +6632,10 @@ Eigilis vita sancit Sturmi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 182
    </page><page>
       <title>Vita s. Godehardi</title>
       <ns>0</ns>
-      <id>3051</id>
+      <id>3052</id>
       <revision>
-         <id>3051</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3052</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6453,7 +6652,7 @@ Eigilis vita sancit Sturmi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 182
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Wolfher von Hildesheim]]
 |Lebensdaten=Wolfher von Hildesheim: {{#show: Wolfher von Hildesheim |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Hildesheim]][[Abfassungsort::Niederalteich]][[Abfassungsort::Hersfeld]]
+|abgefasst in=[[abgefasst in::Hildesheim]][[abgefasst in::Niederalteich]][[abgefasst in::Hersfeld]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Hildesheim]]|?getty_coordinates|link=none}}{{#show:[[Ort:Niederalteich]]|?getty_coordinates|link=none}}{{#show:[[Ort:Hersfeld]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6555,10 +6754,10 @@ Wolferi vita Godehardi episcopi piror, ed. Georg Heinrich Pertz, in: MGH SS 11, 
    </page><page>
       <title>Vita s. Leudegardi</title>
       <ns>0</ns>
-      <id>3052</id>
+      <id>3053</id>
       <revision>
-         <id>3052</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3053</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6575,7 +6774,7 @@ Wolferi vita Godehardi episcopi piror, ed. Georg Heinrich Pertz, in: MGH SS 11, 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ursinus von Ligugé]]
 |Lebensdaten=Ursinus von Ligugé: {{#show: Ursinus von Ligugé |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Saint-Maixent (Niort)]]
+|abgefasst in=[[abgefasst in::Saint-Maixent (Niort)]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Saint-Maixent (Niort)]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6677,10 +6876,10 @@ Passio Leudegarii episcopi Augustodunensis auctore Ursino, ed. Bruno Krusch, in:
    </page><page>
       <title>Vita s. Otmari</title>
       <ns>0</ns>
-      <id>3053</id>
+      <id>3054</id>
       <revision>
-         <id>3053</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3054</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6697,7 +6896,7 @@ Passio Leudegarii episcopi Augustodunensis auctore Ursino, ed. Bruno Krusch, in:
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Walahfrid]]
 |Lebensdaten=Walahfrid: {{#show: Walahfrid |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6796,10 +6995,10 @@ Walafride Strabonis vita sancti Otmari abbatis Sangallensis, ed. Ildefons von Ar
    </page><page>
       <title>Relatio de miraculis sancti Othmari</title>
       <ns>0</ns>
-      <id>3054</id>
+      <id>3055</id>
       <revision>
-         <id>3054</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3055</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6816,7 +7015,7 @@ Walafride Strabonis vita sancti Otmari abbatis Sangallensis, ed. Ildefons von Ar
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Iso von St. Gallen]]
 |Lebensdaten=Iso von St. Gallen: {{#show: Iso von St. Gallen |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::St. Gallen]]
+|abgefasst in=[[abgefasst in::St. Gallen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:St. Gallen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -6912,10 +7111,10 @@ Ysonis de miraculis s. Otmari libri II, ed. Ildefons von Arx, in: MGH SS 2, Hann
    </page><page>
       <title>Rhythmi de sancto Otmaro</title>
       <ns>0</ns>
-      <id>3055</id>
+      <id>3056</id>
       <revision>
-         <id>3055</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3056</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6932,7 +7131,7 @@ Ysonis de miraculis s. Otmari libri II, ed. Ildefons von Arx, in: MGH SS 2, Hann
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ekkehard IV. von St. Gallen]]
 |Lebensdaten=Ekkehard IV. von St. Gallen: {{#show: Ekkehard IV. von St. Gallen |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::St. Gallen]]
+|abgefasst in=[[abgefasst in::St. Gallen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:St. Gallen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7043,10 +7242,10 @@ Rhythmi de sancto Otmaro, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Vita sancti Willibrordi Traiectensis episcopi</title>
       <ns>0</ns>
-      <id>3056</id>
+      <id>3057</id>
       <revision>
-         <id>3056</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3057</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7063,7 +7262,7 @@ Rhythmi de sancto Otmaro, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Alkuin von Tours]]
 |Lebensdaten=Alkuin von Tours: {{#show: Alkuin von Tours |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Tours]]
+|abgefasst in=[[abgefasst in::Tours]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Tours]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7158,10 +7357,10 @@ Abfassungszeit=760-797
    </page><page>
       <title>Vita s. Galli</title>
       <ns>0</ns>
-      <id>3057</id>
+      <id>3058</id>
       <revision>
-         <id>3057</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3058</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7178,7 +7377,7 @@ Abfassungszeit=760-797
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Wetti von der Reichenau]]
 |Lebensdaten=Wetti von der Reichenau: {{#show: Wetti von der Reichenau |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Reichenau]]
+|abgefasst in=[[abgefasst in::Reichenau]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Reichenau]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7280,10 +7479,10 @@ Vita sancti Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 1-21  G
    </page><page>
       <title>Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris</title>
       <ns>0</ns>
-      <id>3058</id>
+      <id>3059</id>
       <revision>
-         <id>3058</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3059</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7300,7 +7499,7 @@ Vita sancti Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 1-21  G
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ermenrich von Ellwangen]]
 |Lebensdaten=Ermenrich von Ellwangen: {{#show: Ermenrich von Ellwangen |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Reichenau]]
+|abgefasst in=[[abgefasst in::Reichenau]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Reichenau]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7413,10 +7612,10 @@ Ermenrici coenobitae Augiensis tentamen vitae s. Galli adornandae in prosa et me
    </page><page>
       <title>Chronica de sex aetatibus mundi</title>
       <ns>0</ns>
-      <id>3059</id>
+      <id>3060</id>
       <revision>
-         <id>3059</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3060</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7433,7 +7632,7 @@ Ermenrici coenobitae Augiensis tentamen vitae s. Galli adornandae in prosa et me
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7541,10 +7740,10 @@ Chronica de sex aetatibus mundi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannove
    </page><page>
       <title>Abbatum s. Galli catalogus</title>
       <ns>0</ns>
-      <id>3060</id>
+      <id>3061</id>
       <revision>
-         <id>3060</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3061</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7561,7 +7760,7 @@ Chronica de sex aetatibus mundi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannove
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::St. Gallen]]
+|abgefasst in=[[abgefasst in::St. Gallen]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:St. Gallen]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7673,10 +7872,10 @@ Abbatum s. Galli catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S
    </page><page>
       <title>Abbates monasterii Augensis catalogus</title>
       <ns>0</ns>
-      <id>3061</id>
+      <id>3062</id>
       <revision>
-         <id>3061</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3062</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7693,7 +7892,7 @@ Abbatum s. Galli catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Reichenau]]
+|abgefasst in=[[abgefasst in::Reichenau]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Reichenau]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7808,10 +8007,10 @@ Abbatum monasterii Augensis catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
    </page><page>
       <title>Episcoporum Constantiensium catalogus</title>
       <ns>0</ns>
-      <id>3062</id>
+      <id>3063</id>
       <revision>
-         <id>3062</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3063</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7828,7 +8027,7 @@ Abbatum monasterii Augensis catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Konstanz]]
+|abgefasst in=[[abgefasst in::Konstanz]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Konstanz]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -7940,10 +8139,10 @@ Episcoporum Constantiensium catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
    </page><page>
       <title>Vita s. Bonifatii</title>
       <ns>0</ns>
-      <id>3063</id>
+      <id>3064</id>
       <revision>
-         <id>3063</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3064</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7960,7 +8159,7 @@ Episcoporum Constantiensium catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Willibald von Mainz]]
 |Lebensdaten=Willibald von Mainz: {{#show: Willibald von Mainz |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Mainz]]
+|abgefasst in=[[abgefasst in::Mainz]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Mainz]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8053,10 +8252,10 @@ Vita s. Bonifatii archiepiscopi auctore Willibaldo presbytero, ed. Georg Heinric
    </page><page>
       <title>Chronicon Aquitanicum</title>
       <ns>0</ns>
-      <id>3064</id>
+      <id>3065</id>
       <revision>
-         <id>3064</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3065</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8073,7 +8272,7 @@ Vita s. Bonifatii archiepiscopi auctore Willibaldo presbytero, ed. Georg Heinric
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8175,10 +8374,10 @@ Chronicon Aquitanicum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S.
    </page><page>
       <title>Vita s. Idae</title>
       <ns>0</ns>
-      <id>3065</id>
+      <id>3066</id>
       <revision>
-         <id>3065</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3066</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8195,7 +8394,7 @@ Chronicon Aquitanicum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S.
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Uffing von Werden]]
 |Lebensdaten=Uffing von Werden: {{#show: Uffing von Werden |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Kloster Werden an der Ruhr]]
+|abgefasst in=[[abgefasst in::Kloster Werden an der Ruhr]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Kloster Werden an der Ruhr]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8300,10 +8499,10 @@ Ex vita s. Idae auctore Uffingo monacho Werthiniensi, ed. Georg Heinrich Pertz, 
    </page><page>
       <title>Vita sanctae Chrothildis</title>
       <ns>0</ns>
-      <id>3066</id>
+      <id>3067</id>
       <revision>
-         <id>3066</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3067</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8320,7 +8519,7 @@ Ex vita s. Idae auctore Uffingo monacho Werthiniensi, ed. Georg Heinrich Pertz, 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Adso von Montiér-en-Der]]
 |Lebensdaten=Adso von Montiér-en-Der: {{#show: Adso von Montiér-en-Der |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Abtei Montiér-en-Der]]
+|abgefasst in=[[abgefasst in::Abtei Montiér-en-Der]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abtei Montiér-en-Der]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8434,10 +8633,10 @@ Vita sanctae Chrothildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1
    </page><page>
       <title>Vita sancti Arnulfi</title>
       <ns>0</ns>
-      <id>3067</id>
+      <id>3068</id>
       <revision>
-         <id>3067</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3068</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8454,7 +8653,7 @@ Vita sanctae Chrothildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Metz]]
+|abgefasst in=[[abgefasst in::Metz]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Metz]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8550,10 +8749,10 @@ Vita sancti Arnulfi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1888, 
    </page><page>
       <title>Genealogia regum Francorum</title>
       <ns>0</ns>
-      <id>3068</id>
+      <id>3069</id>
       <revision>
-         <id>3068</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3069</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8570,7 +8769,7 @@ Vita sancti Arnulfi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1888, 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8654,10 +8853,10 @@ Regum Francorum genealogiae, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 18
    </page><page>
       <title>Vitae sanctorum Columbani</title>
       <ns>0</ns>
-      <id>3069</id>
+      <id>3070</id>
       <revision>
-         <id>3069</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3070</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8674,7 +8873,7 @@ Regum Francorum genealogiae, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 18
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Ionas]]
 |Lebensdaten=Ionas: {{#show: Ionas |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8758,10 +8957,10 @@ Vitae Columbani abbatis discipulorumque eius libri II, ed. Bruno Krusch, in: MGH
    </page><page>
       <title>Chronicon sancti Martini Coloniensis</title>
       <ns>0</ns>
-      <id>3070</id>
+      <id>3071</id>
       <revision>
-         <id>3070</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3071</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8778,7 +8977,7 @@ Vitae Columbani abbatis discipulorumque eius libri II, ed. Bruno Krusch, in: MGH
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Köln]]
+|abgefasst in=[[abgefasst in::Köln]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Köln]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8877,10 +9076,10 @@ Chronicon Sancti Martini Coloniensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Ha
    </page><page>
       <title>Annales breves Fuldenses</title>
       <ns>0</ns>
-      <id>3071</id>
+      <id>3072</id>
       <revision>
-         <id>3071</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3072</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8897,7 +9096,7 @@ Chronicon Sancti Martini Coloniensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Ha
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -8993,10 +9192,10 @@ Annales breves Fuldenses ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, 
    </page><page>
       <title>Vita S. Rimberti archiepiscopi Hammaburgensis</title>
       <ns>0</ns>
-      <id>3072</id>
+      <id>3073</id>
       <revision>
-         <id>3072</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3073</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9013,7 +9212,7 @@ Annales breves Fuldenses ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9100,10 +9299,10 @@ Vita s. Rimberti ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 764-7
    </page><page>
       <title>Translatio s. Pusinnae</title>
       <ns>0</ns>
-      <id>3073</id>
+      <id>3074</id>
       <revision>
-         <id>3073</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3074</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9120,7 +9319,7 @@ Vita s. Rimberti ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 764-7
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9164,10 +9363,10 @@ Ex historia translationis sanctae Pusinnae ed. Georg Heinrich Pertz, in: MGH SS 
    </page><page>
       <title>Historia translationis s. Viti</title>
       <ns>0</ns>
-      <id>3074</id>
+      <id>3075</id>
       <revision>
-         <id>3074</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3075</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9184,7 +9383,7 @@ Ex historia translationis sanctae Pusinnae ed. Georg Heinrich Pertz, in: MGH SS 
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9228,10 +9427,10 @@ Historia translationis s. Viti, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
    </page><page>
       <title>Passio sancti Sigismundi regis</title>
       <ns>0</ns>
-      <id>3075</id>
+      <id>3076</id>
       <revision>
-         <id>3075</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3076</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9248,7 +9447,7 @@ Historia translationis s. Viti, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9332,10 +9531,10 @@ Passio sancti Sigismundi regis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hann
    </page><page>
       <title>Gesta Theoderici regis. Vita ex Aimoino hausta</title>
       <ns>0</ns>
-      <id>3076</id>
+      <id>3077</id>
       <revision>
-         <id>3076</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3077</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9352,7 +9551,7 @@ Passio sancti Sigismundi regis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hann
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Aimoin von Fleury]]
 |Lebensdaten=Aimoin von Fleury: {{#show: Aimoin von Fleury |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Saint-Benoît-sur-Loire]]
+|abgefasst in=[[abgefasst in::Saint-Benoît-sur-Loire]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Saint-Benoît-sur-Loire]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9466,10 +9665,10 @@ Gesta Theoderici regis. Vita ex Aimoino hausta, ed. Bruno Krusch, in: MGH SS rer
    </page><page>
       <title>Vita s. Radegundis</title>
       <ns>0</ns>
-      <id>3077</id>
+      <id>3078</id>
       <revision>
-         <id>3077</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3078</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9486,7 +9685,7 @@ Gesta Theoderici regis. Vita ex Aimoino hausta, ed. Bruno Krusch, in: MGH SS rer
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9530,10 +9729,10 @@ De vita sanctae Radegundis libri duo, ed. Bruno Krusch, in: MGH SS rer. Merov. 2
    </page><page>
       <title>Vita sancti Chlodovaldi</title>
       <ns>0</ns>
-      <id>3078</id>
+      <id>3079</id>
       <revision>
-         <id>3078</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3079</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9550,7 +9749,7 @@ De vita sanctae Radegundis libri duo, ed. Bruno Krusch, in: MGH SS rer. Merov. 2
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9594,10 +9793,10 @@ Vita sancti Chlodovaldi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita s. Geretrudis</title>
       <ns>0</ns>
-      <id>3079</id>
+      <id>3080</id>
       <revision>
-         <id>3079</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3080</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9614,7 +9813,7 @@ Vita sancti Chlodovaldi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9658,10 +9857,10 @@ Vita sanctae Geretrudis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita sanctae Balthildis</title>
       <ns>0</ns>
-      <id>3080</id>
+      <id>3081</id>
       <revision>
-         <id>3080</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3081</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9678,7 +9877,7 @@ Vita sanctae Geretrudis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9762,10 +9961,10 @@ Vita sanctae Balthildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita Dagoberti III. regis Francorum</title>
       <ns>0</ns>
-      <id>3081</id>
+      <id>3082</id>
       <revision>
-         <id>3081</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3082</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9782,7 +9981,7 @@ Vita sanctae Balthildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -9872,10 +10071,10 @@ Vita Dagoberti III. regis Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2,
    </page><page>
       <title>Annales S. Albani Moguntini</title>
       <ns>0</ns>
-      <id>3082</id>
+      <id>3083</id>
       <revision>
-         <id>3082</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3083</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9892,7 +10091,7 @@ Vita Dagoberti III. regis Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2,
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Mainz]]
+|abgefasst in=[[abgefasst in::Mainz]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Mainz]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -10006,10 +10205,10 @@ Annales Wirziburgenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S
    </page><page>
       <title>Gesta Theoderici regis. Vita Fuldensis</title>
       <ns>0</ns>
-      <id>3083</id>
+      <id>3084</id>
       <revision>
-         <id>3083</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3084</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10026,7 +10225,7 @@ Annales Wirziburgenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Fulda]]
+|abgefasst in=[[abgefasst in::Fulda]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Fulda]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -10122,10 +10321,10 @@ Gesta Theoderici regis. Vita Fuldensis, ed. Bruno Krusch, in: MGH SS rer. Merov.
    </page><page>
       <title>Historiae Francorum libri quatuor</title>
       <ns>0</ns>
-      <id>3084</id>
+      <id>3085</id>
       <revision>
-         <id>3084</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3085</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10142,7 +10341,7 @@ Gesta Theoderici regis. Vita Fuldensis, ed. Bruno Krusch, in: MGH SS rer. Merov.
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Aimoin von Fleury]]
 |Lebensdaten=Aimoin von Fleury: {{#show: Aimoin von Fleury |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Saint-Benoît-sur-Loire]]
+|abgefasst in=[[abgefasst in::Saint-Benoît-sur-Loire]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Saint-Benoît-sur-Loire]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -10269,7 +10468,7 @@ Aimoini historiae Francorum libri quatuor, ed. Jacques-Paul Migne, in: PL 139, P
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Historiae Francorum libri quatuor]]
+[[Werk::Historiae Francorum libri quatuor]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -10300,10 +10499,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon Novaliciense</title>
       <ns>0</ns>
-      <id>3085</id>
+      <id>3086</id>
       <revision>
-         <id>3085</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3086</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10320,7 +10519,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Kloster Novalesa]]
+|abgefasst in=[[abgefasst in::Kloster Novalesa]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Kloster Novalesa]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -10505,7 +10704,7 @@ Chronicon Novaliciense, ed. Ludwig Konrad Bethmann, in: MGH SS 7, Hannover 1846,
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Chronicon Novaliciense]]
+[[Werk::Chronicon Novaliciense]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -10536,10 +10735,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon Moissiacense</title>
       <ns>0</ns>
-      <id>3086</id>
+      <id>3087</id>
       <revision>
-         <id>3086</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3087</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10556,7 +10755,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Kloster Moissac]]
+|abgefasst in=[[abgefasst in::Kloster Moissac]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Kloster Moissac]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -10724,7 +10923,7 @@ Chronicon Moissiacense, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Chronicon Moissiacense]]
+[[Werk::Chronicon Moissiacense]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -10755,10 +10954,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historiarum libri IV</title>
       <ns>0</ns>
-      <id>3087</id>
+      <id>3088</id>
       <revision>
-         <id>3087</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3088</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10775,7 +10974,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::Richer von Saint-Remi]]
 |Lebensdaten=Richer von Saint-Remi: {{#show: Richer von Saint-Remi |?Lebensdaten | link=none}}
-|abgefasst in=[[Abfassungsort::Reims]]
+|abgefasst in=[[abgefasst in::Reims]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Reims]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -10883,7 +11082,7 @@ Richer von Saint-Remi, Historiarum libri IV ed. Hartmut Hoffmann (MGH SS 38), Ha
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Historiarum libri IV]]
+[[Werk::Historiarum libri IV]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -10914,10 +11113,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronica Muzarabica</title>
       <ns>0</ns>
-      <id>3088</id>
+      <id>3089</id>
       <revision>
-         <id>3088</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3089</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10934,7 +11133,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Toledo]]
+|abgefasst in=[[abgefasst in::Toledo]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Toledo]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -11326,7 +11525,7 @@ Abfassungszeit=um 754
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Chronica Muzarabica]]
+[[Werk::Chronica Muzarabica]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -11357,10 +11556,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Gregorii abbatis prior</title>
       <ns>0</ns>
-      <id>3089</id>
+      <id>3090</id>
       <revision>
-         <id>3089</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3090</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11377,7 +11576,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -11479,7 +11678,7 @@ Vita Gregorii abbatis prior, ed. Oswald Holder-Egger, in: MGH SS 15,2, Hannover 
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita Gregorii abbatis prior]]
+[[Werk::Vita Gregorii abbatis prior]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -11510,10 +11709,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Gregorii abbatis porcetensis posterior</title>
       <ns>0</ns>
-      <id>3090</id>
+      <id>3091</id>
       <revision>
-         <id>3090</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3091</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11530,7 +11729,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Burtscheid]]
+|abgefasst in=[[abgefasst in::Burtscheid]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Burtscheid]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -11634,7 +11833,7 @@ Vita Gregorii abbatis porcetensis posterior, ed. Oswald Holder-Egger, in: MGH SS
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Vita Gregorii abbatis porcetensis posterior]]
+[[Werk::Vita Gregorii abbatis porcetensis posterior]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -11665,10 +11864,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Mettenses priores</title>
       <ns>0</ns>
-      <id>3091</id>
+      <id>3092</id>
       <revision>
-         <id>3091</id>
-         <timestamp>2021-01-21T18:47:19Z</timestamp>
+         <id>3092</id>
+         <timestamp>2021-02-04T12:12:50Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11685,7 +11884,7 @@ Sarazenenbezug=ja
 |Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
 |VerfasserIn=[[abgefasst von::VerfasserIn unbekannt]]
 |Lebensdaten=unbekannt
-|abgefasst in=[[Abfassungsort::Abfassungsort Unbekannt]]
+|abgefasst in=[[abgefasst in::Abfassungsort Unbekannt]]
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten={{#show:[[Ort:Abfassungsort Unbekannt]]|?getty_coordinates|link=none}}
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
@@ -11856,7 +12055,7 @@ Annales Mettenses priores, ed. Bernhard von Simson (MGH SS rer. Germ. [10]), Han
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::Annales Mettenses priores]]
+[[Werk::Annales Mettenses priores]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn

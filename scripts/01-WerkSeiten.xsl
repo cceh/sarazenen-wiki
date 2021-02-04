@@ -63,7 +63,7 @@
                     <xsl:when test=". eq 'unbekannt'">Abfassungsort Unbekannt</xsl:when>
                     <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
                 </xsl:choose></xsl:variable>
-                <xsl:value-of select="concat('[[Abfassungsort::',$place,']]')"/>
+                <xsl:value-of select="concat('[[abgefasst in::',$place,']]')"/>
             </xsl:for-each></xsl:variable>
         <xsl:variable name="abfssungsort-set">
             <xsl:for-each select="./Abfassungsort/Ort">
@@ -175,7 +175,7 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
+[[Werk::<xsl:value-of select="WerkTitel"/>]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
