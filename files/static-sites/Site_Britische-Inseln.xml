@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><page><meta><title>Britische Inseln</title><type>Site</type><id/><categories><category>Abfassungsregion</category></categories><rules><rule/></rules></meta><text><wikisyntax>
+<?xml version="1.0" encoding="UTF-8"?><page><meta><title>Britische Inseln</title><type>Site</type><id/><categories><category>Abfassungsregion</category></categories><rules><rule/></rules></meta><text>
+Die Abfassungsregion Britische Inseln umfasst sämtliche Gebiete rund um die Irische See, die räumlich aufgrund ihrer Insellage von Kontinentaleuropa getrennt sind und im Mittelalter durch die angelsächsische und keltische Kultur geprägt waren.
+                            <wikisyntax>
                             {{#ask: [[Abfassungsregion::Britische Inseln]] 
                             |?Abfassungsort
                             |format=broadtable

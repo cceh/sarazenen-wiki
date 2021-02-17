@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><page><meta><title>Iberische Halbinsel</title><type>Site</type><id/><categories><category>Abfassungsregion</category></categories><rules><rule/></rules></meta><text><wikisyntax>
+<?xml version="1.0" encoding="UTF-8"?><page><meta><title>Iberische Halbinsel</title><type>Site</type><id/><categories><category>Abfassungsregion</category></categories><rules><rule/></rules></meta><text>
+Die Abfassungsregion Iberische Halbinsel umfasst die Gebiete des heutigen Spaniens und Portugals. Als natürliche Grenze trennen im Norden die Pyrenäen die Region vom übrigen Europa. Dadurch, dass weite Teile der Iberischen Halbinsel fast das gesamte Früh- und Hochmittelalter hindurch unter muslimischer Herrschaft standen, wurde diese Region, al-Andalus genannt, in kultureller Hinsicht auch durch arabische und berberische Einflüsse sowie dem Zusammenleben von Christen, Muslime und Juden geprägt.
+                            <wikisyntax>
                             {{#ask: [[Abfassungsregion::Iberische Halbinsel]] 
                             |?Abfassungsort
                             |format=broadtable
