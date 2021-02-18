@@ -263,8 +263,40 @@
                     | datiert auf= <xsl:value-of select="$datierung"/>
                     | Datum laut Werk=<xsl:value-of select="$datierungQuelle"/>
                     | Inhaltsangabe=<xsl:value-of select="replace(replace($inhalt,'\&#93;',''),'\&#91;','')"/>
-                    | Abfassungsregion={{#show:{{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}|?Abfassungsregion|link=none}}
-                    | aus dem Werk=<xsl:value-of select="$parent/WerkTitel"/>
+                    | Abfassungsregion={{#ask:
+[[{{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}]]
+|format=array
+|?Abfassungsregion=
+|link=none
+|sep=|
+|propsep=|
+|manysep=,
+|pagetitle=hide
+}}|+sep=,
+
+                    | aus dem Werk=<xsl:value-of select="$parent/WerkTitel"/>                   
+|abgefasst in={{#ask:
+[[{{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}]]
+|format=array
+|?abgefasst in=
+|link=none
+|sep=|
+|propsep=|
+|manysep=,
+|pagetitle=hide
+}}|+sep=,
+
+ |abgefasst von = {{#ask:
+[[{{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}]]
+|format=array
+|?abgefasst von=
+|link=none
+|sep=|
+|propsep=|
+|manysep=,
+|pagetitle=hide
+}}|+sep=,
+
                     }}
                     
 <xsl:value-of select="$index"/>
@@ -336,8 +368,8 @@
         <xsl:variable name="ia" select="./@id/data(.)"/> 
         <xsl:variable name="img" >
             <xsl:choose>
-                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie.png|1em|Beschreibung]]</xsl:when>
-                <xsl:when test="./@type eq 'Person'">[[Datei:Personen1.png|1em|Beschreibung]]</xsl:when>
+                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie.png|25px|Beschreibung]]</xsl:when>
+                <xsl:when test="./@type eq 'Person'">[[Datei:Personen1.png|25px|Beschreibung]]</xsl:when>
             </xsl:choose>
         </xsl:variable>
         <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text><xsl:value-of select="$img"/><xsl:text>&#x200b;]</xsl:text>

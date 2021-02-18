@@ -218,3 +218,4 @@ wfLoadExtension( 'CategoryTree' );
 wfLoadExtension( 'Maps' );
 
 
+$srfgFormats[] ='incoming';

@@ -15,7 +15,9 @@
                 &lt;div class="infobox infobox-verfasserin float-right"&gt;
                     {| class="wikitable"
                     |- class="head"
-                    !colspan="2"| {{{Name}}}{{#if:{{{Alternativnamen|}}}
+                    |rowspan=&quot;3&quot;|[[Datei:VerfasserIn.jpg|100px]]                    
+                    !colspan="3"| {{{Name}}}
+                    {{#if:{{{Alternativnamen|}}} |
                     {{!}}-
                     {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
                     {{!}} {{{Alternativnamen}}} }}
@@ -28,7 +30,7 @@
                     {{!}} Lebensdaten
                     {{!}} {{{Lebensdaten}}} }}
                     |- class="subhead"
-                    |colspan="2"| Normdaten
+                    |colspan="3"| Normdaten
                     {{#if:{{{gnd_id|}}} |
                     {{!}}-
                     {{!}} GND{{#info:Gemeinsame Normdatei}}

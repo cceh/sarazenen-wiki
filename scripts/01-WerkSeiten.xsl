@@ -175,7 +175,7 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 }}
 === Datierung ===
 {{#ask:
-[[Werk::<xsl:value-of select="WerkTitel"/>]]
+[[aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
                         [[Zeitangabe::+]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn

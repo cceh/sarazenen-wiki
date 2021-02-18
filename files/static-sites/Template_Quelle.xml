@@ -65,6 +65,12 @@
                 {{#if:{{{VerfasserIn|}}} |  
                 {{!}} VerfasserIn
                 {{!}} {{{VerfasserIn}}} }}
+                
+                |- 
+                {{#if:{{{abgefasst in|}}} |  
+                {{!}} abgefasst in
+                {{!}} {{{abgefasst in}}} }} 
+                
                 |}
                 &lt;/div&gt;&lt;/onlyinclude&gt;
             </wikisyntax>

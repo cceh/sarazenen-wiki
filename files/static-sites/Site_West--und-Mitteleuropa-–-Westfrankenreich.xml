@@ -2,28 +2,6 @@
 Unter der Abfassungsregion West- und Mitteleuropa – Ostfrankenreich sind alle Werke aufgeführt, die nach der Teilung des fränkischen Großreiches 843 im Vertrag von Verdun im Westreich verfasst wurden. Die Region umfasst damit den Herrschaftsbereich der westfränkischen Könige, dies entspricht in etwa den Staatsgebieten des heutigen Frankreichs und Belgiens.
 Bei der Teilung von 843 wurde das Reich unter den Söhnen Ludwigs des Frommen in drei Herrschaftsgebiete geteilt. Da jedoch das Mittelreich bald darauf zerfiel und nur der West- und der Ostteil herrschaftliche Kontinuitäten bilden konnten, wurde für die Einteilung der Region West- und Mitteleuropa nach 843 von einer Dreiteilung abgesehen und stattdessen eine Zweiteilung in die Regionen West- und Mitteleuropa – Westfrankenreich und West- und Mitteleuropa – Ostfrankenreich vorgenommen. Diese Regionen umfassen im Kern die Herrschaftsgebiete der west- bzw. ostfränkischen Könige sowie die Regionen, die unter ihrem machtpolitischen Einfluss standen – wie etwa Burgund.
                         <wikisyntax>
-                            {{#ask: [[Abfassungsregion::West- und Mitteleuropa – Westfrankenreich]] 
-                            |?Abfassungsort
-                            |format=broadtable
-                            |limit=500
-                            |offset=0
-                            |link=all
-                            |sort=
-                            |order=asc
-                            |headers=show
-                            |searchlabel=… weitere Ergebnisse
-                            |class=sortable wikitable smwtable
-                            }}
-                            {{#ask: [[Abfassungsregion::West- und Mitteleuropa – Westfrankenreich]] 
-                            [[Kategorie:Ort]]
-                            |format=broadtable
-                            |limit=500
-                            |offset=0
-                            |link=all
-                            |sort=
-                            |order=asc
-                            |headers=show
-                            |searchlabel=… weitere Ergebnisse
-                            |class=sortable wikitable smwtable
+                            {{Template:Abfassungsregion
                             }}
                         </wikisyntax></text></page>

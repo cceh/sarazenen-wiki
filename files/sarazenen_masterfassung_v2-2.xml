@@ -5531,7 +5531,7 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       <Ort id="1055a680-5bfc-42f8-852c-2c4cbf632c5d">
          <Id>1055a680-5bfc-42f8-852c-2c4cbf632c5d</Id>
          <Name>Reichenau</Name>
-         <Typ>Region</Typ>
+         <Typ>Ort</Typ>
          <Typ>Kloster</Typ>
          <Alternativnamen>
             <Name>Kloster Reichenau</Name>
@@ -5901,7 +5901,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       <Ort id="6aa58bc1-0f08-46d0-8c79-52f16ea15523">
          <Id>6aa58bc1-0f08-46d0-8c79-52f16ea15523</Id>
          <Name>Cannae bei Barletta</Name>
-         <Typ>Region</Typ>
          <Typ>Ort</Typ>
          <Alternativnamen>
             <Name>Canne della Battaglia</Name>
@@ -6032,7 +6031,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       <Ort id="54442af7-dc17-4859-aa1b-59a6ba9d343e">
          <Id>54442af7-dc17-4859-aa1b-59a6ba9d343e</Id>
          <Name>Tarent</Name>
-         <Typ>Region</Typ>
          <Typ>Ort</Typ>
          <Alternativnamen>
             <Name>Tarentum</Name>
@@ -6125,7 +6123,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       <Ort id="271d8da4-b87e-44a1-aba6-23f789d6ac58">
          <Id>271d8da4-b87e-44a1-aba6-23f789d6ac58</Id>
          <Name>Farfa</Name>
-         <Typ>Fluss</Typ>
          <Typ>Kloster</Typ>
          <Alternativnamen>
             <Name>Kloster Farfa</Name>
@@ -6891,7 +6888,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       <Ort id="f86ffeb9-65c1-4801-87df-c55539df3774">
          <Id>f86ffeb9-65c1-4801-87df-c55539df3774</Id>
          <Name>Salz</Name>
-         <Typ>Fluss</Typ>
          <Typ>Ort</Typ>
          <Alternativnamen>
             <Name>Hofgut Salz</Name>
@@ -7186,7 +7182,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
          <Name>R√©ome</Name>
          <Typ>Ort</Typ>
          <Typ>Kloster</Typ>
-         <Typ>Fluss</Typ>
          <Alternativnamen>
             <Name>Reomagensse</Name>
             <Name>R√©√¥me</Name>
@@ -7428,7 +7423,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
          <Id>bfc9db36-3ddf-4bb0-a3d6-6e93a08e1097</Id>
          <Name>Tarragona</Name>
          <Typ>Ort</Typ>
-         <Typ>Region</Typ>
          <Alternativnamen>
             <Name>Terraconam</Name>
          </Alternativnamen>
@@ -7878,7 +7872,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
          <Id>5eafded5-deb8-4008-9229-b14257e4f6e4</Id>
          <Name>Treviso</Name>
          <Typ>Ort</Typ>
-         <Typ>Region</Typ>
          <Alternativnamen>
             <Name>Tarvisiani</Name>
          </Alternativnamen>
@@ -8706,12 +8699,10 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       </Ort>
       <Ort id="9fb6fb12-b6bd-4d3c-bcbc-e7b719b89ea7">
          <Id>9fb6fb12-b6bd-4d3c-bcbc-e7b719b89ea7</Id>
-         <Name>Consenza</Name>
-         <Typ>Region</Typ>
+         <Name>Cosenza</Name>
          <Typ>Ort</Typ>
          <Alternativnamen>
-            <Name>Consentia</Name>
-            <Name>Cosenza</Name>
+            <Name>Cosentia</Name>
          </Alternativnamen>
          <getty_Id>7004274</getty_Id>
          <editorial_notes/>
@@ -8787,14 +8778,13 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       <Ort id="bd9db32a-0480-4278-a041-8a742c660937">
          <Id>bd9db32a-0480-4278-a041-8a742c660937</Id>
          <Name>Montecassino</Name>
-         <Typ>Ort</Typ>
          <Typ>Kloster</Typ>
-         <Typ>Berg</Typ>
          <Alternativnamen>
             <Name>Sanctum [‚Ä¶] Benedictum</Name>
             <Name>Benedicti coenobia</Name>
             <Name>coenobio Benedicti</Name>
             <Name>Abbazia di Montecassino</Name>
+            <Name>Abtei Montecassino</Name>
          </Alternativnamen>
          <getty_Id>7006732</getty_Id>
          <editorial_notes/>
@@ -8845,7 +8835,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
          <Name>Fulda</Name>
          <Typ>Ort</Typ>
          <Typ>Kloster</Typ>
-         <Typ>Fluss</Typ>
          <Alternativnamen>
             <Name>Kloster Fulda</Name>
          </Alternativnamen>
@@ -9104,7 +9093,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
          <Id>5e5c731e-5b60-4431-bce9-36708792162b</Id>
          <Name>Reggio</Name>
          <Typ>Ort</Typ>
-         <Typ>Region</Typ>
          <Alternativnamen>
             <Name>Regium</Name>
             <Name>Reggio di Calabria</Name>
@@ -9377,7 +9365,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
       <Ort id="c2d99316-789c-4aa3-80bb-42a968ee0f29">
          <Id>c2d99316-789c-4aa3-80bb-42a968ee0f29</Id>
          <Name>Nabath√§a</Name>
-         <Typ>Ort</Typ>
          <Typ>Region</Typ>
          <Alternativnamen>
             <Name>Nabathaea</Name>
@@ -9527,7 +9514,6 @@ Hier bitte strukturelle √Ñnderungen im Dokument festhalten. Alle strukturellen √
          <Id>070d1266-2d68-4033-9b63-088c71951c53</Id>
          <Name>Antarados</Name>
          <Typ>Ort</Typ>
-         <Typ>Region</Typ>
          <Alternativnamen>
             <Name>Tharrathas</Name>
             <Name>Tartus</Name>
@@ -29704,7 +29690,7 @@ Vgl. mit Hinweisen f√ºr weiterf√ºhrende Literatur: Hiram K√ºmper, Art. Annales B
             <Zitation>Annales Barenses a. 902, ed. Pertz 1844, S. 52.</Zitation>
             <ZeitangabeQuelle>902</ZeitangabeQuelle>
             <Inhaltsangabe>Emir Ibrahim II. von Ifriqiya √ºberf√§llt 902 Kalabrien und stirbt anschlie√üend [am 23.10.902] in Cosenza in der Kirche des Heiligen Pankratius.</Inhaltsangabe>
-            <VolltextOriginalsprache>Hoc anno descendit Habraam rex Saracenorum <entity id="1c7a214d-a1fc-4d49-88ad-3b41dee70d7c" type="Person">Emir Ibrahim II. von Ifriqiya</entity> in Calabriam <entity id="5fed8063-6730-4ad2-960c-7a7160d4838f" type="Ort">Kalabrien</entity>, et mortuus est in Cosentia <entity id="9fb6fb12-b6bd-4d3c-bcbc-e7b719b89ea7" type="Ort">Consenza</entity> in ecclesia santi Pacratii.</VolltextOriginalsprache>
+            <VolltextOriginalsprache>Hoc anno descendit Habraam rex Saracenorum <entity id="1c7a214d-a1fc-4d49-88ad-3b41dee70d7c" type="Person">Emir Ibrahim II. von Ifriqiya</entity> in Calabriam <entity id="5fed8063-6730-4ad2-960c-7a7160d4838f" type="Ort">Kalabrien</entity>, et mortuus est in Cosentia <entity id="9fb6fb12-b6bd-4d3c-bcbc-e7b719b89ea7" type="Ort">Cosenza</entity> in ecclesia santi Pacratii.</VolltextOriginalsprache>
             <VolltextUebersetzung/>
             <ZitationUebersetzung/>
             <ZeitangabeWissenschaft>

@@ -51,16 +51,22 @@
                 
                 {| class=&quot;wikitable&quot;
                 |- class=&quot;head&quot; 
-                !colspan=&quot;2&quot;| {{{Name}}}
+                |rowspan=&quot;3&quot;|[[Datei:Geographie.png|100px]]
+                !colspan=&quot;3&quot;| {{{Name}}}
                 
                 |- 
                 {{#if:{{{Alternativnamen|}}} |  
                 {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
                 {{!}} {{{Alternativnamen}}} }} 
                 
+                |- 
+                {{#if:{{{Typ|}}} |  
+                {{!}} Typ
+                {{!}} {{{Typ}}} }} 
+                
                 |-
                 {{#if:{{{getty_id|}}}{{{viaf_id|}}}{{{wikidata_id|}}} | 
-                {{!}}colspan=&quot;2&quot; class=&quot;subhead&quot; {{!}} Normdaten }}
+                {{!}}colspan=&quot;3&quot; class=&quot;subhead&quot; {{!}} Normdaten }}
                 
                 |-
                 {{#if:{{{getty_id|}}} |
@@ -79,12 +85,12 @@
                 
                 |-  
                 {{#if:{{{getty_coordinates|}}} |  
-                {{!}}colspan=&quot;2&quot; class=&quot;subhead&quot; {{!}} Lokalisierung
+                {{!}}colspan=&quot;3&quot; class=&quot;subhead&quot; {{!}} Lokalisierung
                 {{!}}-
                 {{!}} Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
                 {{!}} {{{getty_coordinates}}} 
                 {{!}}-
-                !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap | Koordinaten={{{getty_coordinates}}} }} }}
+                !colspan=&quot;3px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap | Koordinaten={{{getty_coordinates}}} }} }}
                 |}&lt;/div&gt;&lt;/onlyinclude&gt;
             </wikisyntax>
         </text>

@@ -2,29 +2,6 @@
 Die Abfassungsregion Italienische Halbinsel umfasst jene Gebiete der Apenninen-Halbinsel, die durch die Alpen vom übrigen Teil des europäischen Festlandes getrennt sind und somit in etwa das Gebiet des heutigen Italiens.
 Zwar stand der Norden der Halbinsel über weite Teile des Mittelalters hinweg unter Einfluss oder direkter Herrschaft zunächst der fränkischen und später der ostfränkischen Könige und Kaiser. Jedoch waren diese Regionen in kultureller Hinsicht – bereits seit der Antike und bis in die heutige Zeit reichend – viel enger mit dem südlichen Teil der Halbinsel verbunden als mit dem Reich nördlich der Alpen. Daher wurden auch Werke, die in den Teilen des fränkischen bzw. ostfränkischen Reiches südlich der Alpen verfasst wurden, dieser Abfassungsregion zugeordnet.
                             <wikisyntax>
-                            {{#ask: [[Abfassungsregion::Italienische Halbinsel]] 
-                            |?Abfassungsort
-                            |format=broadtable
-                            |limit=500
-                            |offset=0
-                            |link=all
-                            |sort=
-                            |order=asc
-                            |headers=show
-                            |searchlabel=… weitere Ergebnisse
-                            |class=sortable wikitable smwtable
-                            }}
-                            
-                            {{#ask: [[Abfassungsregion::Italienische Halbinsel]] 
-                            [[Kategorie:Ort]]
-                            |format=broadtable
-                            |limit=500
-                            |offset=0
-                            |link=all
-                            |sort=
-                            |order=asc
-                            |headers=show
-                            |searchlabel=… weitere Ergebnisse
-                            |class=sortable wikitable smwtable
-                            }}
+                                {{Template:Abfassungsregion
+                                }}
                         </wikisyntax></text></page>

@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><page><meta><title>West- und Mitteleuropa</title><type>Site</type><id/><categories><category>Abfassungsregion</category></categories><rules><rule/></rules></meta><text>Die Abfassungsregion West- und Mitteleuropa umfasst größtenteils die Gebiete des frühmittelalterlichen Frankenreiches, das unter Karl dem Großen und Ludwig dem Frommen seine größte Ausdehnung erfahren hat. Heute entspricht dies in etwa den Staatsgebieten Frankreichs, der BeNeLux-Länder, Deutschlands, Österreichs, Tschechiens, Sloweniens und der Schweiz. Um diese große Region sinnvoll zu gliedern, wurde die Teilung des Fränkischen Reiches mit dem Vertrag von Verdun im Jahre 843 zur Eingrenzung genommen. D. h. in der Abfassungsregion ‚West- und Mitteleuropa‘ sind nur diejenigen Werke zusammengefasst, die bis 843 verfasst wurden. Für alle späteren Werke erfolgt eine weitere Einteilung in die Abfassungsregionen West- und Mitteleuropa – Westfrankenreich und West- und Mitteleuropa – Ostfrankenreich.  
 Bei der Teilung von 843 wurde das Reich unter den Söhnen Ludwigs des Frommen in drei Herrschaftsgebiete geteilt. Da jedoch das Mittelreich bald darauf zerfiel und nur der West- und der Ostteil herrschaftliche Kontinuitäten bilden konnten, wurde für die Einteilung der Region West- und Mitteleuropa nach 843 von einer Dreiteilung abgesehen und stattdessen eine Zweiteilung in die Regionen West- und Mitteleuropa – Westfrankenreich und West- und Mitteleuropa – Ostfrankenreich vorgenommen. Diese Regionen umfassen im Kern die Herrschaftsgebiete der west- bzw. ostfränkischen Könige sowie die Regionen, die unter ihrem machtpolitischen Einfluss standen – wie etwa Burgund. Die Werke, die in den Teilen des fränkischen Reiches südlich der Alpen verfasst wurden, wurden der Abfassungsregion Italienische Halbinsel zugeordnet.
                         <wikisyntax>
-                            {{#ask: [[Abfassungsregion::West- und Mitteleuropa]] 
-                            |?Abfassungsort
-                            |format=broadtable
-                            |limit=500
-                            |offset=0
-                            |link=all
-                            |sort=
-                            |order=asc
-                            |headers=show
-                            |searchlabel=… weitere Ergebnisse
-                            |class=sortable wikitable smwtable
-                            }}
-                            {{#ask: [[Abfassungsregion::West- und Mitteleuropa]] 
-                            [[Kategorie:Ort]]
-                            |format=broadtable
-                            |limit=500
-                            |offset=0
-                            |link=all
-                            |sort=
-                            |order=asc
-                            |headers=show
-                            |searchlabel=… weitere Ergebnisse
-                            |class=sortable wikitable smwtable
+                            {{Template:Abfassungsregion
                             }}
                         </wikisyntax></text></page>

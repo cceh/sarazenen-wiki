@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><page><meta><title>unbekannte Region</title><type>Site</type><id/><categories><category>Abfassungsregion</category></categories><rules><rule/></rules></meta><text>
 Unter Unbekannte Region sind alle Werke zusammengetragen, deren Abfassungsort nicht innerhalb einer der europäischen Großregionen verortet werden konnte.
                         <wikisyntax>
-                            {{#ask: [[Abfassungsregion::unbekannte Region]] 
-                            |?Abfassungsort
-                            |format=broadtable
-                            |limit=500
-                            |offset=0
-                            |link=all
-                            |sort=
-                            |order=asc
-                            |headers=show
-                            |searchlabel=… weitere Ergebnisse
-                            |class=sortable wikitable smwtable
+                            {{Template:Abfassungsregion
                             }}
                         </wikisyntax></text></page>

@@ -22,6 +22,7 @@
             .infobox .wikitable .head th {border-top: 2px solid ; background:#fff; }
             .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; background:#fff; width:30em;}
             h3 {clear:both;} 
+            .infobox .wikitable .head td {width:100px}
             .infobox .wikitable th, .infobox .wikitable tr  {border: 1px solid #aaa;}
             .infobox .wikitable td {border: none; vertical-align:top; padding-top:0.25rem; padding-bottom:0.25rem;}
             .infobox .wikitable .subhead { font-weight:bold; text-align:center; background-color:#f1f1f1;}

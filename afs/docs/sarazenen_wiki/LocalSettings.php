@@ -229,4 +229,4 @@ $wgGenerateThumbnailOnParse = false;
 $wgShowExceptionDetails = true;
 $wgJobRunRate = 1;
 $wgRunJobsAsync = false;
-
+$srfgFormats[] ='incoming';

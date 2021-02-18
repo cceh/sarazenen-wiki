@@ -15,8 +15,9 @@
             &lt;onlyinclude&gt;
             &lt;div class=&quot;infobox infobox-person float-right&quot;&gt; 
             {| class=&quot;wikitable&quot;
-            |- class=&quot;head&quot; 
-            !colspan=&quot;2&quot;| {{{Name}}}
+            |- class=&quot;head&quot;
+            |rowspan=&quot;3&quot;|[[Datei:Personen1.png|100px]]
+            !colspan=&quot;3&quot;| {{{Name}}}
             {{#if:{{{Alternativnamen|}}} |  
             {{!}}- 
             {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}
@@ -26,7 +27,7 @@
             {{!}} Rollen{{#info:{{{Name}}} wird in den Berichten mit folgenden Rollen bzw. Funktionen erwähnt}}
             {{!}} {{{Rolle}}} }}
             |- class=&quot;subhead&quot; 
-            |colspan=&quot;2&quot;| Normdaten 
+            |colspan=&quot;3&quot;| Normdaten 
             {{#if:{{{gnd_id|}}} |  
             {{!}}- 
             {{!}} GND{{#info:Gemeinsame Normdatei}}
