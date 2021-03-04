@@ -50,9 +50,8 @@
                 &lt;div class=&quot;infobox infobox-ort float-right&quot;&gt; 
                 
                 {| class=&quot;wikitable&quot;
-                |- class=&quot;head&quot; 
-                |rowspan=&quot;3&quot;|[[Datei:Geographie.png|100px]]
-                !colspan=&quot;3&quot;| {{{Name}}}
+                |- class=&quot;head {{{class}}}&quot; 
+                !colspan=&quot;2&quot;| {{{Name}}} [[Datei:Geographie ohne Rahmen.png|50px]]
                 
                 |- 
                 {{#if:{{{Alternativnamen|}}} |  
@@ -66,7 +65,7 @@
                 
                 |-
                 {{#if:{{{getty_id|}}}{{{viaf_id|}}}{{{wikidata_id|}}} | 
-                {{!}}colspan=&quot;3&quot; class=&quot;subhead&quot; {{!}} Normdaten }}
+                {{!}}colspan=&quot;2&quot; class=&quot;subhead&quot; {{!}} Normdaten }}
                 
                 |-
                 {{#if:{{{getty_id|}}} |
@@ -85,12 +84,12 @@
                 
                 |-  
                 {{#if:{{{getty_coordinates|}}} |  
-                {{!}}colspan=&quot;3&quot; class=&quot;subhead&quot; {{!}} Lokalisierung
+                {{!}}colspan=&quot;2&quot; class=&quot;subhead&quot; {{!}} Lokalisierung
                 {{!}}-
                 {{!}} Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
                 {{!}} {{{getty_coordinates}}} 
                 {{!}}-
-                !colspan=&quot;3px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap | Koordinaten={{{getty_coordinates}}} }} }}
+                !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap | Koordinaten={{{getty_coordinates}}} }} }}
                 |}&lt;/div&gt;&lt;/onlyinclude&gt;
             </wikisyntax>
         </text>

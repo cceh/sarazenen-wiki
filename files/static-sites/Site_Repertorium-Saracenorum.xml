@@ -42,10 +42,17 @@
            </div>
 <header level="2">Positionen aller in den Berichten erwähnten Orte</header>               
                <div class="inhalt">
-                   <wikisyntax>{{#ask:[[getty_coordinates::+]]
-                   |?Getty coordinates
-                   |format=map
-                   }}</wikisyntax>    
+                   <wikisyntax>{{#compound_query:
+                       
+                       [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=book-icon.png; limit=9999
+                       | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=church-icon.png; limit=9999
+                       | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
+                       | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
+                       | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
+                       |cluster = yes
+                       |clustermaxradius=20
+                       |format=map
+                       }}</wikisyntax>    
                </div>
                <header level="2">Hinweise zur Benutzung </header>
            <div class="inhalt">
@@ -87,7 +94,7 @@
                    <li><img url="Geographie.png" size="25"/><a link="Kategorie:Geographie " linking="no"> Geographie</a></li>
                    <li><a link="Kategorie:Abfassungsregion " linking="no"> Abfassungsregion</a></li>
                    <li><img url="Auffälligkeiten.jpg" size="25"/><a link="Kategorie:Auffälligkeit " linking="no"> Auffälligkeiten</a></li>
-                   <li><a link="Kategorie:Suchbegriffe " linking="no"> Suchbegriffe</a></li>
+                   <li><a link="Kategorie:Schlagworte " linking="no"> Schlagworte</a></li>
                    <li><img url="Datierung.png" size="25"/><a intern="Datierung">Datierung</a></li></ul>
            </div>
             

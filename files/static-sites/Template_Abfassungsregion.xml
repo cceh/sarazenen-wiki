@@ -4,14 +4,15 @@
             <type>Template</type>
             <id/>
             <categories>
-                <category>Template</category>
+                <category></category>
             </categories>
             <rules>
                 <rule/>
             </rules>
         </meta>
         <text>
-            <wikisyntax>  {{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 
+            <wikisyntax>  &lt;noinclude&gt;[[Category:Templates]]
+                &lt;/noinclude&gt; {{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 
                 [[Kategorie:Werk]]
                 |?abgefasst in
                 |format=broadtable

@@ -63,7 +63,7 @@
                     <xsl:when test=". eq 'unbekannt'">Abfassungsort Unbekannt</xsl:when>
                     <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
                 </xsl:choose></xsl:variable>
-                <xsl:value-of select="concat('[[abgefasst in::',$place,']]')"/>
+                <item><xsl:value-of select="concat('[[abgefasst in::',$place,']]')"/></item>
             </xsl:for-each></xsl:variable>
         <xsl:variable name="abfssungsort-set">
             <xsl:for-each select="./Abfassungsort/Ort">
@@ -134,14 +134,13 @@
                             <xsl:otherwise><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text>: {{#show: </xsl:text><xsl:value-of select="./Autoren/Autor/data(.)"/><xsl:text> |?Lebensdaten | link=none}}</xsl:text></xsl:otherwise>
                         </xsl:choose>
 </xsl:value-of>
-|abgefasst in=<xsl:value-of select="string-join($abfssungsort,', ')"/>
+|abgefasst in=<xsl:value-of select="string-join($abfssungsort/node(),', ')"/>
 |Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
 |Abfassungsort_koordinaten=<xsl:value-of select="string-join($abfssungsort-set,', ')"/>
 |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
 |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
 |getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
-
 <xsl:call-template name="svg" xml:space="default"><!-- Timeline einbindung --></xsl:call-template>
 &lt;br/&gt;
 {{#set:
@@ -167,22 +166,22 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 {{#ask:
 [[Kategorie:Quelle]]
 [[aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
-                    |mainlabel=Zitation
+                    |mainlabel=Dokumentname
                     |?Inhaltsangabe#
+                    |?Zitation#
                     |?datiert auf#
                     |format=table
                     |headers=plain
 }}
 === Datierung ===
 {{#ask:
-[[aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
-                        [[Zeitangabe::+]]
+[[-Has subobject.aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
             |?ZeitangabeEnde
             |timelinestart =ZeitangabeBeginn
             |timelineend=ZeitangabeEnde        
-            |timelinesize=800px
+            |timelinesize=200px
             |sort=ZeitangabeBeginn
             |order=descending
             |format=timeline
@@ -202,6 +201,15 @@ Sarazenenbezug=ja
 === Zitationshinweis ===
 <xsl:text>{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).</xsl:text>
 
+<xsl:variable name="times" xml:space="default">
+    <xsl:for-each select="./Abfassungszeitraum/Datum">
+                     <xsl:variable name="res"><xsl:call-template name="normDate"><xsl:with-param name="date" select="./@date"/><xsl:with-param name="attr" select="'Abfassungszeitraum'"/></xsl:call-template></xsl:variable>
+                     {{#subobject:
+<xsl:value-of select="$res/node()/node()[1]/data(.)"/> 
+<xsl:if test="exists($res/node()/node()[2]/data(.))"><xsl:value-of select="$res/node()/node()[2]/data(.)"/></xsl:if>}}
+            </xsl:for-each>     
+</xsl:variable>
+                    <xsl:value-of select="$times" xml:space="default"/>
  __SHOWFACTBOX__
 <xsl:value-of xml:space="default">[[Kategorie: Werk]]</xsl:value-of>  
                         </text>
@@ -209,6 +217,28 @@ Sarazenenbezug=ja
             </revision>
         </page>
     </xsl:template>
+    
+    <xsl:template name="normDate">
+        <xsl:param name="attr"/>
+        <xsl:param name="date"/>        
+        <xsl:if test="$date != ''"><time>
+            <xsl:variable name="first">
+                <xsl:choose>
+                    <xsl:when test="contains($date,'-')">
+                        <xsl:choose>
+                            <xsl:when test="starts-with($date,'-')">-<xsl:value-of select="substring-before(substring-after($date,'-'),'-')"/></xsl:when>
+                            <xsl:otherwise><xsl:value-of select="substring-before($date,'-')"/></xsl:otherwise>
+                        </xsl:choose>     
+                    </xsl:when>
+                    <xsl:otherwise><xsl:value-of select="$date"/></xsl:otherwise>
+                </xsl:choose>                         
+            </xsl:variable>
+            <from><tag><xsl:value-of select="concat(' ',$attr,'Beginn=')" xml:space="default"/></tag><num><xsl:value-of select="$first"/></num></from>
+            <xsl:if test="not($first eq substring-after($date,concat($first,'-'))) and substring-after($date,concat($first,'-')) != ''">
+                <to><tag><xsl:value-of select="concat(' |',$attr,'Ende=')" xml:space="default"/></tag><num><xsl:value-of select="substring-after($date,concat($first,'-'))"/></num></to>             
+            </xsl:if></time>
+        </xsl:if>
+    </xsl:template><!--
     
     <xsl:template name="normDate">
         <xsl:param name="attr"/>
@@ -223,7 +253,7 @@ Sarazenenbezug=ja
         </xsl:variable>
         <xsl:value-of select="concat('|',$attr,'=',$first)" xml:space="default"/>
         <xsl:value-of select="concat(' |',$attr,'=',substring-after($date,concat($first,'-')))" xml:space="default"/>      
-    </xsl:template>
+    </xsl:template>-->
     <xsl:template match="Dokument" name="svg"  xml:space="default">       
               <xsl:variable name="dates" xml:space="default">
             <xsl:for-each select="(./Abfassungszeitraum/Datum/@date,./Berichtszeitraum/Datum/@date,./Quellen/Quelle/ZeitangabeWissenschaft/Datum/@date)">
@@ -317,8 +347,7 @@ Sarazenenbezug=ja
                         </xsl:if>
                         
                     </xsl:variable>
-                    <xsl:if test="count($sortet/node()) > 0">
-                        &lt;div id='leiste'&gt;
+                    <xsl:if test="count($sortet/node()) > 0">&lt;div id='leiste'&gt;
                 &lt;html id='preHtml'&gt;
                             &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/> 0 <xsl:value-of select="($en1 + $st2 +1) * 50"/> 100" width="3000" height="200"&gt;
                         &lt;g&gt;  

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>AbfassungszeitraumBeginn</title>
+        <type>Attribut</type>
+        <wikitype>date</wikitype>
+        <id/>
+        <categories>
+            <category/>
+        </categories>
+        <rules>
+            <rule/>
+        </rules>
+    </meta>
+    <text>
+        <hasPropertyDiscreption> Datierung des Abfassungszeitraum </hasPropertyDiscreption>
+    </text>
+</page>

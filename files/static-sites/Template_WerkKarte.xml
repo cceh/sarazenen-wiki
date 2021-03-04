@@ -11,23 +11,29 @@
                 <rule/>
             </rules>
         </meta>
-        <text><wikisyntax>{{#ask: [[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]
- |?Getty coordinates
- |format=leaflet
- |limit=50
- |offset=0
- |link=all
- |sort=
- |order=asc
- |headers=show
- |width=100%
- |height=350px
- |defzoom=3
- |maxzoom=3
- |minzoom=3
- |centre=Europe
- |static=yes
- |layers=Esri.WorldPhysical
- |type=terrain
-}}</wikisyntax></text>        
+    <text>
+        <noinclude>[[Category:Templates]]</noinclude>
+        <wikisyntax>{{#compound_query:
+        [[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Ort-icon.png
+        | [[Kategorie:Abfassungsort]] [[-abgefasst in.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Abfassungsort-icon.png
+        | [[Kategorie:Kloster]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Kloster-icon.png
+        | | [[Kategorie:Fluss]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]];  ?getty_coordinates ; icon=Fluss-icon.png
+        | | [[Kategorie:Berg]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Berg-icon.png
+        
+        |format=leaflet
+        |limit=50
+        |offset=0
+        |link=all
+        |sort=
+        |order=asc
+        |headers=show
+        |width=100%
+        |height=350px
+        |defzoom=3
+        |maxzoom=14
+        |minzoom=3
+        |layers=Esri.WorldPhysical
+        |type=terrain
+        }}
+    </wikisyntax></text>        
 </page>

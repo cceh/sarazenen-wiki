@@ -339,7 +339,7 @@
     <xsl:template match="Quelle/editorial_notes/notes/note">
 &lt;poem&gt;<xsl:variable name="na" select="."/>
             <xsl:analyze-string select="." regex="\[(\d\d\d\d)\]\-\[(\d\d\d\d)\]">
-                <xsl:matching-substring xml:space="default">[[<xsl:value-of select="normalize-space($na/parent::node()/parent::node()/parent::node()/parent::node()/Dokumente[./WerkId eq regex-group(1)]/WerkTitel)"/><xsl:text> </xsl:text><xsl:value-of select="regex-group(2)"/>]]</xsl:matching-substring>
+                <xsl:matching-substring xml:space="default">[[<xsl:value-of select="normalize-space($na/parent::node()/parent::node()/parent::node()/parent::node()/parent::node()/parent::node()/Dokumente[./WerkId eq regex-group(1)]/WerkTitel)"/><xsl:text> </xsl:text><xsl:value-of select="regex-group(2)"/>]]</xsl:matching-substring>
                 <xsl:non-matching-substring>
                    <xsl:value-of select="."/>
                 </xsl:non-matching-substring>
@@ -368,8 +368,8 @@
         <xsl:variable name="ia" select="./@id/data(.)"/> 
         <xsl:variable name="img" >
             <xsl:choose>
-                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie.png|25px|Beschreibung]]</xsl:when>
-                <xsl:when test="./@type eq 'Person'">[[Datei:Personen1.png|25px|Beschreibung]]</xsl:when>
+                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie ohne Rahmen.png|25px|Beschreibung]]</xsl:when>
+                <xsl:when test="./@type eq 'Person'">[[Datei:Personen.png|25px|Beschreibung]]</xsl:when>
             </xsl:choose>
         </xsl:variable>
         <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text><xsl:value-of select="$img"/><xsl:text>&#x200b;]</xsl:text>

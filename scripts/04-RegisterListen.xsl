@@ -38,7 +38,7 @@
             <xsl:for-each select="distinct-values(.//GeographischesStichwort/Ort)">
                 <entity>
                     <main><xsl:value-of select="."/></main>
-                    <mentioned>Ort</mentioned>
+                 <!--   <mentioned>Ort</mentioned>-->
                 </entity>
             </xsl:for-each>
             <xsl:for-each select="distinct-values(.//Abfassungsort/Ort)">
@@ -218,6 +218,12 @@
                 </namespaces>
             </siteinfo> 
             <xsl:for-each select="$fill-mergelists/entity">
+                <xsl:variable name="type">
+                    <xsl:choose>
+                        <xsl:when test="count(./meta/Typ != 1) and ./meta/Typ[1] eq 'Ort'"><xsl:value-of select="./meta/Typ[2]"/></xsl:when>
+                        <xsl:otherwise><xsl:value-of select="./meta/Typ[1]"/></xsl:otherwise>
+                    </xsl:choose>
+                </xsl:variable>
                 <xsl:variable name="name" select="./main"/>
                 <xsl:variable name="output" xml:space="default">
                     <xsl:for-each select="(mentioned, ./meta/Typ)" xml:space="default">
@@ -241,14 +247,13 @@
 {{#ask: 
 [[Kategorie:Quelle]]
 [[Person::<xsl:value-of select="$name"/>]]
-|?Interaktion# 
+|?Inhaltsangabe#
+|?Zitation#
 |?abgefasst von
-|?aus dem Werk
 |?datiert auf#
-|?Datum laut Werk#
 |?abgefasst in
 |format=table
-|mainlabel=Personennennung
+|mainlabel=Dokumentname
 }}
                                 </xsl:when>
                                 <xsl:when test=". eq 'Ort'">
@@ -269,23 +274,21 @@
                                 </xsl:when>
                                 <xsl:when test=". eq 'Abfassungsort'">
 === Abfassungsortnennung ===
-Übersicht über die Nennung von "<xsl:value-of select="$name"/>" im Repertorium Saracenorum
+In <xsl:value-of select="$name"/> sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
 {{#ask: 
 [[Kategorie:Werk]]
 [[abgefasst in::<xsl:value-of select="$name"/>]]
-|?Interaktion# 
 |?abgefasst von 
-|?aus dem Werk
-|?datiert auf#
-|?Datum laut Werk#
-|?abgefasst in
+|?Sarazenenbezug
+|?Abfassungszeit
+|?Berichtszeitraum
 |format=table
-|mainlabel=Abfassungsort
+|mainlabel=Werk
 }}
                                 </xsl:when>
-                                <xsl:when test=". eq 'Suchbegriffe'">
-=== Suchbegriff ===
-Übersicht über die Verwendung von "<xsl:value-of select="$name"/>" als Suchbegriff:
+                                <xsl:when test=". eq 'Schlagworte'">
+=== Schlagworte ===
+Übersicht über die Verwendung von "<xsl:value-of select="$name"/>" als Schlagworte:
 {{#ask: 
 [[Kategorie:Quelle]]
 [[relevante Schlagworte::<xsl:value-of select="$name"/>]]
@@ -296,7 +299,7 @@
 |?Datum laut Werk#
 |?abgefasst in
 |format=table
-|mainlabel=Suchbegriff
+|mainlabel=Wird erwähnt in
 }}
                                 </xsl:when>
                                 <xsl:when test=". eq 'Auffälligkeit'">
@@ -339,11 +342,10 @@ Auflistung aller mit der Auffälligkeit "<xsl:value-of select="$name"/> " annoti
 {{#ask: 
 [[Kategorie:Quelle]]
 [[Person::<xsl:value-of select="."/>]]
-|?Interaktion# 
+|?Inhaltsangabe#
+|?Zitation#
 |?abgefasst von
-|?aus dem Werk
 |?datiert auf#
-|?Datum laut Werk#
 |?abgefasst in
 |format=table
 |mainlabel=Personennennung <xsl:value-of select="."/>
@@ -359,7 +361,6 @@ Auflistung aller mit der Auffälligkeit "<xsl:value-of select="$name"/> " annoti
 |?abgefasst von 
 |?aus dem Werk
 |?datiert auf#
-|?Datum laut Werk#
 |?abgefasst in
 |format=table
 |mainlabel=Ortsnennungen <xsl:value-of select="."/>
@@ -367,23 +368,21 @@ Auflistung aller mit der Auffälligkeit "<xsl:value-of select="$name"/> " annoti
                                 </xsl:when>
 <xsl:when test="./@second  eq 'Abfassungsort'">
 === Abfassungsortnennung ===
-Übersicht über die Nennung von "<xsl:value-of select="."/>" im Repertorium Saracenorum
+In <xsl:value-of select="."/> sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
 {{#ask: 
 [[Kategorie:Werk]]
 [[abgefasst in::<xsl:value-of select="."/>]]
-|?Interaktion# 
 |?abgefasst von 
-|?aus dem Werk
-|?datiert auf#
-|?Datum laut Werk#
-|?abgefasst in
+|?Sarazenenbezug
+|?Abfassungszeit
+|?Berichtszeitraum
 |format=table
-|mainlabel=Abfassungsort <xsl:value-of select="."/>      
+|mainlabel=Werk      
 }}
                                 </xsl:when>
-                                <xsl:when test="./@second eq 'Suchbegriffe'">
-=== Suchbegriff <xsl:value-of select="."/> ===
-Auflistung aller mit der Suchbegriff "<xsl:value-of select="."/> " annotierten Quellenstellen
+                                <xsl:when test="./@second eq 'Schlagworte'">
+=== Schlagworte <xsl:value-of select="."/> ===
+Übersicht über die Verwendung von "<xsl:value-of select="."/>" als Schlagworte:
 {{#ask: 
 [[Kategorie:Quelle]]
 [[relevante Schlagworte::<xsl:value-of select="."/>]]
@@ -391,10 +390,9 @@ Auflistung aller mit der Suchbegriff "<xsl:value-of select="."/> " annotierten Q
 |?abgefasst von
 |?aus dem Werk
 |?datiert auf#
-|?Datum laut Werk#
 |?abgefasst in
 |format=table
-|mainlabel=Suchbegriff <xsl:value-of select="."/>
+|mainlabel= <xsl:value-of select="."/> wird erwähnt in
 }}
                                 </xsl:when>
                                 <xsl:when test="./@second eq 'Auffälligkeit'">
@@ -434,34 +432,49 @@ Auflistung aller mit der Auffälligkeit "<xsl:value-of select="."/> " annotierte
                         </contributor>
                         <model>wikitext</model>
                         <format>text/x-wiki</format>
-                        <text xml:space="default" bytes="3441">
-                            <xsl:if test="./meta/editorial_notes/notes/note">
-                                <xsl:for-each select="./meta/editorial_notes/notes/note">
-<xsl:if test=". != ''">{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}</xsl:if>
-                                </xsl:for-each>
-                            </xsl:if>
-                            <xsl:if test="./meta/getty/ScopeNote != ''">
-{{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
-                            </xsl:if>                            
-                            <xsl:if test="./meta/wikidata/desc != ''">
-{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose>
-    <xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./meta/wikidata/desc[@lang='de']/data(.)"/></xsl:when>
-    <xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']/data(.)"/></xsl:otherwise>
-                                </xsl:choose>}}
-                            </xsl:if>                             
-<xsl:variable name="typs" xml:space="default"><xsl:for-each select="./meta/Typ" xml:space="default"><xsl:choose>
-    <xsl:when test=". eq 'Ort' or . eq 'Kloster' or . eq 'Fluss' or . eq 'Berg' or . eq 'Region'">
-                                    {{Template:Ort |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}|Typ={{#show:{{FULLPAGENAME}}|?Kategorie}}|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}||wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
-                                </xsl:when>
-                                <xsl:when test=". eq 'Person'">
-{{Template:Person |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+                        <text xml:space="default" bytes="3441"><xsl:variable name="typs" xml:space="default"><xsl:for-each select="./meta/Typ[1]" xml:space="default"><xsl:choose>
+<xsl:when test=" . eq 'Ort' or . eq 'Kloster' or . eq 'Fluss' or . eq 'Berg' or . eq 'Region' or . eq 'Abfassungsort'">{{Template:Ort
+    |Name={{FULLPAGENAME}}
+    |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+    |icon=<xsl:value-of select="$type"/>-icon.png
+    |class=<xsl:value-of select="$type"/>
+    <!--<xsl:choose>
+        <xsl:when test=". eq 'Kloster'">
+            |icon=Kloster.png
+            |class=Kloster
+        </xsl:when>
+        <xsl:when test=". eq 'Fluss'">
+            |icon=<xsl:value-of select="."/>.png
+            |class=Fluss
+        </xsl:when>
+        <xsl:when test=". eq 'Berg'">
+            |icon=Kloster.png
+            |class=Kloster
+        </xsl:when>
+        <xsl:when test=". eq 'Region'">
+            |icon=Kloster.png
+            |class=Kloster
+        </xsl:when>
+        <xsl:when test=". eq 'Abfassungsort'">
+            |icon=Kloster.png
+            |class=Kloster
+        </xsl:when>
+        <xsl:otherwise>
+            |icon=Kloster.png
+            |class=Kloster
+        </xsl:otherwise>
+    </xsl:choose>
+    -->|Typ={{#show:{{FULLPAGENAME}}|?Kategorie}}
+    |getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+    |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+    ||wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+    |getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}</xsl:when>
+<xsl:when test=". eq 'Person'">{{Template:Person |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
 |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}<!--{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text={{#show:{{FULLPAGENAME}}|?wikidata_desc|link=none}}}}-->
-                                </xsl:when>
-                                <xsl:when test=". eq 'VerfasserIn'">
-{{Template:VerfasserIn
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
+<xsl:when test=". eq 'VerfasserIn'">{{Template:VerfasserIn
 |Name={{FULLPAGENAME}}
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
 |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
@@ -470,15 +483,24 @@ Auflistung aller mit der Auffälligkeit "<xsl:value-of select="."/> " annotierte
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
 |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>                     
 </xsl:choose></xsl:for-each></xsl:variable>
-<xsl:value-of select="$typs" xml:space="default"/>
+<xsl:value-of select="$typs" xml:space="default"/><xsl:if test="./meta/editorial_notes/notes/note">
+<xsl:for-each select="./meta/editorial_notes/notes/note"><xsl:if test=". != ''">{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}</xsl:if></xsl:for-each>
+</xsl:if>
+<xsl:if test="./meta/getty/ScopeNote != ''">
+{{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
+</xsl:if>                            
+<xsl:if test="./meta/wikidata/desc != ''">
+{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose>
+<xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./meta/wikidata/desc[@lang='de']/data(.)"/></xsl:when>
+<xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']/data(.)"/></xsl:otherwise>
+</xsl:choose>}}
+</xsl:if>
 <xsl:value-of select="$output" xml:space="default"/>
-                            
-                            
                             <xsl:variable name="meta" xml:space="default"><xsl:apply-templates select="./meta"/></xsl:variable>
                             <xsl:if test="$meta != ''">{{#set:<xsl:value-of select="$meta"/>
                                 }}</xsl:if>
                             <xsl:variable name="mentioned" ><xsl:if test="not(./mentioned/@second)"><xsl:for-each select="./mentioned/text()"><item><xsl:value-of select="."/></item></xsl:for-each></xsl:if></xsl:variable>
-                            <xsl:for-each select="distinct-values((./meta/Typ,./mentioned/@second,$mentioned/item))">
+                            <xsl:for-each select="distinct-values((./meta/Typ,./mentioned/@second,$mentioned/node()))">
 <xsl:if test=".!=''">[[Kategorie:<xsl:value-of select="."/>]]  </xsl:if>
                             </xsl:for-each>
                             __SHOWFACTBOX__

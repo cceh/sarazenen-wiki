@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>DatierungAbfassungsregionZeitangabe</title>
+            <type>Template</type>
+            <id/>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            <wikisyntax>  &lt;noinclude&gt;[[Category:Templates]]
+                &lt;/noinclude&gt; 
+                === {{{Region}}} ===
+                {{#ask:
+                [[-Has subobject.Abfassungsregion::{{{Region}}}]]
+                [[ZeitangabeBeginn::+]]
+                |?ZeitangabeBeginn
+                |?ZeitangabeEnde
+                |timelinestart =ZeitangabeBeginn
+                |timelineend=ZeitangabeEnde        
+                |timelinesize=800px
+                |sort=ZeitangabeBeginn
+                |order=descending
+                |format=timeline
+                |timelinebands= YEAR, DECADE, CENTURY
+                |timelineposition=end
+                |limit=9999
+                }}
+                
+            </wikisyntax>
+        </text>
+    </page>

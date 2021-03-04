@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><page><meta><title>Abfassungszeitraum</title><type>Site</type><id/><categories><category>Repertorium Saracenorum</category></categories><rules><rule/></rules></meta><text>
+                            <wikisyntax>
+                                <wikisyntax>
+                                    {{#ask:
+                                    [[AbfassungszeitraumBeginn::+]]
+                                    |?AbfassungszeitraumBeginn
+                                    |?AbfassungszeitraumEnde
+                                    |timelinestart =AbfassungszeitraumBeginn
+                                    |timelineend=AbfassungszeitraumEnde        
+                                    |timelinesize=1500px
+                                    |sort=AbfassungszeitraumBeginn
+                                    |order=descending
+                                    |format=timeline
+                                    |timelinebands= DECADE, CENTURY
+                                    |timelineposition=end
+                                    |limit=9999
+                                    }}   
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=Britische Inseln
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=Iberische Halbinsel
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=Italienische Halbinsel
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=Osteuropa
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=Skandinavien
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=unbekannte Region
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=West- und Mitteleuropa
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=West- und Mitteleuropa – Ostfrankenreich
+                                    }}
+                                    
+                                    {{Template:DatierungAbfassungsregionAbfassungszeitraum
+                                    |Region=West- und Mitteleuropa – Westfrankenreich
+                                    }}
+                                </wikisyntax>  
+                        </wikisyntax></text></page>

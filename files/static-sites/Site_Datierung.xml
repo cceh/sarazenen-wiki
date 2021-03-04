@@ -21,13 +21,50 @@
             |?ZeitangabeEnde
             |timelinestart =ZeitangabeBeginn
             |timelineend=ZeitangabeEnde        
-            |timelinesize=800px
+            |timelinesize=2200px
             |sort=ZeitangabeBeginn
             |order=descending
             |format=timeline
             |timelinebands= YEAR, DECADE, CENTURY
             |timelineposition=end
-            |limit=1000
-            }}    </wikisyntax>       
+            |limit=9999
+            }}  
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=Britische Inseln
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=Iberische Halbinsel
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=Italienische Halbinsel
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=Osteuropa
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=Skandinavien
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=unbekannte Region
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=West- und Mitteleuropa
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=West- und Mitteleuropa – Ostfrankenreich
+            }}
+            
+            {{Template:DatierungAbfassungsregionZeitangabe
+            |Region=West- und Mitteleuropa – Westfrankenreich
+            }}            
+            </wikisyntax>       
         </text>
     </page>
