@@ -18,30 +18,46 @@
                 </div>
                 <header level="2">Zentrale Inhalte auf einen Blick</header>
                 <div class="hs-inhalte">
-                    <div class="hs-inhalte-item">
+                    <div class="hs-inhalte-item werke">
                         <div class="hs-inhalte-item-header">Werke</div>
-                        <div class="hs-inhalte-item-image">[[Datei:Werke.png|100px|link=Kategorie:Werk]]</div>
+                        <div class="hs-inhalte-item-image">[[Datei:Werke.png|80px|link=Kategorie:Werk]]</div>
                         <div class="hs-inhalte-item-body">{{PAGESINCATEGORY: Werk}} Werke und {{PAGESINCATEGORY: Quelle}} zugehörige Quellenstellen, die über Interaktion mit Sarazenen berichten, bilden das Herzstück des Wikis.</div>
                     </div>
-                    <div class="hs-inhalte-item">
+                    <div class="hs-inhalte-item verfasserin">
                         <div class="hs-inhalte-item-header">VerfasserInnen</div>
-                        <div class="hs-inhalte-item-image">[[Datei:VerfasserIn.jpg|100px|link=Kategorie:VerfasserIn]]</div>
+                        <div class="hs-inhalte-item-image">[[Datei:VerfasserIn.jpg|80px|link=Kategorie:VerfasserIn]]</div>
                         <div class="hs-inhalte-item-body">{{PAGESINCATEGORY: VerfasserIn}} VerfasserInnen, denen die Autorenschaft zu denen ausgewerteten Werken zugeschrieben werden kann, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
                     </div>
-                    <div class="hs-inhalte-item">
+                    <div class="hs-inhalte-item personen">
                         <div class="hs-inhalte-item-header">Personen</div>
-                        <div class="hs-inhalte-item-image">[[Datei:Personen1.png|100px|link=Kategorie:Person]]</div>
+                        <div class="hs-inhalte-item-image">[[Datei:Personen.png|80px|link=Kategorie:Person]]</div>
                         <div class="hs-inhalte-item-body">{{PAGESINCATEGORY: Person}} Personen, die in den Quellenstellen erwähnt werden, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
                     </div>
-                    <div class="hs-inhalte-item">
+                    <div class="hs-inhalte-item geographie">
                         <div class="hs-inhalte-item-header">Geographie</div>
-                        <div class="hs-inhalte-item-image">[[Datei:Geographie.png|100px|link=Kategorie:Geographie]]</div>
+                        <div class="hs-inhalte-item-image">[[Datei:Geographie ohne Rahmen.png|80px|link=Kategorie:Geographie]]</div>
                         <div class="hs-inhalte-item-body">Toponyme, die in den Quellenstellen erwähnt werden, sind im Wiki verzeichnet und wenn möglich mit Normadten verknüpft ({{PAGESINCATEGORY: Ort}} Orte, {{PAGESINCATEGORY: Kloster}} Klöster, {{PAGESINCATEGORY: Region}} Regionen, {{PAGESINCATEGORY: Berg}} Berge, {{PAGESINCATEGORY: Fluss}} Flüsse) </div>
                     </div>
-                    <div class="hs-inhalte-item">[[:Kategorie:Abfassungsregion  |  Abfassungsregion]]</div>
-                    <div class="hs-inhalte-item">[[Datei:Auffälligkeiten.jpg|25px]] [[:Kategorie:Auffälligkeit  |  Auffälligkeiten]]</div>
-                    <div class="hs-inhalte-item">[[:Kategorie:Schlagworte  |  Schlagworte]]</div>
-                    <div class="hs-inhalte-item">[[Datei:Datierung.png|25px]] [[Datierung | Datierung]]</div>
+                    <div class="hs-inhalte-item abfassungsregionen">
+                        <div class="hs-inhalte-item-header">Abfassungsregionen</div>
+                        <div class="hs-inhalte-item-image">[[Datei:Abfassungsregionen.jpg|80px|link=Kategorie:Abfassungsregion]]</div>
+                        <div class="hs-inhalte-item-body">Die Werke wurden im Zuge der Erfassung {{PAGESINCATEGORY:Abfassungsregion}} verschiedenen Abfassungsregionen zugeordnet.</div>
+                    </div>
+                    <div class="hs-inhalte-item auffaelligkeiten">
+                        <div class="hs-inhalte-item-header">Auffälligkeiten</div>
+                        <div class="hs-inhalte-item-image">[[Datei:Auffälligkeiten.jpg|80px|link=Kategorie:Auffälligkeit]]</div>
+                        <div class="hs-inhalte-item-body">Durch "Auffälligkeiten" sind die einzelnen Berichte redaktionelle verschlagwortet und dadurch thematisch erschließbar (z. B. Gefangennahme, Kampfhandlung oder auch Herrscherwechsel).</div>
+                    </div>
+                    <div class="hs-inhalte-item schlagworte">
+                        <div class="hs-inhalte-item-header">Schlagworte</div>
+                        <div class="hs-inhalte-item-image">[[Datei:Schlagworte.jpg|80px|link=Kategorie:Schlagworte]]</div>
+                        <div class="hs-inhalte-item-body">unter Schlagworte sind solche lateinischen wie deutschen Begriffe gelistet, die von den mittelalterlichen Verfasserinnen und Verfassern häufig in Berichten erwähnte werden.</div>
+                    </div>
+                    <div class="hs-inhalte-item datierungen">
+                        <div class="hs-inhalte-item-header">Datierungen</div>
+                        <div class="hs-inhalte-item-image">[[Datei:Datierung.png|80px|link=Datierung]]</div>
+                        <div class="hs-inhalte-item-body">Zeitleisten zur [[Datierung]] der in den Berichten erwähnten Ereignisse und zu [[Abfassungszeitraum | Abfassungszeiträume]] der erfassten Werke ermöglichen den Zugriff über die Auswertung über die zeitliche Achse.</div>
+                    </div>
                 </div>
 
                 <header level="2"> Positionen aller in den Berichten erwähnten Orte</header>

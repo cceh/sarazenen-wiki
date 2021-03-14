@@ -33,13 +33,46 @@
 
             .hs-inhalte {
             display:grid;
-            grid-template-columns: 25% 25% 25% 25%;
+            grid-template-columns: repeat(4, 1fr);
+            column-gap:1em;
+            row-gap:1em;
             }
 
             .hs-inhalte-item {
-
+            border: 1px solid #aaa;
+            border-top: 2px solid #aaa;
             }
 
+            .hs-inhalte-item.werke {
+            border-top-color: #32a852;
+            }
+
+            .hs-inhalte-item.verfasserin {
+            border-top-color:#ff0066;
+            }
+
+            .hs-inhalte-item.personen {
+            border-top-color: #f5bc4c;
+            }
+
+            .hs-inhalte-item.geographie {
+            border-top-color: #009999;
+            }
+
+            .hs-inhalte-item-header, .hs-inhalte-item-image, .hs-inhalte-item-body  {
+            padding:0.2em 0.4em;
+            }
+
+            .hs-inhalte-item-header {
+            text-align:center;
+            font-weight:bold;
+            border-bottom:1px solid #aaa;
+            }
+
+            .hs-inhalte-item-image {
+            text-align:center;
+            height:108px;
+            }
 
             #hauptseite .block-header {
             background: #d8e8ff;
@@ -98,7 +131,6 @@
             .cite-description.type-note {
             background-color:#F1f1f1;
             }
-
         </wikisyntax>
         </text>
     </page>
