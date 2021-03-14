@@ -21,16 +21,6 @@
             margin-left:0;
             }
 
-            #hauptseite h2 {
-            font-family: inherit;
-            font-size: 1em;
-            font-weight: bold;
-            line-height: 1.5;
-            margin: 0;
-            padding: .1em 0;
-            border:none;
-            }
-
             .hs-inhalte {
             display:grid;
             grid-template-columns: repeat(4, 1fr);
@@ -65,8 +55,10 @@
 
             .hs-inhalte-item-header {
             text-align:center;
-            font-weight:bold;
             border-bottom:1px solid #aaa;
+            font-weight: bold;
+            line-height: 1.5;
+            font-family:inherit;
             }
 
             .hs-inhalte-item-image {
@@ -74,15 +66,20 @@
             height:108px;
             }
 
-            #hauptseite .block-header {
-            background: #d8e8ff;
-            border: 1px solid #8898bf;
+            .hauptseite-block { margin-top:2em; }
+            .hauptseite-block.border { border: 1px solid #aaa; }
+
+            .hauptseite-block h2 {
+            padding:0.2em 0.4em;
+            font-weight: bold;
+            line-height: 1.5;
+            font-family:inherit;
+            margin: 0;
+            border:none;
             }
 
-            .hauptseite-oben h2, .hauptseite-unten h2 { text-align: center; }
-            .hauptseite-links h2, .hauptseite-rechts h2 { text-indent: .8em; }
-            .hauptseite-oben, .hauptseite-links, .hauptseite-rechts { margin-bottom: 1em; }
-            #hauptseite .inhalt { background: #fff; border: 1px solid #8898bf; border-top-color: rgb(136, 152, 191); border-top-style: solid; border-top-width: 1px; border-top: 0; min-height: 0; padding: .3em .8em .4em; font-color:green; }
+
+            .hauptseite-block .inhalt { border-top:1px solid #aaa; background: #fff;  min-height: 0; padding: .3em .8em .4em; }
 
 
             #hauptseite div.inhalt { margin-bottom:1em; } .legende{font-size:10px;}
@@ -131,6 +128,7 @@
             .cite-description.type-note {
             background-color:#F1f1f1;
             }
+
         </wikisyntax>
         </text>
     </page>
