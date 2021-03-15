@@ -66,28 +66,31 @@
 
             <div class="hauptseite-block border">
                 <h2> Positionen aller in den Berichten erwähnten Orte</h2>
-                <div class="inhalt hauptseite-geographie" >
+                <div class="hauptseite-geographie" >
                     <div class="hauptseite-geographie-map">
                         {{#compound_query:
-                        [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=book-icon.png; limit=9999
+                        [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungort-41.png; limit=9999
                         | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
                         | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
                         | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
                         | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
+                        | [[Kategorie:Region]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
                         |cluster = yes
                         |clustermaxradius=20
                         |format=map
+                        |height=500px
+                        |layers=Esri.WorldPhysical
+                        |type=terrain
                         }}
                     </div>
                     <div class="hauptseite-geograhpie-legende">
-                        <ul>
-                            <li>Icon:Abfassungsort - Abfassungsort eines erfassten Werkes</li>
-                            <li>Icon:Kloster</li>
-                            <li>Icon:Ort - bewohnter Ort, Stadt</li>
-                            <li>Icon:Berg - Berg, Gebirge<li>
-                            <li>Icon:Fluss - Fluss, Gewässer</li>
-                            <li>Icon:Region - Region</li>
-                        </ul>
+                        ; Legende
+                        : [[Datei:Icon-abfassungsort-41.png]] Abfassungsort eines erfassten Werkes
+                        : [[Datei:Kloster-icon.png]] Kloster
+                        : [[Datei:village-icon.png]] bewohnter Ort, Stadt
+                        : [[Datei:mountains-icon.png]] Berg, Gebirge
+                        : [[Datei:wave-icon.png]] Fluss, Gewässer
+                        : [[Datei:Icon-region-41.png]] Region
                     </div>
                 </div>
             </div>
@@ -152,6 +155,8 @@
 
                     Das Repertorium Saracenorum entsteht als Semantic MediaWiki in Kooperation mit dem [https://cceh.uni-koeln.de/ Cologne Center for eHumanities (CCeH)] der Universität zu Köln.
                     Zur Projektgenese und Datenerhebung beachten Sie bitte die ausführliche Dokumentation mit Hinweisen editorischer Art.
+
+                    {{Callout|Näheres zur Projektdokumentation siehe [[Projekt- und Datengenese]]}}
                 </div>
             </div>
             <div class="hauptseite-block border">

@@ -30,7 +30,7 @@
 
             .hs-inhalte-item {
             border: 1px solid #aaa;
-            border-top: 2px solid #aaa;
+            border-top: 5px solid #606876;
             }
 
             .hs-inhalte-item.werke {
@@ -49,7 +49,7 @@
             border-top-color: #009999;
             }
 
-            .hs-inhalte-item-header, .hs-inhalte-item-image, .hs-inhalte-item-body  {
+            .hs-inhalte-item-image, .hs-inhalte-item-body  {
             padding:0.2em 0.4em;
             }
 
@@ -59,6 +59,7 @@
             font-weight: bold;
             line-height: 1.5;
             font-family:inherit;
+            padding:0.4em;
             }
 
             .hs-inhalte-item-image {
@@ -78,8 +79,26 @@
             border:none;
             }
 
+            .hauptseite-block.border h2 {
+            background:#f1f1f1;
+            }
 
-            .hauptseite-block .inhalt { border-top:1px solid #aaa; background: #fff;  min-height: 0; padding: .3em .8em .4em; }
+            .hauptseite-block .inhalt {
+            border-top:1px solid #aaa;
+            background: #fff;
+            min-height: 0;
+            padding: .3em .8em .4em;
+            }
+
+            .hauptseite-geographie {
+            display:grid;
+            grid-template-columns: 3fr 1fr;
+            border-top:1px solid #aaa;
+            }
+
+            .hauptseite-geograhpie-legende {
+            padding: .3em .8em .4em;
+            }
 
 
             #hauptseite div.inhalt { margin-bottom:1em; } .legende{font-size:10px;}
@@ -98,7 +117,7 @@
             .infobox.infobox-person .wikitable .head th  {border-top-color: #f5bc4c;}
             .infobox.infobox-verfasserin .wikitable .head th  {border-top-color: #ff0066;}
             .infobox.infobox-werk .wikitable .head th  {border-top-color: #32a852;}
-            .infobox.infobox-quelle .wikitable .head th  {border-top-color: #d7ff7b;}
+            .infobox.infobox-quelle .wikitable .head th  {border-top-color: #4287f5;}
 
             .infobox .wikitable .head th {border-top: 2px solid ; background:#fff; }
             .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; background:#fff; width:30em;}
@@ -129,6 +148,81 @@
             background-color:#F1f1f1;
             }
 
+
+            /* Callout Template */
+
+            /* Callout Template */
+
+
+            .cceh-callout {
+            padding: 10px;
+            margin: 0.5em 0;
+            border-left-width: 5px;
+            border-radius: 1px
+            }
+
+            .cceh-callout p {
+            margin: 5px 0 5px 0
+            }
+
+            .cceh-callout-info {
+            padding: .8em 1em;
+            color: #01466c;
+            background-color: #d3efff;    margin: 0.5rem 0;
+            border-left: 5px solid #0288d1
+            }
+
+            .cceh-callout-info .title {
+            color: #1b809e
+            }
+
+            .cceh-callout-info-light {
+            padding: .8em 1em;
+            background: #f9f9f9;
+            margin: 0.5rem 0;
+            border-left: 5px solid #ddd
+            }
+
+            .cceh-callout-info-light .title {
+            color: #1b809e
+            }
+
+            .cceh-callout-warning {
+            padding: .8em 1em;
+            background: #fcf8e3;
+            margin: 0.5rem 0;
+            border-left: 5px solid #aa6708
+            }
+
+            .cceh-callout-warning .title {
+            color: #aa6708
+            }
+
+            .cceh-callout-success {
+            padding: .8em 1em;
+            background: #dff0d8;
+            margin: 0.5rem 0;
+            border-left: 5px solid #3c763d
+            }
+
+            .cceh-callout-success .title {
+            color: #3c763d
+            }
+
+            .cceh-callout-error {
+            padding: .8em 1em;
+            background: #f2dede;
+            margin: 0.5rem 0;
+            border-left: 5px solid #ce4844
+            }
+
+            .cceh-callout .title {
+            margin-top: 0;
+            margin-bottom: 5px;
+            font-size: 16px;
+            font-family: inherit;
+            font-weight: 500
+            }
         </wikisyntax>
         </text>
     </page>
