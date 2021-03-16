@@ -5,6 +5,13 @@ classDiagram
     class KategorieWerk
     KategorieWerk <|-- Werk : ist ein 
     
+    class KategorieGeographie
+    KategorieGeographie <|-- KategorieOrt: ist ein
+    KategorieGeographie <|-- KategorieKloster: ist ein
+    KategorieGeographie <|-- KategorieBerg: ist ein
+    KategorieGeographie <|-- KategorieFluss: ist ein
+    KategorieGeographie <|-- KategorieRegion: ist ein
+    
     class KategorieOrt
     KategorieOrt <|-- Ort : ist ein 
     
