@@ -3,9 +3,10 @@
 classDiagram
 
     class KategorieWerk
+    
     KategorieWerk <|-- Werk : ist ein 
     
-    class KategoriePerso~
+    class KategoriePerson
     KategoriePerson <|-- Person : ist ein 
     
     class KategorieVerfasserIn
@@ -14,7 +15,7 @@ classDiagram
     class KategorieAbfassungsregion
     KategorieAbfassungsregion <|-- Abfassungsregion : ist ein 
     
-    class Kategorie~Geographie~
+    class KategorieGeographie
     KategorieGeographie <|-- KategorieOrt: ist ein
     KategorieGeographie <|-- KategorieKloster: ist ein
     KategorieGeographie <|-- KategorieBerg: ist ein
@@ -42,10 +43,12 @@ classDiagram
     class Abfassungsregion
     
     class Werk
+    Werk: Seiteninhalt Beschreibung
+    Werk: Seiteninhalte Editionshinweise
     Werk: Berichtszeitraum 
-    Werk: Berichtszeitraum-maschinenlesbar
+    Werk: Berichtszeitraum maschinenlesbar
     Werk: Abfassungzeit
-    Werk: Abfassungszeit-maschinenlesbar
+    Werk: Abfassungszeit maschinenlesbar
     Werk: Sarazenenbezug
     Werk: Werknummer
     Werk <-- Quellenstelle : Aus dem Werk
@@ -56,19 +59,24 @@ classDiagram
     Werk: Abfrage(Datierung Quellenstellen)
     
     class VerfasserIn
-    VerfasserIn: Alternativnamen
-    VerfasserIn: Lebensdaten
-    VerfasserIn: GND ID
-    VerfasserIn: VIAF ID
-    VerfasserIn: Wikidata ID
-    VerfasserIn: Lebensdaten
+    VerfasserIn: Attribut Alternativnamen
+    VerfasserIn: Attribut Lebensdaten
+    VerfasserIn: Attribut GND ID
+    VerfasserIn: Attribut VIAF ID
+    VerfasserIn: Attribut Wikidata ID
+    VerfasserIn: Attribut Lebensdaten
     VerfasserIn: Abfrage(Werk)
 
     class Quellenstelle
-    Quellenstelle: Inhaltsangabe
+    Quellenstelle: Seiteninhalt Inhaltsangabe
+    Quellenstelle: Seiteninhalt Voltext
+    Quellenstelle: Seiteninhalt Hinweise zur Übersetzung
+    Quellenstelle: Seiteninhalt Anmerkungen
+    Quellenstelle: --> Auffällgikeit : berichtet von
     Quellenstelle --> Person : nennt Person
     Quellenstelle --> Ort : nennt Ort  
     Quellenstelle --> Ort : geographischer Bezug zu 
+    Quellenstelle: Abfrage(benachbarte Quellenstellen)
 
     class Person
     Person: Alternativnamen
