@@ -4,6 +4,12 @@ classDiagram
 
     class KategorieWerk
     KategorieWerk <|-- Werk : ist ein 
+    
+    class KategorieOrt
+    KategorieOrt <|-- Ort : ist ein 
+    
+    class KategorieAbfassungsort
+    KategorieAbfassungsort <|-- Ort : ist ein 
 
     class Werk
     Werk: Berichtszeitraum 
