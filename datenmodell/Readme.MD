@@ -107,7 +107,7 @@ classDiagram
     
     
     class Schlagwort
-    <<kann mit Ort oder Person übereinstimmen>>
+    <<kann mit Ort oder Person übereinstimmen>> Schlagwort
 end
 
 ```
