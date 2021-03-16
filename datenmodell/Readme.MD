@@ -1,6 +1,4 @@
 ```mermaid
-%%{init: {'theme': 'base'}
-
 classDiagram
 
     class KategorieWerk
