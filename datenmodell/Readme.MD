@@ -38,8 +38,7 @@ classDiagram
     Ort: Getty ID
     Ort: GND ID
     Ort: VIAF ID
-    Ort: Kategorie(Ort)
-    Ort: Kategorie(Abfassungsort)
+    Ort: Abfrage(Quellenstellen)
     
 end
 
