@@ -46,35 +46,35 @@ classDiagram
     Werk: Seiteninhalt Beschreibung
     Werk: Seiteninhalte Editionshinweise
     Werk: Attribut Berichtszeitraum 
-    Werk: Attribut Berichtszeitraum maschinenlesbar
+    Werk: Attribut Berichtszeitraum_maschinenlesbar
     Werk: Attribut Abfassungzeit
-    Werk: Attribut Abfassungszeit maschinenlesbar
+    Werk: Attribut Abfassungszeit_maschinenlesbar
     Werk: Attribut Sarazenenbezug
     Werk: Attribut Werknummer
     Werk <-- Quellenstelle : Aus dem Werk
     Werk --> VerfasserIn : abgefasst von
     Werk --> Ort : abgefasst in
-    Werk --> Abfassungsregion : gehört zu Abfassungsregion
+    Werk --> Abfassungsregion : gehört zu
     Werk: Abfrage(Quellenstellen)
     Werk: Abfrage(Datierung Quellenstellen)
     
     class VerfasserIn
     VerfasserIn: Attribut Alternativnamen
     VerfasserIn: Attribut Lebensdaten
-    VerfasserIn: Attribut GND ID
-    VerfasserIn: Attribut VIAF ID
-    VerfasserIn: Attribut Wikidata ID
+    VerfasserIn: Attribut GND_ID
+    VerfasserIn: Attribut VIAF_ID
+    VerfasserIn: Attribut Wikidata_ID
     VerfasserIn: Attribut Lebensdaten
     VerfasserIn: Abfrage(Werk)
 
     class Quellenstelle
     Quellenstelle: Seiteninhalt Inhaltsangabe
     Quellenstelle: Seiteninhalt Voltext
-    Quellenstelle: Seiteninhalt Hinweise zur Übersetzung
+    Quellenstelle: Seiteninhalt Hinweise_zur_Übersetzung
     Quellenstelle: Seiteninhalt Anmerkungen
     Quellenstelle: Attribut Inhaltsangabe
-    Quellenstelle: Attribut datiert auf
-    Quellenstelle: Attribut Datierung maschinenlesbar
+    Quellenstelle: Attribut datiert_auf
+    Quellenstelle: Attribut Datierung_maschinenlesbar
     Quellenstelle: Attribut Individuen
     Quellenstelle: Attribut Interaktion
     Quellenstelle: Attribut Kollektive
@@ -89,17 +89,17 @@ classDiagram
     class Person
     Person: Attribut Alternativnamen
     Person: Attribut Rolle
-    Person: Attribut GND ID
-    Person: Attribut VIAF ID
-    Person: Attribut Wikidata ID
-    Person: Attribut Wikidata description
+    Person: Attribut GND_ID
+    Person: Attribut VIAF_ID
+    Person: Attribut Wikidata_ID
+    Person: Attribut Wikidata_description
     Person: Abfrage(Quellenstellen)
 
     class Ort
     Ort: Seiteninhalt Getty TGN Description
     Ort: Attribut Alternativnamen
-    Ort: Attribut Getty coordinates
-    Ort: Attribut editorial coordinates
+    Ort: Attribut Getty_coordinates
+    Ort: Attribut editorial_coordinates
     Ort: Attribut Getty ID
     Ort: Attribut GND ID
     Ort: Attribut VIAF ID
@@ -110,5 +110,4 @@ classDiagram
     class Schlagwort
 
 end
-
 ```
