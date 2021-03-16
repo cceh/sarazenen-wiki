@@ -1,4 +1,7 @@
 ```mermaid
+
+%%{init: { 'theme': 'forest' } }%%
+
 classDiagram
 
     class KategorieWerk
@@ -26,9 +29,5 @@ classDiagram
     Ort: Kategorie(Abfassungsort)
     
 end
-        
-    {
-       "theme":"default"
-    }
-    
+
 ```
