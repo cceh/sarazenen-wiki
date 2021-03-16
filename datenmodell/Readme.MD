@@ -25,6 +25,8 @@ classDiagram
     Ort: Kategorie(Ort)
     Ort: Kategorie(Abfassungsort)
     
+end
+        
     {
        "theme":"default"
     }
