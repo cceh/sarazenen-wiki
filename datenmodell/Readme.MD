@@ -52,6 +52,9 @@ classDiagram
     class Person
     Person: Alternativnamen
     Person: Rolle
+    Person: GND ID
+    Person: VIAF ID
+    Person: Wikidata description
     Person: Abfrage(Quellenstellen)
 
     class Ort
