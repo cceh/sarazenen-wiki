@@ -14,6 +14,12 @@ classDiagram
     class KategorieBerg
     KategorieBerg <|-- Ort : ist ein 
     
+    class KategorieFluss
+    KategorieFluss <|-- Ort : ist ein 
+    
+    class KategorieRegion
+    KategorieRegion <|-- Ort : ist ein
+    
     class KategorieAbfassungsort
     KategorieAbfassungsort <|-- Ort : ist ein 
     
