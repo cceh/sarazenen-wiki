@@ -105,9 +105,8 @@ classDiagram
     
     class Auffälligkeit
     
-    
     class Schlagwort
-    <<kann mit Ort oder Person übereinstimmen>> Schlagwort
+
 end
 
 ```
