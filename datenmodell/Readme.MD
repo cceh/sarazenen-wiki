@@ -5,6 +5,9 @@ classDiagram
     class KategorieWerk
     KategorieWerk <|-- Werk : ist ein 
     
+    cass KategoriePerson
+    KategoriePerson <|-- Person : ist ein 
+    
     cass KategorieVerfasserIn
     KategorieVerfasserIn <|-- VerfasserIn : ist ein 
     
