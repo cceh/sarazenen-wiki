@@ -53,6 +53,7 @@ classDiagram
     Werk --> Ort : abgefasst in
     Werk --> Abfassungsregion : gehört zu Abfassungsregion
     Werk: Abfrage(Quellenstellen)
+    Werk: Abfrage(Datierung Quellenstellen)
     
     class VerfasserIn
     VerfasserIn: Alternativnamen
