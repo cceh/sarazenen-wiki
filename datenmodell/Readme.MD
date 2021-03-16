@@ -72,10 +72,17 @@ classDiagram
     Quellenstelle: Seiteninhalt Voltext
     Quellenstelle: Seiteninhalt Hinweise zur Übersetzung
     Quellenstelle: Seiteninhalt Anmerkungen
+    Quellenstelle: Attribut Inhaltsangabe
+    Quellenstelle: Attribut datiert auf
+    Quellenstelle: Attribut Individuen
+    Quellenstelle: Attribut Interaktion
+    Quellenstelle: Attribut Kollektive
+    Quellenstelle: Attribut Zitation
     Quellenstelle: --> Auffälligkeit : berichtet von
     Quellenstelle --> Person : nennt Person
     Quellenstelle --> Ort : nennt Ort  
     Quellenstelle --> Ort : geographischer Bezug zu 
+    Quellenstelle --> Schlagwort : relevante Schlagworte
     Quellenstelle: Abfrage(benachbarte Quellenstellen)
 
     class Person
@@ -98,6 +105,9 @@ classDiagram
     
     class Auffälligkeit
     
+    
+    class Schlagwort
+    <<kann mit Ort oder Person übereinstimmen>>
 end
 
 ```
