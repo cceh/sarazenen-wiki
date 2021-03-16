@@ -1,7 +1,5 @@
 ```mermaid
 
-%%{init: { 'theme': 'forest' } }%%
-
 classDiagram
 
     class KategorieWerk
