@@ -50,6 +50,9 @@ classDiagram
     Quellenstelle --> Ort : geographischer Bezug zu 
 
     class Person
+    Person: Alternativnamen
+    Person: Rolle
+    Person: Abfrage(Quellenstellen)
 
     class Ort
     Ort: Alternativnamen
