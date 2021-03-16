@@ -45,12 +45,12 @@ classDiagram
     class Werk
     Werk: Seiteninhalt Beschreibung
     Werk: Seiteninhalte Editionshinweise
-    Werk: Berichtszeitraum 
-    Werk: Berichtszeitraum maschinenlesbar
-    Werk: Abfassungzeit
-    Werk: Abfassungszeit maschinenlesbar
-    Werk: Sarazenenbezug
-    Werk: Werknummer
+    Werk: Attribut Berichtszeitraum 
+    Werk: Attribut Berichtszeitraum maschinenlesbar
+    Werk: Attribut Abfassungzeit
+    Werk: Attribut Abfassungszeit maschinenlesbar
+    Werk: Attribut Sarazenenbezug
+    Werk: Attribut Werknummer
     Werk <-- Quellenstelle : Aus dem Werk
     Werk --> VerfasserIn : abgefasst von
     Werk --> Ort : abgefasst in
@@ -74,6 +74,7 @@ classDiagram
     Quellenstelle: Seiteninhalt Anmerkungen
     Quellenstelle: Attribut Inhaltsangabe
     Quellenstelle: Attribut datiert auf
+    Quellenstelle: Attribut Datierung maschinenlesbar
     Quellenstelle: Attribut Individuen
     Quellenstelle: Attribut Interaktion
     Quellenstelle: Attribut Kollektive
@@ -86,21 +87,22 @@ classDiagram
     Quellenstelle: Abfrage(benachbarte Quellenstellen)
 
     class Person
-    Person: Alternativnamen
-    Person: Rolle
-    Person: GND ID
-    Person: VIAF ID
-    Person: Wikidata ID
-    Person: Wikidata description
+    Person: Attribut Alternativnamen
+    Person: Attribut Rolle
+    Person: Attribut GND ID
+    Person: Attribut VIAF ID
+    Person: Attribut Wikidata ID
+    Person: Attribut Wikidata description
     Person: Abfrage(Quellenstellen)
 
     class Ort
-    Ort: Alternativnamen
-    Ort: Getty coordinates
-    Ort: editorial coordinates
-    Ort: Getty ID
-    Ort: GND ID
-    Ort: VIAF ID
+    Ort: Seiteninhalt Getty TGN Description
+    Ort: Attribut Alternativnamen
+    Ort: Attribut Getty coordinates
+    Ort: Attribut editorial coordinates
+    Ort: Attribut Getty ID
+    Ort: Attribut GND ID
+    Ort: Attribut VIAF ID
     Ort: Abfrage(Quellenstellen)
     
     class Auffälligkeit
