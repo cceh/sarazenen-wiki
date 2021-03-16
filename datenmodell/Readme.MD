@@ -2,8 +2,8 @@
 
 classDiagram
 
-    class KategorieWerk
-    KategorieWerk <|-- Werk : ist ein 
+    class Kategorie~Werk~
+    Kategorie~Werk~ <|-- Werk : ist ein 
     
     class KategoriePerson
     KategoriePerson <|-- Person : ist ein 
