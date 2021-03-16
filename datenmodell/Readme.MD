@@ -34,7 +34,7 @@ classDiagram
     Quellenstelle: Inhaltsangabe
     Quellenstelle --> Person : nennt Person
     Quellenstelle --> Ort : nennt Ort  
-    Quellenstelle --> Ort : ngeographischer Bezug zu 
+    Quellenstelle --> Ort : geographischer Bezug zu 
 
     class Person
 
