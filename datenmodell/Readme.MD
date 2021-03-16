@@ -32,6 +32,12 @@ classDiagram
     class Person
 
     class Ort
+    Ort: Alternativnamen
+    Ort: Getty coordinates
+    Ort: editorial coordinates
+    Ort: Getty ID
+    Ort: GND ID
+    Ort: VIAF ID
     Ort: Kategorie(Ort)
     Ort: Kategorie(Abfassungsort)
     
