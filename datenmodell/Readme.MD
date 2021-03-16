@@ -72,7 +72,7 @@ classDiagram
     Quellenstelle: Seiteninhalt Voltext
     Quellenstelle: Seiteninhalt Hinweise zur Übersetzung
     Quellenstelle: Seiteninhalt Anmerkungen
-    Quellenstelle: --> Auffällgikeit : berichtet von
+    Quellenstelle: --> Auffälligkeit : berichtet von
     Quellenstelle --> Person : nennt Person
     Quellenstelle --> Ort : nennt Ort  
     Quellenstelle --> Ort : geographischer Bezug zu 
@@ -95,6 +95,8 @@ classDiagram
     Ort: GND ID
     Ort: VIAF ID
     Ort: Abfrage(Quellenstellen)
+    
+    class Auffälligkeit
     
 end
 
