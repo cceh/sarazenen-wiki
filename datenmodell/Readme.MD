@@ -45,6 +45,13 @@ classDiagram
     Werk: Abfrage(Quellenstellen)
     
     class VerfasserIn
+    VerfasserIn: Alternativnamen
+    VerfasserIn: Lebensdaten
+    VerfasserIn: GND ID
+    VerfasserIn: VIAF ID
+    VerfasserIn: Wikidata ID
+    VerfasserIn: Lebensdaten
+    VerfasserIn: Abfrage(Werk)
 
     class Quellenstelle
     Quellenstelle: Inhaltsangabe
