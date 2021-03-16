@@ -5,6 +5,9 @@ classDiagram
     class KategorieWerk
     KategorieWerk <|-- Werk : ist ein 
     
+    cass KategorieVerfasserIn
+    KategorieVerfasserIn <|-- VerfasserIn : ist ein 
+    
     class KategorieGeographie
     KategorieGeographie <|-- KategorieOrt: ist ein
     KategorieGeographie <|-- KategorieKloster: ist ein
@@ -30,9 +33,6 @@ classDiagram
     class KategorieAbfassungsort
     KategorieAbfassungsort <|-- Ort : ist ein 
     
-    class KategorieVerfasserIn
-    KategorieVerfasserIn <|-- VerfasserIn : ist ein 
-
     class Werk
     Werk: Berichtszeitraum 
     Werk: Abfassungzeitraum
