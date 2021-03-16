@@ -43,7 +43,10 @@ classDiagram
     
     class Werk
     Werk: Berichtszeitraum 
-    Werk: Abfassungzeitraum
+    Werk: Berichtszeitraum (maschinenlesbar)
+    Werk: Abfassungzeit
+    Werk: Sarazenenbezug
+    Werk: Werknummer
     Werk <-- Quellenstelle : Aus dem Werk
     Werk --> VerfasserIn : abgefasst von
     Werk --> Ort : abgefasst in
