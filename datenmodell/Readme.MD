@@ -2,42 +2,42 @@
 
 classDiagram
 
-    class Kategorie~Werk~
-    Kategorie~Werk~ <|-- Werk : ist ein 
+    class KategorieWerk
+    KategorieWerk <|-- Werk : ist ein 
     
-    class Kategorie~Person~
-    Kategorie~Person~ <|-- Person : ist ein 
+    class KategoriePerso~
+    KategoriePerson <|-- Person : ist ein 
     
-    class Kategorie~VerfasserIn~
-    Kategorie~VerfasserIn~ <|-- VerfasserIn : ist ein 
+    class KategorieVerfasserIn
+    KategorieVerfasserIn <|-- VerfasserIn : ist ein 
     
-    class Kategorie~Abfassungsregion~
-    Kategorie~Abfassungsregion~ <|-- Abfassungsregion : ist ein 
+    class KategorieAbfassungsregion
+    KategorieAbfassungsregion <|-- Abfassungsregion : ist ein 
     
     class Kategorie~Geographie~
-    Kategorie~Geographie~ <|-- KategorieOrt: ist ein
-    Kategorie~Geographie~ <|-- KategorieKloster: ist ein
-    Kategorie~Geographie~ <|-- KategorieBerg: ist ein
-    Kategorie~Geographie~ <|-- KategorieFluss: ist ein
-    Kategorie~Geographie~ <|-- KategorieRegion: ist ein
+    KategorieGeographie <|-- KategorieOrt: ist ein
+    KategorieGeographie <|-- KategorieKloster: ist ein
+    KategorieGeographie <|-- KategorieBerg: ist ein
+    KategorieGeographie <|-- KategorieFluss: ist ein
+    KategorieGeographie <|-- KategorieRegion: ist ein
     
-    class Kategorie~Ort~
-    Kategorie~Ort~ <|-- Ort : ist ein 
+    class KategorieOrt
+    KategorieOrt <|-- Ort : ist ein 
     
-    class Kategorie~Kloster~
-    Kategorie~Kloster~ <|-- Ort : ist ein 
+    class KategorieKloster
+    KategorieKloster <|-- Ort : ist ein 
     
-    class Kategorie~Berg~
-    Kategorie~Berg~ <|-- Ort : ist ein 
+    class KategorieBerg
+    KategorieBerg <|-- Ort : ist ein 
     
-    class Kategorie~Fluss~
-    Kategorie~Fluss~ <|-- Ort : ist ein 
+    class KategorieFluss
+    KategorieFluss <|-- Ort : ist ein 
     
-    class Kategorie~Region~
-    Kategorie~Region~ <|-- Ort : ist ein
+    class KategorieRegion
+    KategorieRegion <|-- Ort : ist ein
     
-    class Kategorie~Abfassungsort~
-    Kategorie~Abfassungsort~ <|-- Ort : ist ein 
+    class KategorieAbfassungsort
+    KategorieAbfassungsort <|-- Ort : ist ein 
     
     class Abfassungsregion
     
