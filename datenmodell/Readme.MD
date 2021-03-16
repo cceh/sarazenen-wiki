@@ -8,6 +8,12 @@ classDiagram
     class KategorieOrt
     KategorieOrt <|-- Ort : ist ein 
     
+    class KategorieKloster
+    KategorieKloster <|-- Ort : ist ein 
+    
+    class KategorieBerg
+    KategorieBerg <|-- Ort : ist ein 
+    
     class KategorieAbfassungsort
     KategorieAbfassungsort <|-- Ort : ist ein 
     
