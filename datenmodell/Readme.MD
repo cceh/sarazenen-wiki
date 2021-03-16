@@ -10,6 +10,9 @@ classDiagram
     
     class KategorieAbfassungsort
     KategorieAbfassungsort <|-- Ort : ist ein 
+    
+    class KategorieVerfasserIn
+    KategorieVerfasserIn <|-- VerfasserIn : ist ein 
 
     class Werk
     Werk: Berichtszeitraum 
