@@ -5,11 +5,14 @@ classDiagram
     class KategorieWerk
     KategorieWerk <|-- Werk : ist ein 
     
-    cass KategoriePerson
+    class KategoriePerson
     KategoriePerson <|-- Person : ist ein 
     
-    cass KategorieVerfasserIn
+    class KategorieVerfasserIn
     KategorieVerfasserIn <|-- VerfasserIn : ist ein 
+    
+    class KategorieAbfassungsregion
+    KategorieAbfassungsregion <|-- Abfassungsregion : ist ein 
     
     class KategorieGeographie
     KategorieGeographie <|-- KategorieOrt: ist ein
@@ -36,12 +39,15 @@ classDiagram
     class KategorieAbfassungsort
     KategorieAbfassungsort <|-- Ort : ist ein 
     
+    class Abfassungsregion
+    
     class Werk
     Werk: Berichtszeitraum 
     Werk: Abfassungzeitraum
     Werk <-- Quellenstelle : Aus dem Werk
     Werk --> VerfasserIn : abgefasst von
     Werk --> Ort : abgefasst in
+    Werk --> Abfassungsregion : gehört zu Abfassungsregion
     Werk: Abfrage(Quellenstellen)
     
     class VerfasserIn
