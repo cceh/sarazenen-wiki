@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><page><meta><title>Abfassungszeitraum</title><type>Site</type><id/><categories><category>Repertorium Saracenorum</category></categories><rules><rule/></rules></meta><text>
+                        Diese Timelines bieten einen Überblick über die Zeiten der Abfassung aller im Repertorium Saracenorum aufgenommenen Werke. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite des Werks aufzurufen. 
+                        
+                        Die zwei Ebenen der Timelines (Dekaden, Jahrhunderte) lassen eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die zwei Ebenen der Timelines (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigt ein hellerer Bereich auf der unteren Ebene. Kleine blaue Striche zeigen dort die Abfassungszeiten der einzelnen Werke an.
+                        
+                        Die obere Timeline bietet eine Gesamtübersicht über die Abfassungszeiten aller im Repertorium Saracenorum aufgenommenen Werke. Zur besseren Übersicht und, um die räumliche Verteilung der Berichte deutlicher sichtbar zu machen, folgen für jede Abfassungsregion weitere Timelines, die die Abfassungszeiten sämtlicher Werke abbilden, die in der jeweiligen Region verfasst wurden.
                             <wikisyntax>
                                 <wikisyntax>
                                     {{#ask:
