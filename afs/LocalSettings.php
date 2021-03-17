@@ -61,7 +61,7 @@ $wgDBtype = "mysql";
 $wgDBserver = "mysql.rrz.uni-koeln.de";
 $wgDBname = "sarazenen-bonn";
 $wgDBuser = "cceh";
-$wgDBpassword = ""; #im Wiki verzeichnet
+$wgDBpassword = "zOrNgSwSdw"; #im Wiki verzeichnet
 
 # MySQL specific settings
 $wgDBprefix = "";
@@ -216,6 +216,11 @@ wfLoadExtension('SemanticResultFormats');
 enableSemantics( 'saraceni.uni-koeln.de' );
 wfLoadExtension( 'CategoryTree' );
 wfLoadExtension( 'Maps' );
+wfLoadExtension( 'TextExtracts' );
+wfLoadExtension( 'PageImages' );
 
+wfLoadExtension( 'Popups' );
+$wgPopupsHideOptInOnPreferencesPage = true;
+$wgPopupsReferencePreviewsBetaFeature = false;
 
 $srfgFormats[] ='incoming';

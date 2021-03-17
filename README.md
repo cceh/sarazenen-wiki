@@ -70,6 +70,9 @@ https://www.mediawiki.org/wiki/Extension:Semantic_Compound_Queries
 https://www.mediawiki.org/wiki/Extension:Semantic_Drilldown
 https://www.mediawiki.org/wiki/Extension:Semantic_Internal_Objects
 https://www.mediawiki.org/wiki/Extension:HTML_Tags
+https://www.mediawiki.org/wiki/Extension:TextExtracts
+https://www.mediawiki.org/wiki/Extension:PageImages
+https://www.mediawiki.org/wiki/Extension:Popups
 
 ### AFS ###
 #### htaccess ####

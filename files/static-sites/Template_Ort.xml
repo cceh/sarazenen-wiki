@@ -71,7 +71,10 @@
                 {{#if:{{{getty_id|}}} |
                 {{!}} Getty TGN{{#info:Getty Thesaurus of Geographical Names}} 
                 {{!}} [http://vocab.getty.edu/page/tgn/{{{getty_id}}} {{{getty_id}}}] }}
-                
+                {{#if:{{{gnd_id|}}} |  
+                {{!}}- 
+                {{!}} GND{{#info:Gemeinsame Normdatei}}
+                {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
                 |- 
                 {{#if:{{{viaf_id|}}}| 
                 {{!}} VIAF{{#info:Virtual International Authority File}} 
@@ -89,7 +92,7 @@
                 {{!}} Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
                 {{!}} {{{getty_coordinates}}} 
                 {{!}}-
-                !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap | Koordinaten={{{getty_coordinates}}} }} }}
+                !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap |class={{{class}}}|icon={{{icon}}} Koordinaten={{{getty_coordinates}}} }} }}
                 |}&lt;/div&gt;&lt;/onlyinclude&gt;
             </wikisyntax>
         </text>

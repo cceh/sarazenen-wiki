@@ -5615,7 +5615,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="36359b9b-ae3b-4754-9346-fb374089de12">
          <Id>36359b9b-ae3b-4754-9346-fb374089de12</Id>
          <Name>Nava</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Nauam</Name>
          </Alternativnamen>
@@ -5694,7 +5694,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="a4c3cf7d-8abf-4bcb-8c30-037fc2d02da5">
          <Id>a4c3cf7d-8abf-4bcb-8c30-037fc2d02da5</Id>
          <Name>Orbieu</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Oliveio</Name>
          </Alternativnamen>
@@ -6420,7 +6420,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="83bd3685-af32-454d-9d09-9c1c11be38b4">
          <Id>83bd3685-af32-454d-9d09-9c1c11be38b4</Id>
          <Name>Garigliano</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Garelianum</Name>
             <Name>Garilianum</Name>
@@ -6455,7 +6455,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="785feb86-de3d-4538-8851-df2530168c6c">
          <Id>785feb86-de3d-4538-8851-df2530168c6c</Id>
          <Name>Nil</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Nile</Name>
             <Name>Nilo</Name>
@@ -6604,7 +6604,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="f6a6d002-821b-43be-9a22-b4c869341b4f">
          <Id>f6a6d002-821b-43be-9a22-b4c869341b4f</Id>
          <Name>Berre</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Birram</Name>
             <Name>Byrra</Name>
@@ -6723,7 +6723,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="8208e2e7-0189-4356-a98c-059bfd963a28">
          <Id>8208e2e7-0189-4356-a98c-059bfd963a28</Id>
          <Name>Garonne</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Garonnam</Name>
             <Name>Garunnam</Name>
@@ -7222,7 +7222,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="6c6e4886-2504-46d6-9600-f209c2009452">
          <Id>6c6e4886-2504-46d6-9600-f209c2009452</Id>
          <Name>Rhône</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Rhodanum</Name>
             <Name>Hrodanum</Name>
@@ -7456,7 +7456,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="9ac9a38f-f285-4dc4-826c-ac62e1456083">
          <Id>9ac9a38f-f285-4dc4-826c-ac62e1456083</Id>
          <Name>Ebro</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Hibero</Name>
             <Name>Hiberi</Name>
@@ -7468,7 +7468,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="d37bdb64-ad65-4e5e-a1c6-160b4ecacb74">
          <Id>d37bdb64-ad65-4e5e-a1c6-160b4ecacb74</Id>
          <Name>Cinca</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Cingam</Name>
          </Alternativnamen>
@@ -7520,7 +7520,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="e44d1969-7c3f-4901-b76d-564c5b435d0d">
          <Id>e44d1969-7c3f-4901-b76d-564c5b435d0d</Id>
          <Name>Loire</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Silidam</Name>
             <Name>Liger</Name>
@@ -7531,7 +7531,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="4a011440-7c21-401e-815c-552621080aad">
          <Id>4a011440-7c21-401e-815c-552621080aad</Id>
          <Name>Ägäis</Name>
-         <Typ>Region</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Ägäisches Meer</Name>
             <Name>Aegean Sea</Name>
@@ -7542,7 +7542,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="69a47d7e-6433-4775-b2a9-b34a6f6b090a">
          <Id>69a47d7e-6433-4775-b2a9-b34a6f6b090a</Id>
          <Name>Segre</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Sicorim</Name>
             <Name>Río Segre</Name>
@@ -7565,7 +7565,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="5f52ea88-ae40-44b1-82b7-a9d5b8e52ae7">
          <Id>5f52ea88-ae40-44b1-82b7-a9d5b8e52ae7</Id>
          <Name>Dordogne</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Dornoniam</Name>
          </Alternativnamen>
@@ -7724,7 +7724,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="fe38afdf-0c58-4e73-8c81-d72df853054e">
          <Id>fe38afdf-0c58-4e73-8c81-d72df853054e</Id>
          <Name>Sâone</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Arar</Name>
             <Name>Ararim</Name>
@@ -7735,7 +7735,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="c476aa5d-1e07-4dcd-ba84-697dd61c5477">
          <Id>c476aa5d-1e07-4dcd-ba84-697dd61c5477</Id>
          <Name>Rhein</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Rhenum</Name>
             <Name>Rhine</Name>
@@ -8223,7 +8223,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="134fdc48-27e8-402b-b6ef-ca79beb942b5">
          <Id>134fdc48-27e8-402b-b6ef-ca79beb942b5</Id>
          <Name>Donau</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Danubium</Name>
             <Name>Danube</Name>
@@ -8415,7 +8415,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="3e0e36e2-f5b2-4eaa-8569-68dc42b6c936">
          <Id>3e0e36e2-f5b2-4eaa-8569-68dc42b6c936</Id>
          <Name>Kaspisches Meer</Name>
-         <Typ>Region</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>mare Cypium</Name>
             <Name>mare Cespium</Name>
@@ -8438,7 +8438,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="06e4dac2-feee-4876-a783-a68b876bc842">
          <Id>06e4dac2-feee-4876-a783-a68b876bc842</Id>
          <Name>Aude</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Adicec</Name>
          </Alternativnamen>
@@ -8507,7 +8507,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="5c04a3ff-7292-4efb-91b0-a364b47a7067">
          <Id>5c04a3ff-7292-4efb-91b0-a364b47a7067</Id>
          <Name>Altmühl</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Alcmona</Name>
          </Alternativnamen>
@@ -8517,7 +8517,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="ca34f9e9-3ccc-4621-9a78-271ed9af71b3">
          <Id>ca34f9e9-3ccc-4621-9a78-271ed9af71b3</Id>
          <Name>Rednitz</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Ratanza</Name>
             <Name>Zufluss der Regnitz</Name>
@@ -8663,7 +8663,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="6149f4a7-615d-495a-8715-cb30250938f5">
          <Id>6149f4a7-615d-495a-8715-cb30250938f5</Id>
          <Name>Volturno</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Vulturno</Name>
          </Alternativnamen>
@@ -8799,7 +8799,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="83dcafe9-1527-464d-90cc-0d424844f61c">
          <Id>83dcafe9-1527-464d-90cc-0d424844f61c</Id>
          <Name>Rapido</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Rapidum</Name>
          </Alternativnamen>
@@ -9028,7 +9028,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="c6c9609d-3fe7-46b3-9ded-c1e4d16a52a3">
          <Id>c6c9609d-3fe7-46b3-9ded-c1e4d16a52a3</Id>
          <Name>Lanio</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Lanii</Name>
             <Name>Clanio</Name>
@@ -9340,7 +9340,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="985ca97d-b514-4015-b1c6-c3d8f125cd5c">
          <Id>985ca97d-b514-4015-b1c6-c3d8f125cd5c</Id>
          <Name>Tigris</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Tigrim</Name>
          </Alternativnamen>
@@ -9374,7 +9374,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="d5c1a74d-fd2d-4dcf-b71b-33e62ba168fa">
          <Id>d5c1a74d-fd2d-4dcf-b71b-33e62ba168fa</Id>
          <Name>Euphrat</Name>
-         <Typ>Fluss</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>Euphrate</Name>
             <Name>Euphrates</Name>
@@ -9385,7 +9385,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="e4196d99-fe14-47c0-a3bb-a6bde6ad750d">
          <Id>e4196d99-fe14-47c0-a3bb-a6bde6ad750d</Id>
          <Name>Rotes Meer</Name>
-         <Typ>Region</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>mare Rubrum</Name>
             <Name>Red Sea</Name>
@@ -9407,7 +9407,7 @@ Hier bitte strukturelle Änderungen im Dokument festhalten. Alle strukturellen �
       <Ort id="4aed5ae7-1810-41b0-87d4-35923fb3a2ee">
          <Id>4aed5ae7-1810-41b0-87d4-35923fb3a2ee</Id>
          <Name>Mittelmeer</Name>
-         <Typ>Region</Typ>
+         <Typ>Gewässer</Typ>
          <Alternativnamen>
             <Name>mare Magnum</Name>
             <Name>Mediterranean Sea</Name>
@@ -21783,7 +21783,7 @@ Wandelt, zu ihnen gesellt, lässigen Schrittes dahin.
                <notes>
                   <note>Hier sind nur Auszüge des ausführlichen Berichts über die Belagerung und Eroberung Barcelonas zusammengetragen.
 Datierung durch den Editor, die Quelle selbst bleibt ohne Zeitangabe.
-Der Suchbegriff ‚Hispania; Spanien‘ taucht in den ausgelassenen Passagen auf.</note>
+Das Schlagwort ‚Hispania; Spanien‘ taucht in den ausgelassenen Passagen auf.</note>
                </notes>
             </editorial_notes>
          </Quelle>
@@ -34468,7 +34468,7 @@ Vgl. Theo Klüppel – Walter Berschin, [Einleitung zu] Vita Symeonis Achivi, in
             </Auffaelligkeiten>
             <Suchbegriffe>
                <Suchwort>Fraxinetum</Suchwort>
-               <Suchwort>La Grande-Freinet</Suchwort>
+               <Suchwort>La Garde-Freinet</Suchwort>
                <Suchwort>Saracenus</Suchwort>
                <Suchwort>Sarazene</Suchwort>
                <Suchwort/>

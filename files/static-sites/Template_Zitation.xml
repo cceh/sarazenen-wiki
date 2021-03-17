@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Zitation</title>
+            <type>Template</type>
+            <id/>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            <wikisyntax>{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, unter Mitarbeit von Ben Bigalke, Jonathan Blumtritt, Lukas Müller, Patrick Sahle et al., URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).</wikisyntax>
+        </text>
+    </page>

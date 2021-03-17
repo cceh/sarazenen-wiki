@@ -313,7 +313,7 @@
 &lt;div&gt;[[<xsl:value-of select="$parent/WerkTitel"/>|Zurück zum Werk (<xsl:value-of select="$parent/WerkTitel"/>)]]&lt;/div&gt;
 &lt;br/&gt;
 === Zitationshinweis ===
-<xsl:text>{{BASEPAGENAME}}, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, URL: [{{fullurl:{{FULLPAGENAME}}}} {{fullurl:{{FULLPAGENAME}}}}] (zuletzt abgerufen am {{CURRENTDAY}}.{{CURRENTMONTH}}.{{CURRENTYEAR}}).</xsl:text>
+{{Template:Zitation}}
 <xsl:variable name="times" xml:space="default">
     <xsl:for-each select="./ZeitangabeWissenschaft/Datum">
                      <xsl:variable name="res"><xsl:call-template name="normDate"><xsl:with-param name="date" select="./@date"/><xsl:with-param name="attr" select="'Zeitangabe'"/></xsl:call-template></xsl:variable>
