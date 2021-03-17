@@ -14,6 +14,37 @@
             Übersicht über alle im Repertorium Saracenorum hinterlegten geographischen Unterkategorien. Über die Auswahl einer geographischen Kategorie können alle Berichte abgerufen werden, zu denen ein Bezug zu dieser Kategorie hinterlegt wurde.
             
             Außerdem sind alle geographischen Räume mit Normdaten des <a link="http://www.getty.edu/research/tools/vocabularies/tgn/index.html">Getty Thesaurus of Geographic Names Online</a> verknüpft.
-            
+
+            <div class="hauptseite-block border">
+                <h2> Positionen aller in den Berichten erwähnten Orte</h2>
+                <div class="hauptseite-geographie" >
+                    <div class="hauptseite-geographie-map">
+                        {{#compound_query:
+                        [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                        | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
+                        | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
+                        | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
+                        | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
+                        | [[Kategorie:Region]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
+                        |cluster = yes
+                        |clustermaxradius=20
+                        |format=map
+                        |height=500px
+                        |layers=Esri.WorldPhysical
+                        |type=terrain
+                        }}
+                    </div>
+                    <div class="hauptseite-geograhpie-legende">
+                        ; Legende
+                        : [[Datei:Icon-abfassungsort-41.png|36px|link=Kategorie:Abfassungsort]] Abfassungsort eines erfassten Werkes
+                        : [[Datei:Kloster-icon.png|36px|link=Kategorie:Kloster]] Kloster
+                        : [[Datei:village-icon.png|36px|link=Kategorie:Ort]] bewohnter Ort, Stadt
+                        : [[Datei:mountains-icon.png|36px|link=Kategorie:Berg]] Berg, Gebirge
+                        : [[Datei:wave-icon.png|36px|link=Kategorie:Fluss]] Fluss, Gewässer
+                        : [[Datei:Icon-region-41.png|36px|link=Kategorie:Region]] Region
+                    </div>
+                </div>
+            </div>
+
         </text>
     </page>
