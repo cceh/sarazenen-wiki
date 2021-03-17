@@ -12,5 +12,20 @@
         </meta>
         <text>
         Im Zuge der Bearbeitung wurden alle Werke einer der folgenden europäischen Region zugeordnet: Britische Inseln, Iberische Halbinsel, Italienische Halbinsel, Osteuropa, Skandinavien sowie West- und Mitteleuropa. Für Werke, die auf dem Gebiet des Fränkischen Reiches nach der Teilung von 843 verfasst wurden, erfolgte noch einmal eine Einteilung in West- und Mitteleuropa – Ostfrankenreich sowie West- und Mitteleuropa – Westfrankenreich. Über die Auswahl einer Abfassungsregion können alle Quellen aufgerufen werden, die in dem jeweiligen Gebiet verfasst wurden.          
+        <div class="hauptseite-block border">
+            <h2> Abfassungsorte aller aufgenommenen Werke</h2>
+
+            <div class="hauptseite-geographie-map">
+                {{#compound_query:
+                [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                |cluster = yes
+                |clustermaxradius=20
+                |format=map
+                |height=500px
+                |layers=Esri.WorldPhysical
+                |type=terrain
+                }}
+            </div>
+        </div>
         </text>
     </page>
