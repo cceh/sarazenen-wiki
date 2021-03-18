@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Werk-Datierung-2</title>
+            <type>Template</type>
+            <id/>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+    <text>; Zeitleiste der Datierungen der ausgewerteten Quellenstellen
+        <wikisyntax>{{#ask:
+        [[-Has subobject.aus dem Werk::{{FULLPAGENAME}}]]
+        [[ZeitangabeBeginn::+]]
+        |?ZeitangabeBeginn
+        |?ZeitangabeEnde
+        |timelinestart =ZeitangabeBeginn
+        |timelineend=ZeitangabeEnde        
+        |timelinesize=200px
+        |sort=ZeitangabeBeginn
+        |order=descending
+        |format=timeline
+        |timelinebands= YEAR, DECADE, CENTURY
+        |timelineposition=end
+        |limit=1000
+        }}</wikisyntax>
+    </text>
+    </page>

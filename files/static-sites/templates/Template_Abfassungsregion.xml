@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Abfassungsregion</title>
+            <type>Template</type>
+            <id/>
+            <categories>
+                <category></category>
+            </categories>
+            <rules>
+                <rule/>
+            </rules>
+        </meta>
+        <text>
+            <wikisyntax>  &lt;noinclude&gt;[[Category:Templates]]
+                &lt;/noinclude&gt; {{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 
+                [[Kategorie:Werk]]
+                |?abgefasst in
+                |format=broadtable
+                |limit=500
+                |offset=0
+                |link=all
+                |sort=
+                |order=asc
+                |headers=show
+                |searchlabel=… weitere Ergebnisse
+                |class=sortable wikitable smwtable
+                }}
+                
+== Abfassungszeiten == 
+                {{#ask:
+                [[-Has subobject.Abfassungsregion::{{FULLPAGENAME}}]]
+                [[AbfassungszeitraumBeginn::+]]
+                |?AbfassungszeitraumBeginn
+                |?AbfassungszeitraumEnde
+                |timelinestart =AbfassungszeitraumBeginn
+                |timelineend=AbfassungszeitraumEnde        
+                |timelinesize=500px
+                |sort=AbfassungszeitraumBeginn
+                |order=descending
+                |format=timeline
+                |timelinebands= DECADE, CENTURY
+                |timelineposition=end
+                |limit=9999
+                }}
+                
+== Zeitangabe == 
+                {{#ask: 
+                [[-Has subobject.Abfassungsregion::{{FULLPAGENAME}}]]
+                [[ZeitangabeBeginn::+]]
+                |?ZeitangabeBeginn
+                |?ZeitangabeEnde
+                |timelinestart =ZeitangabeBeginn
+                |timelineend=ZeitangabeEnde        
+                |timelinesize=400px
+                |sort=ZeitangabeBeginn
+                |order=descending
+                |format=timeline
+                |timelinebands= YEAR, DECADE, CENTURY
+                |timelineposition=end
+                |limit=9999
+                }}
+            </wikisyntax>
+        </text>
+    </page>

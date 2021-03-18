@@ -5,9 +5,9 @@
     version="2.0">
     <xsl:output method="xml" version="1.1"  indent="no" omit-xml-declaration="yes" undeclare-prefixes="yes"  exclude-result-prefixes="#all" xml:space="default"/>    
     
-    <xsl:param name="path">../files/static-sites</xsl:param>
+    <xsl:param name="path">../files/static-sites/</xsl:param>
     <xsl:template match="/" xml:space="default">
-        <xsl:variable name="files" select="collection(concat($path,'?select=*.xml'))"/>
+        <xsl:variable name="files" select="collection(concat($path,'?select=*.xml;recurse=yes'))"/>
         <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/"
@@ -82,7 +82,7 @@
 </xsl:for-each>
         </mediawiki>
     </xsl:template>
-    <xsl:template match="div | pre | noinclude | onlyinclude" xml:space="default">
+    <xsl:template match="div | pre | noinclude | onlyinclude | h2 | h3 | p" xml:space="default">
         <xsl:choose>
 <xsl:when test="exists(./attribute())">
 &lt;<xsl:value-of select="name()"/><xsl:text> </xsl:text><xsl:for-each select="./attribute()"><xsl:value-of select="name()"/>=&quot;<xsl:value-of select="."/>&quot; </xsl:for-each>&gt;
@@ -112,6 +112,8 @@
     <xsl:template match="category"><xsl:if test=". !=''">[[Kategorie:<xsl:value-of select="."/>]]</xsl:if></xsl:template>
     <xsl:template match="rule"><xsl:if test=". !=''">___<xsl:value-of select="."/>___</xsl:if></xsl:template>
     <xsl:template match="wikitype"><xsl:if test=". !=''">[[Has type::<xsl:value-of select="."/>]]</xsl:if></xsl:template>
-    <xsl:template match="img">[[Datei:<xsl:value-of select="./@url"/>|<xsl:value-of select="./@size"/>px]]</xsl:template>
+    <xsl:template match="img[not(@link)]">[[Datei:<xsl:value-of select="./@url"/>|<xsl:value-of select="./@size"/>px]]</xsl:template>
+    <xsl:template match="img[@link]">[[Datei:<xsl:value-of select="./@url"/>|<xsl:value-of select="./@size"/>|link=<xsl:value-of select="./@link"/>]]</xsl:template>
+    
     <xsl:template match="meta/node()/text()"></xsl:template>
 </xsl:stylesheet>

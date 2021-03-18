@@ -16,7 +16,7 @@
                 
                 == Aufruf ==
                 &lt;pre&gt;{{Template:Quelle
-                |Name={{FULLPAGENAME}}
+                |Name={{FULLPAGENAME}} 
                 |aus dem Werk={{#show:{{FULLPAGENAME}}|?aus dem Werk|link=none}}
                 |Zitation=Thietmar, Chronicon II, 25, ed. Holtzmann 1935, S. 68-71.
                 |zeitliche (Quellen-)Angabe=970
@@ -39,7 +39,7 @@
                 
                 {| class=&quot;wikitable&quot;
                 |- class=&quot;head&quot; 
-                !colspan=&quot;2&quot;| {{{Name}}}
+                !colspan=&quot;2&quot;| {{{Name}}} [[Datei:Quellenstelle.png|50px]]
                 
                 |- 
                 {{#if:{{{aus dem Werk|}}} |  

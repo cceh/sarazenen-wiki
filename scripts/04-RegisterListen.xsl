@@ -229,174 +229,24 @@
                     <xsl:for-each select="(mentioned, ./meta/Typ)" xml:space="default">
                         <xsl:if test="not(exists(./attribute()))">
                             <xsl:choose xml:space="default">
-                                <xsl:when test=". eq 'VerfasserIn'">
-=== Werke des Verfassers ===
-{{#ask: 
-[[Kategorie:Werk]]
-[[abgefasst von::<xsl:value-of select="$name"/>]]                    
-|?Abfassungszeit#
-|?Berichtszeitraum#
-|?abgefasst in
-|format=table
-|mainlabel=Werke des Verfassers
-}}
+                                <xsl:when test=". eq 'VerfasserIn'">{{Template:Register-VerfasserIn-Main|value=<xsl:value-of select="$name"/>}}
                                 </xsl:when>
-                                <xsl:when test=". eq 'Person'">
-=== Personennennung ===
-Übersicht über die Nennung von "<xsl:value-of select="$name"/>" im Repertorium Saracenorum:
-{{#ask: 
-[[Kategorie:Quelle]]
-[[Person::<xsl:value-of select="$name"/>]]
-|?Inhaltsangabe#
-|?Zitation#
-|?abgefasst von
-|?datiert auf#
-|?abgefasst in
-|format=table
-|mainlabel=Dokumentname
-}}
-                                </xsl:when>
-                                <xsl:when test=". eq 'Geographica'">
-=== Ortsnennungen ===
-Übersicht über die Nennung von "<xsl:value-of select="$name"/>" im Repertorium Saracenorum
-{{#ask: 
-[[Kategorie:Quelle]]
-[[geographischer Bezug::<xsl:value-of select="$name"/>]]
-|?Interaktion# 
-|?abgefasst von 
-|?aus dem Werk
-|?datiert auf#
-|?Datum laut Werk#
-|?abgefasst in
-|format=table
-|mainlabel=Ortsnennungen
-}}
-                                </xsl:when>
-                                <xsl:when test=". eq 'Abfassungsort'">
-=== Abfassungsortnennung ===
-In <xsl:value-of select="$name"/> sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
-{{#ask: 
-[[Kategorie:Werk]]
-[[abgefasst in::<xsl:value-of select="$name"/>]]
-|?abgefasst von 
-|?Sarazenenbezug
-|?Abfassungszeit
-|?Berichtszeitraum
-|format=table
-|mainlabel=Werk
-}}
-                                </xsl:when>
-                                <xsl:when test=". eq 'Schlagworte'">
-=== Schlagworte ===
-Übersicht über die Verwendung von "<xsl:value-of select="$name"/>" als Schlagwort:
-{{#ask: 
-[[Kategorie:Quelle]]
-[[relevante Schlagworte::<xsl:value-of select="$name"/>]]
-|?Interaktion# 
-|?abgefasst von
-|?aus dem Werk
-|?datiert auf#
-|?Datum laut Werk#
-|?abgefasst in
-|?relevante Schlagworte
-|format=table
-|mainlabel=Wird erwähnt in
-}}
-                                </xsl:when>
-                                <xsl:when test=". eq 'Auffälligkeit'">
-=== Auffälligkeit ===
-Auflistung aller mit der Auffälligkeit "<xsl:value-of select="$name"/> " annotierten Quellenstellen
-{{#ask: 
-[[Kategorie:Quelle]]
-[[berichtet von::<xsl:value-of select="$name"/>]]
-|?Interaktion# 
-|?abgefasst von
-|?aus dem Werk
-|?datiert auf#
-|?Datum laut Werk#
-|?abgefasst in
-|format=table
-|mainlabel=Wird erwähnt in
-}}
-                                </xsl:when>
+                                <xsl:when test=". eq 'Person'">{{Template:Register-Person-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
+                                <xsl:when test=". eq 'Geographica'">{{Template:Register-Ortsnennungen-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
+                                <xsl:when test=". eq 'Abfassungsort'">{{Template:Register-Abfassungsortnennung-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
+                                <xsl:when test=". eq 'Schlagworte'">{{Template:Register-Schlagworte-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
+                                <xsl:when test=". eq 'Auffälligkeit'">{{Template:Register-Auffälligkeit-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
                             </xsl:choose>                                
                         </xsl:if>
                     </xsl:for-each>                    
                     <xsl:for-each select="mentioned" xml:space="default">
                         <xsl:if test="exists(./attribute())">
                             <xsl:choose xml:space="default">
-                                <xsl:when test="./@second eq 'VerfasserIn'">
-=== Werke des Verfassers <xsl:value-of select="."/> ===
-{{#ask: 
-[[Kategorie:Werk]]
-[[abgefasst von::<xsl:value-of select="."/>]]                    
-|?Abfassungszeit#
-|?Berichtszeitraum#
-|?abgefasst in
-|format=table
-|mainlabel=Werke des Verfassers <xsl:value-of select="."/>
-}}
-                                </xsl:when>
-                                <xsl:when test="./@second eq 'Person'">
-=== Personennennung <xsl:value-of select="."/> ===
-Übersicht über die Nennung von "<xsl:value-of select="."/>" im Repertorium Saracenorum:
-{{#ask: 
-[[Kategorie:Quelle]]
-[[Person::<xsl:value-of select="."/>]]
-|?Inhaltsangabe#
-|?Zitation#
-|?abgefasst von
-|?datiert auf#
-|?abgefasst in
-|format=table
-|mainlabel=Personennennung <xsl:value-of select="."/>
-}}
-                                </xsl:when>
-                                <xsl:when test="./@second eq 'Geographica'">
-=== Ortsnennungen <xsl:value-of select="."/> ===
-Übersicht über die Nennung von "<xsl:value-of select="."/>" im Repertorium Saracenorum:                    
-{{#ask: 
-[[Kategorie:Quelle]]
-[[Geographischer Bezug::<xsl:value-of select="."/>]]
-|?Interaktion# 
-|?abgefasst von 
-|?aus dem Werk
-|?datiert auf#
-|?abgefasst in
-|format=table
-|mainlabel=Ortsnennungen <xsl:value-of select="."/>
-}}
-                                </xsl:when>
-<xsl:when test="./@second  eq 'Abfassungsort'">
-=== Abfassungsortnennung ===
-In <xsl:value-of select="."/> sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
-{{#ask: 
-[[Kategorie:Werk]]
-[[abgefasst in::<xsl:value-of select="."/>]]
-|?abgefasst von 
-|?Sarazenenbezug
-|?Abfassungszeit
-|?Berichtszeitraum
-|format=table
-|mainlabel=Werk      
-}}
-                                </xsl:when>
-                                <xsl:when test="./@second eq 'Auffälligkeit'">
-=== Auffälligkeit <xsl:value-of select="."/> ===
-Auflistung aller mit der Auffälligkeit "<xsl:value-of select="."/> " annotierten Quellenstellen
-{{#ask: 
-[[Kategorie:Quelle]]
-[[berichtet von::<xsl:value-of select="."/>]]
-|?Interaktion# 
-|?abgefasst von
-|?aus dem Werk
-|?datiert auf#
-|?Datum laut Werk#
-|?abgefasst in
-|format=table
-|mainlabel=<xsl:value-of select="."/> wird erwähnt in
-}}
-                                </xsl:when>
+                                <xsl:when test="./@second eq 'VerfasserIn'">{{Template:Register-VerfasserIn-Mentioned|value=<xsl:value-of select="."/>}}</xsl:when>
+                                <xsl:when test="./@second eq 'Person'">{{Template:Register-Person-Mentioned|value=<xsl:value-of select="."/>}}</xsl:when>
+                                <xsl:when test="./@second eq 'Geographica'">{{Template:Register-Ortsnennungen-Mentioned|value=<xsl:value-of select="."/>}}</xsl:when>
+                                <xsl:when test="./@second  eq 'Abfassungsort'">{{Template:Register-Abfassungsortnennung-Mentioned|value=<xsl:value-of select="."/>}}</xsl:when>
+                                <xsl:when test="./@second eq 'Auffälligkeit'">{{Template:Register-Auffälligkeit-Mentioned|value=<xsl:value-of select="."/>}}</xsl:when>
                             </xsl:choose>                                                 
                             
                         </xsl:if>

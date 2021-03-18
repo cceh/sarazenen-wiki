@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>Einstieg und Benutzung</title>
+        <type>Site</type>
+        <id/>
+        <categories>
+            <category>Dokumentation</category>
+        </categories>
+        <rules>
+            <rule>NOTOC</rule>
+        </rules>
+    </meta>
+    <text><wikisyntax>== Einstieg auf Quellenebenen: Werke, VerfasserInnen, Regionen ==
+Der erste Zugang zu den Berichten über ''Saraceni'', ''Agareni'', ''Mauri'' … in den lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts n. Chr. sind die überlieferten Texte selbst. Über ''' [[:Kategorie:Werk | Werke]] ''' gelangen Sie zu allen Quellen, die im Repertorium Saracenorum bislang aufgenommen wurden. Hierbei ist zu unterscheiden zwischen solchen Werken, die einen sog. Sarazenenbezug haben und jenen, in denen keine Berichte über ''Saraceni'', ''Agareni'', ''Mauri'' … überliefert sind. Letztere wurden trotz ihrer ‚Irrelevanz‘ ins Wiki aufgenommen, um die Transparenz der unternommenen Arbeiten zu erhöhen. So kann das Wiki auch dazu dienen, zu untersuchen, dass in bestimmten Werken keine Berichte überliefert wurden. Über die Werke mit Sarazenenbezug gelangt man weiter zu den einzelnen Quellenstellenseiten, welche die Berichte enthalten, in denen Sarazenen erwähnt werden.
+
+Ähnlich führt der Einstieg über VerfasserInnen zu allen mittelalterlichen ''' [[:Kategorie:VerfasserIn | Verfasserinnen und Verfassern]] ''', deren Werke in das Repertorium Saracenorum aufgenommen wurden. Die Auswahl einer Verfasserin oder eines Verfassers führt weiter zu deren/dessen Werken und anschließend zu den im Werk überlieferten Berichten über ''Saraceni'', ''Agareni'', ''Mauri'' …. 
+Der Einstieg über ''' [[:Kategorie:Abfassungsregion | Abfassungsregion]] ''' ermöglicht es, die Auswahl der Werke anhand ihres Abfassungsortes bzw. ihrer Abfassungsregion einzugrenzen. Im Zuge der Bearbeitung wurden alle Werke einer der folgenden europäischen Region zugeordnet: ''Britische Inseln, Iberische Halbinsel, Italienische Halbinsel, Osteuropa, Skandinavien sowie West- und Mitteleuropa''. Für Werke, die auf dem Gebiet des Fränkischen Reiches nach der Teilung von 843 verfasst wurden, erfolgte noch einmal eine Einteilung in ''West- und Mitteleuropa – Ostfrankenreich''' sowie ''West- und Mitteleuropa – Westfrankenreich''.
+
+== Einstieg auf Inhaltsebene: Personen, Geographie, Auffälligkeiten, Suchbegriffe, Zeiträume ==
+Mit Hilfe der den Werken und Quellenstellen zugeordneten Kategorien und Attribute kann auf die Berichte inhaltlich zugegriffen werden. Dies ist entweder über die Quellenstellenseite möglich oder mittels einer der Suchfunktionen, die Semantic MediaWiki bietet, z. B. die Volltextsuche. Zu allen Kategorien wurden zudem Übersichtsseiten angelegt, auf denen etwa für Personen und Orte neben Alternativnamen sämtliche Erwähnungen in den Quellenstellen mit Hilfe von Wiki-gestützten Abfragen tabellarisch aufgeführt werden. Für weitere Informationen finden sich dort zudem Verlinkungen zu entsprechenden Einträgen in verschiedenen Normdatenbanken.
+
+Am Ende einer jeden Werk- und Quellenstellenseite werden die Kategorien aufgelistet und die Attribute in einer Faktenbox transparent angezeigt. Folgen Sie hierin dem Link, der dem Wort (z.B. Spanien) hinterlegt ist, gelangen Sie auf eine Seite mit Informationen zum Wert (hier: Spanien) des Attributs (hier: Ort), seinen Alternativbezeichnungen und einem Link zum Getty Thesaurus of Geographic Names Online. Folgen Sie der angezeigten Lupe, so gelangen Sie auf eine Seite, auf der die Ergebnisse des Semantischen Browsens abgebildet sind. 
+
+Über das Attribut ''' [[:Kategorie:Person | Person]] ''' gelangen Sie zu sämtlichen historischen Persönlichkeiten, die im Kontext der Berichte über Saraceni, Agareni, Mauri… erwähnt werden. Die Auswahl einer Person führt zu einer Auflistung der entsprechenden Berichte, in denen die Person genannt wird. In einer Infobox zeigen wir Ihnen alle Alternativname der Person sowie verlinkte Daten der GND (Gemeinsame Normdatei der Deutschen Nationalbibliothek), dem Dienst VIAF® (Virtual International Authority File) und Wikidata. (Verfasserinnen und Verfasser sind separat davon erfasst.)
+
+Ähnlich besteht die Möglichkeit, über das Attribut ''' [[:Kategorie:Geographie | Geographie]] ''' alle Berichte aufzurufen, die sich auf einen geographischen Raum beziehen oder diesen erwähnen. Bei diesen 
+geographischen Angaben wird unterschieden zwischen Bergen/Gebirgen, Flüssen, Klöstern, Regionen und bewohnten Orten. Neben den entsprechenden Berichten zeigen wir Ihnen hier die geographische Lage des Ortes anhand der im Getty Thesaurus of Geographic Names Online hinterlegten Koordinaten. Auch die hier hinterlegte Beschreibung des Ortes zeigen wir Ihnen auf der Übersichtsseite an. Darüber hinaus sind die Daten hier auch mit weiteren Daten verknüpft, so VIAF.
+
+Mithilfe eines zugeordneten Werts des Attributs ''' [[:Kategorie:Auffälligkeit | Auffälligkeit]] ''' wurden die aufgenommenen Berichte inhaltlich verschlagwortet (z. B. Gefangennahme, Kampfhandlung oder auch Herrscherwechsel). Damit besteht die Möglichkeit eines thematischen Zugriffs auf die Berichte. Sämtliche Quellenstellen, die über inhaltlich vergleichbares berichten, können hierüber aufgerufen werden. 
+
+Unter dem Attribut ''' [[:Kategorie:Schlagworte | Schlagworte]] ''' sind solche lateinischen wie deutschen Begriffe gelistet, die von den mittelalterlichen Verfasserinnen und Verfassern häufig in Berichten über Saraceni, Agareni, Mauri… genutzt wurden. Sie dienten bei der Bearbeitung dazu, relevante Quellenstellen in den Werken ausfindig zu machen. Im Wiki sind sie aufgeführt, um zum einen diesen Bearbeitungsschritt transparent widerzuspiegeln, zum anderen um auch die Erforschung der verwendeten Begrifflichkeiten zu ermöglichen. Neben den Begriffen ‚Saracenus/Sarazene‘, ‚Maurus/Maure‘, ‚Agarenus/Agarene‘ finden sich hier etwa auch ‚Persus/Perser‘ oder ‚Ismaelitus/Ismaelit‘ sowie besonders einschlägige Personen- und Ortsnamen. 
+
+Auch die '''[[Datierung | Datierungen]]''' von Werken und Quellenstellen ist erfasst: Auf jeder Werk-Seite findet sich rechts neben der Infobox eine statische Timeline, die Auskunft über die Berichtszeit (blau) und Abfassungszeit (gelb) sowie über die Datierung aller als relevant aufgenommenen Berichte eines Werkes gibt (dunkelblau). Als Jahre angegeben werden Anfang und Ende des Berichtszeitraums. Am unteren Ende jeder Seite eines Werkes findet sich eine weitere, dynamische Timeline (SIMILE-Timeline), auf der alle Berichte als Quellenstellen hinterlegt sind. Jede Quellenstelle ist als Zeitraum/mit Anfangs- und Endpunkt des Berichts angegeben. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen. 
+
+Die drei Ebenen der Timeline (Jahre, Dekaden, Jahrhunderte) lassen eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timeline (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an. 
+
+Ein Hinweis auf berichtete Ereignisse: Sofern mehrere Werke über dasselbe Ereignis berichten, so sind häufig Querverweise zu weiteren Quellenstellen unter 'Anmerkungen' hinterlegt. 
+
+Die Erschließung und Auswertung wird also durch ein Register und Verknüpfung von Named Entities (Personen, geographische Phänomene), die inhaltliche Verschlagwortung der Quellenstellen (Suchbegriffe, Auffälligkeiten) und durch die Normalisierung und Formalisierung von Datierungsangaben unterstützt. Eine weitere Dimension, die üblicherweise bei der Abbildung von historischen Forschungsgegenständen mit berücksichtigt wird, die Modellierung von Ereignissen, wurde hier bewusst aus Gründen der Skalierbarkeit nicht angestrebt.</wikisyntax></text>
+</page>

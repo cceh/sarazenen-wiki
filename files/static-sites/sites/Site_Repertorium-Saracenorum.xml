@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+        <meta>
+            <title>Repertorium Saracenorum</title>
+            <type>Site</type>
+            <id/>
+            <categories>
+                <category/>
+            </categories>
+            <rules>
+                <rule>NOTOC</rule>
+            </rules>
+        </meta>
+    <text><div id="hauptseite" >
+        <div id="hauptseite-willkommen" class="hauptseite-oben cite-description type-note" ><p>
+            '''Ein Wiki zu ''Saraceni'', ''Agareni'', ''Mauri'', ...''' in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts. Im Zuge der Expansion der Araber, die ihren Anfang im 7. Jahrhundert nahm und die Eroberer bis auf europäisches Festland führte, wurde auch die Religion des Islam verbreitet. ‚Muslime‘ oder sog. Sarazenen rückten zunehmend in das Blickfeld der lateinisch-christlichen Bevölkerung des westlichen Europas. Bereits die entstehende geographische Nähe führte zu vielfältigen Formen von Begegnungen: zum Beispiel auf Handels-, Gesandtschafts- oder Pilgerreisen, aber auch durch (militärische) Konfrontationen. Diese Entwicklung fand ihren Niederschlag auch in der lateinisch-christlichen Geschichtsschreibung des früheren Mittelalters.
+            </p><p>
+            Im '''Repertorium Saracenorum''' werden Berichte über Saraceni, Agareni, Mauri, … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts zusammengetragen, in aufbereiteter Form online veröffentlicht und so für Interessierte zugänglich gemacht, um weitere Untersuchungen zu befördern.
+        </p></div>
+        
+        <div class="hauptseite-block">
+            <h2>Zentrale Inhalte auf einen Blick</h2>
+            <div class="hs-inhalte">
+                <div class="hs-inhalte-item werke">
+                    <div class="hs-inhalte-item-header">Werke</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Werke.png|100px|link=Kategorie:Werk]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: Werk|pages}}</wikisyntax> Werke und zugehörige Quellenstellen, die über Interaktion mit Sarazenen berichten, bilden das Herzstück des Wikis.</div>
+                </div>
+                <div class="hs-inhalte-item verfasserin">
+                    <div class="hs-inhalte-item-header">VerfasserInnen</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:VerfasserIn.png|100px|link=Kategorie:VerfasserIn]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: VerfasserIn|pages}}</wikisyntax> VerfasserInnen, denen die Autorenschaft zu denen ausgewerteten Werken zugeschrieben werden kann, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
+                </div>
+                <div class="hs-inhalte-item personen">
+                    <div class="hs-inhalte-item-header">Personen</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Personen.png|100px|link=Kategorie:Person]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body">Personen, die in den Quellenstellen erwähnt werden, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
+                </div>
+                <div class="hs-inhalte-item geographie">
+                    <div class="hs-inhalte-item-header">Geographie</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Geographie.png|100px|link=Kategorie:Geographie]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body">Toponyme, die in den Quellenstellen erwähnt werden, sind im Wiki verzeichnet und wenn möglich mit Normadten verknüpft.</div>
+                </div>
+                <div class="hs-inhalte-item abfassungsregionen">
+                    <div class="hs-inhalte-item-header">Abfassungsregionen</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Abfassungsregion.png|100px|link=Kategorie:Abfassungsregion]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body">Die Werke wurden im Zuge der Erfassung <wikisyntax>{{PAGESINCATEGORY:Abfassungsregion}}</wikisyntax> verschiedenen Abfassungsregionen zugeordnet.</div>
+                </div>
+                <div class="hs-inhalte-item auffaelligkeiten">
+                    <div class="hs-inhalte-item-header">Auffälligkeiten</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Auffälligkeiten.png|100px|link=Kategorie:Auffälligkeit]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body">"Auffälligkeiten" verschlagworten die einzelnen Berichte und machen sie thematisch erschließbar (z. B. Gefangennahme, Kampfhandlung oder auch Herrscherwechsel).</div>
+                </div>
+                <div class="hs-inhalte-item schlagworte">
+                    <div class="hs-inhalte-item-header">Schlagworte</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Schlagworte.png|100px|link=Kategorie:Schlagworte]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body">Schlagworte sind lateinischen wie deutschen Begriffe, die von den mittelalterlichen Verfasserinnen und Verfassern häufig in Berichten erwähnt werden.</div>
+                </div>
+                <div class="hs-inhalte-item datierungen">
+                    <div class="hs-inhalte-item-header">Datierungen</div>
+                    <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Datierung.png|100px|link=Datierung]]</wikisyntax></div>
+                    <div class="hs-inhalte-item-body">Zeitleisten zur <wikisyntax>[[Datierung]]</wikisyntax> der in den Berichten erwähnten Ereignisse und zu <wikisyntax>[[Abfassungszeitraum | Abfassungszeiträumen]]</wikisyntax> der erfassten Werke ermöglichen den Zugriff über die zeitliche Achse.</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hauptseite-block border">
+            <h2> Positionen aller in den Berichten erwähnten Orte</h2>
+            <div class="hauptseite-geographie" >
+                <div class="hauptseite-geographie-map"><wikisyntax>
+                    {{#compound_query:
+                    [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                    | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
+                    | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
+                    | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
+                    | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
+                    | [[Kategorie:Region]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
+                    |cluster = yes
+                    |clustermaxradius=20
+                    |format=map
+                    |height=500px
+                    |layers=Esri.WorldPhysical
+                    |type=terrain
+                    }}</wikisyntax>
+                </div>
+                <div class="hauptseite-geograhpie-legende"><wikisyntax>
+                    ; Legende
+                    : [[Datei:Icon-abfassungsort-41.png|36px|link=Kategorie:Abfassungsort]] Abfassungsort eines erfassten Werkes
+                    : [[Datei:Kloster-icon.png|36px|link=Kategorie:Kloster]] Kloster
+                    : [[Datei:village-icon.png|36px|link=Kategorie:Ort]] bewohnter Ort, Stadt
+                    : [[Datei:mountains-icon.png|36px|link=Kategorie:Berg]] Berg, Gebirge
+                    : [[Datei:wave-icon.png|36px|link=Kategorie:Fluss]] Fluss, Gewässer
+                    : [[Datei:Icon-region-41.png|36px|link=Kategorie:Region]] Region</wikisyntax>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hauptseite-inhalte-columns">
+            
+            <div class="hauptseite-block border">
+                <h2> Hinweise zur Benutzung</h2>
+                <div class="inhalt">
+                    <p>Das '''Repertorium Saracenorum''' bietet eine Sammlung von mittelalterlichen Berichten über ''Saraceni'', ''Agareni'', ''Mauri'' …. Jeder thematisch relevante Bericht ist als Quellenstelle auf einer eigenen Seite aufgenommen, diese wiederum einem Werk und sofern möglich einer Verfasserin bzw. einem Verfasser zugeordnet worden. Mit Hilfe von Kategorien und Attributen wurden sowohl die Werkseiten als auch die Quellenstellenseiten verschlagwortet. 
+                    </p><p>
+                    Die Navigationsleiste links bietet einen ersten Überblick über die Zugriffsmöglichkeiten auf den Inhalts des Wikis. Die einzelnen Seiten zu Werken und Berichten sowie weitere Übersichtsseiten werden im Folgenden erläutert, um die Benutzung des '''Repertorium Saracenorum''' zu erleichtern.
+                    </p><p>
+                    Die Ansicht einer '''Werkseite''' bietet allgemeine Informationen zur Quelle und ihrer Abfassung. Auf dieser Seite findet sich zunächst eine Infobox, die wesentliche Hinweise (Werktitel und –alternativtitel, eine interne Werknummer, VerfasserIn, Abfassungszeit, Berichtszeitraum, Abfassungsort und Lebensdaten des Verfassers/der Verfasserin) auf einen Blick bietet. Daneben haben wir die Berichtszeit (blau), Abfassungszeit (gelb) und alle relevanten Berichte (dunkelblau) in einer Graphik dargestellt. Neben den Editionshinweisen und einem kleinen einführenden Text werden außerdem alle in diesem Werk enthaltenen Berichte über ''Saraceni'', ''Agareni'', ''Mauri'' … aufgelistet unter Angabe der Datierung und der Inhaltsangabe. Über einen Link gelangen Sie leicht auf die ausgewählte Quellenstellenseite. 
+                    </p><p>
+                    Die '''Quellenstellenseiten''' bieten dann wiederum in einer Infobox übersichtlich Informationen zur Quellenstelle und ihrer Zitation. Eine deutsche Inhaltsangabe bietet einen ersten Zugriff auf den Inhalt des Berichts. Aufgeführt sind weiterhin der Bericht als Volltext sowie meist eine deutsche Übersetzung und weitere Angaben zur Überlieferung (Anmerkungen). Es folgen die weiteren Quellenstellen, die zu diesem Werk aufgenommen wurden. Am Ende der Seite sind alle Kategorien aufgeführt und die Attribute in einer ''fact-box'' (‚Fakten‘) transparent zusammengetragen. 
+                    </p><p>
+                    Auf weiteren thematischen Seiten finden sich Übersichten, die den Einstieg in die Berichte über verschiedenen Schlagworte und Suchbegriffe ermöglichen. Die tabellarischen Übersichten wurden anhand von Abfragen angelegt, die Semantic MediaWiki ermöglicht. Zusätzliche Informationen auf den Seiten wurden mittels Open Linked Data integriert, so etwa von Getty Thesaurus of Geographic Names und Virtual International Authority File.
+                    </p><p>
+                    Um den Einstieg in das '''Repertorium Saracenorum''' insgesamt zu erleichtern, stehen mehrere Einstiegsmöglichkeiten und Suchoptionen auf Ebene der Werke sowie auf inhaltlicher Ebene zur Verfügung:
+                    </p><p>
+                    {{Callout|Näheres zum Einsteig und Benutzung siehe [[Einstieg und Benutzung | Dokumentation: Einstieg und Benutzung]].}}
+                </p></div>
+            </div>
+            
+            <div class="hauptseite-block border">
+                <h2>Über das Projekt</h2>
+                <div class="inhalt">
+                    <img url="Dfg logo schriftzug blau foerderung 4c.jpg" size="thumb" link="https://gepris.dfg.de/gepris/projekt/246445243?context=projekt&amp;task=showDetail&amp;id=246445243&amp;"/>
+<p>                    Hervorgegangen ist das '''Repertorium Saracenorum''' aus einem von der Deutschen Forschungsgemeinschaft (DFG) zwischen 2013 und 2017 geförderten Projekt ''Saraceni'' , ''Agareni'' , ''Mauri'' … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts" an der Rheinischen Friedrich-Wilhelms-Universität Bonn, [https://www.igw.uni-bonn.de/de/abteilungsseiten/mittelalter Abteilung für Mittelalterliche Geschichte] unter Leitung von Prof. Dr. Matthias Becher. </p>                    
+                    <p>Das Repertorium Saracenorum entsteht als Semantic MediaWiki in Kooperation mit dem [https://cceh.uni-koeln.de/ Cologne Center for eHumanities (CCeH)] der Universität zu Köln. Zur Projektgenese und Datenerhebung beachten Sie bitte die ausführliche Dokumentation mit Hinweisen editorischer Art.
+</p>
+                    <p>Besonderer Dank sei den Mitarbeiter*innen und Hilfskräften der '''Abteilung für Mittelalterliche Geschichte in Bonn''' und des '''Cologne Center for eHumanities in Köln''' ausgesprochen, die über viele Jahre das Projekt vorbereitet, unterstützt und bearbeitet haben.
+                   </p> Während der Vorbereitung (2008-2013) in Bonn hat das Projekt wertvolle Unterstützung erfahren. Wir danken Christine Beyer, Dr. Linda Dohmen, Daniel Colmenero López, Prof. Dr. Florian Hartmann, Dr. Hendrik Hess, Ole Höffken, Markus Knipp, PD Dr. Alheydis Plassmann, Anja Lisa Schroll und Lea Weitekamp.
+                    
+                    <p>Die im Projekt erzielten Daten und der Umgang mit ihnen war Thema eines Hauptseminars geleitet von Øyvind Eide und Katharina Gahbler an der Universität Köln im Wintersemester 2016/17. Allen beteiligten Studierenden, die zum Teil auch über das Seminar hinaus zum Gelingen des Projektes beigetragen haben, sei herzlich für ihr Interesse und ihre Mitarbeit gedankt: Alex Abboud, Andreas Gálffy, Britta Hermans, Stefan Kreinberg, Dominik Leyendecker, Johannes Mertens, Anne Pietsch, Nasrin Saef, Fabian Scheller, Julian Schraven, Kevin Schwarz, Gwenlyn Tiedemann, Maria Wagner, Christian Weitz und Adalbert Wrona. 
+                    </p>
+                    <p>Das Repertorium Saracenorum bildet nur einen kleinen Ausschnitt aus allen mittelalterlichen Berichten, die über ''Saraceni'', ''Agareni'', ''Mauri'' … verfasst wurden und überliefert sind. Es ist trotz sorgfältiger redaktioneller Überarbeitungen nicht fehlerfrei. Die Sammlung soll weiter wachsen. Sie lebt daher von den wertvollen Hinweisen, Kommentaren und der konstruktiven Mitarbeit aller Nutzer*innen! Schreiben Sie uns (abteilung.mittelalter@uni-bonn.de) – vielen Dank!     
+                    </p>
+                    <p>{{Callout|Näheres zum Projekt siehe [[Projekt- und Datengenese | Dokumentation: Projekt- und Datengenese]], für eine vollständige Übersicht aller Projektbeteiligten siehe [[Mitarbeit | Dokumenation: Mitarbeit]].}}</p> </div>
+            </div>
+            
+        </div>
+        
+        <div class="hauptseite-block border">
+            <h2>Zitierhinweis für das Repertorium Saracenorum</h2>
+            <div class="inhalt" >
+                [Titel des Werkes – Nummer der Quellenstelle], in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, unter Mitarbeit von Ben Bigalke, Jonathan Blumtritt, Lukas Müller, Patrick Sahle et al., URL: [URL] (zuletzt abgerufen am [aktuelles Datum]). 
+                
+                z.B. Annales Flodoardi-0001, in: Repertorium Saracenorum, hg. von Matthias Becher und Katharina Gahbler, unter Mitarbeit von Ben Bigalke, Jonathan Blumtritt, Lukas Müller, Patrick Sahle et al., URL: http://saraceni.uni-koeln.de/wiki/Annales_Flodoardi-0001 (zuletzt abgerufen am 09.07.2020).
+            </div>
+        </div>        
+</div>
+        </text>    </page>

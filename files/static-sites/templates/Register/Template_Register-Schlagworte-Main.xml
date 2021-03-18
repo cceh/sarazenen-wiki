@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>Register-Schlagworte-Main</title>
+        <type>Template</type>
+        <id/>
+        <categories>
+            <category/>
+        </categories>
+        <rules>
+            <rule/>
+        </rules>
+    </meta>
+    <text>
+        <wikisyntax>=== Schlagworte ===
+            Übersicht über die Verwendung von "{{value}}" als Schlagwort:
+            {{#ask: 
+            [[Kategorie:Quelle]]
+            [[relevante Schlagworte::{{value}}]]
+            |?Interaktion# 
+            |?abgefasst von
+            |?aus dem Werk
+            |?datiert auf#
+            |?Datum laut Werk#
+            |?abgefasst in
+            |?relevante Schlagworte
+            |format=table
+            |mainlabel=Wird erwähnt in
+            }}</wikisyntax>
+    </text>
+</page>

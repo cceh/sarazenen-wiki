@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>Mitarbeit</title>
+        <type>Site</type>
+        <id/>
+        <categories>
+            <category>Dokumentation</category>
+        </categories>
+        <rules>
+            <rule>NOTOC</rule>
+        </rules>
+    </meta>
+    <text>Hervorgegangen ist das <b>Repertorium Saracenorum</b> aus einem von der Deutschen Forschungsgemeinschaft (DFG) zwischen 2013 und 2017 geförderten Projekt <i>Saraceni</i> , <i>Agareni</i> , <i>Mauri</i> … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts" an der Rheinischen Friedrich-Wilhelms-Universität Bonn, <wikisyntax>[https://www.igw.uni-bonn.de/de/abteilungsseiten/mittelalter Abteilung für Mittelalterliche Geschichte]</wikisyntax> unter Leitung von Prof. Dr. Matthias Becher. 
+        
+        Das Repertorium Saracenorum entsteht als Semantic MediaWiki in Kooperation mit dem [https://cceh.uni-koeln.de/ Cologne Center for eHumanities (CCeH)] der Universität zu Köln. 
+        Zur Projektgenese und Datenerhebung beachten Sie bitte die ausführliche Dokumentation mit Hinweisen editorischer Art.
+        
+        <h3>Mittelalterliche Geschichte <wikisyntax>[https://www.igw.uni-bonn.de/de/abteilungsseiten/mittelalter/]</wikisyntax></h3>
+        
+        <table border="1">
+        <tr>
+        <td>Projektleitung</td>
+        <td>Prof. Dr. Matthias Becher</td>
+        </tr>
+        <tr>
+        <td>Konzeption, Koordination, Datenpflege</td>
+        <td>Dr. Katharina Gahbler</td>
+        </tr>
+        <tr>
+        <td>Koordination, Datenpflege</td>
+        <td>Lukas Müller</td>
+        </tr>
+        <tr>
+        <td>Datenaufnahme (2013 bis heute)</td>
+        <td>Florian Dahmen, Valentina von Finckenstein, Julia Gehrke, David Gillengerten, Lea Herzog, Kilian Langmesser, Esther Lindenlauf, Julius Lübbersmann, Philipp Merkel, Inga Mehlert-Garms, David Renger, Max Schranner, Juliet Ziegenbein</td>
+        </tr>
+        <tr>
+        <td>Grafik</td>
+        <td>Paula Randerath</td>
+        </tr>
+        </table>  
+        
+        <h3>eHumanities (CCeH) <wikisyntax>[https://cceh.uni-koeln.de/]</wikisyntax></h3>
+        <table border="1">
+        <tr>
+        <td>Konzeption, Koordination, Datenmodellierung, Datenkonversion</td>
+        <td>Prof. Dr. Patrick Sahle</td>
+        </tr>
+        <tr>
+        <td>Konzeption, Koordination, Datenmodellierung, Datenkonversion</td>
+        <td>Jonathan Blumtritt</td>
+        </tr>
+        <tr>
+        <td>Datenpflege, Programmierung</td>
+        <td>Ben Bigalke</td>
+        </tr>
+        <tr>
+        <td>Datenpflege, Programmierung</td>
+        <td>Dana Persch</td>
+        </tr>
+        <tr>
+        <td>Datenpflege, Programmierung</td>
+        <td>Adalbert Wrona</td>
+        </tr>
+        </table>
+        
+        <h3>Förderung <wikisyntax>[https://gepris.dfg.de/gepris/projekt/246445243?context=projekt&amp;task=showDetail&amp;id=246445243&amp;]</wikisyntax></h3>
+        
+        <table border="1">
+        <tr>
+        <td><wikisyntax>[https://www.uni-bonn.de/ Rheinische Friedrich-Wilhelms-Universität Bonn]</wikisyntax></td>
+        </tr>
+        <tr>
+        <td><wikisyntax>[https://www.dfg.de/ Deutsche Forschungsgemeinschaft (DFG)]</wikisyntax></td>
+        </tr>
+        </table>
+        
+        Besonderer Dank sei den Mitarbeiter*innen und Hilfskräften der <b>Abteilung für Mittelalterliche Geschichte in Bonn</b> und des <b>Cologne Center for eHumanities in Köln</b> ausgesprochen, die über viele Jahre das Projekt vorbereitet, unterstützt und bearbeitet haben.
+        
+        Während der Vorbereitung (2008-2013) in Bonn hat das Projekt wertvolle Unterstützung erfahren. Wir danken Christine Beyer, Dr. Linda Dohmen, Daniel Colmenero López, Prof. Dr. Florian Hartmann, Dr. Hendrik Hess, Ole Höffken, Markus Knipp, PD Dr. Alheydis Plassmann, Anja Lisa Schroll und Lea Weitekamp.
+        
+        Die im Projekt erzielten Daten und der Umgang mit ihnen war Thema eines Hauptseminars geleitet von Øyvind Eide und Katharina Gahbler an der Universität Köln im Wintersemester 2016/17. Allen beteiligten Studierenden, die zum Teil auch über das Seminar hinaus zum Gelingen des Projektes beigetragen haben, sei herzlich für ihr Interesse und ihre Mitarbeit gedankt: Alex Abboud, Andreas Gálffy, Britta Hermans, Stefan Kreinberg, Dominik Leyendecker, Johannes Mertens, Anne Pietsch, Nasrin Saef, Fabian Scheller, Julian Schraven, Kevin Schwarz, Gwenlyn Tiedemann, Maria Wagner, Christian Weitz und Adalbert Wrona. 
+        
+        Das Repertorium Saracenorum bildet nur einen kleinen Ausschnitt aus allen mittelalterlichen Berichten, die über <i>Saraceni</i> , <i>Agareni</i> , <i>Mauri</i> … verfasst wurden und überliefert sind. Es ist trotz sorgfältiger redaktioneller Überarbeitungen nicht fehlerfrei. Die Sammlung soll weiter wachsen. Sie lebt daher von den wertvollen Hinweisen, Kommentaren und der konstruktiven Mitarbeit aller Nutzer*innen! Schreiben Sie uns (abteilung.mittelalter@uni-bonn.de) – vielen Dank!</text>
+</page>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>Technische Dokumentation</title>
+        <type>Site</type>
+        <id/>
+        <categories>
+            <category>Dokumentation</category>
+        </categories>
+        <rules>
+            <rule>NOTOC</rule>
+        </rules>
+    </meta>
+    <text></text>
+</page>

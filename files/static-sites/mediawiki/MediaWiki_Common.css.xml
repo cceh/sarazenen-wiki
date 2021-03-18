@@ -34,21 +34,34 @@
             }
 
             .hs-inhalte-item.werke {
-            border-top-color: #32a852;
+            border-top-color: #1d4e38;
             }
 
             .hs-inhalte-item.verfasserin {
-            border-top-color:#ff0066;
+            border-top-color:#9534a3;
             }
 
             .hs-inhalte-item.personen {
-            border-top-color: #f5bc4c;
+            border-top-color: #c97600;
             }
 
             .hs-inhalte-item.geographie {
-            border-top-color: #009999;
+            border-top-color: #266684;
             }
-
+            
+            .hs-inhalte-item.auffaelligkeiten {
+            border-top-color: #4a1b24;
+            }
+            
+            .hs-inhalte-item.schlagworte {
+            border-top-color: #577c4f;
+            }
+            .hs-inhalte-item.datierungen {
+            border-top-color: #1c1e72;
+            }
+            .hs-inhalte-item.abfassungsregionen {
+            border-top-color: #665851;
+            }
             .hs-inhalte-item-image, .hs-inhalte-item-body  {
             padding:0.2em 0.4em;
             }
@@ -102,9 +115,40 @@
 
 
             #hauptseite div.inhalt { margin-bottom:1em; } .legende{font-size:10px;}
+            
+            /* Werk CSS + SVG */
+            
+            .float-right: {
+            float:right;
+            clear:both;
+            }
+            
+            /** SVG **/
+            .legende {
+            font-size:12px;
+            }
+            .box-legende {
+            fill-opacity:0.9;
+            }
+            #box-bericht {
+            fill:#1b98d0;
+            }
+            #text-bericht {
+            }
+            #box-abfassung {
+            fill:#ffd11a;
+            }
+            #text-abfassung {
+            }
+            #box-aufgenommen {
+            fill:#164176;
+            }
+            
+            #text-aufgenommen {
+            }
             /* Template:Infobox Ort/Person */
-            .infobox.infobox-ort .wikitable .head th {border-top-color: #009999;}
-
+            .infobox.infobox-ort .wikitable .head th {border-top-color: #266684;}
+    
             /*
             .infobox.infobox-ort .wikitable .head.Kloster th {border-top-color: #266806;}
             .infobox.infobox-ort .wikitable .head.Fluss th {border-top-color: #22306a;}
@@ -114,10 +158,10 @@
             .infobox.infobox-ort .wikitable .head.Region th {border-top-color: #ff4a00;}
             */
 
-            .infobox.infobox-person .wikitable .head th  {border-top-color: #f5bc4c;}
-            .infobox.infobox-verfasserin .wikitable .head th  {border-top-color: #ff0066;}
-            .infobox.infobox-werk .wikitable .head th  {border-top-color: #32a852;}
-            .infobox.infobox-quelle .wikitable .head th  {border-top-color: #4287f5;}
+            .infobox.infobox-person .wikitable .head th  {border-top-color: #c97600;}
+            .infobox.infobox-verfasserin .wikitable .head th  {border-top-color: #9534a3;}
+            .infobox.infobox-werk .wikitable .head th  {border-top-color: #1d4e38;}
+            .infobox.infobox-quelle .wikitable .head th  {border-top-color: #796d2b;}
 
             .infobox .wikitable .head th {border-top: 2px solid ; background:#fff; }
             .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; background:#fff; width:30em;}

@@ -92,8 +92,7 @@
                 </contributor>
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
-                <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:left;} #leiste {width:66%; float:right;} p {clear:both}}
-{{Template:Werk
+                <text xml:space="preserve" bytes="3441"> {{Template:Werk
 |Name={{FULLPAGENAME}}
 |Subheader=<xsl:choose xml:space="default">
                         <xsl:when test="exists(Alternativtitel/Titel)">
@@ -141,7 +140,8 @@
 |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
 |getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
-<xsl:call-template name="svg" xml:space="default"><!-- Timeline einbindung --></xsl:call-template>
+&lt;poem&gt;<xsl:value-of select="replace(Werkinformation,'--','')"/>&lt;/poem&gt;
+
 &lt;br/&gt;
 {{#set:
 Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
@@ -153,8 +153,6 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 <xsl:call-template name="normDate"><xsl:with-param name="date" select="Abfassungszeitraum/Datum/@date"/><xsl:with-param name="attr" select="'AbfassungszeitraumDate'"/></xsl:call-template>
 -->
 }}
-&lt;poem&gt;<xsl:value-of select="replace(Werkinformation,'--','')"/>&lt;/poem&gt;
-
 &lt;br/&gt;
 
 === Editionshinweise ===
@@ -174,7 +172,9 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
                     |headers=plain
 }}
 === Datierung ===
-{{#ask:
+{{Template:Werk-Datierung-1}}
+<xsl:call-template name="svg" xml:space="default"><!-- Timeline einbindung --></xsl:call-template>
+<!--{{#ask:
 [[-Has subobject.aus dem Werk::<xsl:value-of select="WerkTitel"/>]]
        [[ZeitangabeBeginn::+]]
             |?ZeitangabeBeginn
@@ -188,7 +188,8 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
             |timelinebands= YEAR, DECADE, CENTURY
             |timelineposition=end
             |limit=1000
-}}
+}}-->                        
+{{Template:Werk-Datierung-2}}
 {{#set:
 Sarazenenbezug=ja
 }}
@@ -237,22 +238,7 @@ Sarazenenbezug=ja
                 <to><tag><xsl:value-of select="concat(' |',$attr,'Ende=')" xml:space="default"/></tag><num><xsl:value-of select="substring-after($date,concat($first,'-'))"/></num></to>             
             </xsl:if></time>
         </xsl:if>
-    </xsl:template><!--
-    
-    <xsl:template name="normDate">
-        <xsl:param name="attr"/>
-        <xsl:param name="date"/>
-        <xsl:variable name="first">
-            <xsl:if test="$date != ''">
-                <xsl:choose>
-                    <xsl:when test="starts-with($date,'-')">-<xsl:value-of select="substring-before(substring-after($date,'-'),'-')"/></xsl:when>
-                    <xsl:otherwise><xsl:value-of select="substring-before($date,'-')"/></xsl:otherwise>
-                </xsl:choose>
-            </xsl:if>
-        </xsl:variable>
-        <xsl:value-of select="concat('|',$attr,'=',$first)" xml:space="default"/>
-        <xsl:value-of select="concat(' |',$attr,'=',substring-after($date,concat($first,'-')))" xml:space="default"/>      
-    </xsl:template>-->
+    </xsl:template>
     <xsl:template match="Dokument" name="svg"  xml:space="default">       
               <xsl:variable name="dates" xml:space="default">
             <xsl:for-each select="(./Abfassungszeitraum/Datum/@date,./Berichtszeitraum/Datum/@date,./Quellen/Quelle/ZeitangabeWissenschaft/Datum/@date)">
@@ -329,8 +315,7 @@ Sarazenenbezug=ja
                         </xsl:if>
                         <xsl:if test="$start = 0">
                             <xsl:value-of select="xs:integer(-1)"/>
-                        </xsl:if>
-                        
+                        </xsl:if>                        
                     </xsl:variable>
 
                     <xsl:variable name="en1" select="xs:integer(round($end div 50)) +1"/>
@@ -343,19 +328,28 @@ Sarazenenbezug=ja
                         </xsl:if>
                         <xsl:if test="$start = 0">
                             <xsl:value-of select="xs:integer(1)"/>
-                        </xsl:if>
-                        
-                    </xsl:variable>
-                    <xsl:if test="count($sortet/node()) > 0">&lt;div id='leiste'&gt;
-                &lt;html id='preHtml'&gt;
-                            &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/> 0 <xsl:value-of select="($en1 + $st2 +1) * 50"/> 100" width="3000" height="200"&gt;
-                        &lt;g&gt;  
-                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="1" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
-                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="9" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        </xsl:if><!--
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="96" width="8" height="8" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="105" class="legende" font-size="12px"&gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="10" width="8" height="8" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
                         &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="18" class="legende" font-size="12px"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="20" width="8" height="8" style="fill:#164176;fill-opacity:0.9;"/&gt;
                         &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="28" class="legende" font-size="12px"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                                                    &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/> 0 <xsl:value-of select="($en1 + $st2 +1) * 50"/> 100" width="3000" height="200"&gt;
+
+                        -->
+
+                    </xsl:variable>
+                    <xsl:if test="count($sortet/node()) > 0">&lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/>  0 900 100" &gt;
+                        &lt;g&gt;  
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="96" width="8" height="8" id="box-bericht" class="box-legende" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="<xsl:value-of select="$st1 * 50  +155"/>" y="96" width="8" height="8" id="box-abfassung" class="box-legende" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 165"/>" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="111" width="8" height="8" id="box-aufgenommen" class="box-legende" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="<xsl:value-of select="$st1 * 50"/>"  y1="80" x2="<xsl:value-of select="$en1 * 50"/>" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     <xsl:for-each select="($st1 to $en1)" xml:space="default">
                         <xsl:if test=". = 0">

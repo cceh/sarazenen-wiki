@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>Register-Auffälligkeit-Main</title>
+        <type>Template</type>
+        <id/>
+        <categories>
+            <category/>
+        </categories>
+        <rules>
+            <rule/>
+        </rules>
+    </meta>
+    <text>
+        <wikisyntax>=== Auffälligkeit ===
+            Auflistung aller mit der Auffälligkeit "{{value}} " annotierten Quellenstellen
+            {{#ask: 
+            [[Kategorie:Quelle]]
+            [[berichtet von::{{value}}]]
+            |?Interaktion# 
+            |?abgefasst von
+            |?aus dem Werk
+            |?datiert auf#
+            |?Datum laut Werk#
+            |?abgefasst in
+            |format=table
+            |mainlabel=Wird erwähnt in
+            }}</wikisyntax>
+    </text>
+</page>

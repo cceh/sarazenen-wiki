@@ -14,12 +14,17 @@
     <text>
         <noinclude>[[Category:Templates]]</noinclude>
         <wikisyntax>{{#compound_query:
-        [[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Ort-icon.png
+        <!--[[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Ort-icon.png
         | [[Kategorie:Abfassungsort]] [[-abgefasst in.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Abfassungsort-icon.png
         | [[Kategorie:Kloster]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Kloster-icon.png
         | | [[Kategorie:Fluss]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]];  ?getty_coordinates ; icon=Fluss-icon.png
-        | | [[Kategorie:Berg]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Berg-icon.png
-        
+        | | [[Kategorie:Berg]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Berg-icon.png-->
+         [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+        | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
+        | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
+        | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
+        | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
+        | [[Kategorie:Region]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
         |format=leaflet
         |limit=50
         |offset=0

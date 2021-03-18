@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>Register-Abfassungsortnennung-Main</title>
+        <type>Template</type>
+        <id/>
+        <categories>
+            <category/>
+        </categories>
+        <rules>
+            <rule/>
+        </rules>
+    </meta>
+    <text>
+        <wikisyntax>=== Abfassungsortnennung ===
+            In {{value}} sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
+            {{#ask: 
+            [[Kategorie:Werk]]
+            [[abgefasst in::{{value}}]]
+            |?abgefasst von 
+            |?Sarazenenbezug
+            |?Abfassungszeit
+            |?Berichtszeitraum
+            |format=table
+            |mainlabel=Werk
+            }}
+        </wikisyntax>
+    </text>
+</page>

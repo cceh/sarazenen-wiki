@@ -51,7 +51,7 @@
                 
                 {| class=&quot;wikitable&quot;
                 |- class=&quot;head {{{class}}}&quot; 
-                !colspan=&quot;2&quot;| {{{Name}}} [[Datei:Geographie ohne Rahmen.png|50px]]
+                !colspan=&quot;2&quot;| {{{Name}}} [[Datei:Geographie.png|50px]]
                 
                 |- 
                 {{#if:{{{Alternativnamen|}}} |  
@@ -68,13 +68,15 @@
                 {{!}}colspan=&quot;2&quot; class=&quot;subhead&quot; {{!}} Normdaten }}
                 
                 |-
+                {{#if:{{{gnd_id|}}} |
+                {{!}} GND{{#info:Gemeinsame Normdatei}}
+                {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
+                
+                |-
                 {{#if:{{{getty_id|}}} |
                 {{!}} Getty TGN{{#info:Getty Thesaurus of Geographical Names}} 
                 {{!}} [http://vocab.getty.edu/page/tgn/{{{getty_id}}} {{{getty_id}}}] }}
-                {{#if:{{{gnd_id|}}} |  
-                {{!}}- 
-                {{!}} GND{{#info:Gemeinsame Normdatei}}
-                {{!}} [http://d-nb.info/gnd/{{{gnd_id}}} {{{gnd_id}}}] }}
+                
                 |- 
                 {{#if:{{{viaf_id|}}}| 
                 {{!}} VIAF{{#info:Virtual International Authority File}} 
