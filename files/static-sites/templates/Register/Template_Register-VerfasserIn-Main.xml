@@ -11,11 +11,10 @@
             <rule/>
         </rules>
     </meta>
-    <text>
-        <wikisyntax>=== Werke des Verfassers ===
-            {{#ask: 
+    <text><header level="3">Werke des Verfassers</header>
+            <wikisyntax>{{#ask: 
             [[Kategorie:Werk]]
-            [[abgefasst von::{{{value}}}]                    
+            [[abgefasst von::{{{value}}}]]                    
             |?Abfassungszeit#
             |?Berichtszeitraum#
             |?abgefasst in

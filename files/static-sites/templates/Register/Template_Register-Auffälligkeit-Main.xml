@@ -5,16 +5,15 @@
         <type>Template</type>
         <id/>
         <categories>
-            <category/>
+            <category>Template</category>
         </categories>
         <rules>
             <rule/>
         </rules>
     </meta>
-    <text>
-        <wikisyntax>=== Auffälligkeit ===
-            Auflistung aller mit der Auffälligkeit "{{{value}}} " annotierten Quellenstellen
-            {{#ask: 
+    <text><header level="3">Auffälligkeit</header>
+            <p>Auflistung aller mit der Auffälligkeit "<wikisyntax>{{{value}}}</wikisyntax>" annotierten Quellenstellen</p>
+            <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]
             [[berichtet von::{{{value}}}]]
             |?Interaktion# 

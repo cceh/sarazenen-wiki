@@ -5,16 +5,15 @@
         <type>Template</type>
         <id/>
         <categories>
-            <category/>
+            <category>Template</category>
         </categories>
         <rules>
             <rule/>
         </rules>
     </meta>
-    <text>
-        <wikisyntax>=== Ortsnennungen {{{value}}} ===
-            Übersicht über die Nennung von "{{{value}}}" im Repertorium Saracenorum:                    
-            {{#ask: 
+    <text><header level="3">Ortsnennungen <wikisyntax>{{{value}}}</wikisyntax></header>
+            <p>Übersicht über die Nennung von "<wikisyntax>{{{value}}}</wikisyntax>" im Repertorium Saracenorum:    </p>                
+            <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]
             [[Geographischer Bezug::{{{value}}}]]
             |?Interaktion# 

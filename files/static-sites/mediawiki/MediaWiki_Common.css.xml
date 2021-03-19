@@ -124,23 +124,23 @@
             }
             
             /** SVG **/
-            .legende {
-            font-size:12px;
+            .svg-legende {
+            font-size:10px;
             }
             .box-legende {
             fill-opacity:0.9;
             }
-            #box-bericht {
+            .box-bericht {
             fill:#1b98d0;
             }
             #text-bericht {
             }
-            #box-abfassung {
+            .box-abfassung {
             fill:#ffd11a;
             }
             #text-abfassung {
             }
-            #box-aufgenommen {
+            .box-aufgenommen {
             fill:#164176;
             }
             

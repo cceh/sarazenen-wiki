@@ -15,7 +15,7 @@
         {{#display_map:{{{Koordinaten}}}
         |centre=Europe
         |static=yes
-        |layers=Esri.WorldPhysical
+        |layers=Esri.WorldImagery
         |width=100%|height=30em
         |icon={{{icon}}}
         |defzoom=3

@@ -12,7 +12,43 @@
         </meta>
         <text>
             <wikisyntax>  &lt;noinclude&gt;[[Category:Templates]]
-                &lt;/noinclude&gt; {{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 
+                
+                {{#compound_query:
+                [[-abgefasst in.Abfassungsregion::West- und Mitteleuropa]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                |format=leaflet
+                |limit=50
+                |offset=0
+                |link=all
+                |sort=
+                |order=asc
+                |headers=show
+                |width=100%
+                |height=350px
+                |defzoom=3
+                |maxzoom=14
+                |minzoom=3
+                |layers=Esri.WorldImagery
+                |type=terrain
+                }}
+                &lt;/noinclude&gt; 
+                {{#compound_query:
+                [[-abgefasst in.Abfassungsregion::{{{FULLPAGENAME}}}]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                |format=leaflet
+                |limit=50
+                |offset=0
+                |link=all
+                |sort=
+                |order=asc
+                |headers=show
+                |width=100%
+                |height=350px
+                |defzoom=3
+                |maxzoom=14
+                |minzoom=3
+                |layers=Esri.WorldImagery
+                |type=terrain
+                }}
+                {{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 
                 [[Kategorie:Werk]]
                 |?abgefasst in
                 |format=broadtable
@@ -43,22 +79,6 @@
                 |limit=9999
                 }}
                 
-== Zeitangabe == 
-                {{#ask: 
-                [[-Has subobject.Abfassungsregion::{{FULLPAGENAME}}]]
-                [[ZeitangabeBeginn::+]]
-                |?ZeitangabeBeginn
-                |?ZeitangabeEnde
-                |timelinestart =ZeitangabeBeginn
-                |timelineend=ZeitangabeEnde        
-                |timelinesize=400px
-                |sort=ZeitangabeBeginn
-                |order=descending
-                |format=timeline
-                |timelinebands= YEAR, DECADE, CENTURY
-                |timelineposition=end
-                |limit=9999
-                }}
             </wikisyntax>
         </text>
     </page>

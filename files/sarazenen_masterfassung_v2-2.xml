@@ -5066,7 +5066,9 @@ Hier bitte strukturelle Ã„nderungen im Dokument festhalten. Alle strukturellen Ã
          <Name>unbekannt</Name>
          <Typ>Ort</Typ>
          <Typ>Kloster</Typ>
-         <Alternativnamen/>
+         <Alternativnamen>
+            <Name>Abfassungsort Unbekannt</Name>
+         </Alternativnamen>
          <getty_Id/>
          <editorial_notes/>
       </Ort>

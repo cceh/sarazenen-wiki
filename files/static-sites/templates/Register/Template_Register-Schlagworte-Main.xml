@@ -11,10 +11,9 @@
             <rule/>
         </rules>
     </meta>
-    <text>
-        <wikisyntax>=== Schlagworte ===
-            Übersicht über die Verwendung von "{{{value}}}" als Schlagwort:
-            {{#ask: 
+    <text><header level="3">Schlagworte</header>
+            <p>Übersicht über die Verwendung von "<wikisyntax>{{{value}}}</wikisyntax>" als Schlagwort:</p>
+            <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]
             [[relevante Schlagworte::{{{value}}}]]
             |?Interaktion# 

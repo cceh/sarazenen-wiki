@@ -25,8 +25,7 @@
                 :: &lt;code&gt;&lt;nowiki&gt;{{Template:Description|type=note|Text=Die Spanische Mark bildete die Ursprungsregion des heutigen Kataloniens, daher die Zuordnung der Getty-Id (Getty Thesaurus of Geographic Names).}}&lt;/nowiki&gt;&lt;/code&gt;
                 [[Category:Templates]]
                 &lt;/noinclude&gt;
-                &lt;includeonly&gt;
-                {{#switch:
+                &lt;includeonly&gt;{{#switch:
                 {{{type|}}}
                 |note=&lt;div class=&quot;cite-description type-note&quot;&gt;&lt;div class=&quot;cite-description-head&quot;&gt;Anmerkung der BearbeiterInnen:&lt;/div&gt;
                 |getty=&lt;div class=&quot;cite-description type-getty&quot;&gt;&lt;div class=&quot;cite-description-head&quot;&gt;Beschreibung aus dem '''[http://vocab.getty.edu/page/tgn/{{{id}}} Getty Thesaurus of Geographic Names]'''&lt;/div&gt;

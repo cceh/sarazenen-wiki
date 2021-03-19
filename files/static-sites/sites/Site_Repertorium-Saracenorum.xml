@@ -78,18 +78,20 @@
                     |clustermaxradius=20
                     |format=map
                     |height=500px
-                    |layers=Esri.WorldPhysical
+                    |layers=Esri.WorldImagery
                     |type=terrain
                     }}</wikisyntax>
                 </div>
-                <div class="hauptseite-geograhpie-legende"><wikisyntax>
-                    ; Legende
-                    : [[Datei:Icon-abfassungsort-41.png|36px|link=Kategorie:Abfassungsort]] Abfassungsort eines erfassten Werkes
-                    : [[Datei:Kloster-icon.png|36px|link=Kategorie:Kloster]] Kloster
-                    : [[Datei:village-icon.png|36px|link=Kategorie:Ort]] bewohnter Ort, Stadt
-                    : [[Datei:mountains-icon.png|36px|link=Kategorie:Berg]] Berg, Gebirge
-                    : [[Datei:wave-icon.png|36px|link=Kategorie:Fluss]] Fluss, Gewässer
-                    : [[Datei:Icon-region-41.png|36px|link=Kategorie:Region]] Region</wikisyntax>
+                <div class="hauptseite-geograhpie-legende">
+                    <diff>
+                        <head>Legende</head>                        
+                        <ele><img url="Icon-abfassungsort-41.png" size="36" link="Kategorie:Abfassungsort"/> Abfassungsort eines erfassten Werkes</ele>
+                        <ele><img url="Kloster-icon.png" size="36" link="Kategorie:Kloster"/> Kloster</ele>
+                        <ele><img url="village-icon.png" size="36" link="Kategorie:Ort"/> bewohnter Ort, Stadt</ele>
+                        <ele><img url="mountains-icon.png" size="36" link="Kategorie:Berg"/> Berg, Gebirge</ele>
+                        <ele><img url="wave-icon.png" size="36" link="Kategorie:Fluss"/> Fluss, Gewässer</ele>
+                        <ele><img url="Icon-region-41.png" size="36" link=""/> Region</ele>
+                    </diff>
                 </div>
             </div>
         </div>

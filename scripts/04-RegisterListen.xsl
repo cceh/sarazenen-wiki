@@ -43,7 +43,12 @@
             </xsl:for-each>
             <xsl:for-each select="distinct-values(.//Abfassungsort/Ort)">
                 <entity>
-                    <main><xsl:value-of select="."/></main>
+                    <main><xsl:choose>
+                        <xsl:when test=". eq ''">Abfassungsort Unbekannt</xsl:when>
+                        <xsl:when test=". eq '-'">Abfassungsort Unbekannt</xsl:when>
+                        <xsl:when test=". eq 'unbekannt'">Abfassungsort Unbekannt</xsl:when>
+                        <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
+                    </xsl:choose></main>
                     <mentioned>Abfassungsort</mentioned>
                 </entity>
             </xsl:for-each>
@@ -278,12 +283,14 @@
     |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
     ||wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
     |gnd_id:{{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
-    |getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}</xsl:when>
+    |getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+</xsl:when>
 <xsl:when test=". eq 'Person'">{{Template:Person |Name={{FULLPAGENAME}}|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
 |Rolle={{#show:{{FULLPAGENAME}}|?Rolle|link=none}}
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}
+</xsl:when>
 <xsl:when test=". eq 'VerfasserIn'">{{Template:VerfasserIn
 |Name={{FULLPAGENAME}}
 |Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
@@ -291,19 +298,22 @@
 |Lebensdaten={{#show:{{FULLPAGENAME}}|?Lebensdaten|link=none}}
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}</xsl:when>                     
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}
+</xsl:when>                     
 </xsl:choose></xsl:for-each></xsl:variable>
 <xsl:value-of select="$typs" xml:space="default"/><xsl:if test="./meta/editorial_notes/notes/note">
 <xsl:for-each select="./meta/editorial_notes/notes/note"><xsl:if test=". != ''">{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}</xsl:if></xsl:for-each>
 </xsl:if>
 <xsl:if test="./meta/getty/ScopeNote != ''">
 {{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
+    
 </xsl:if>                            
 <xsl:if test="./meta/wikidata/desc != ''">
 {{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose>
 <xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./meta/wikidata/desc[@lang='de']/data(.)"/></xsl:when>
 <xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']/data(.)"/></xsl:otherwise>
 </xsl:choose>}}
+    
 </xsl:if>
 <xsl:value-of select="$output" xml:space="default"/>
                             <xsl:variable name="meta" xml:space="default"><xsl:apply-templates select="./meta"/></xsl:variable>

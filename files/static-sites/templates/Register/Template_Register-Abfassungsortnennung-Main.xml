@@ -5,16 +5,15 @@
         <type>Template</type>
         <id/>
         <categories>
-            <category/>
+            <category>Template</category>
         </categories>
         <rules>
             <rule/>
         </rules>
     </meta>
-    <text>
-        <wikisyntax>=== Abfassungsortnennung ===
-            In {{{value}}} sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
-            {{#ask: 
+    <text><header level="3">Abfassungsortnennung</header>
+            <p>In <wikisyntax>{{{value}}}</wikisyntax> sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden</p>
+            <wikisyntax>{{#ask: 
             [[Kategorie:Werk]]
             [[abgefasst in::{{{value}}}]]
             |?abgefasst von 

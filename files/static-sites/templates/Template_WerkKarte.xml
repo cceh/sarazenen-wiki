@@ -19,12 +19,12 @@
         | [[Kategorie:Kloster]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Kloster-icon.png
         | | [[Kategorie:Fluss]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]];  ?getty_coordinates ; icon=Fluss-icon.png
         | | [[Kategorie:Berg]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Berg-icon.png-->
-         [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
-        | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
-        | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
-        | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
-        | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
-        | [[Kategorie:Region]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
+            [[Kategorie:Abfassungsort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+            | [[Kategorie:Kloster]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
+            | [[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
+            | [[Kategorie:Berg]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
+            | [[Kategorie:Fluss]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
+            | [[Kategorie:Region]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
         |format=leaflet
         |limit=50
         |offset=0
@@ -37,7 +37,7 @@
         |defzoom=3
         |maxzoom=14
         |minzoom=3
-        |layers=Esri.WorldPhysical
+        |layers=Esri.WorldImagery
         |type=terrain
         }}
     </wikisyntax></text>        

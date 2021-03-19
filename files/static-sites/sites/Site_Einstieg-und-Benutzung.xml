@@ -8,7 +8,7 @@
             <category>Dokumentation</category>
         </categories>
         <rules>
-            <rule>NOTOC</rule>
+            <rule></rule>
         </rules>
     </meta>
     <text><wikisyntax>== Einstieg auf Quellenebenen: Werke, VerfasserInnen, Regionen ==

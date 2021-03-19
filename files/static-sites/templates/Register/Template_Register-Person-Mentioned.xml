@@ -11,10 +11,9 @@
             <rule/>
         </rules>
     </meta>
-    <text>
-        <wikisyntax>=== Personennennung {{{value}}} ===
-            Übersicht über die Nennung von "{{{value}}}" im Repertorium Saracenorum:
-            {{#ask: 
+    <text><header level="3">Personennennung <wikisyntax>{{{value}}}</wikisyntax></header>
+            <p>Übersicht über die Nennung von "<wikisyntax>{{{value}}}</wikisyntax>" im Repertorium Saracenorum:</p>
+            <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]
             [[Person::{{{value}}}]]
             |?Inhaltsangabe#

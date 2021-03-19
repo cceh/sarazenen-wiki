@@ -94,7 +94,7 @@
                 {{!}} Koordinaten{{#info:Koordinaten via Getty Thesaurus of Geographical Names}}
                 {{!}} {{{getty_coordinates}}} 
                 {{!}}-
-                !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap |class={{{class}}}|icon={{{icon}}} Koordinaten={{{getty_coordinates}}} }} }}
+                !colspan=&quot;2px&quot; class=&quot;map&quot; {{!}} {{Template:LocationMap |class={{{class}}}|icon={{{icon}}} |Koordinaten={{{getty_coordinates}}} }} }}
                 |}&lt;/div&gt;&lt;/onlyinclude&gt;
             </wikisyntax>
         </text>

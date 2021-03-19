@@ -192,6 +192,7 @@ Abfassungszeit=<xsl:value-of select="Abfassungszeitraum/Datum/data(.)"/>
 {{Template:Werk-Datierung-2}}
 {{#set:
 Sarazenenbezug=ja
+<xsl:apply-templates select="./getty_Id | ./gnd_Id | ./wikidata_Id"></xsl:apply-templates>
 }}
                     </xsl:if>
                     <xsl:if test="not(exists(./Quellen/Quelle))">
@@ -216,6 +217,10 @@ Sarazenenbezug=ja
                 <sha1></sha1>
             </revision>
         </page>
+    </xsl:template>
+    
+    <xsl:template match="getty_Id | gnd_Id | wikidata_Id">
+        <xsl:if test=". != ''"> |<xsl:value-of select="replace(name(),'I','i')"/>=<xsl:value-of select="."/></xsl:if>
     </xsl:template>
     
     <xsl:template name="normDate">
@@ -342,13 +347,13 @@ Sarazenenbezug=ja
                     </xsl:variable>
                     <xsl:if test="count($sortet/node()) > 0">&lt;div id='leiste'&gt;
                 &lt;html id='preHtml'&gt;
-                &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/>  0 900 100" &gt;
+                &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/>  0 900 150" &gt;
                         &lt;g&gt;  
-                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="96" width="8" height="8" id="box-bericht" class="box-legende" style="fill:#1b98d0;fill-opacity:0.9;"/&gt;
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
                         &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
-                        &lt;rect x="<xsl:value-of select="$st1 * 50  +155"/>" y="96" width="8" height="8" id="box-abfassung" class="box-legende" style="fill:#ffd11a;fill-opacity:0.9;"/&gt;
+                        &lt;rect x="<xsl:value-of select="$st1 * 50  +155"/>" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
                         &lt;text x="<xsl:value-of select="$st1 * 50 + 165"/>" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
-                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="111" width="8" height="8" id="box-aufgenommen" class="box-legende" style="fill:#164176;fill-opacity:0.9;"/&gt;
+                        &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
                         &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="<xsl:value-of select="$st1 * 50"/>"  y1="80" x2="<xsl:value-of select="$en1 * 50"/>" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     <xsl:for-each select="($st1 to $en1)" xml:space="default">
@@ -550,7 +555,7 @@ Sarazenenbezug=ja
             </xsl:if>
         </xsl:variable>
         &lt;g&gt;
-        &lt;rect x="<xsl:value-of select="$x1"/>" y="<xsl:value-of select="$y1"/>" width="<xsl:value-of select="$width"/>" height="45" style="fill:<xsl:value-of select="$color"/>;fill-opacity:0.9;"/&gt;
+        &lt;rect x="<xsl:value-of select="$x1"/>" y="<xsl:value-of select="$y1"/>" width="<xsl:value-of select="$width"/>" height="45" class="<xsl:value-of select="$color"/>" style="fill-opacity:0.9;"/&gt;
         <!-- Beschriftung der Balken: -->
         <xsl:variable name="to" select="number(substring-after(.,'-'))"/>
         &lt;text x="<xsl:value-of select="$start"/>" y="<xsl:value-of select="$y2"/>" class="label" style="color: #bfff80; text-anchor: end"><xsl:value-of select="$x1"/>&lt;/text&gt;
@@ -616,7 +621,7 @@ Sarazenenbezug=ja
             </xsl:if>
         </xsl:variable>
         &lt;g&gt;
-        &lt;rect x="<xsl:value-of select="$x1"/>" y="<xsl:value-of select="$y1"/>" width="<xsl:value-of select="$width"/>" height="45" style="fill:<xsl:value-of select="$color"/>;fill-opacity:0.9;"/&gt;
+        &lt;rect x="<xsl:value-of select="$x1"/>" y="<xsl:value-of select="$y1"/>" width="<xsl:value-of select="$width"/>" height="45" class="<xsl:value-of select="$color"/>" style="fill-opacity:0.9;"/&gt;
         <!-- Beschriftung der Balken: -->
         <!--
         <xsl:variable name="to" select="number(substring-after(.,'-'))"/>
@@ -630,7 +635,7 @@ Sarazenenbezug=ja
           <xsl:if test="not(contains(.,','))">     
               <xsl:call-template name="balken"> 
                   <xsl:with-param name="value" select="."/> 
-                  <xsl:with-param name="color" select="'#1b98d0'"/>
+                  <xsl:with-param name="color" select="'box-bericht'"/>
               <xsl:with-param name="y1" select="26"/>
               <xsl:with-param name="y2" select="70"/>
               </xsl:call-template>
@@ -639,7 +644,7 @@ Sarazenenbezug=ja
               <xsl:for-each select="tokenize(.,',')">
                   <xsl:call-template name="balken"> 
                       <xsl:with-param name="value" select="."/> 
-                      <xsl:with-param name="color" select="'#1b98d0'"/>
+                      <xsl:with-param name="color" select="'box-bericht'"/>
                       <xsl:with-param name="y1" select="26"/>
                       <xsl:with-param name="y2" select="70"/>
                   </xsl:call-template>
@@ -652,7 +657,7 @@ Sarazenenbezug=ja
             <xsl:if test="not(contains(.,','))">     
                 <xsl:call-template name="balken2"> 
                     <xsl:with-param name="value" select="."/> 
-                    <xsl:with-param name="color" select="'#ffd11a'"/>
+                    <xsl:with-param name="color" select="'box-abfassung'"/>
                     <xsl:with-param name="y1" select="12"/>
                     <xsl:with-param name="y2" select="19"/>
                 </xsl:call-template>
@@ -661,7 +666,7 @@ Sarazenenbezug=ja
                 <xsl:for-each select="tokenize(.,',')">
                     <xsl:call-template name="balken2"> 
                         <xsl:with-param name="value" select="."/> 
-                        <xsl:with-param name="color" select="'#ffd11a'"/>
+                        <xsl:with-param name="color" select="'box-abfassung'"/>
                         <xsl:with-param name="y1" select="12"/>
                         <xsl:with-param name="y2" select="19"/>
                     </xsl:call-template>
@@ -675,7 +680,7 @@ Sarazenenbezug=ja
                 <xsl:variable name="tooltip">Quelle <xsl:value-of select="parent::node()/parent::node()/QuellenId"/>: <xsl:value-of select="."/></xsl:variable>
                 <xsl:call-template name="quellenBalken"> 
                     <xsl:with-param name="value" select="./@date"/> 
-                    <xsl:with-param name="color" select="'#ffd11a'"/>
+                    <xsl:with-param name="color" select="'box-aufgenommen'"/>
                     <xsl:with-param name="tooltip" select="$tooltip"/>
                 </xsl:call-template>
             </xsl:if>
@@ -684,7 +689,7 @@ Sarazenenbezug=ja
                 <xsl:for-each select="tokenize(./@date,',')">                    
                     <xsl:call-template name="quellenBalken"> 
                         <xsl:with-param name="value" select="."/> 
-                        <xsl:with-param name="color" select="'#ffd11a'"/>
+                        <xsl:with-param name="color" select="'box-aufgenommen'"/>
                         <xsl:with-param name="tooltip" select="concat($t1,.)"/>
                     </xsl:call-template>
                 </xsl:for-each>
@@ -747,12 +752,12 @@ Sarazenenbezug=ja
         </xsl:variable>
         &lt;g&gt;
         &lt;rect x="<xsl:value-of select="$start"/>" y="26" width="<xsl:value-of select="$width"/>" height="37"
-        label="<xsl:value-of select="$tooltip"/>"	style="fill:#164176;stroke:black;stroke-width:0.5;opacity:1;"/&gt;
+        label="<xsl:value-of select="$tooltip"/>" class="<xsl:value-of select="$color"/>"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
         &lt;/g&gt;
     </xsl:template>
     
     <xsl:template match="Editionshinweise">       
-<xsl:if test="exists(./edition)"><xsl:value-of select="./edition"/> [<xsl:value-of select="./link/@url"/><xsl:text> </xsl:text><xsl:value-of select="./link"/>]
+<xsl:if test="exists(./edition)"><xsl:value-of select="./edition"/> [<xsl:value-of select="./@url"/>]
 </xsl:if>
     </xsl:template>
     <xsl:template match="text()"></xsl:template>

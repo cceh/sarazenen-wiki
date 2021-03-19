@@ -186,46 +186,7 @@
                 </contributor>
                 <model>wikitext</model>
                 <format>text/x-wiki</format>
-                <text xml:space="preserve" bytes="3441">{{#css: .infobox {float:right;margin-right:50px;}}
-&lt;div&gt;[[<xsl:value-of select="$parent/WerkTitel"/>|Zurück zum Werk (<xsl:value-of select="$parent/WerkTitel"/>)]]&lt;/div&gt;
-<!--{{WikiProject_Transwiki/Template:Infobox
-|title=|above=<xsl:value-of xml:space="default">
-        <xsl:value-of  xml:space="default" ><xsl:value-of select="$parent/WerkTitel"/>, <xsl:value-of select="$datierung"/>
-            </xsl:value-of>
-</xsl:value-of>     
-|image=
-|caption=
-|bodyclass = class;
-|bodystyle = background:#FFFFFF; width:33%; vertical-align:right; border-style: ridge;
-|abovestyle = background:#1b98d0; 
-|headerstyle  = background:#1b98d0; 
-|labelstyle   = background:#1b98d0; width:30%;
-|datastyle    = 
-|label1=aus dem Werk
-|data1=[[aus dem Werk::<xsl:value-of select="$parent/WerkTitel"/>]]
-|label2=Zitation
-|data2=<xsl:value-of select="./Zitation"/>
-|label4=zeitliche (Quellen-)Angabe
-|data4=<xsl:value-of select="$datierungQuelle"/>
-|label5=datiert auf
-|data5=<xsl:value-of select="$datierung"/>
-|label6=abgefasst von
-|data6=<xsl:value-of xml:space="default"><xsl:choose><xsl:when test="exists($parent/Autoren/Autor[2])">
-                            <xsl:for-each select="$parent/Autoren/Autor">
-                                <xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if>
-                                <xsl:text>[[abgefasst von::</xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text>                                 
-                            </xsl:for-each>
-                        </xsl:when>
-                            <xsl:when test="$parent/Autoren/Autor[1] eq 'VerfasserIn unbekannt'">
-                                <xsl:text>[[abgefasst von::VerfasserIn unbekannt]]</xsl:text>
-                            </xsl:when>
-                            <xsl:otherwise> <xsl:text>[[abgefasst von::</xsl:text><xsl:value-of select="$parent/Autoren/Autor/data(.)"/>]]</xsl:otherwise>
-                        </xsl:choose></xsl:value-of>
-|label7=abgefasst in
-|data7=[[abgefasst in::<xsl:value-of select="$abfssungsort"/>]]
-}}-->
-                    
-                    {{Template:Quelle
+                <text xml:space="preserve" bytes="3441">&lt;div&gt;[[<xsl:value-of select="$parent/WerkTitel"/>|Zurück zum Werk (<xsl:value-of select="$parent/WerkTitel"/>)]]&lt;/div&gt;{{Template:Quelle
                 |Name={{FULLPAGENAME}}
                 |aus dem Werk={{#show:{{FULLPAGENAME}}|?aus dem Werk}}
                 |Zitation=<xsl:value-of select="./Zitation"/>
@@ -366,13 +327,7 @@
     </xsl:template>
     <xsl:template match="entity">
         <xsl:variable name="ia" select="./@id/data(.)"/> 
-        <xsl:variable name="img" >
-            <xsl:choose>
-                <xsl:when test="./@type eq 'Ort'">[[Datei:Geographie ohne Rahmen.png|25px|Beschreibung]]</xsl:when>
-                <xsl:when test="./@type eq 'Person'">[[Datei:Personen.png|25px|Beschreibung]]</xsl:when>
-            </xsl:choose>
-        </xsl:variable>
-        <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text><xsl:value-of select="$img"/><xsl:text>&#x200b;]</xsl:text>
+        <xsl:text>[&#x200b;[[</xsl:text><xsl:value-of select="./@type"/><xsl:text>::</xsl:text><xsl:value-of select="$lists/node()/node()[@id eq $ia]/Name"/><xsl:text> | </xsl:text><xsl:value-of select="."/><xsl:text>]]</xsl:text><xsl:text>&#x200b;]</xsl:text>
     </xsl:template>
     <xsl:template match="VolltextOriginalsprache | VolltextUebersetzung | Inhaltsangabe | ZitationUebersetzung" xml:space="default" >
         &lt;poem&gt;<xsl:apply-templates/>&lt;/poem&gt;

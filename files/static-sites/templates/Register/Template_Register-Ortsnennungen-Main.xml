@@ -11,10 +11,9 @@
             <rule/>
         </rules>
     </meta>
-    <text>
-        <wikisyntax>=== Ortsnennungen ===
-            Übersicht über die Nennung von "{{{value}}}" im Repertorium Saracenorum
-            {{#ask: 
+    <text><header level="3">Ortsnennungen</header>
+            <p>Übersicht über die Nennung von "<wikisyntax>{{{value}}}</wikisyntax>" im Repertorium Saracenorum</p>
+            <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]
             [[geographischer Bezug::{{{value}}}]]
             |?Interaktion# 
