@@ -12,18 +12,18 @@
         </rules>
     </meta>
     <text>
-        <wikisyntax>=== Personennennung {{value}} ===
-            Übersicht über die Nennung von "{{value}}" im Repertorium Saracenorum:
+        <wikisyntax>=== Personennennung {{{value}}} ===
+            Übersicht über die Nennung von "{{{value}}}" im Repertorium Saracenorum:
             {{#ask: 
             [[Kategorie:Quelle]]
-            [[Person::{{value}}]]
+            [[Person::{{{value}}}]]
             |?Inhaltsangabe#
             |?Zitation#
             |?abgefasst von
             |?datiert auf#
             |?abgefasst in
             |format=table
-            |mainlabel=Personennennung {{value}}
+            |mainlabel=Personennennung {{{value}}}
             }}
         </wikisyntax>
     </text>

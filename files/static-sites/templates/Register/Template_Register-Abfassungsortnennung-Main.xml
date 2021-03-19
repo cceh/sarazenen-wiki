@@ -13,10 +13,10 @@
     </meta>
     <text>
         <wikisyntax>=== Abfassungsortnennung ===
-            In {{value}} sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
+            In {{{value}}} sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden
             {{#ask: 
             [[Kategorie:Werk]]
-            [[abgefasst in::{{value}}]]
+            [[abgefasst in::{{{value}}}]]
             |?abgefasst von 
             |?Sarazenenbezug
             |?Abfassungszeit

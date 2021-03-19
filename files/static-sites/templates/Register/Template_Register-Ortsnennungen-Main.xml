@@ -13,10 +13,10 @@
     </meta>
     <text>
         <wikisyntax>=== Ortsnennungen ===
-            Übersicht über die Nennung von "{{value}}" im Repertorium Saracenorum
+            Übersicht über die Nennung von "{{{value}}}" im Repertorium Saracenorum
             {{#ask: 
             [[Kategorie:Quelle]]
-            [[geographischer Bezug::{{value}}]]
+            [[geographischer Bezug::{{{value}}}]]
             |?Interaktion# 
             |?abgefasst von 
             |?aus dem Werk

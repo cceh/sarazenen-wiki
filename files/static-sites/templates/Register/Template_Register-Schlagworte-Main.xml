@@ -13,10 +13,10 @@
     </meta>
     <text>
         <wikisyntax>=== Schlagworte ===
-            Übersicht über die Verwendung von "{{value}}" als Schlagwort:
+            Übersicht über die Verwendung von "{{{value}}}" als Schlagwort:
             {{#ask: 
             [[Kategorie:Quelle]]
-            [[relevante Schlagworte::{{value}}]]
+            [[relevante Schlagworte::{{{value}}}]]
             |?Interaktion# 
             |?abgefasst von
             |?aus dem Werk
