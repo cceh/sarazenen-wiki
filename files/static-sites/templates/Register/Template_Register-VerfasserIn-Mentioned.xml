@@ -12,15 +12,15 @@
         </rules>
     </meta>
     <text>
-        <wikisyntax>=== Werke des Verfassers {{value}} ===
+        <wikisyntax>=== Werke des Verfassers {{{value}}} ===
             {{#ask: 
             [[Kategorie:Werk]]
-            [[abgefasst von::{{value}}]                    
+            [[abgefasst von::{{{value}}}]]                    
             |?Abfassungszeit#
             |?Berichtszeitraum#
             |?abgefasst in
             |format=table
-            |mainlabel=Werke des Verfassers {{value}}
+            |mainlabel=Werke des Verfassers {{{value}}}
             }}</wikisyntax>
     </text>
 </page>

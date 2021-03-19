@@ -12,11 +12,11 @@
         </rules>
     </meta>
     <text>
-        <wikisyntax>=== Auffälligkeit {{value}} ===
-            Auflistung aller mit der Auffälligkeit "{{value}} " annotierten Quellenstellen
+        <wikisyntax>=== Auffälligkeit {{{value}}} ===
+            Auflistung aller mit der Auffälligkeit "{{{value}}} " annotierten Quellenstellen
             {{#ask: 
             [[Kategorie:Quelle]]
-            [[berichtet von::{{value}}]]
+            [[berichtet von::{{{value}}}]]
             |?Interaktion# 
             |?abgefasst von
             |?aus dem Werk
@@ -24,7 +24,7 @@
             |?Datum laut Werk#
             |?abgefasst in
             |format=table
-            |mainlabel={{value}} wird erwähnt in
+            |mainlabel={{{value}}} wird erwähnt in
             }}
         </wikisyntax>
     </text>

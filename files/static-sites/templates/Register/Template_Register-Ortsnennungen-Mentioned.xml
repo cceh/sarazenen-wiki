@@ -12,18 +12,18 @@
         </rules>
     </meta>
     <text>
-        <wikisyntax>=== Ortsnennungen {{value}} ===
-            Übersicht über die Nennung von "{{value}}" im Repertorium Saracenorum:                    
+        <wikisyntax>=== Ortsnennungen {{{value}}} ===
+            Übersicht über die Nennung von "{{{value}}}" im Repertorium Saracenorum:                    
             {{#ask: 
             [[Kategorie:Quelle]]
-            [[Geographischer Bezug::{{value}}]]
+            [[Geographischer Bezug::{{{value}}}]]
             |?Interaktion# 
             |?abgefasst von 
             |?aus dem Werk
             |?datiert auf#
             |?abgefasst in
             |format=table
-            |mainlabel=Ortsnennungen {{value}}
+            |mainlabel=Ortsnennungen {{{value}}}
             }}</wikisyntax>
     </text>
 </page>

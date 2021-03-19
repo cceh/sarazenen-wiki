@@ -15,7 +15,7 @@
         <wikisyntax>=== Werke des Verfassers ===
             {{#ask: 
             [[Kategorie:Werk]]
-            [[abgefasst von::{{value}}]                    
+            [[abgefasst von::{{{value}}}]                    
             |?Abfassungszeit#
             |?Berichtszeitraum#
             |?abgefasst in

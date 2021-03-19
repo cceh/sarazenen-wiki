@@ -13,10 +13,10 @@
     </meta>
     <text>
         <wikisyntax>=== Auffälligkeit ===
-            Auflistung aller mit der Auffälligkeit "{{value}} " annotierten Quellenstellen
+            Auflistung aller mit der Auffälligkeit "{{{value}}} " annotierten Quellenstellen
             {{#ask: 
             [[Kategorie:Quelle]]
-            [[berichtet von::{{value}}]]
+            [[berichtet von::{{{value}}}]]
             |?Interaktion# 
             |?abgefasst von
             |?aus dem Werk

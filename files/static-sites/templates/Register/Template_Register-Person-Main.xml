@@ -13,10 +13,10 @@
     </meta>
     <text>
         <wikisyntax>=== Personennennung ===
-            Übersicht über die Nennung von "{{value}}" im Repertorium Saracenorum:
+            Übersicht über die Nennung von "{{{value}}}" im Repertorium Saracenorum:
             {{#ask: 
             [[Kategorie:Quelle]]
-            [[Person::{{value}}]]
+            [[Person::{{{value}}}]]
             |?Inhaltsangabe#
             |?Zitation#
             |?abgefasst von
