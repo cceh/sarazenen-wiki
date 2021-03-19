@@ -11,11 +11,9 @@
             </rules>
         </meta>
         <text>
-            Diese Timelines bieten einen Überblick über die zeitliche Verteilung aller im Repertorium Saracenorum aufgenommenen Quellenstellen. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen.  
+            Diese Timeline bietet einen Überblick über die zeitliche Verteilung aller im Repertorium Saracenorum aufgenommenen Quellenstellen. Sie können jeweils angewählt und angeklickt werden, um entweder weitergehende Informationen zu erhalten oder die Seite der Quellenstelle aufzurufen.  
             
-            Die drei Ebenen der Timelines (Jahre, Dekaden, Jahrhunderte) lassen eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timelines (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an.
-
-            Die obere Timeline bietet eine Gesamtübersicht alle im Repertorium Saracenorum aufgenommenen Quellenstellen. Zur besseren Übersicht und, um die räumliche Verteilung der Berichte deutlicher sichtbar zu machen, folgen für jede Abfassungsregion weitere Timelines, die sämtliche Quellenstellen aufführen, die in der jeweiligen Region verfasst wurden.
+            Die drei Ebenen der Timeline (Jahre, Dekaden, Jahrhunderte) lassen eine visuelle Einordnung, Verteilung und Häufung schnell erfassen. Die Ansicht kann mittels Führung des Mauszeigers über die drei Ebenen der Timeline (es erscheint eine Hand) und das Anklicken und Bewegen nach rechts oder links nach Bedarf geändert werden. Auf welchen Bereich die oberste Ebene gerichtet ist, zeigen hellere Bereiche auf den beiden unteren Ebenen. Kleine blaue Striche zeigen dort die einzelnen Quellenstellen an.
             <wikisyntax>
             {{#ask:
             [[ZeitangabeBeginn::+]]
