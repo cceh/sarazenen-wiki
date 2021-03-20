@@ -14,39 +14,6 @@
             Übersicht über alle im Repertorium Saracenorum hinterlegten geographischen Unterkategorien. Über die Auswahl einer geographischen Kategorie können alle Berichte abgerufen werden, zu denen ein Bezug zu dieser Kategorie hinterlegt wurde.
             
             Außerdem sind alle geographischen Räume mit Normdaten des <a link="http://www.getty.edu/research/tools/vocabularies/tgn/index.html">Getty Thesaurus of Geographic Names Online</a> verknüpft.
-
-            <div class="hauptseite-block border">
-                <h2> Positionen aller in den Berichten erwähnten Orte</h2>
-                <div class="hauptseite-geographie" >
-                    <div class="hauptseite-geographie-map"><wikisyntax>
-                        {{#compound_query:
-                        [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
-                        | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
-                        | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
-                        | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
-                        | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
-                        | [[Kategorie:Region]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
-                        |cluster = yes
-                        |clustermaxradius=20
-                        |format=map
-                        |height=500px
-                        |layers=Esri.WorldImagery
-                        |type=terrain
-                        }}</wikisyntax>
-                    </div>
-                    <div class="hauptseite-geograhpie-legende">
-                        <diff>
-                            <head>Legende</head>                        
-                            <ele><img url="Icon-abfassungsort-41.png" size="36" link="Kategorie:Abfassungsort"/> Abfassungsort eines erfassten Werkes</ele>
-                            <ele><img url="Kloster-icon.png" size="36" link="Kategorie:Kloster"/> Kloster</ele>
-                            <ele><img url="village-icon.png" size="36" link="Kategorie:Ort"/> bewohnter Ort, Stadt</ele>
-                            <ele><img url="mountains-icon.png" size="36" link="Kategorie:Berg"/> Berg, Gebirge</ele>
-                            <ele><img url="wave-icon.png" size="36" link="Kategorie:Fluss"/> Fluss, Gewässer</ele>
-                            <ele><img url="Icon-region-41.png" size="36" link=""/> Region</ele>
-                        </diff>
-                    </div>
-                </div>
-            </div>
-
+            {{Template:HauptseiteKarte}}
         </text>
     </page>

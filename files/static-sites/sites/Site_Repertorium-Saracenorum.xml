@@ -23,12 +23,12 @@
                 <div class="hs-inhalte-item werke">
                     <div class="hs-inhalte-item-header">Werke</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Werke.png|100px|link=Kategorie:Werk]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: Werk|pages}}</wikisyntax> Werke und zugehörige Quellenstellen, die über Interaktion mit Sarazenen berichten, bilden das Herzstück des Wikis.</div>
+                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: Werk|pages}} </wikisyntax>Werke und zugehörige Quellenstellen, die über Interaktion mit Sarazenen berichten, bilden das Herzstück des Wikis.</div>
                 </div>
                 <div class="hs-inhalte-item verfasserin">
                     <div class="hs-inhalte-item-header">VerfasserInnen</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:VerfasserIn.png|100px|link=Kategorie:VerfasserIn]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: VerfasserIn|pages}}</wikisyntax> VerfasserInnen, denen die Autorenschaft zu denen ausgewerteten Werken zugeschrieben werden kann, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
+                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: VerfasserIn|pages}} </wikisyntax>VerfasserInnen, denen die Autorenschaft zu denen ausgewerteten Werken zugeschrieben werden kann, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
                 </div>
                 <div class="hs-inhalte-item personen">
                     <div class="hs-inhalte-item-header">Personen</div>
@@ -43,7 +43,7 @@
                 <div class="hs-inhalte-item abfassungsregionen">
                     <div class="hs-inhalte-item-header">Abfassungsregionen</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Abfassungsregion.png|100px|link=Kategorie:Abfassungsregion]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body">Die Werke wurden im Zuge der Erfassung <wikisyntax>{{PAGESINCATEGORY:Abfassungsregion}}</wikisyntax> verschiedenen Abfassungsregionen zugeordnet.</div>
+                    <div class="hs-inhalte-item-body">Die Werke wurden im Zuge der Erfassung<wikisyntax> {{PAGESINCATEGORY:Abfassungsregion}} </wikisyntax>verschiedenen Abfassungsregionen zugeordnet.</div>
                 </div>
                 <div class="hs-inhalte-item auffaelligkeiten">
                     <div class="hs-inhalte-item-header">Auffälligkeiten</div>
@@ -58,44 +58,11 @@
                 <div class="hs-inhalte-item datierungen">
                     <div class="hs-inhalte-item-header">Datierungen</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Datierung.png|100px|link=Datierung]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body">Zeitleisten zur <wikisyntax>[[Datierung]]</wikisyntax> der in den Berichten erwähnten Ereignisse und zu <wikisyntax>[[Abfassungszeitraum | Abfassungszeiträumen]]</wikisyntax> der erfassten Werke ermöglichen den Zugriff über die zeitliche Achse.</div>
+                    <div class="hs-inhalte-item-body">Zeitleisten zur<wikisyntax> [[Datierung]] </wikisyntax>der aufgenommenen Berichten und zu<wikisyntax> [[Abfassungszeitraum | Abfassungszeiträumen]] </wikisyntax>der erfassten Werke ermöglichen den Zugriff über die zeitliche Achse.</div>
                 </div>
             </div>
         </div>
-        
-        <div class="hauptseite-block border">
-            <h2> Positionen aller in den Berichten erwähnten Orte</h2>
-            <div class="hauptseite-geographie" >
-                <div class="hauptseite-geographie-map"><wikisyntax>
-                    {{#compound_query:
-                    [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
-                    | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
-                    | [[Kategorie:Ort]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
-                    | [[Kategorie:Berg]]; ?getty_coordinates ; icon=mountains-icon.png; limit=9999
-                    | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=wave-icon.png; limit=9999
-                    | [[Kategorie:Region]]; ?getty_coordinates ; icon=icon-region-41.png; limit=9999
-                    |cluster = yes
-                    |clustermaxradius=20
-                    |format=map
-                    |height=500px
-                    |layers=Esri.WorldImagery
-                    |type=terrain
-                    }}</wikisyntax>
-                </div>
-                <div class="hauptseite-geograhpie-legende">
-                    <diff>
-                        <head>Legende</head>                        
-                        <ele><img url="Icon-abfassungsort-41.png" size="36" link="Kategorie:Abfassungsort"/> Abfassungsort eines erfassten Werkes</ele>
-                        <ele><img url="Kloster-icon.png" size="36" link="Kategorie:Kloster"/> Kloster</ele>
-                        <ele><img url="village-icon.png" size="36" link="Kategorie:Ort"/> bewohnter Ort, Stadt</ele>
-                        <ele><img url="mountains-icon.png" size="36" link="Kategorie:Berg"/> Berg, Gebirge</ele>
-                        <ele><img url="wave-icon.png" size="36" link="Kategorie:Fluss"/> Fluss, Gewässer</ele>
-                        <ele><img url="Icon-region-41.png" size="36" link=""/> Region</ele>
-                    </diff>
-                </div>
-            </div>
-        </div>
-        
+        {{Template:HauptseiteKarte}}
         <div class="hauptseite-inhalte-columns">
             
             <div class="hauptseite-block border">

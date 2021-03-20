@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+    <meta>
+        <title>Callout</title>
+        <type>Template</type>
+        <id/>
+        <categories>
+            <category></category>
+        </categories>
+        <rules>
+            <rule/>
+        </rules>
+    </meta>
+    <text>
+        <wikisyntax><noinclude>
+            == Usage ==
+            <code><nowiki>{{</nowiki>Callout|Some text|''callout type''}}</code>
+
+            To add some text to the Callout template is mandatory. Specifying the callout type is optional though "warning" will be assumed if nothing was specified. Other types are: "success", "error" and "info".
+
+            {{Callout
+            |This template is a modern alternative to the [[mediawikiwiki:Template:Note|"Note" template]] and it can easily be reused on wikis which have Semantic MediaWiki installed.
+            |info
+            }}
+
+            == Examples ==
+
+            === Default ===
+            ; syntax
+            <code><nowiki>{{</nowiki>Callout|Example text.}}</code>
+            ; result
+            {{Callout|Example text.}}
+
+            === Warning ===
+            ; syntax
+            <code><nowiki>{{</nowiki>Callout|Example text.|warning}}</code>
+            ; result
+            {{Callout|Example text.|warning}}
+
+            === Info ===
+            ; syntax
+            <code><nowiki>{{</nowiki>Callout|Example text.|info}}</code>
+            ; result
+            {{Callout|Example text.|info}}
+
+            === Success ===
+            ; syntax
+            <code><nowiki>{{</nowiki>Callout|Example text.|success}}</code>
+            ; result
+            {{Callout|Example text.|success}}
+
+            === Error ===
+            ; syntax
+            <code><nowiki>{{</nowiki>Callout|Example text.|error}}</code>
+            ; result
+            {{Callout|Example text.|error}}
+
+            [[Category:Templates]]</noinclude><includeonly>{{#switch:
+            {{{2|info}}}
+            |warning=<div class="cceh-callout cceh-callout-warning" style="overflow: auto">{{{1}}}</div>
+            |success=<div class="cceh-callout cceh-callout-success" style="overflow: auto">{{{1}}}</div>
+            |error=<div class="cceh-callout cceh-callout-error" style="overflow: auto">{{{1}}}</div>
+            |info=<div class="cceh-callout cceh-callout-info" style="overflow: auto">{{{1}}}</div>
+            }}</includeonly>
+            <noinclude>
+                <templatedata>
+                    {
+                    "params": {
+                    "1": {
+                    "label": "Text",
+                    "type": "content",
+                    "required": true,
+                    "aliases": [
+                    "text"
+                    ]
+                    },
+                    "2": {
+                    "label": "Typ",
+                    "type": "string",
+                    "description": "Bestimmt die Hintergrundfarbe des Callouts. Mögliche Werte: warning, info, success, error.",
+                    "example": "warning",
+                    "default": "info",
+                    "suggested": true,
+                    "aliases": [
+                    "type"
+                    ]
+                    }
+                    },
+                    "paramOrder": [
+                    "1",
+                    "2"
+                    ],
+                    "format": "block"
+                    }
+                </templatedata>
+            </noinclude>
+        </wikisyntax>
+    </text>
+</page>

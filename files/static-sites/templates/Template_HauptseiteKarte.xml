@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><page>
+    <meta>
+        <title>HauptseiteKarte</title>
+        <type>Template</type>
+        <id/>
+        <categories>
+            <category></category>
+        </categories>
+        <rules>
+            <rule/>
+        </rules>
+    </meta>
+    <text><wikisyntax>
+        Karte aller erwähnten Orte und Abfassungsorte als Template, weil an mehr als einee Stelle benutzt.
+        <onlyinclude>
+            <div class="hauptseite-block border">
+                <h2>Positionen aller in den Berichten erwähnten Orte</h2>
+
+                <div class="hauptseite-geographie" >
+                    <div class="hauptseite-geographie-map" >
+                        {{#compound_query:
+                        [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=Icon-abfassungsort-41.png; limit=9999
+                        | [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Icon-kloster-41.png; limit=9999
+                        | [[Kategorie:Ort]]; ?getty_coordinates ; icon=Icon-ort-41.png; limit=9999
+                        | [[Kategorie:Berg]]; ?getty_coordinates ; icon=Icon-berg-41.png; limit=9999
+                        | [[Kategorie:Fluss]]; ?getty_coordinates ; icon=Icon-gewaesser-41.png; limit=9999
+                        | [[Kategorie:Region]]; ?getty_coordinates ; icon=Icon-region-41.png; limit=9999
+                        |cluster = yes
+                        |clustermaxradius=20
+                        |format=map
+                        |height=500px
+                        |layers=Esri.WorldShadedRelief
+                        |type=terrain
+                        }}
+                    </div>
+
+                    <div class="hauptseite-geograhpie-legende">
+                        <div class="hauptseite-geograhpie-legende">
+                            <diff>
+                                <head>Legende</head>
+                                <ele><img url="Icon-abfassungsort-41.png" size="36" link="Kategorie:Abfassungsort"/> Abfassungsort eines erfassten Werkes</ele>
+                                <ele><img url="Icon-kloster-41.png" size="36" link="Kategorie:Kloster"/> Kloster</ele>
+                                <ele><img url="Icon-ort-41.png" size="36" link="Kategorie:Ort"/> bewohnter Ort, Stadt</ele>
+                                <ele><img url="Icon-berg-41.png" size="36" link="Kategorie:Berg"/> Berg, Gebirge</ele>
+                                <ele><img url="Icon-gewaesser-41.png" size="36" link="Kategorie:Fluss"/> Gewässer</ele>
+                                <ele><img url="Icon-region-41.png" size="36" link=""/> Region</ele>
+                            </diff>
+                        </div>
+                    </div>
+
+                    <div class="hauptseite-geographie-attribution">
+                        Icons made by [https://www.freepik.com Freepik] from [https://www.flaticon.com www.flaticon.com]
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </onlyinclude>
+    </wikisyntax>
+    </text>
+</page>
