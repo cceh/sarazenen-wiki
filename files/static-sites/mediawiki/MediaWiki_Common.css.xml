@@ -13,7 +13,6 @@
             <format>text/css</format>
         </meta>
         <text><wikisyntax>
-
             /* Das folgende CSS wird für alle Benutzeroberflächen geladen. */
 
             /* Startseite */
@@ -180,6 +179,12 @@
             gap:1em;
             }
 
+            @media only screen and (max-width:1024px) {
+            .hauptseite-inhalte-columns {
+            grid-template-columns:1fr;
+            }
+            }
+
             /* Werk CSS + SVG */
 
             .float-right: {
@@ -314,7 +319,7 @@
             }
 
             .cceh-callout-success .title {
-            color: #3c763d;
+            color: #3c763d
             }
 
             .cceh-callout-error {
