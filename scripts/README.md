@@ -1,6 +1,6 @@
 # Skript Dokumentation
-
-## 0-fillMaster
+## Wiki Seiten Erstellung
+### 0-fillMaster
 Normdata anreicherung
 
 Anhand der gnd/getty Id werden 
@@ -8,7 +8,7 @@ Anhand der gnd/getty Id werden
 
  sparql befehl ausgeführt, um Normadaten zu erhalten
  
-## 1-Werkseiten.xsl
+### 01-Werkseiten.xsl
 Erstellung der Werkseiten
 * svg Erstellung
 * Timeline aufruf
@@ -17,28 +17,47 @@ Erstellung der Werkseiten
 * set einstellung
 * editionshinweis
 
-## 2-QuellenEinzelseiten.xsl
+### 02-QuellenEinzelseiten.xsl
 Extraktion der Quellenstellen innerhalb der Werke 
 * set einstellung
 * Template einbindung
 
 
-## 3-Kategorienseiten.xsl
+### 03-Kategorienseiten.xsl
 Erstellung dynamischer Kategorien innerhalb der masterfassung
 * Aufruf geographischer Kategorien
 
-## 4-Registerseiten
+### 04-Registerseiten.xsl
 Erstellung von entity/register Seiten.
 Verknüpfung der Alternativnamen innerhalb der Masterfassung mit den Registerelementen.
-Erkennung der nennung von Elementen in mehreren Kategorien
-* Personen
-* VerfasserIn
-* Geographie
-* Suchworte
-* Auffälligkeiten
+Erkennung der nennung von Elementen in mehreren Kategorien.
+* Erkennung der Verlinkungen
+* Generierung der Redirect Seiten zu den Hauptseiten
+* Erstellung der Register
+* * Personen
+* * VerfasserIn
+* * Geographie
+* * * Abfassungort
+* * * Gewässer
+* * * Kloster
+* * * Ort
+* * * Berg
+* * * Region
+* * Suchworte
+* * Auffälligkeiten
 
-## 06-static-files.xsl
+### 06-static-files.xsl
 Transformation der in files/static-files/* angelegten Dokumente von HTML/XML Syntax in valide Mediawikisyntax
 
 ## Splitting
-Zusammenführung aller in output angelegten Dateien in eine große XMl, von dort aufteillung in XXX Seitengroße XML inklusive ID vergabe
+Zusammenführung aller in output angelegten Dateien in eine große XMl, von dort aufteillung in 1000 Seiten große XML inklusive ID vergabe.
+Auf 1000 maximiert, da der automatische Import nur 1000 Wikiseiten pro Upload unterstützt
+
+### 101-merge.xsl
+Zusammenführung aller in output vorhanden XML Dateien zu einer allgemein gültigen Datei
+
+### 102-IDs.xsl 
+Vergabe von validen IDs für jede Wikiseite
+
+### 103-split.xsl
+Generierung mehrerer XML Dateien, jede XML enthält 1000 Wikiseiten
