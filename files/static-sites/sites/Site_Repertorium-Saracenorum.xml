@@ -23,12 +23,12 @@
                 <div class="hs-inhalte-item werke">
                     <div class="hs-inhalte-item-header">Werke</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Werke.png|100px|link=Kategorie:Werk]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: Werk|pages}} </wikisyntax>Werke und zugehörige Quellenstellen, die über Interaktion mit Sarazenen berichten, bilden das Herzstück des Wikis.</div>
+                    <div class="hs-inhalte-item-body">Werke und zugehörige Quellenstellen, die über Interaktion mit Sarazenen berichten, bilden das Herzstück des Wikis.</div>
                 </div>
                 <div class="hs-inhalte-item verfasserin">
                     <div class="hs-inhalte-item-header">VerfasserInnen</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:VerfasserIn.png|100px|link=Kategorie:VerfasserIn]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body"><wikisyntax>{{PAGESINCATEGORY: VerfasserIn|pages}} </wikisyntax>VerfasserInnen, denen die Autorenschaft zu denen ausgewerteten Werken zugeschrieben werden kann, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
+                    <div class="hs-inhalte-item-body">VerfasserInnen, denen die Autorenschaft zu denen ausgewerteten Werken zugeschrieben werden kann, sind im Wiki verzeichnet und wenn möglich mit Normdaten verknüpft.</div>
                 </div>
                 <div class="hs-inhalte-item personen">
                     <div class="hs-inhalte-item-header">Personen</div>
@@ -43,7 +43,7 @@
                 <div class="hs-inhalte-item abfassungsregionen">
                     <div class="hs-inhalte-item-header">Abfassungsregionen</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Abfassungsregion.png|100px|link=Kategorie:Abfassungsregion]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body">Die Werke wurden im Zuge der Erfassung<wikisyntax> {{PAGESINCATEGORY:Abfassungsregion}} </wikisyntax>verschiedenen Abfassungsregionen zugeordnet.</div>
+                    <div class="hs-inhalte-item-body">Werke wurden im Zuge der Erfassung verschiedenen Abfassungsregionen zugeordnet.</div>
                 </div>
                 <div class="hs-inhalte-item auffaelligkeiten">
                     <div class="hs-inhalte-item-header">Auffälligkeiten</div>
@@ -53,12 +53,12 @@
                 <div class="hs-inhalte-item schlagworte">
                     <div class="hs-inhalte-item-header">Schlagworte</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Schlagworte.png|100px|link=Kategorie:Schlagworte]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body">Schlagworte sind lateinischen wie deutschen Begriffe, die von den mittelalterlichen Verfasserinnen und Verfassern häufig in Berichten erwähnt werden.</div>
+                    <div class="hs-inhalte-item-body">Schlagworte sind lateinische wie deutsche Begriffe, die von den mittelalterlichen Verfasserinnen und Verfassern häufig in Berichten erwähnt werden.</div>
                 </div>
                 <div class="hs-inhalte-item datierungen">
                     <div class="hs-inhalte-item-header">Datierungen</div>
                     <div class="hs-inhalte-item-image"><wikisyntax>[[Datei:Datierung.png|100px|link=Datierung]]</wikisyntax></div>
-                    <div class="hs-inhalte-item-body">Zeitleisten zur<wikisyntax> [[Datierung]] </wikisyntax>der aufgenommenen Berichten und zu<wikisyntax> [[Abfassungszeitraum | Abfassungszeiträumen]] </wikisyntax>der erfassten Werke ermöglichen den Zugriff über die zeitliche Achse.</div>
+                    <div class="hs-inhalte-item-body">Zeitleisten zur<wikisyntax> [[Datierung]] </wikisyntax>der aufgenommenen Berichte und zu<wikisyntax> [[Abfassungszeitraum | Abfassungszeiträumen]] </wikisyntax>der erfassten Werke ermöglichen den Zugriff über die zeitliche Achse.</div>
                 </div>
             </div>
         </div>
