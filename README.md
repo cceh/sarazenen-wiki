@@ -27,6 +27,8 @@ Die linke Spalte defeniert welche Dokumente abgefragt werden sollen und verfeine
 
 ## Installation ##
 ### Mediawiki ###
+#### composer ####
+ausführen von composer
 #### LocalSettings.php ####
 Damit das Mediawiki wie gewüncht funktioniert muss die datei LocalSettings.php mit eingebunden werden. 
 
@@ -61,6 +63,9 @@ enableSemantics( 'saraceni.uni-koeln.de' );
 wfLoadExtension( 'CategoryTree' );
 
 ```
+
+#### Herunterzuladene Inhalte 
+
 https://www.mediawiki.org/wiki/Extension:Admin_Links
 https://www.mediawiki.org/wiki/Extension:CategorySortHeaders
 https://www.mediawiki.org/wiki/Extension:Data_Transfer

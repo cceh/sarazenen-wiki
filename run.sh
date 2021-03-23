@@ -4,7 +4,6 @@ saxon=`pwd`/SaxonHE9-9-0-2J/saxon9he.jar
 files=$source/files
 master=$files/sarazenen_masterfassung_v2-2.xml
 #master=$files/test2.xml
-negativ=$files/Negativquellen.xml
 
 scripts=$source/scripts
 output=$source/output/single
@@ -21,8 +20,8 @@ case "$nu" in
         echo "Filling"
         time java -jar $saxon -s:$master -xsl:$scripts/0-fillMaster.xsl -o:$files/sarazenen_masterfassung_filled.xml;
         master=$files/sarazenen_masterfassung_filled.xml
-        echo "Masterquellen"
-        time java -jar $saxon -s:$master -xsl:$scripts/01-WerkSeiten.xsl -o:$output/01-MasterQuellen.xml fid=300 sid=2;
+        echo "Werkseiten"
+        time java -jar $saxon -s:$master -xsl:$scripts/01-WerkSeiten.xsl -o:$output/01-Werkseiten.xml fid=300 sid=2;
         echo "Quellenseiten"
         time java -jar $saxon -s:$master -xsl:$scripts/02-QuellenEinzelseiten.xsl -o:$output/02-QuellenEinzelseiten.xml fid=1000 sid=2;
         echo "Kategorieseiten"
@@ -37,8 +36,8 @@ case "$nu" in
         ;;
     2) echo "Nur Transformation"
         master=$files/sarazenen_masterfassung_filled.xml
-        echo "Masterquellen"
-        time java -jar $saxon -s:$master -xsl:$scripts/01-WerkSeiten.xsl -o:$output/01-MasterQuellen.xml fid=300 sid=2;
+        echo "Werkseiten"
+        time java -jar $saxon -s:$master -xsl:$scripts/01-WerkSeiten.xsl -o:$output/01-Werkseiten.xml fid=300 sid=2;
         echo "Quellenseiten"
         time java -jar $saxon -s:$master -xsl:$scripts/02-QuellenEinzelseiten.xsl -o:$output/02-QuellenEinzelseiten.xml fid=1000 sid=2;
         echo "Kategorieseiten"
@@ -51,8 +50,8 @@ case "$nu" in
         ;;
     3) echo "Transformation mit Splitting"
         master=$files/sarazenen_masterfassung_filled.xml
-        echo "Masterquellen"
-        time java -jar $saxon -s:$master -xsl:$scripts/01-WerkSeiten.xsl -o:$output/01-MasterQuellen.xml fid=300 sid=2;
+        echo "Werkseiten"
+        time java -jar $saxon -s:$master -xsl:$scripts/01-WerkSeiten.xsl -o:$output/01-Werkseiten.xml fid=300 sid=2;
         echo "Quellenseiten"
         time java -jar $saxon -s:$master -xsl:$scripts/02-QuellenEinzelseiten.xsl -o:$output/02-QuellenEinzelseiten.xml fid=1000 sid=2;
         echo "Kategorieseiten"

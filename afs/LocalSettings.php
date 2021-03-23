@@ -61,7 +61,7 @@ $wgDBtype = "mysql";
 $wgDBserver = "mysql.rrz.uni-koeln.de";
 $wgDBname = "sarazenen-bonn";
 $wgDBuser = "cceh";
-$wgDBpassword = "zOrNgSwSdw"; #im Wiki verzeichnet
+$wgDBpassword = ""; #im Wiki verzeichnet
 
 # MySQL specific settings
 $wgDBprefix = "";

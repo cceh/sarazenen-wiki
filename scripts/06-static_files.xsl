@@ -96,7 +96,7 @@
 <xsl:template match="dl/dt">; <xsl:value-of select="."/></xsl:template>    
 <xsl:template match="dl/dd">
 : <xsl:apply-templates xml:space="default"/></xsl:template>
-<xsl:template match="wikisyntax" xml:space="default"><xsl:value-of select="."/></xsl:template>
+<xsl:template match="wikisyntax"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="header" xml:space="default"><xsl:variable name="level"><xsl:for-each select="(1 to ./@level)">=</xsl:for-each></xsl:variable><xsl:value-of select="string-join(($level,.,$level),' ')" xml:space="default"/></xsl:template>
     <xsl:template match="ul" xml:space="default">
 <xsl:for-each select="./li">
