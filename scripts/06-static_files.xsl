@@ -92,9 +92,9 @@
 <xsl:apply-templates xml:space="default"/>
 &lt;/<xsl:value-of select="name()"/>&gt;
 </xsl:template>
-<xsl:template match="diff"><xsl:apply-templates/></xsl:template>
-<xsl:template match="diff/head">; <xsl:value-of select="."/></xsl:template>    
-<xsl:template match="diff/ele">
+<xsl:template match="dl"><xsl:apply-templates/></xsl:template>
+<xsl:template match="dl/dt">; <xsl:value-of select="."/></xsl:template>    
+<xsl:template match="dl/dd">
 : <xsl:apply-templates xml:space="default"/></xsl:template>
 <xsl:template match="wikisyntax" xml:space="default"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="header" xml:space="default"><xsl:variable name="level"><xsl:for-each select="(1 to ./@level)">=</xsl:for-each></xsl:variable><xsl:value-of select="string-join(($level,.,$level),' ')" xml:space="default"/></xsl:template>
@@ -111,7 +111,7 @@
     <xsl:template match="tab" xml:space="default">; <xsl:apply-templates xml:space="default"/></xsl:template>
     <xsl:template match="hasPropertyDiscreption" xml:space="default">[[Has property description::<xsl:value-of select="normalize-space(.)"/>@de]]</xsl:template>
     <xsl:template match="text()" xml:space="default"><xsl:value-of select="normalize-space(.)"/></xsl:template>
-    <xsl:template match="category"><xsl:if test=". !=''"><xsl:choose><xsl:when test=". = 'Template'">&lt;noinclude&gt;Template&lt;/noinclude&gt;</xsl:when><xsl:otherwise>[[Kategorie:<xsl:value-of select="."/>]]</xsl:otherwise></xsl:choose></xsl:if></xsl:template>
+    <xsl:template match="category"><xsl:if test=". !=''"><xsl:choose><xsl:when test=". = 'Template'">&lt;noinclude&gt;[[Kategorie:Template]]&lt;/noinclude&gt;</xsl:when><xsl:otherwise>[[Kategorie:<xsl:value-of select="."/>]]</xsl:otherwise></xsl:choose></xsl:if></xsl:template>
     <xsl:template match="rule"><xsl:if test=". !=''">__<xsl:value-of select="."/>__</xsl:if></xsl:template>
     <xsl:template match="wikitype"><xsl:if test=". !=''">[[Has type::<xsl:value-of select="."/>]]</xsl:if></xsl:template>
     <xsl:template match="img[not(@link)]">[[Datei:<xsl:value-of select="./@url"/>|<xsl:value-of select="./@size"/>px]]</xsl:template>

@@ -11,7 +11,7 @@
             <rule/>
         </rules>
     </meta>
-    <text><header level="3">Schlagworte</header>
+    <text><h3>Schlagworte</h3>
             <p>Übersicht über die Verwendung von "<wikisyntax>{{{value}}}</wikisyntax>" als Schlagwort:</p>
             <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]

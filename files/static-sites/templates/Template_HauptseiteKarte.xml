@@ -36,15 +36,15 @@
 
                     <div class="hauptseite-geograhpie-legende">
                         <div class="hauptseite-geograhpie-legende">
-                            <diff>
-                                <head>Legende</head>
-                                <ele><img url="Icon-abfassungsort-41.png" size="36" link="Kategorie:Abfassungsort"/> Abfassungsort eines erfassten Werkes</ele>
-                                <ele><img url="Icon-kloster-41.png" size="36" link="Kategorie:Kloster"/> Kloster</ele>
-                                <ele><img url="Icon-ort-41.png" size="36" link="Kategorie:Ort"/> bewohnter Ort, Stadt</ele>
-                                <ele><img url="Icon-berg-41.png" size="36" link="Kategorie:Berg"/> Berg, Gebirge</ele>
-                                <ele><img url="Icon-gewaesser-41.png" size="36" link="Kategorie:Gewässer"/> Gewässer</ele>
-                                <ele><img url="Icon-region-41.png" size="36" link="Kategorie:Region"/> Region</ele>
-                            </diff>
+                            <dl>
+                                <dt>Legende</dt>
+                                <dd><img url="Icon-abfassungsort-41.png" size="36" link="Kategorie:Abfassungsort"/> Abfassungsort eines erfassten Werkes</dd>
+                                <dd><img url="Icon-kloster-41.png" size="36" link="Kategorie:Kloster"/> Kloster</dd>
+                                <dd><img url="Icon-ort-41.png" size="36" link="Kategorie:Ort"/> bewohnter Ort, Stadt</dd>
+                                <dd><img url="Icon-berg-41.png" size="36" link="Kategorie:Berg"/> Berg, Gebirge</dd>
+                                <dd><img url="Icon-gewaesser-41.png" size="36" link="Kategorie:Gewässer"/> Gewässer</dd>
+                                <dd><img url="Icon-region-41.png" size="36" link="Kategorie:Region"/> Region</dd>
+                            </dl>
                         </div>
                     </div>
 

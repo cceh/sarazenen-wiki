@@ -11,7 +11,7 @@
             <rule/>
         </rules>
     </meta>
-    <text><header level="3">Werke des Verfassers</header>
+    <text><h3>Werke des Verfassers</h3>
             <wikisyntax>{{#ask: 
             [[Kategorie:Werk]]
             [[abgefasst von::{{{value}}}]]                    

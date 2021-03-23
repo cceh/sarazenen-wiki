@@ -14,11 +14,6 @@
     <text>
         <noinclude>[[Category:Templates]]</noinclude>
         <wikisyntax>{{#compound_query:
-        <!--[[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Ort-icon.png
-        | [[Kategorie:Abfassungsort]] [[-abgefasst in.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Abfassungsort-icon.png
-        | [[Kategorie:Kloster]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Kloster-icon.png
-        | | [[Kategorie:Fluss]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]];  ?getty_coordinates ; icon=Fluss-icon.png
-        | | [[Kategorie:Berg]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Berg-icon.png-->
             [[Kategorie:Abfassungsort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
             | [[Kategorie:Kloster]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Kloster-icon.png; limit=9999
             | [[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=village-icon.png; limit=9999
@@ -41,4 +36,10 @@
         |type=terrain
         }}
     </wikisyntax></text>        
+    
+    <!--[[Kategorie:Ort]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Ort-icon.png
+        | [[Kategorie:Abfassungsort]] [[-abgefasst in.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Abfassungsort-icon.png
+        | [[Kategorie:Kloster]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Kloster-icon.png
+        | | [[Kategorie:Fluss]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]];  ?getty_coordinates ; icon=Fluss-icon.png
+        | | [[Kategorie:Berg]] [[-geographischer Bezug.aus dem Werk::{{{Name}}}]]; ?getty_coordinates ; icon=Berg-icon.png-->
 </page>

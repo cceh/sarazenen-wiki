@@ -11,7 +11,7 @@
             <rule/>
         </rules>
     </meta>
-    <text><header level="3">Personennennung <wikisyntax>{{{value}}}</wikisyntax></header>
+    <text><h3>Personennennung <wikisyntax>{{{value}}}</wikisyntax></h3>
             <p>Übersicht über die Nennung von "<wikisyntax>{{{value}}}</wikisyntax>" im Repertorium Saracenorum:</p>
             <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]

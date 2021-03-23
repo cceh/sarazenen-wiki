@@ -11,7 +11,7 @@
             <rule/>
         </rules>
     </meta>
-    <text><header level="3">Abfassungsortnennung</header>
+    <text><h3>Abfassungsortnennung</h3>
             <p>In <wikisyntax>{{{value}}}</wikisyntax> sind folgende ins Repterorium Saracenorum aufgenommenen Werke verfasst worden</p>
             <wikisyntax>{{#ask: 
             [[Kategorie:Werk]]

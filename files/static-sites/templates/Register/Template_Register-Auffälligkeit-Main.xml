@@ -11,7 +11,7 @@
             <rule/>
         </rules>
     </meta>
-    <text><header level="3">Auffälligkeit</header>
+    <text><h3>Auffälligkeit</h3>
             <p>Auflistung aller mit der Auffälligkeit "<wikisyntax>{{{value}}}</wikisyntax>" annotierten Quellenstellen</p>
             <wikisyntax>{{#ask: 
             [[Kategorie:Quelle]]

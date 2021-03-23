@@ -74,9 +74,9 @@ wird zu
   ``` * LISTENELEMENT ```
 ### definitions Listen ;
  ```xml 
- <diff>
-<head>HEADER</head>
-<ele>ELEMENT</ele>
+ <dl>
+<dt>HEADER</dt>
+<dd>ELEMENT</dd>
 </diff>
   ```
 wird zu  

@@ -9,9 +9,92 @@
         <rules>
             <rule/>
         </rules>
-    </meta>
+    </meta>    
     <text>
-        <wikisyntax><noinclude>
+        <wikisyntax>&lt;noinclude&gt;
+        == Usage ==
+        &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;Callout|Some text|''callout type''}}&lt;/code&gt;
+        
+        To add some text to the Callout template is mandatory. Specifying the callout type is optional though &quot;warning&quot; will be assumed if nothing was specified. Other types are: &quot;success&quot;, &quot;error&quot; and &quot;info&quot;.
+        
+        {{Callout
+        |This template is a modern alternative to the [[mediawikiwiki:Template:Note|&quot;Note&quot; template]] and it can easily be reused on wikis which have Semantic MediaWiki installed.
+        |info
+        }}
+        
+        == Examples ==
+        
+        === Default ===
+        ; syntax
+        &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;Callout|Example text.}}&lt;/code&gt;
+        ; result
+        {{Callout|Example text.}}
+        
+        === Warning ===
+        ; syntax
+        &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;Callout|Example text.|warning}}&lt;/code&gt;
+        ; result
+        {{Callout|Example text.|warning}}
+        
+        === Info ===
+        ; syntax
+        &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;Callout|Example text.|info}}&lt;/code&gt;
+        ; result
+        {{Callout|Example text.|info}}
+        
+        === Success ===
+        ; syntax
+        &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;Callout|Example text.|success}}&lt;/code&gt;
+        ; result
+        {{Callout|Example text.|success}}
+        
+        === Error ===
+        ; syntax
+        &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;Callout|Example text.|error}}&lt;/code&gt;
+        ; result
+        {{Callout|Example text.|error}}
+        
+        [[Category:Templates]]&lt;/noinclude&gt;&lt;includeonly&gt;{{#switch:
+        {{{2|info}}}
+        |warning=&lt;div class=&quot;cceh-callout cceh-callout-warning&quot; style=&quot;overflow: auto&quot;&gt;{{{1}}}&lt;/div&gt;
+        |success=&lt;div class=&quot;cceh-callout cceh-callout-success&quot; style=&quot;overflow: auto&quot;&gt;{{{1}}}&lt;/div&gt;
+        |error=&lt;div class=&quot;cceh-callout cceh-callout-error&quot; style=&quot;overflow: auto&quot;&gt;{{{1}}}&lt;/div&gt;
+        |info=&lt;div class=&quot;cceh-callout cceh-callout-info&quot; style=&quot;overflow: auto&quot;&gt;{{{1}}}&lt;/div&gt;
+        }}&lt;/includeonly&gt;
+        &lt;noinclude&gt;
+        &lt;templatedata&gt;
+        {
+        &quot;params&quot;: {
+        &quot;1&quot;: {
+        &quot;label&quot;: &quot;Text&quot;,
+        &quot;type&quot;: &quot;content&quot;,
+        &quot;required&quot;: true,
+        &quot;aliases&quot;: [
+        &quot;text&quot;
+        ]
+        },
+        &quot;2&quot;: {
+        &quot;label&quot;: &quot;Typ&quot;,
+        &quot;type&quot;: &quot;string&quot;,
+        &quot;description&quot;: &quot;Bestimmt die Hintergrundfarbe des Callouts. Mögliche Werte: warning, info, success, error.&quot;,
+        &quot;example&quot;: &quot;warning&quot;,
+        &quot;default&quot;: &quot;info&quot;,
+        &quot;suggested&quot;: true,
+        &quot;aliases&quot;: [
+        &quot;type&quot;
+        ]
+        }
+        },
+        &quot;paramOrder&quot;: [
+        &quot;1&quot;,
+        &quot;2&quot;
+        ],
+        &quot;format&quot;: &quot;block&quot;
+        }
+        &lt;/templatedata&gt;
+        &lt;/noinclude&gt;</wikisyntax>
+    </text>
+    <!--<wikisyntax><noinclude>
             == Usage ==
             <code><nowiki>{{</nowiki>Callout|Some text|''callout type''}}</code>
 
@@ -93,6 +176,5 @@
                     }
                 </templatedata>
             </noinclude>
-        </wikisyntax>
-    </text>
+        </wikisyntax>-->
 </page>
