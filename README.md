@@ -1,8 +1,41 @@
 # Sarazenen Wiki #
 ## Inhalt ##
-
+[[_TOC_]]
 ## Einleitung ##
 Das Repertorium Saracenorum bietet eine Sammlung von mittelalterlichen Berichten über Saraceni, Agareni, Mauri…. Jeder thematisch relevante Bericht ist als Quellenstelle auf einer eigenen Seite aufgenommen, diese wiederum einem Werk und sofern möglich einer Verfasserin bzw. einem Verfasser zugeordnet worden. Mit Hilfe von Kategorien und Attributen wurden sowohl die Werkseiten als auch die Quellenstellenseiten verschlagwortet. 
+
+
+## Strukutur ##
+### Ordner
+1. AFS
+   -   beinhaltet alle nötigen files die auf den AFS hochgeladen werden müssen
+1. datenmodell
+1. files
+    - beinhaltet die sarazenenmasterfassung.xml, die entsprechende dtd und alle static-sites
+1. import
+    - xml transfomrations dokumentation
+1. output
+    - generierter Output der scripts
+1. scripts
+    - beinhaltet alle xsl scripts zur transformierung
+1. transformation
+    - generelle einmalige transformations skripte
+
+### Shell Skripts
+
+___run.sh___ 
+
+Haupt Shell Skript, welches die referenzierung zur masterfassung.xml enhthält und zu den xsl skripten. Ruft je nach Eingabe auch splitting.sh auf
+
+___splitting.sh___
+Skript zur generierung der in output generierten Dateien
+
+
+
+
+
+    
+
 
 ## Semantische Suche ##
 [Semantische Suche Link](http://saraceni.uni-koeln.de/wiki/index.php?title=Spezial:Semantische_Suche)
@@ -104,34 +137,16 @@ Normal rights:
   webpro0 rlidwka
   w-saraze rlidwk
 ```
-#### Export ####
-```
-Repertorium Saracenorum
-Kategorie:Werk
-Kategorie:Auffälligkeit
-Kategorie:Suchbegriffe
-Kategorie:VerfasserIn
-Kategorie:Person
-Kategorie:Geographie
-Kategorie:Repertorium_Saracenorum
-Kategorie:Abfassungsregion
-Datierung
-MediaWiki:Sidebar
-Vorlage:WikiProject Transwiki/Template:Infobox
-MediaWiki:Common.css
-Vorlage:LocationMap
-Vorlage:Ort
-Vorlage:Person
-Vorlage:Description
-Vorlage:Verfasserin
-Vorlage:Werk
-Template:WerkKarte
-Template:Timeframe
-```
-DELETE FROM page;
+
 
 #### Import ####
+Der Import ist in mehreren Schritten unterteilt
+##### 1 SQL Bereinigen #####
+Unter https://dbadmin.rrz.uni-koeln.de/index.php?db=sarazenen-bonn&target=db_sql.php 
+mit dem Befehl > DELETE FROM page; 
+alle vorhanden sql Einträge löschen
+##### 2 Neue Dateien hochladen #####
 Die Dateien in ```output/split``` nach ```/afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/files``` hochladen und mit ```php maintenance/importDump.php ../files/1.xml```  das script ausführen 
-  In ```/afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/wiki``` den Befehl ```sh update.sh``` ausführen
-  You might want to run rebuildrecentchanges.php to regenerate RecentChanges,
-  and initSiteStats.php to update page and revision counts
+##### 3 Update.sh ausführen
+In ```/afs/.rrz.uni-koeln.de/vol/www/projekt/sarazenen/http/docs/wiki``` den Befehl ```sh update.sh``` ausführen
+

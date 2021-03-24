@@ -1,4 +1,5 @@
 # Skript Dokumentation
+[[_TOC_]]
 ## Wiki Seiten Erstellung
 ### 0-fillMaster
 Normdata anreicherung
@@ -14,7 +15,8 @@ Erstellung der Werkseiten
 * Timeline aufruf
 * Template einbindung
 * Referenzierung
-* set einstellung
+* * Attribut vergabe
+* * 
 * editionshinweis
 
 ### 02-QuellenEinzelseiten.xsl
@@ -43,7 +45,7 @@ Erkennung der nennung von Elementen in mehreren Kategorien.
 * * * Ort
 * * * Berg
 * * * Region
-* * Suchworte
+* * Schlagworte
 * * Auffälligkeiten
 
 ### 06-static-files.xsl
@@ -56,8 +58,5 @@ Auf 1000 maximiert, da der automatische Import nur 1000 Wikiseiten pro Upload un
 ### 101-merge.xsl
 Zusammenführung aller in output vorhanden XML Dateien zu einer allgemein gültigen Datei
 
-### 102-IDs.xsl 
-Vergabe von validen IDs für jede Wikiseite
-
-### 103-split.xsl
-Generierung mehrerer XML Dateien, jede XML enthält 1000 Wikiseiten
+### 102-split.xsl
+Generierung mehrerer XML Dateien, jede XML enthält 1000 Wikiseiten. Verggibt IDs

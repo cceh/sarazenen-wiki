@@ -1,5 +1,5 @@
 # XML zu Mediawikisyntax
-
+[[_TOC_]]
 ## meta Elemente
 Meta Elemente die statische Seite auszeichnen
 ```xml
