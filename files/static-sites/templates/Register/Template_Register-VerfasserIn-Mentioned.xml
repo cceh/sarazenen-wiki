@@ -11,7 +11,7 @@
             <rule/>
         </rules>
     </meta>
-    <text><h3>Werke des Verfassers {{{value}}}</h3>
+    <text><h3>Werke des/der VerfasserIn "<wikisyntax>{{{value}}}</wikisyntax>"</h3>
             <wikisyntax>{{#ask: 
             [[Kategorie:Werk]]
             [[abgefasst von::{{{value}}}]]                    
@@ -19,7 +19,7 @@
             |?Berichtszeitraum#
             |?abgefasst in
             |format=table
-            |mainlabel=Werke des Verfassers {{{value}}}
+            |mainlabel=Werke des/der VerfasserIn {{{value}}}
             }}</wikisyntax>
     </text>
 </page>

@@ -232,10 +232,10 @@
                 <xsl:variable name="name" select="./main"/>
                 <xsl:variable name="output" xml:space="default">
                     <xsl:for-each select="(mentioned, ./meta/Typ)" xml:space="default">
+                        <xsl:sort order="ascending"/>
                         <xsl:if test="not(exists(./attribute()))">
                             <xsl:choose xml:space="default">
-                                <xsl:when test=". eq 'VerfasserIn'">{{Template:Register-VerfasserIn-Main|value=<xsl:value-of select="$name"/>}}
-                                </xsl:when>
+                                <xsl:when test=". eq 'VerfasserIn'">{{Template:Register-VerfasserIn-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
                                 <xsl:when test=". eq 'Person'">{{Template:Register-Person-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
                                 <xsl:when test=". eq 'Geographica'">{{Template:Register-Ortsnennungen-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
                                 <xsl:when test=". eq 'Abfassungsort'">{{Template:Register-Abfassungsortnennung-Main|value=<xsl:value-of select="$name"/>}}</xsl:when>
@@ -245,6 +245,7 @@
                         </xsl:if>
                     </xsl:for-each>                    
                     <xsl:for-each select="mentioned" xml:space="default">
+                        <xsl:sort order="ascending"/>
                         <xsl:if test="exists(./attribute())">
                             <xsl:choose xml:space="default">
                                 <xsl:when test="./@second eq 'VerfasserIn'">{{Template:Register-VerfasserIn-Mentioned|value=<xsl:value-of select="."/>}}</xsl:when>
@@ -298,7 +299,9 @@
 |Lebensdaten={{#show:{{FULLPAGENAME}}|?Lebensdaten|link=none}}
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
-|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|getty_coordinates={{#ask: [[-abgefasst in.abgefasst von::{{FULLPAGENAME}}]] |?getty_coordinates |link=none }} }}
+}}
 </xsl:when>                     
 </xsl:choose></xsl:for-each></xsl:variable>
 <xsl:value-of select="$typs" xml:space="default"/><xsl:if test="./meta/editorial_notes/notes/note">

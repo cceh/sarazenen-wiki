@@ -10,12 +10,11 @@
             <rule/>
         </rules>
     </meta>
-    <text><wikisyntax>
+    <text>
         Karte aller erwähnten Orte und Abfassungsorte als Template, weil an mehr als einee Stelle benutzt.
         <onlyinclude>
             <div class="hauptseite-block border">
                 <h2>Positionen aller in den Berichten erwähnten Orte</h2>
-
                 <div class="hauptseite-geographie" >
                     <div class="hauptseite-geographie-map" >
                         {{#compound_query:
@@ -33,7 +32,6 @@
                         |type=terrain
                         }}
                     </div>
-
                     <div class="hauptseite-geograhpie-legende">
                         <div class="hauptseite-geograhpie-legende">
                             <dl>
@@ -47,14 +45,9 @@
                             </dl>
                         </div>
                     </div>
-
-                    <div class="hauptseite-geographie-attribution">
-                        Icons made by [https://www.freepik.com Freepik] from [https://www.flaticon.com www.flaticon.com]
-                    </div>
-
+                    <div class="hauptseite-geographie-attribution">Icons made by [https://www.freepik.com Freepik] from [https://www.flaticon.com www.flaticon.com]</div>
                 </div>
             </div>
     </onlyinclude>
-    </wikisyntax>
     </text>
 </page>

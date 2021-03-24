@@ -42,6 +42,8 @@
                     {{!}}-
                     {{!}} Wikidata
                     {{!}} [https://www.wikidata.org/wiki/{{{wikidata_id}}} {{{wikidata_id}}}] }}
+                    {{!}}-
+                    !colspan="2px" class="map" {{!}} {{Template:LocationMap |class=Abfassungsort |icon=Abfassungsort |Koordinaten={{{getty_coordinates}}} }} 
                     |}&lt;/div&gt;&lt;/onlyinclude&gt;
         </wikisyntax>
         </text>
