@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <meta>
+        <title>Projekt- und Datengenese</title>
+        <type>Site</type>
+        <id/>
+        <categories>
+            <category>Dokumentation</category>
+        </categories>
+        <rules>
+            <rule></rule>
+        </rules>
+    </meta>
+    <text><h2>Projekt- und Datengenese</h2>
+        <div><p>Im Repertorium Saracenorum werden Berichte zu sog. Sarazenen aus dem Zeitraum des 7. bis 11. Jahrhunderts in aufbereiteter Form aufgenommen, um den Zugang zu ihnen zu erleichtern und weiterführende Forschungen zu gestatten. Um die erhobenen Daten informationstechnologisch auswerten zu können, wurden die Berichte ausgezeichnet und kategorisiert, alle genannten Personen und Orte erfasst. 
+        </p>
+            <p>Es handelt sich dabei im Einzelnen um Daten, die im Zuge der Bearbeitung des von 2013-2017 von der DFG geförderten Projektes „Saraceni, Agareni, Mauri, … in lateinisch-christlichen Quellen des 7. bis 11. Jahrhunderts“ unter Leitung von Matthias Becher an der Abteilung für Mittelalterliche Geschichte erfasst und in Zusammenarbeit mit dem Cologne Center for eHumanities (CCeH) für die Veröffentlichung in einem digitalen Content-Management-System aufbereitet und transformiert wurden.
+            </p>
+            <p>Ausgewählt wurde mit Semantic MediaWiki ein open-source-Format, auf das mittels eines Webbrowsers zugegriffen werden kann, das offen und erweiterbar ist und kollaboratives Arbeiten zulässt, und das über seine durch Wikipedia bekannte Oberfläche benutzerfreundlich ist. Als Erweiterung (''extension'') von MediaWiki bietet Semantic MediaWiki außerdem die Möglichkeit die Texte mit semantischen Annotationen zu versehen, so dass die Daten mit Hilfe des Systems verknüpft, durchsuchbar und analysierbar gemacht werden. Ganz bewusst wurde für das Projekt nicht die Entwicklung neuer technischer Lösungen angestrebt, die weitergehende Ressourcen erfordert und zugleich den Aufwand für die zukünftige Betreuung und Pflege erhöht hätten. Stattdessen wird mit Semantic MediaWiki eine Lösung nachgenutzt, die einerseits durch ihre einfache Technologie dauerhaft vorgehalten werden kann, die aber andererseits als Teil der aktuellen ‚Semantic Web‘-Entwicklungen auf die Bedürfnisse auch komplexer geisteswissenschaftlicher Vorhaben ausgerichtet ist. 
+            </p>
+            <h3>Datengrundlage</h3>
+            <p>Grundlage für die Generierung der Daten waren zum einen sog. Suchbegriffen, die Hinweise auf die Relevanz eines Werkes bzw. eines darin überlieferten Berichts geben sollten und von den Bearbeiter*innen aktiv genutzt wurden, um Werke zu durchsuchen. Zu diesen Suchbegriffen zählten Namen von Gruppen, Personen und Orten, wie etwa ''Saraceni'' oder ''Agareni'', aber auch ''Abd ar-Rahman'' oder ''Jerusalem''. Berücksichtigt wurden dabei auch Schreibvarianten im Lateinischen und deutsche Übersetzungen. Zum zweiten wurde vorab eine Liste von Werke erstellt, die für die Bearbeitung im Projekt in Frage kamen: Grundlage hierfür bildete das gedruckte, mehrbändige Repertorium „Fontium Historiae Medii Aevi“, ein umfassendes bibliographisches Nachschlagewerk mittelalterlicher Quellen gedruckt vom Istituto Storico Italiano per il Medio Evo in Rom, und das online-Repertorium „Geschichtsquellen des deutschen Mittelalters“ <wikisyntax>[https://geschichtsquellen.badw.de/das-projekt.html]</wikisyntax> der Bayerischen Akademie der Wissenschaften, das wiederum auf dem erstgenannten Repertorium aufbaut. Die Liste umfasste so rund 3000 Werke <wikisyntax>[LINK ERGÄNZEN]</wikisyntax>, die im Untersuchungszeitraum abgefasst wurden. Aus diesen wurden Werke für die Bearbeitung ausgewählt, für die eine hohe Relevanz zu erwarten war. 
+            </p>
+            <h3>Datenstrukturierung</h3>
+            <p>In Zuge der Aufnahme in das Repertorium Saracenorum wurde jedem Werk eine Nummerierung gegeben, alle aufgenommene Berichte wurden ebenfalls chronologisch durchnummeriert, so dass sich für die interne Verwaltung eine eindeutige Zuweisung der Berichte anhand zweier vierstelliger Nummern ergibt, so etwa ‚0001‘ für das ‚Chronicon sive Gesta Saxonum‘ <wikisyntax>[http://saraceni.uni-koeln.de/wiki/Chronicon_sive_Gesta_Saxonum]</wikisyntax>, ‚0001-0001‘ für den ersten Bericht über sog. Sarazenen im ‚Chronicon sive Gesta Saxonum‘ <wikisyntax>[http://saraceni.uni-koeln.de/wiki/Chronicon_sive_Gesta_Saxonum_0001]</wikisyntax>.
+            </p>
+            <p>Anhand einer Vielzahl von relevanten Berichten wurde dann die Datenstrukturierung angelegt, getestet und angepasst. Im Rahmen der Projektarbeiten wurden insgesamt rund 140 Werke durchsucht und für knapp 70 von ihnen in sehr unterschiedlichem Umfang Berichte (hier zur eindeutigen Abgrenzung gegenüber den ‘Werken’ als ‘Quellenstellen’ bezeichnet) zunächst in einheitlich formatierten Word-Dokumenten aufgenommen.
+            </p>
+            <p>Neben der Aufnahme der originalsprachlichen und übersetzten Textpassagen erfolgte innerhalb dieser Dokumente durch die Bearbeiter*innen eine Einordnung des Berichteten in zeitlicher (Datierung), geographischer (Geographischer Bezug) sowie inhaltlicher und thematischer Hinsicht (Auffälligkeiten, Interaktion). Darüber hinaus wurden die aufgenommenen Berichte durch weiterführende Informationen angereichert und mit ähnlichen Berichten verknüpft (Anmerkungen). 
+                </p>
+            <h3>Datentransformation</h3>
+                <p>In einem Folgeschritt wurde dann in Zusammenarbeit mit dem CCeH die Transformation der generierten Daten in das SemanticMediaWiki in Angriff genommen: Hierbei mussten zum einen die Daten für die Transformation aufbereitet werden, zum zweiten die Struktur des Wikis in Anlehnung an die in Word vorstrukturierten Daten aufgebaut werden. 
+                </p>
+                <p>Zu diesem Zweck wurden die Word-Dokumente zunächst in eine XML-Struktur überführt. Im Rahmen eines Hauptseminars von Øyvind Eide (Historisch-Kulturwissenschaftlichen Informationsverarbeitung der Universität zu Köln, WS 2016/17; Titel: Experimentelle historische Informationssysteme: Testbedingungen und Aufbau digitaler mittelalterlicher Quellensammlungen) und Katharina Gahbler (Projektmitarbeiterin, Universität Bonn), in dem die Daten als praxisnahes Beispiel eingebracht wurden, entstanden ein Personen- und Ortsregister, die weiter genutzt werden konnten und im weiteren Verlauf des Projekts mittels Entitäten und IDs mit den Daten verknüpft wurden. In einem späteren Arbeitsschritt wurden aus den im XML-Format vorliegenden Gesamtdaten auch ein VerfasserInnen-Register erstellt.
+                </p>
+                <h3>Datenanreicherung</h3>
+                <p>Schließlich erfolgte die Anreicherung der XML-Datei durch externe Daten. In einem manuellen bzw. halbautomatisierten Verfahren wurden hierzu die Einträge im Ortsregister mit parallelen Einträgen von Getty Thesaurus of Geographic Names Online (TGN), die Einträge im Personen- und VerfasserInnen-Register mit der Gemeinsamen Normdatei der Deutschen Nationalbibliothek (GND) abgeglichen und die Datensätze mittels Übertrag der in den jeweiligen Normdatenbanken verwendeten IDs verknüpft. Bei diesem Prozess der "Enitity Reconciliation" kam die Software OpenRefine <wikisyntax>[https://openrefine.org/]</wikisyntax> im Zusammenspiel mit der lobid-gnd-Schnittstelle <wikisyntax>[https://lobid.org/]</wikisyntax> des Hochschulbibliothekszentrums des Landes NRW  zum Einsatz. Auf gleiche Weise wurde eine Verknüpfung der im Wiki aufgenommenen Werke mit Einträgen in der GND hergestellt. Anschließend wurden die Datensätze im Wiki in einem zum Teil vollautomatisierten Verfahren um Verknüpfungen zu parallelen Eintragungen im Virtual International Authority File (VIAF®) und bei Wikidata ergänzt.
+                </p>
+                <h3>Aufbau der Wiki-Struktur</h3>
+                <p>Die Strukturierung der Daten im SemanticMediaWiki wird zunächst durch die Gliederung in Werkseiten und daran geknüpfte Quellenstellenseiten für jeden einzelnen Bericht erreicht. Anhand von Probeseiten wurden anschließend der Aufbau aller Seiten vorangetrieben: Welche Informationen müssen in den Infoboxen angezeigt werden? An welchen Stellen helfen Karten, die Informationen besser einzuordnen? Welche Abfragen bieten sich auf den Kategorien-Seiten an, um den Benutzer*innen den Einstieg in die Quellensammlung zu erleichtern und bereits erste Auswertungsoptionen anzuzeigen? 
+                </p>
+                <p>Alle erfassten Informationen zu Verfasser*innen, Berichts- und Abfassungszeiten, Abfassungsorten, sowie weitere die Berichte inhaltlich strukturierende Daten wurden mittels der Kategorie- und Attributsfunktion von Semantic MediaWiki strukturiert und für die Auswertung vorbereitet. Diese werden anhand von Abfragen nun als eigene Übersichtsseiten angezeigt (so etwa Ortsnennungen, Auffälligkeiten).
+                </p>
+                <p>Jede Visualisierung und Abfrage, die im Repertorium Saracenorum zu illustrativen Zwecken erfolgt und einen besseren Zugriff ermöglichen soll, darf daher nur mit der entsprechenden Vorsicht ausgewertet werden. Rückschlüsse, die auf Grundlage der vorliegenden Daten gezogen werden, sind ggf. nicht für den gesamten Untersuchungszeitraum aussagekräftig, weil die Datengrundlage nicht ausreichend repräsentativ bzw. präzise ist. Mit zunehmender Datenerhebung werden die getätigten Abfragen und Visualisierung präziser.</p>
+                    <h2>Editorische Anmerkungen</h2>
+                    <p>Technisch betrachtet wurden die bestehenden Projektdaten, die wie gesagt hauptsächlich in strukturierten Textdokumenten vorlagen, mittels einer XML-Masterfassung in das relationale Datenbanksystem überführt, das MediaWiki zugrunde liegt. Dabei wurden alle Strukturen des bisher implizit gegebenen Modells bewahrt und publikationsseitig als Seitengliederung, Infoboxen, Kategorien- und Attributsystem ausgeformt. Die Besonderheit des Semantic MediaWikis liegt dabei in der Modellierung expliziter semantischer Aussagen. Während im Laufe des Projektes die Forschungsdaten zunächst separat erhoben und erst anschließend in die Wiki-Struktur integriert wurden, kann die künftige Erweiterung des Repertoriums Saracenorum durch weitere Werke und Quellenstellen ab seiner  Freischaltung direkt online erfolgen. Die Editierung und Visualisierung der Daten erfolgt so mit Beginn der Datengenerierung.</p>
+                    <p>Mit der Speicherung der Projektergebnisse in einem gängigen Datenbanksystem mit einfacher Benutzer*innen-Oberfläche ist eine dauerhafte Publikation als bearbeitbares und lesbares, zugleich hypertextuelles Repertorium gegeben, das zudem durch Verknüpfungen mit externen Informationsquellen angereichert worden ist. Für systematische analytische Nutzungsszenarien stellt das MediaWiki-System Schnittstellen zur Abfrage und zur Extraktion von Informationen bereit. Schließlich ist auch die Bereitstellung der Informationen in TEI-XML geplant, sodass die reinen Forschungsdaten konvergent zum vorherrschenden Standard in den digitalen Geisteswissenschaften vorliegen werden und damit auch unabhängig vom Publikationssystem zu nutzen sind.
+                    </p></div>
+    <h2>Dokumentation der Ausgangsdaten (XML)</h2>
+    <p>
+        <h3>Register - VerfasserInnen, Personen, Orte</h3>    
+    </p>
+    <p>Unterschieden wurde im '''Repertorium Saracenorum''' zwischen in den Berichten genannten Personen und VerfasserInnen der Werke.
+    </p>
+    <p><code>&lt;VerfasserIn/&gt;</code>
+    </p>
+    <p><code>&lt;Person/&gt;</code>
+    </p>
+    <p>Beide Gruppen sind im Register separat erfasst. Für jeden Datensatz wurde eine ID (<code>&lt;Id/&gt;</code>) hinterlegt und alle überlieferten Namen (<code>&lt;Name/&gt;</code>, <code>&lt;Alternativnamen/&gt;</code>)aufgenommen, für die in den Quellenstellen erwähnten Personen außerdem ihre Funktionen (<code>&lt;Rolle/&gt;</code>). Angereichert wurde der Eintrag mit OpenData der GND (Gemeinsame Normdatei der Deutschen Nationalbibliothek), dem Dienst VIAF® (Virtual International Authority File) und Wikidata (<code>&lt;gnd_Id/&gt;</code>, <code>&lt;viaf/&gt;</code>, <code>&lt;wikidata_ID/&gt;</code>).
+        Für die Verfasserinnen und Verfasser sind darüber hinaus Lebensdaten (<code>&lt;Lebensdaten/&gt;</code>), sofern überliefert, erfasst und als Metadaten hinterlegt.</p>
+    <p><code>&lt;Orte/&gt;</code>
+    </p>
+    <p>Auch alle in den Quellenstellen genannten Orte wurde erfasst und in einem Register verwaltet. Für jeden Datensatz wurde eine ID (<code>&lt;Id/&gt;</code>) hinterlegt und alle überlieferten Namen (<code>&lt;Name/&gt;</code>, <code>&lt;Alternativnamen/&gt;</code>) aufgenommen. Darüber hinaus wurden die Orte typisiert (<code>&lt;Typ/&gt;</code>), d. h. festgehalten, ob es sich um (bewohnte) Orte, Flüsse, Regionen, Berge oder Klöster handelt. Angereichert wurden die Einträge mit OpenData der Getty Thesaurus of Geographic Names Online. Mit Hilfe von Anmerkungen (<code>&lt;editorial_notes/&gt;</code>) sind Besonderheiten für den Datensatz festgehalten, so etwa wenn ein Ort nicht identifiziert werden konnte (<code>&lt;notes/note/&gt;</code>) oder wenn vom Eintrag im TGN abweichende Koordinaten des Ortes ermittelt wurden (<code>&lt;coordinates/&gt;</code>).
+    </p>
+    <h3>Werk-Seiten</h3>
+    <p>Alle Werke (<code>&lt;Dokumente/&gt;</code>) wurden mithilfe einer ID nummeriert (<code>&lt;WerkID/&gt;</code>). Alle überlieferten Werktitel (<code>&lt;WerkTitel/&gt;</code>, <code>&lt;Alternativtitel/&gt;</code>) und die Verfasserinnen und Verfasser (<code>&lt;Autoren/&gt;</code>) wurden registriert; der Bezug zum Register wird mittels der ID festgehalten. Werkspezifisch werden die Lebensdaten der Verfasser*innen (<code>&lt;LebensdatenVerfasserIn/&gt;</code>) vermerkt, ebenso der Abfassungszeitraum (<code>&lt;Abfassungszeitraum/&gt;</code>) als Datum (<code>&lt;Datum date=""&gt;</code>) sowie Berichtszeitraum (<code>&lt;Berichtszeitraum/&gt;</code>, ebenfalls als Datum), Abfassungsort (<code>&lt;Abfassungsort/&gt;</code>) und –region (<code>&lt;Region/&gt;</code>). Zur verwendeten Edition wurde der Titel (<code>&lt;Editionshinweise/&gt;</code>) vermerkt inklusive eines Links, sofern ein Digitalisat der Edition online verfügbar ist. Ausführlichere Informationen zum Werk werden in einem kürzeren Text mit weiterführenden Literaturhinweisen festgehalten <code>&lt;Werkinformation/&gt;</code>, sowie die über OpenData verfügbaren Daten der GND (Gemeinsame Normdatei der Deutschen Nationalbibliothek), dem Dienst VIAF® (Virtual International Authority File) und Wikidata (<code>&lt;gnd_Id/&gt;</code>, <code>&lt;viaf/&gt;</code>, <code>&lt;wikidata_ID/&gt;</code>) ergänzt.
+    </p>
+    <p>Die einem Werk zugeordneten Kategorien werden im Semantic MediaWiki am Ende einer Seite aufgeführt. Alle Informationen zum Werk, die mittels eines Attributs angelegt wurden, werden innerhalb einer sog. ''fact-box'' (eine MediaWiki ''extension'') unter ‚Fakten‘ ebenfalls hier zusammenfassend angezeigt.
+    </p>
+    <h3>Quellenstellen-Seite</h3>
+    <p>Jede Quellenstelle (<code>&lt;Quelle/&gt;</code>) ist je einem Werk zugeordnet und nummeriert worden (<code>&lt;QuellenId/&gt;</code>). Mithilfe einer Kurzzitation wird hier auf die verwendete Edition hingewiesen (<code>&lt;Zitation/&gt;</code>). Inhaltlich greifbar wird der Bericht nun über eine Inhaltsangabe (<code>&lt;Inhaltsangabe/&gt;</code>), den überlieferten lateinischen Text (<code>&lt;VolltextOriginalsprache/&gt;</code>) und eine Übersetzung der Textstelle, sofern sie vorliegt (<code>&lt;VolltextUebersetzung/&gt;</code>), samt Beleg (<code>&lt;ZitationUebersetzung/&gt;</code>). Bei den überlieferten, zeitlichen Angaben wurde unterschieden zwischen der in der Quellen hinterlassenen Angabe (<code>&lt;Dokumente/&gt;</code><ZeitangabeQuelle/>) und einer Datierung (<code>&lt;Dokumente/&gt;</code><ZeitangabeWissenschaft/>), die als Datum (<code>&lt;Datum date=""/&gt;</code>) festgehalten ist. Berichts- und Abfassungszeiträume (<code>&lt;Berichtszeitraum/&gt;</code>, <code>&lt;Abfassungszeitraum/&gt;</code>) sind noch einmal davon abgesetzt.
+    </p>
+    <p>Ausgezeichnet wurden die Quellenstellen weiterhin anhand:
+    </p>
+    <p>
+        <code>&lt;GeographischesStichwort/&gt;</code>    
+    </p>
+    <p>
+        <code>&lt;Beteiligte/&gt;</code>    
+    </p>
+    <p>
+        <code>&lt;Interaktion/&gt;</code>    
+    </p>
+    <p>
+        <code>&lt;Auffaelligkeiten/&gt;</code>    
+    </p>
+    <p>
+        <code>&lt;Suchbegriffe/&gt;</code>    
+    </p>
+    <p>
+        <code>&lt;editorial_notes/&gt;</code>    
+    </p>
+    <p>Weiterhin wurden in den Quellenstellen genannte Orte und Personen annotiert, indem in den Volltexten (<code>&lt;VolltextOriginalsprache/&gt;</code>, <code>&lt;VolltextÜbersetzung/&gt;</code>) jeweils Entitäten (<code>&lt;Entitaeten/&gt;</code>) vom Typ Ort und Person hinterlegt und anhand von IDs identifiziert wurden; sie verweisen so auf entsprechende Einträge für jede Entität in den Registern.
+    </p>
+    <h3>Dokumentation des Datenmodells im Wiki</h3>
+    <p>
+        Neben der Hauptseite bietet das Wiki Inhalts- sowie Übersichtsseiten. Im Sinne eines Best-Practice-Ansatzes für die Strukturierung von Semantic Wiki-Systemen wurden ist_ein-Beziehungen mittels Kategorien definiert. Sie dienen im Wiki-System dazu, Objekte, die thematisch zusammengehören, zu gruppieren und auf speziellen Seiten darzustellen. Im Repertorium Saracenorum werden Kategorien genutzt, um insbesondere Werk-Seiten (Kategorie:Werk) und Quellenstellen-Seiten (Kategorie:Quelle) zu gruppieren. Aber auch das Repertorium Saracenorum selbst ist bereits eine Kategorie (Kategorie:Repertorium Saracenorum) mit insgesamt acht Unterkategorien. 
+    </p>
+    <p>Der Kategorienbaum sieht aus, wie folgt:
+    </p>
+    *Repertorium Saracenorum
+    **Abfassungsregion
+    **Auffälligkeit
+    **Geographie
+    ***Berg
+    ***Fluss
+    ***Kloster
+    ***Ort
+    ***Region
+    **Person
+    **Quelle
+    **Suchbegriffe
+    **VerfasserIn
+    **Werk
+    <p>Beschreibungsseiten, die zu den Kategorien gehören,  führen alle Seiten (etwa alphabetisch) geordnet auf, die auf diese Kategorien verweisen. So etwa zeigt die Beschreibungsseite der Kategorie ‘Berg’ unter ‘A’ als ersten Listenpunkt ‘Alpen’ an. Bei Klick auf das Wort erfolgt die Öffnung einer Seite, die eine Kurzbeschreibung von ‘Alpen’ nach dem Getty Thesaurus of Geographic Names enthält und darunter alle (Orts-)Nennungen von ‘Alpen’ auf den Quellenstellen-Seiten anzeigt. Ein Blick auf die Kategorien-Zeile verrät neben der Oberkategorie ‘Geographie’ auch, dass ‘Alpen’ zudem der Kategorie ‘Ort’ angehört. De facto handelt es sich bei dieser Überblicksseite um die Weiterleitung auf eine Seite ‘Alpen’, auf der mittels einer automatisch generierten Abfrage, die als Template hinterlegt ist, der tabellarische Überblick gegeben wird, denn ‘Alpen’ ist auch als Wert den Attribute ‘Geographischer Bezug’ und ‘Ort’ zugeordnet (zu Attributen s.u.). Das heißt, mit Hilfe der doppelten Zuordnung können die Funktionen der Wiki-internen Kategorien- und Attribut-Verbindungen optimal ausgenutzt werden.
+    </p>
+    <p>
+        Zu benennende semantische Verknüpfungen wiederum werden als Attribute festgeschrieben. Die Strukturierung mittels Attribute (properties) im Semantic MediaWiki bietet dabei die Möglichkeit, Beziehungen, die für Menschen aus Text herauslesbar sind, als Struktur und damit maschinenlesbar zu hinterlegen - gewissermaßen als ‘Beziehungsnetz’, das hinter den für die Nutzer*innen interessanten Artikeln gespannt wird, inhaltliche Abfragen ermöglicht und Bezüge zwischen den Quellen-Berichten sichert. So etwa wird eine Quellenstellen-Seite durch das Attribut ‘gehört zu’ einem Werk eindeutig zugeordnet. Das heißt auch, dass die Gruppierung mittels Kategorie immer in einer Ebene der Objekthierarchie erfolgt. Darüber hinaus helfen die Attribut-Zuordnungen dabei, die Übersichtsseiten, die den Benutzer*innen zur Navigation im Repertorium Saracenorum dienen, inhaltlich zu füllen, d.h. zu Informationsträger zu machen: Diese Seiten müssen so nicht einzeln und manuell inhaltlich gefüllt werden, sondern das Wissen, welches die Nutzer*innen auf den Informationsseiten vorfinden, wird durch automatisierte Abfragen der Objekte in semantischen Verknüpfungen aggregiert, die mittels Templates vorbereitet werden (etwa Person, Ort, Auffälligkeit, Schlagworte). Mit OpenData werden sie darüber hinaus mit weiteren Daten angereichert, so dass die Nutzer*innen eine weitgefächerte Informationsseite erhalten und sich (auch über Drittseiten) weiter informieren können. Orte können so mittels ihrer Koordinaten auch visuell auf einer Weltkarte angezeigt werden.
+    </p>
+    <p>Auf den Werk- und Quellenstellen-Seiten sind die zugeordneten Attribute wiederum mit Hilfe der Funktion ‘Fakten’ (fact box), die jeweils am Ende der Seite alle Attribute und die seitenspezifischen Attributwerte anzeigt, transparent und einsehbar.
+    </p>
+    <h3>Kategorien</h3>
+    <table border="1" >
+        <tr><td>Kategorie</td>
+            <td>Bezeichnung</td>
+            <td>Vorkommen auf Wiki-Seite</td>
+            <td>korreliert mit Attribut</td>
+        </tr>
+        <tr><td>Werk</td>
+            <td>schriftliche Überlieferung, die (komplett oder anteilig) Untersuchungszeitraum abgefasst wurde</td>
+            <td></td>
+            <td>aus dem Werk</td>
+        </tr>
+        <tr><td>Quelle</td>
+            <td>einem Werk zuzuordnender, überlieferter Bericht bzw. Text(ausschnitt), in dem über Sarazenen berichtet wird</td>
+            <td></td>
+            <td>hat Unterobjekt</td>
+        </tr>
+        <tr><td>Person</td>
+            <td>in einer Quellenstelle genannte Person</td>
+            <td></td>
+            <td>Person</td>
+        </tr>
+        <tr><td>Geographie</td>
+            <td>Orte und Regionen, an denen sich das berichtete zutrug bzw. die im Text erwähnt werden</td>
+            <td></td>
+            <td>geographischer Bezug</td>
+        </tr>
+        <tr><td>Abfassungsregion</td>
+            <td>Großregion, in der ein Werk abgefasst wurde</td>
+            <td></td>
+            <td>Abfassungsregion</td>
+        </tr>
+        <tr><td>Auffälligkeit</td>
+            <td>thematische Einordnung eines Berichts mittels inhaltlicher Schlagwörter</td>
+            <td></td>
+            <td>berichtet von</td>
+        </tr>
+        <tr><td>Schlagworte</td>
+            <td>relevante Schlagwörter, die in der Quellenstelle genannt werden und anhand derer sie im Zuge der Bearbeitung als relevant eingeschätzt wurde</td>
+            <td></td>
+            <td>relevante Schlagworte</td>
+        </tr>
+        <tr><td>Datierung</td>
+            <td>zeitliche Einordnung des Berichts nach wissenschaftlichen Gesichtspunkten</td>
+            <td></td>
+            <td>datiert auf</td>
+        </tr>
+        <tr><td>VerfasserIn</td>
+            <td>Person(en), von der/denen das Werk abgefasst wurde</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr><td>bewohnter Ort/Stadt</td>
+            <td>Unterkategorie von Geographie</td>
+            <td></td>
+            <td>Ort</td>
+        </tr>
+        <tr><td>Kloster</td>
+            <td>Unterkategorie von Geographie</td>
+            <td></td>
+            <td>Ort</td>
+        </tr>
+        <tr><td>Region</td>
+            <td>Unterkategorie von Geographie</td>
+            <td></td>
+            <td>Ort</td>
+        </tr>
+        <tr><td>Gewässer</td>
+            <td>Unterkategorie von Geographie</td>
+            <td></td>
+            <td>Ort</td>
+        </tr>
+        <tr><td>Berg</td>
+            <td>Unterkategorie von Geographie</td>
+            <td></td>
+            <td>Ort</td>
+        </tr></table>
+    <h3>Attribute</h3>
+    <p>Attribute im Semantic MediaWiki enthalten stets einen oder mehrere Werte. So etwa enthält das Attribut ‚abgefasst in‘ für das Werk ‚Chronicon sive Gesta Saxonum‘ den Wert ‚Merseburg‘. Alle Informationen zum Werk, die mittels eines Attributs angelegt werden, können in einer sog. ''fact-box'' (eine MediaWiki ''extension'') unter ‚Fakten‘ zusammenfassend am Ende einer Seite angezeigt werden.
+    </p>
+    <p>Folgende Attribute wurden angelegt:
+    </p>
+    <table border="1" >
+        <tr><td>Attribut</td>
+            <td>Bezeichnung</td>
+            <td>Vorkommen auf Wiki-Seite</td>
+        </tr>
+        <tr><td>Abfassungsregion</td>
+            <td>führt die Großregion auf, in der das Werk entstanden ist</td>
+            <td>Werk</td>
+        </tr>
+        <tr><td>Abfassungszeit</td>
+            <td>nennt den Zeitraum bzw. die Zeiträume der Abfassung des Werks</td>
+            <td>Werk</td>
+        </tr>
+        <tr><td>abgefasst in</td>
+            <td>bezieht sich auf den Abfassungsort des Werks oder Berichts</td>
+            <td>Werk, Quellenstellen</td>
+        </tr>
+        <tr><td>abgefasst von</td>
+            <td>führt die/den VerfasserIn bzw. die Verfasser*innen des Werkes auf</td>
+            <td>Werk, Quellenstellen</td>
+        </tr>
+        <tr><td>aus dem Werk</td>
+            <td>stellt den Bezug zum historisches Werk her, in dem der Bericht überliefert ist</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>berichtet von</td>
+            <td>bietet eine thematische Einordnung des Berichts</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Berichtszeitraum</td>
+            <td>nennt den Zeitraum, über den das Werk berichtet</td>
+            <td>Werk</td>
+        </tr>
+        <tr><td>datiert auf</td>
+            <td>verweist auf die Datierung des Berichts, d. h. zeitliche Einordnung nach wissenschaftlichen Gesichtspunkten</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Datum laut Werk</td>
+            <td>gibt die zeitliche Einordnung des Berichts durch die/den VerfasserIn des Werkes wider, die sich durchaus von der Datierung unterscheiden kann</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>geographischer Bezug</td>
+            <td>benennt Orte und Regionen, an denen sich das berichtete zutrug bzw. die im Text erwähnt werden</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Individuen</td>
+            <td>nennt in der Quellenstelle erwähnte Einzelpersonen (unterscheidet zwischen Sarazenen und anderen Personen)</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Inhaltsangabe</td>
+            <td>bietet eine ausformulierte Inhaltsangabe des Berichts</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Interaktion</td>
+            <td>gibt den Hinweis darauf, ob im vorliegenden Bericht eine Interaktion zwischen lateinischen Christen und Sarazenen zur Sprache kommt</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Kollektive</td>
+            <td>nennt in der Quellenstelle erwähnte Personengruppen (unterscheidet zwischen Sarazenen und anderen Personen)</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Ort</td>
+            <td>nennt in der Quellenstelle erwähnte geographische Bezugspunkte</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Person</td>
+            <td>nennt in der Quellenstelle genannten Personen namentlich</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>relevante Schlagworte</td>
+            <td>nennt Begriffe, die in der Quellenstelle genannt werden und anhand derer sie im Zuge der Bearbeitung als relevant eingeschätzt wurde</td>
+            <td>Quellenstellen</td>
+        </tr>
+        <tr><td>Sarazenenbezug</td>
+            <td>stellt fest, ob das Werk relevante Berichte für das Repertorium Saracenorum bereit hält</td>
+            <td>Werk</td>
+        </tr>
+        <tr><td>Werk</td>
+            <td>nennt den Werktitel</td>
+            <td>Werk</td>
+        </tr>
+        <tr><td>Werknummer</td>
+            <td>nennt die vierstellige interne Zählung des Werks</td>
+            <td>Werk</td>
+        </tr>
+        <tr><td>zitiert nach</td>
+            <td>nennt die verwendete Edition des Werks</td>
+            <td>Werk, Quellenstellen</td>
+        </tr>
+    </table>
+    </text>
+</page>
