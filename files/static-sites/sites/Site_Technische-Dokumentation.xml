@@ -11,5 +11,56 @@
             <rule></rule>
         </rules>
     </meta>
-    <text></text>
+    <text><wikisyntax>Die technische Dokumentation beschreibt zum einen die Schritte, die automatisiert an den durch die BearbeiterInnen manuell (XML-Editor Oxygen) gepflegten Ausgangsdaten (“XML-Masterfassung”, s. [[Projekt- und Datengenese]]) vorgenommen werden, um diese in das CMS (Semantic MediaWiki) zu überführen, und zum zweiten die konkrete Implementierung des Inhaltsmodells im Mediawiki.
+
+==Das SMW als Publikationsplattform und CMS==
+Das MediaWiki wird (zum Zeitpunkt der Erstellung des Berichts, 26.03.2021) in Version xyz, SMW-Erweiterung, Result Formats, Compound Queries
+
+Ziel der Überführung der Daten in ein CMS war,
+# dass die Daten ohne größere technische Hürden durch die BearbeiterInnen weiter gepflegt und ergänzt werden können,
+# eine Präsentationsoberfläche auf der Basis einer langfristig unterhaltenen Software anzubieten und aufwändige Eigenentwicklungen zu vermeiden.
+
+Ein zentrales Anliegen beim Einsatz der Erweiterung “Semantic MediaWiki” (SMW) war es, durch die Abbildung von Relationen über Attribute, die vielfältigen Verweise zwischen den Entitäten als Abfragen im Interface zu realisieren und damit die Fehleranfälligkeit bei manueller Pflege von Verlinkungen im Wiki zu reduzieren. Werke sind bspw. durch das Attribut “abgefasst von” mit VerfasserIn-Seiten verknüpft. Auf die Weise lassen sich durch eine Abfrage auf der VerfasserIn-Seite automatisch alle Werke auflisten, die der AutorIn zugeschrieben werden können. Weitere Inhalte/Entitäten können somit aufgenommen werden und fügen sich bei konsequenter Anwendung des angelegten Schemas von Relationen und Typisierungen in die jeweiligen Übersichten ein, ohne dass die Verlinkungen manuell gepflegt werden müssen. Ein zusätzlicher Mehrwert der Abbildung von Relationen in einem SMW entsteht durch die Möglichkeit, die Werte durch individuelle semantische Suchen abzufragen. Hier z. B: “Welchen VerfasserInnen wird mehr als ein Werk zugeschrieben?”. Weiterhin bietet die explizite Auszeichnung von Information durch Attribute (insbesondere in Kombination mit der Verwendung von Normdaten) prinzipiell das Potential der Anschlussfähigkeit der Daten an externe Ressourcen über einen einfachen RDF-Export.
+
+Nicht alle Funktionalitäten eines SMW werden in vollem Umfang genutzt. Die Implementierung stellt eine Abwägung zwischen dem maximalen Funktionsumfang des SMW und praktischen Erwägungen (Kapazitäten im Rahmen der begrenzten Förderung, Strukturierung der Ausgangsdaten) dar.  
+Das Wiki-interne Schema greift auf Kategorie, Attribute und Subobjekte zurück. Alle Entitäten, Träger von Informationen, werden als Seiten angelegt. Die grundlegenden Entitäten sind dabei Werke und die dazugehörigen Berichte (Quellenstellen). 
+Folgende Konventionen kommen dabei zur Anwendung: 
+Seiten sind typisiert/klassifiziert, durch die Zuordnung zu einer Kategorie, d. h. diese repräsentieren eine “ist ein”-Beziehung.
+
+[[Datei:Grafik technDokumentation 2.png]]
+
+Beziehungen zwischen Entitäten werden durch Attribute/SMW Properties ausgedrückt, überwiegend in sprechender gerichteter Form (“aus dem Werk”).
+
+[[Datei:Grafik technDokumentation 3.png]]
+
+Das Gesamtnetz der Beziehung, ausgedrückt als Klassendiagramm, stellt sich so dar (nicht vollständig):
+
+[[Datei:Grafik technDokumentation 1.png]]
+
+Hieraus wird ersichtlich, dass die Entitäten Werk, Quellenstelle, VerfasserIn, Person, Ort (“Geographicum”) die primären Informationsträger sind. Die Seitentypen Auffälligkeit, Schlagwort, Abfassungsregion stellen Hilfskonstrukte dar, auf die referenziert wird und die Informationen aggregieren, aber selbst keine Information tragen.
+
+Um die Erstellung von redundanten Inhalten zu vermeiden, wurde die Entscheidung getroffen, mehrfach Zuweisung von Typen/Klassen zu erlauben und damit eine gewissen semantische Unschärfe in Kauf zu nehmengenommen: Geographische Entitäten und Schlagwörter mit geographischen Bezug können sich überschneiden, siehe z. B: Babylon.
+
+Subobjekte kommen in einem isolierten Anwendungsfall zum Einsatz: Quellenstellen können über mehr als ein Ereignis berichten, die unterschiedlich datiert werden können. Dies kann nicht über Seiten-Attribute abgebildet werden, da Attribute von einem Typ nicht wiederholbar sind. Die maschinenlesbare Angabe von Zeiträumen (ZeitangabeBeginn, ZeitangabeEnde) wird also in ein oder mehrere Subobjekte der jeweiligen Quellenstellen “ausgelagert”.
+
+==Aufbereitung und Import==
+
+* systematische Datenkorrekturen und -angleichungen mittels XSL-Transformationen
+* Anreicherung der Daten durch Mapping zu Normdatenressourcen
+* Generierung von Visualisierungen (Datierungsübersicht aus den Ausgangsdaten)
+* Transformation in Wikisyntax, Hinzufügen von semantischen Annotationen und Import in das MediaWiki
+
+Repo
+One-Timer: Datenkorrekturen, Angleichungen
+* DMGH-Aktualisierung
+* Vergabe IDs für Entitäten (bei Quelle, geographisches Stichwort, Ort)
+** Nachhalten von eindeutigen Verknüpfungen zwischen Entitäten, die im Volltext/Übersetzung der Quellenstellen ausgezeichnet sind mit Registereinträgen durch Vergabe von IDs und Konsistenzprüfung
+
+run.sh
+* nimmt sich die aktuelle masterfassung und generiert eine angereicherte Version, die für das Deployment im Wiki aufbereitet ist
+* macht
+**Filling 0-fillMaster.xsl (Normdatenanreicherungen)
+**01-WerkSeiten.xsl (erstellt eine XML mit allen Werkseiten)
+**02-Quellenseiten.xsl (erstellt eine XML mit allen Quellenseiten)
+</wikisyntax></text>
 </page>
