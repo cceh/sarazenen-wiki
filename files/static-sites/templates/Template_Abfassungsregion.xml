@@ -16,36 +16,61 @@
                 {{#compound_query:
                 [[-abgefasst in.Abfassungsregion::West- und Mitteleuropa]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
                 |format=leaflet
-                |limit=50
-                |offset=0
-                |link=all
-                |sort=
-                |order=asc
-                |headers=show
+                |cluster = yes
+                |clustermaxradius=20
                 |width=100%
                 |height=350px
                 |defzoom=3
                 |maxzoom=14
                 |minzoom=3
-                |layers=Esri.WorldImagery
+                |layers=Esri.WorldShadedRelief
                 |type=terrain
                 }}
-                &lt;/noinclude&gt; 
-                {{#compound_query:
-                [[-abgefasst in.Abfassungsregion::{{{FULLPAGENAME}}}]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
-                |format=leaflet
-                |limit=50
+                
+                
+                {{#ask: [[Abfassungsregion::West- und Mitteleuropa]] 
+                [[Kategorie:Werk]]
+                |?abgefasst in
+                |format=broadtable
+                |limit=500
                 |offset=0
                 |link=all
                 |sort=
                 |order=asc
                 |headers=show
+                |searchlabel=… weitere Ergebnisse
+                |class=sortable wikitable smwtable
+                }}
+                
+                == Abfassungszeiten == 
+                {{#ask:
+                [[-Has subobject.Abfassungsregion::West- und Mitteleuropa]]
+                [[AbfassungszeitraumBeginn::+]]
+                |?AbfassungszeitraumBeginn
+                |?AbfassungszeitraumEnde
+                |timelinestart =AbfassungszeitraumBeginn
+                |timelineend=AbfassungszeitraumEnde        
+                |timelinesize=500px
+                |sort=AbfassungszeitraumBeginn
+                |order=descending
+                |format=timeline
+                |timelinebands= DECADE, CENTURY
+                |timelineposition=end
+                |limit=9999
+                }}
+                
+                &lt;/noinclude&gt; 
+                {{#compound_query:
+                [[-abgefasst in.Abfassungsregion::{{FULLPAGENAME}}]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                |format=leaflet
+                |cluster = yes
+                |clustermaxradius=20
                 |width=100%
                 |height=350px
                 |defzoom=3
                 |maxzoom=14
                 |minzoom=3
-                |layers=Esri.WorldImagery
+                |layers=Esri.WorldShadedRelief
                 |type=terrain
                 }}
                 {{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 

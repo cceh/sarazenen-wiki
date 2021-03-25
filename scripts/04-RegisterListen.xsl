@@ -300,7 +300,6 @@
 |gnd_id={{#show:{{FULLPAGENAME}}|?gnd_id|link=none}}
 |wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
 |viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
-|getty_coordinates={{#ask: [[-abgefasst in.abgefasst von::{{FULLPAGENAME}}]] |?getty_coordinates |link=none }} }}
 }}
 </xsl:when>                     
 </xsl:choose></xsl:for-each></xsl:variable>

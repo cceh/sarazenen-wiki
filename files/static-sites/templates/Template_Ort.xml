@@ -51,7 +51,7 @@
                 
                 {| class=&quot;wikitable&quot;
                 |- class=&quot;head {{{class}}}&quot; 
-                !colspan=&quot;2&quot;| {{{Name}}} [[Datei:Geographie.png|50px]]
+                !colspan=&quot;2&quot;| {{{Name}}} 
                 
                 |- 
                 {{#if:{{{Alternativnamen|}}} |  

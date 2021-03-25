@@ -757,8 +757,10 @@ Sarazenenbezug=ja
     </xsl:template>
     
     <xsl:template match="Editionshinweise">       
-<xsl:if test="exists(./edition)"><xsl:value-of select="./edition"/> [<xsl:value-of select="./edition/@url"/>]
-</xsl:if>
+        <xsl:choose>
+            <xsl:when test="exists(./edition)"><xsl:value-of select="./edition"/> [<xsl:value-of select="./edition/@url"/>]</xsl:when>
+            <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="text()"></xsl:template>
 </xsl:stylesheet>

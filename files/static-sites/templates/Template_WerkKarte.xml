@@ -32,7 +32,7 @@
         |defzoom=3
         |maxzoom=14
         |minzoom=3
-        |layers=Esri.WorldImagery
+        |layers=Esri.WorldShadedRelief
         |type=terrain
         }}
     </wikisyntax></text>        

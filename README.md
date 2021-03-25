@@ -28,14 +28,8 @@ ___run.sh___
 Haupt Shell Skript, welches die referenzierung zur masterfassung.xml enhthält und zu den xsl skripten. Ruft je nach Eingabe auch splitting.sh auf
 
 ___splitting.sh___
+
 Skript zur generierung der in output generierten Dateien
-
-
-
-
-
-    
-
 
 ## Semantische Suche ##
 [Semantische Suche Link](http://saraceni.uni-koeln.de/wiki/index.php?title=Spezial:Semantische_Suche)
