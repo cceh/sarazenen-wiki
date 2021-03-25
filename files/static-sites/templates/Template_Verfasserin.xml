@@ -15,7 +15,7 @@
                 &lt;div class="infobox infobox-verfasserin float-right"&gt;
                     {| class="wikitable"
                     |- class="head"                
-                    !colspan="2"| {{{Name}}} [[Datei:VerfasserIn.png|50px]]  
+                    !colspan="2"| {{{Name}}}
                     {{#if:{{{Alternativnamen|}}} |
                     {{!}}-
                     {{!}} Alternativnamen{{#info:Für {{{Name}}} werden diese Alternativnamen verwendet}}

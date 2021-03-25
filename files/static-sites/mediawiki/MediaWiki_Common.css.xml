@@ -218,8 +218,9 @@
             /* Template:Infobox Ort/Person */
             .infobox.infobox-ort .wikitable .head th {border-top-color: #266684;}
             .infobox.infobox-ort .wikitable{
-            background-image:url();
-            background-size:100%;}
+            background-image:url(http://saraceni.uni-koeln.de/wiki/images/b/bf/1080_Geographie.png);
+            background-size: 60% auto;
+background-repeat: no-repeat;}
             
             /*
             .infobox.infobox-ort .wikitable .head.Kloster th {border-top-color: #266806;}
@@ -233,27 +234,32 @@
             .infobox.infobox-person .wikitable .head th  {border-top-color: #c97600;}
             .infobox.infobox-person .wikitable{ 
             background-image:url(http://saraceni.uni-koeln.de/wiki/images/9/93/1080_Personen.png);
-            background-size:100%;}
+            background-size:100%;
+background-repeat: no-repeat;}
             .infobox.infobox-verfasserin .wikitable .head th  {border-top-color: #9534a3;}
             
             .infobox.infobox-verfasserin .wikitable{
             background-image:url(http://saraceni.uni-koeln.de/wiki/images/e/ec/1080_VerfasserIn.png);
-            background-size:100%;}
+            background-size: 60% auto;
+background-repeat: no-repeat;}
             
             .infobox.infobox-werk .wikitable .head th  {border-top-color: #1d4e38;}
             .infobox.infobox-werk .wikitable{
             background-image:url(http://saraceni.uni-koeln.de/wiki/images/1/1a/1080_Werke.png);
-            background-size:100%;}
+            background-size:100%;
+background-repeat: no-repeat;}
             .infobox.infobox-quelle .wikitable .head th  {border-top-color: #796d2b;}
             .infobox.infobox-quelle .wikitable {
             background-image:url(http://saraceni.uni-koeln.de/wiki/images/2/26/1080_Quellenstelle.png);
-            background-size:100%;}
+            background-size:100%;
+background-repeat: no-repeat;}
             .infobox .wikitable .head th {border-top: 2px solid ; background:#fff; }
-            .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; background:#fff; width:30em;}
+            .infobox .wikitable {border: 1px solid #aaa; margin-top:0; margin-left: 2em; font-size:95%; /*background:#fff*/ background-color: rgba(255,255,255,0.6);
+background-blend-mode: lighten; width:30em;}
             h3 {clear:both;}
             .infobox .wikitable th, .infobox .wikitable tr  {border: 1px solid #aaa;}
             .infobox .wikitable td {border: none; vertical-align:top; padding-top:0.25rem; padding-bottom:0.25rem;}
-            .infobox .wikitable .subhead { font-weight:bold; text-align:center; background-color:#f1f1f1;}
+            .infobox .wikitable .subhead { font-weight:bold; text-align:center;background-color: rgba(241,241,241,0.6); background-blend-mode: lighten;/*background-color:#f1f1f1;*/}
             .infobox .wikitable .subheader { text-align:center; background-color:#f1f1f1;}
             .infobox .wikitable .map {padding:0;}
             /* Image Positioning */
@@ -352,6 +358,7 @@
             font-family: inherit;
             font-weight: 500
             }
+
         </wikisyntax>
         </text>
     </page>

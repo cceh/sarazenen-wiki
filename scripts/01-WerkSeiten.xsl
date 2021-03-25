@@ -350,11 +350,11 @@ Sarazenenbezug=ja
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="<xsl:value-of select="$st1 * 50"/>  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="<xsl:value-of select="$st1 * 50  +155"/>" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="<xsl:value-of select="$st1 * 50 + 165"/>" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 165"/>" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="<xsl:value-of select="$st1 * 50"/>" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="<xsl:value-of select="$st1 * 50 + 10"/>" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="<xsl:value-of select="$st1 * 50"/>"  y1="80" x2="<xsl:value-of select="$en1 * 50"/>" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     <xsl:for-each select="($st1 to $en1)" xml:space="default">
                         <xsl:if test=". = 0">
