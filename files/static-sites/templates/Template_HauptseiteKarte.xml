@@ -26,6 +26,7 @@
                         | [[Kategorie:Region]]; ?getty_coordinates ; icon=Icon-region-41.png; limit=9999
                         |cluster = yes
                         |clustermaxradius=20
+                        |defzoom=3                        
                         |format=map
                         |height=500px
                         |layers=Esri.WorldShadedRelief

@@ -4,46 +4,47 @@
             <type>Template</type>
             <id/>
             <categories>
-                <category></category>
+                <category>Template</category>
             </categories>
             <rules>
                 <rule/>
             </rules>
         </meta>
-        <text>
-            <wikisyntax>  &lt;noinclude&gt;[[Category:Templates]]
-                
-                {{#compound_query:
-                [[-abgefasst in.Abfassungsregion::West- und Mitteleuropa]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
-                |format=leaflet
-                |cluster = yes
-                |clustermaxradius=20
-                |width=100%
-                |height=350px
-                |defzoom=3
-                |maxzoom=14
-                |minzoom=3
-                |layers=Esri.WorldShadedRelief
-                |type=terrain
-                }}
-                
-                
-                {{#ask: [[Abfassungsregion::West- und Mitteleuropa]] 
+        <text>  <noinclude>
+                <h2>Tabellarische Übersicht</h2>
+                <wikisyntax>{{#ask: [[Abfassungsregion::West- und Mitteleuropa]] 
                 [[Kategorie:Werk]]
                 |?abgefasst in
                 |format=broadtable
                 |limit=500
                 |offset=0
                 |link=all
+                |width=auto
                 |sort=
                 |order=asc
                 |headers=show
                 |searchlabel=… weitere Ergebnisse
                 |class=sortable wikitable smwtable
-                }}
-                
-                == Abfassungszeiten == 
-                {{#ask:
+                }}</wikisyntax>
+                <div class="hauptseite-block border" >
+                    <h2>Georeferenzierung</h2>
+                    <div class="" >
+                        {{#compound_query:
+                        [[-abgefasst in.Abfassungsregion::West- und Mitteleuropa]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                        |format=leaflet
+                        |cluster = yes
+                        |clustermaxradius=20
+                        |width=100%
+                        |height=350px
+                        |defzoom=3
+                        |maxzoom=14
+                        |minzoom=3
+                        |layers=Esri.WorldShadedRelief
+                        |type=terrain
+                        }}
+                    </div></div>
+                <h2>Abfassungszeiten</h2>
+                <wikisyntax>{{#ask:
                 [[-Has subobject.Abfassungsregion::West- und Mitteleuropa]]
                 [[AbfassungszeitraumBeginn::+]]
                 |?AbfassungszeitraumBeginn
@@ -57,38 +58,44 @@
                 |timelinebands= DECADE, CENTURY
                 |timelineposition=end
                 |limit=9999
-                }}
-                
-                &lt;/noinclude&gt; 
-                {{#compound_query:
-                [[-abgefasst in.Abfassungsregion::{{FULLPAGENAME}}]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
-                |format=leaflet
-                |cluster = yes
-                |clustermaxradius=20
-                |width=100%
-                |height=350px
-                |defzoom=3
-                |maxzoom=14
-                |minzoom=3
-                |layers=Esri.WorldShadedRelief
-                |type=terrain
-                }}
-                {{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 
+                }}</wikisyntax>
+            </noinclude> 
+                <onlyinclude><wikiysntax>__TOC__</wikiysntax>
+                <h2>Tabellarische Übersicht</h2>
+                <wikisyntax>{{#ask: [[Abfassungsregion::{{FULLPAGENAME}}]] 
                 [[Kategorie:Werk]]
                 |?abgefasst in
                 |format=broadtable
                 |limit=500
                 |offset=0
                 |link=all
+                |width=auto
                 |sort=
                 |order=asc
                 |headers=show
                 |searchlabel=… weitere Ergebnisse
                 |class=sortable wikitable smwtable
-                }}
-                
-== Abfassungszeiten == 
-                {{#ask:
+                }}</wikisyntax>
+                <div class="hauptseite-block border" >
+                    <h2>Georeferenzierung</h2>
+                    <div class="" >
+                        <wikisyntax>{{#compound_query:
+                        [[-abgefasst in.Abfassungsregion::{{FULLPAGENAME}}]]; ?getty_coordinates ; icon=icon-abfassungsort-41.png; limit=9999
+                        |format=leaflet
+                        |cluster = yes
+                        |clustermaxradius=20
+                        |width=100%
+                        |height=350px
+                        |defzoom=3
+                        |maxzoom=14
+                        |minzoom=3
+                        |layers=Esri.WorldShadedRelief
+                        |type=terrain
+                        }}</wikisyntax>        
+                    </div>
+                </div>   
+                <h2>Abfassungszeiten</h2>
+                <wikisyntax>{{#ask:
                 [[-Has subobject.Abfassungsregion::{{FULLPAGENAME}}]]
                 [[AbfassungszeitraumBeginn::+]]
                 |?AbfassungszeitraumBeginn
@@ -102,8 +109,6 @@
                 |timelinebands= DECADE, CENTURY
                 |timelineposition=end
                 |limit=9999
-                }}
-                
-            </wikisyntax>
+                }}</wikisyntax></onlyinclude>
         </text>
     </page>
