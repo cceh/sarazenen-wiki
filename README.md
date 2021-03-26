@@ -7,18 +7,18 @@ Das Repertorium Saracenorum bietet eine Sammlung von mittelalterlichen Berichten
 
 ## Strukutur ##
 ### Ordner
-1. AFS
+1. AFS [readme](afs/README.md)
    -   beinhaltet alle nötigen files die auf den AFS hochgeladen werden müssen
 1. datenmodell
-1. files
+1. files [readme](files/static-files/README.md)
     - beinhaltet die sarazenenmasterfassung.xml, die entsprechende dtd und alle static-sites
 1. import
     - xml transfomrations dokumentation
 1. output
     - generierter Output der scripts
-1. scripts
+1. scripts [readme](scripts/README.md)
     - beinhaltet alle xsl scripts zur transformierung
-1. transformation
+1. transformation [readme](transformation/README.md)
     - generelle einmalige transformations skripte
 
 ### Shell Skripts
