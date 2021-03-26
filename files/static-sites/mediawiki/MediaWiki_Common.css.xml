@@ -13,7 +13,6 @@
             <format>text/css</format>
         </meta>
         <text><wikisyntax>
-
             /* Das folgende CSS wird für alle Benutzeroberflächen geladen. */
 
             /* Startseite */
@@ -254,7 +253,7 @@
             width:30em;
             background-size:9em;
             background-repeat:no-repeat;
-            background-position:20em 1em;
+            background-position:20em 2em;
             }
             h3 {clear:both;}
             .infobox .wikitable th, .infobox .wikitable tr  {border: 1px solid #aaa;}
@@ -358,7 +357,6 @@
             font-family: inherit;
             font-weight: 500
             }
-
         </wikisyntax>
         </text>
     </page>
