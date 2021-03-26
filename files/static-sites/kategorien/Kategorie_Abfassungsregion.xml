@@ -22,7 +22,7 @@
                 |clustermaxradius=20
                 |format=map
                 |height=500px
-                |layers=Esri.WorldPhysical
+                |layers=Esri.WorldShadedRelief
                 |type=terrain
                 }}
             </div>

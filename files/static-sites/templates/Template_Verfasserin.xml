@@ -46,7 +46,6 @@
                     !colspan="2px" class="map" {{!}} {{#ask:
                     [[-abgefasst in.abgefasst von::{{FULLPAGENAME}}]]
                     |?getty_coordinates
-                    |centre=Europe
                     |layers=Esri.WorldShadedRelief
                     |width=100%|height=30em
                     |icon=Icon-abfassungsort-41.png}} 

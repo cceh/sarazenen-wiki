@@ -303,20 +303,10 @@
 }}
 </xsl:when>                     
 </xsl:choose></xsl:for-each></xsl:variable>
-<xsl:value-of select="$typs" xml:space="default"/><xsl:if test="./meta/editorial_notes/notes/note">
-<xsl:for-each select="./meta/editorial_notes/notes/note"><xsl:if test=". != ''">{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}</xsl:if></xsl:for-each>
-</xsl:if>
-<xsl:if test="./meta/getty/ScopeNote != ''">
-{{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}
-    
-</xsl:if>                            
-<xsl:if test="./meta/wikidata/desc != ''">
-{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose>
-<xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./meta/wikidata/desc[@lang='de']/data(.)"/></xsl:when>
-<xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']/data(.)"/></xsl:otherwise>
-</xsl:choose>}}
-    
-</xsl:if>
+<xsl:value-of select="$typs" xml:space="default"/>
+<xsl:if test="./meta/getty/ScopeNote != ''">{{Template:Description|type=getty|id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}|Text=<xsl:value-of select="./meta/getty/ScopeNote"/>}}</xsl:if>                            
+<xsl:if test="./meta/wikidata/desc != ''">{{Template:Description|type=wikidata|id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}|Text=<xsl:choose><xsl:when test="./meta/wikidata/desc[@lang='de'] != ''"><xsl:value-of select="./meta/wikidata/desc[@lang='de']/data(.)"/></xsl:when><xsl:otherwise><xsl:value-of select="./meta/wikidata/desc[@lang='en']/data(.)"/></xsl:otherwise></xsl:choose>}}</xsl:if>
+<xsl:if test="./meta/editorial_notes/notes/note"><xsl:for-each select="./meta/editorial_notes/notes/note"><xsl:if test=". != ''">{{Template:Description|type=note|Text=<xsl:value-of select="."/>}}</xsl:if></xsl:for-each></xsl:if>
 <xsl:value-of select="$output" xml:space="default"/>
                             <xsl:variable name="meta" xml:space="default"><xsl:apply-templates select="./meta"/></xsl:variable>
                             <xsl:if test="$meta != ''">{{#set:<xsl:value-of select="$meta"/>

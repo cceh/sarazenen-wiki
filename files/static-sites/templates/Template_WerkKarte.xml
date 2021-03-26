@@ -29,9 +29,9 @@
         |headers=show
         |width=100%
         |height=350px
+        |cluster = yes
+        |clustermaxradius=20
         |defzoom=3
-        |maxzoom=14
-        |minzoom=3
         |layers=Esri.WorldShadedRelief
         |type=terrain
         }}

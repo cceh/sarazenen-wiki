@@ -11,16 +11,13 @@
         </rules>
     </meta>
     <text><wikisyntax>&lt;noinclude&gt;[[Kategorie:Templates]]&lt;/noinclude&gt;
-        &lt;onlyinclude&gt;
-        {{#display_map:{{{Koordinaten}}}
-        |centre=Europe
-        |static=yes
-        |layers=Esri.WorldShadedRelief
-        |width=100%|height=30em
-        |icon={{{icon}}}
-        |defzoom=3
-        |maxzoom=3
-        |minzoom=3}}
+        &lt;onlyinclude&gt;{{#compound_query: [[{{FULLPAGENAME}}]] [[Kategorie:Abfassungsort]]; ?getty_coordinates ; icon=Icon-abfassungsort-41.png; limit=9999 
+        | [[{{FULLPAGENAME}}]] [[Kategorie:Kloster]]; ?getty_coordinates ; icon=Icon-kloster-41.png; limit=9999 
+        | [[{{FULLPAGENAME}}]] [[Kategorie:Ort]]; ?getty_coordinates ; icon=Icon-ort-41.png; limit=9999 
+        | [[{{FULLPAGENAME}}]] [[Kategorie:Berg]]; ?getty_coordinates ; icon=Icon-berg-41.png; limit=9999 
+        | [[{{FULLPAGENAME}}]] [[Kategorie:Fluss]]; ?getty_coordinates ; icon=Icon-gewaesser-41.png; limit=9999 
+        | [[{{FULLPAGENAME}}]] [[Kategorie:Region]]; ?getty_coordinates ; icon=Icon-region-41.png; limit=9999 
+        |cluster = yes |clustermaxradius=20 |def|format=map |height=30em |defzoom=3     |layers=Esri.WorldShadedRelief |type=terrain }}
         &lt;/onlyinclude&gt;</wikisyntax>
     </text>
 </page>

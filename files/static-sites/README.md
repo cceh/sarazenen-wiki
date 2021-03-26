@@ -85,11 +85,11 @@ wird zu
  : ELEMENT 
   ```  
 ## links
-No linking: ```[[: | ]]```
+No linking: `[: | ]]`
 
-Link: ```[ | ] ```
+Link: `[ | ] `
 
-Intern Link ```[[ | ]]
+Intern Link `[[ | ]]`
 
 ## Bilder
 ```xml 
@@ -97,4 +97,20 @@ Intern Link ```[[ | ]]
 ```
 
 ## wikisyntax
-``` #set | #ask ``` Befehle und alle nicht umgesetzen Syntax Elemente können dort eingetragen werden
+` #set | #ask` Befehle und alle nicht umgesetzen Syntax Elemente können dort eingetragen werden
+
+# Elementnutzung
+## Karten
+Die folgenden Templates nutzen Karten
+
+- [Template:LocationMap](templates/Template_LocationMap)
+- [Template:WerkKarte](templates/Template_WerkKarte)
+- [Template:Verfasserin](templates/Template_Verfasserin)
+- [Template:HauptseiteKarte](templates/Template_Abfassungsregion)
+- [Template:Abfassungsregion](templates/Template_Abfassungsregion)
+- [Kategorie:Abfassungsregion](kategorien/Kategorie_Abfassungsregion)
+
+Alle Karten nutzen `Esri.WorldShadedRelief` 
+
+
+
