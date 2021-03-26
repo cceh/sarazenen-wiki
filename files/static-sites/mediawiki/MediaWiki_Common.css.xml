@@ -259,7 +259,7 @@
             .infobox .wikitable th, .infobox .wikitable tr  {border: 1px solid #aaa;}
             .infobox .wikitable td {border: none; vertical-align:top; padding-top:0.25rem; padding-bottom:0.25rem;}
             .infobox .wikitable .subhead { font-weight:bold; text-align:center;background-color: rgba(241,241,241,0.6); background-blend-mode: lighten;/*background-color:#f1f1f1;*/}
-            .infobox .wikitable .subheader { text-align:center; background-color:#f1f1f1;}
+            .infobox .wikitable .subheader { text-align:center; background:rgba(241,241,241,0.6);}
             .infobox .wikitable .map {padding:0;}
             /* Image Positioning */
             .poem a.image img {width:1em;height:1em;}
