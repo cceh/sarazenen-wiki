@@ -10,7 +10,7 @@ classDiagram
     KategoriePerson <|-- Person : ist ein 
     
     class KategorieQuelle
-    KategorieQuelle <!-- Quellenstelle : ist ein
+    KategorieQuelle <|-- Quellenstelle : ist ein
     
     class KategorieVerfasserIn
     KategorieVerfasserIn <|-- VerfasserIn : ist ein 
