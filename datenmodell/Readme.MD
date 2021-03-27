@@ -98,7 +98,7 @@ classDiagram
     Quellenstelle: Abfrage(benachbarte Quellenstellen)
     
     class UnterobjektQuelle
-    UnterobjektQuelle <-- Quelle : hat Unterobjekt
+    UnterobjektQuelle <-- Quellenstelle : hat Unterobjekt
     UnterobjektQuelle: Attribut ZeitangabeBeginn
     UnterobjektQuelle: Attribut ZeitangabeEnde
     
