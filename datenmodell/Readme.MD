@@ -61,7 +61,7 @@ classDiagram
     class UnterobjektWerk#1
     UnterobjektWerk#1: Attribut BerichtszeitraumBeginn
     UnterobjektWerk#1: Attribut BerichtszeitraumEnde
-    Unterobjekt#1 <-- Werk : hat Unterobjekt
+    UnterobjektWerk#1 <-- Werk : hat Unterobjekt
     
     class VerfasserIn
     VerfasserIn: Attribut Alternativnamen
