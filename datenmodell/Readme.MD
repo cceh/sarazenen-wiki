@@ -9,6 +9,9 @@ classDiagram
     class KategoriePerson
     KategoriePerson <|-- Person : ist ein 
     
+    class KategorieQuelle
+    KategorieQuelle <!-- Quellenstelle : ist ein
+    
     class KategorieVerfasserIn
     KategorieVerfasserIn <|-- VerfasserIn : ist ein 
     
@@ -93,6 +96,12 @@ classDiagram
     Quellenstelle --> Ort : geographischer Bezug zu 
     Quellenstelle --> Schlagwort : relevante Schlagworte
     Quellenstelle: Abfrage(benachbarte Quellenstellen)
+    
+    class UnterobjektQuelle
+    UnterobjektQuelle <-- Quelle : hat Unterobjekt
+    UnterobjektQuelle: Attribut ZeitangabeBeginn
+    UnterobjektQuelle: Attribut ZeitangabeEnde
+    
 
     class Person
     Person: Attribut Alternativnamen
