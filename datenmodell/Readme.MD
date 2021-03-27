@@ -58,10 +58,10 @@ classDiagram
     Werk: Abfrage(Quellenstellen)
     Werk: Abfrage(Datierung Quellenstellen)
     
-    class UnterobjektWerk#1
-    UnterobjektWerk#1: Attribut BerichtszeitraumBeginn
-    UnterobjektWerk#1: Attribut BerichtszeitraumEnde
-    UnterobjektWerk#1 <-- Werk : hat Unterobjekt
+    class UnterobjektWerk1
+    UnterobjektWerk1: Attribut BerichtszeitraumBeginn
+    UnterobjektWerk1: Attribut BerichtszeitraumEnde
+    UnterobjektWerk1 <-- Werk : hat Unterobjekt
     
     class VerfasserIn
     VerfasserIn: Attribut Alternativnamen
