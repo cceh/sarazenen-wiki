@@ -85,7 +85,7 @@ classDiagram
     Quellenstelle: Seiteninhalt Anmerkungen
     Quellenstelle: Attribut Inhaltsangabe
     Quellenstelle: Attribut datiert_auf
-    Quellenstelle: Attribut Datierung_maschinenlesbar
+    Quellenstelle: Attribut Datum laut Werk
     Quellenstelle: Attribut Individuen
     Quellenstelle: Attribut Interaktion
     Quellenstelle: Attribut Kollektive
