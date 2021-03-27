@@ -46,9 +46,7 @@ classDiagram
     Werk: Seiteninhalt Beschreibung
     Werk: Seiteninhalte Editionshinweise
     Werk: Attribut Berichtszeitraum 
-    Werk: Attribut Berichtszeitraum_maschinenlesbar
-    Werk: Attribut Abfassungzeit
-    Werk: Attribut Abfassungszeit_maschinenlesbar
+    Werk: Attribut Abfassungszeit
     Werk: Attribut Sarazenenbezug
     Werk: Attribut Werknummer
     Werk <-- Quellenstelle : Aus dem Werk
@@ -62,6 +60,11 @@ classDiagram
     UnterobjektWerk1: Attribut BerichtszeitraumBeginn
     UnterobjektWerk1: Attribut BerichtszeitraumEnde
     UnterobjektWerk1 <-- Werk : hat Unterobjekt
+    
+    class UnterobjektWerk2
+    UnterobjektWerk2: Attribut AbfassungszeitBeginn
+    UnterobjektWerk2: Attribut AbfassungszeitEnde
+    UnterobjektWerk2 <-- Werk : hat Unterobjekt
     
     class VerfasserIn
     VerfasserIn: Attribut Alternativnamen
