@@ -1,10 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?><mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/" version="0.10" xml:lang="de"><siteinfo><sitename>Sarazenen Wiki</sitename><dbname>sarazenen-bonn</dbname><base>http://saraceni.uni-koeln.de/sarazenen_wiki/Repertorium_Saracenorum</base><generator>MediaWiki 1.27.4</generator><case>first-letter</case><namespaces><namespace key="-2" case="first-letter">Medium</namespace><namespace key="-1" case="first-letter">Spezial</namespace><namespace key="0" case="first-letter"/><namespace key="1" case="first-letter">Diskussion</namespace><namespace key="2" case="first-letter">Benutzer</namespace><namespace key="3" case="first-letter">Benutzer Diskussion</namespace><namespace key="4" case="first-letter">Sarazenen Wiki</namespace><namespace key="5" case="first-letter">Sarazenen Wiki Diskussion</namespace><namespace key="6" case="first-letter">Datei</namespace><namespace key="7" case="first-letter">Datei Diskussion</namespace><namespace key="8" case="first-letter">MediaWiki</namespace><namespace key="9" case="first-letter">MediaWiki Diskussion</namespace><namespace key="10" case="first-letter">Vorlage</namespace><namespace key="11" case="first-letter">Vorlage Diskussion</namespace><namespace key="12" case="first-letter">Hilfe</namespace><namespace key="13" case="first-letter">Hilfe Diskussion</namespace><namespace key="14" case="first-letter">Kategorie</namespace><namespace key="15" case="first-letter">Kategorie Diskussion</namespace><namespace key="102" case="first-letter">Attribut</namespace><namespace key="103" case="first-letter">Attribut Diskussion</namespace><namespace key="106" case="first-letter">Formular</namespace><namespace key="107" case="first-letter">Formular Diskussion</namespace><namespace key="108" case="first-letter">Konzept</namespace><namespace key="109" case="first-letter">Konzept Diskussion</namespace><namespace key="170" case="first-letter">Filter</namespace><namespace key="171" case="first-letter">Filter Diskussion</namespace><namespace key="828" case="first-letter">Modul</namespace><namespace key="829" case="first-letter">Modul Diskussion</namespace></namespaces></siteinfo><page>
-      <title>Annales Bertiniani</title>
+      <title>Historiarum libri quinque</title>
       <ns>0</ns>
       <id>3001</id>
       <revision>
          <id>3001</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
+         <contributor>
+            <username>Administrator</username>
+            <id>1</id>
+         </contributor>
+         <model>wikitext</model>
+         <format>text/x-wiki</format>
+         <text xml:space="preserve" bytes="3441"> {{Template:Werk
+|Name={{FULLPAGENAME}}
+|Subheader=Historiarum libri quinque ab anno incarnationis 900 usque ad a. 1044/Geschichte der Jahre 900 bis 1044 in fünf Büchern
+|Alternativnamen={{#show:{{FULLPAGENAME}}|?Alternativnamen|link=none}}
+|Werknummer={{#show:{{FULLPAGENAME}}|?Werknummer|link=none}}
+|Abfassungszeit={{#show:{{FULLPAGENAME}}|?Abfassungszeit|link=none}}
+|Berichtszeitraum={{#show:{{FULLPAGENAME}}|?Berichtszeitraum|link=none}}
+|VerfasserIn=[[abgefasst von::Rodulf der Kahle]]
+|Lebensdaten=Rodulf der Kahle: {{#show: Rodulf der Kahle |?Lebensdaten | link=none}}
+|abgefasst in=[[abgefasst in::Cluny]], [[abgefasst in::Auxerre]]
+|Abfassungsregion={{#show:{{FULLPAGENAME}}|?Abfassungsregion|link=none}}
+|Abfassungsort_koordinaten={{#show:[[Ort:Cluny]]|?getty_coordinates|link=none}}{{#show:[[Ort:Auxerre]]|?getty_coordinates|link=none}}
+|getty_id={{#show:{{FULLPAGENAME}}|?getty_id|link=none}}
+|viaf_id={{#show:{{FULLPAGENAME}}|?viaf_id|link=none}}
+|wikidata_id={{#show:{{FULLPAGENAME}}|?wikidata_id|link=none}}
+|getty_coordinates={{#show:{{FULLPAGENAME}}|?getty_coordinates|link=none}}}}
+&lt;poem&gt;Die Historiarum libri quinque wurde von Rodulfus Glaber (Rodulf der Kahle) ab ca. 1030 bis ca. 1044 verfasst und Abt Odilo von Cluny gewidmet. Der Verfasser berichtet hier in fünf Büchern über die Jahre 900 bis 1044, mit einem Schwerpunkt auf dem Jahrhundertwechsel. Rodulfus erwähnt Mohammed hier erstmals für ein nordeuropäisches Werk.
+Vgl. auch mit Hinweisen für weiterführende Literatur Rodulfus Glaber, Historiarum libri quinque ab anno incarnationis 900 usque ad a. 1044, in: Repertorium ‚Geschichtsquellen des deutschen Mittelalters‘ [http://www.geschichtsquellen.de/repOpus_04108.html 2016-08-11]; Michael Frassetto, Art. Rodulf Glaber, in: Encyclopedia of the Medieval Chronicle 2 (2010), S. 1289; Jan Prelog, Art. Raoul Glaber, in: Lexikon des Mittelalters 7, Sp. 933 [Brepolis Medieval Encyclopaedias – Lexikon des Mittelalters Online, 2016-08-11].&lt;/poem&gt;
+
+&lt;br/&gt;
+{{#set:
+Abfassungszeit=1031-1047
+|Berichtszeitraum=900-1044
+|Werknummer=0009
+                    |Abfassungsregion= West- und Mitteleuropa – Westfrankenreich
+
+
+}}
+&lt;br/&gt;
+
+=== Editionshinweise ===
+&lt;poem&gt;
+Rodulfus Glaber, Historiarum libri quinque, ed. John France (Oxford Medieval Texts), Oxford 1989, S. 2-253.
+&lt;/poem&gt;
+                                            
+=== Quellenstellen ===
+{{#ask:
+[[Kategorie:Quelle]]
+[[aus dem Werk::Historiarum libri quinque]]
+                    |mainlabel=Dokumentname
+                    |?Inhaltsangabe#
+                    |?Zitation#
+                    |?datiert auf#
+                    |format=table
+                    |headers=plain
+}}
+=== Datierung ===
+{{Template:Werk-Datierung-1}}
+&lt;div id='leiste'&gt;
+                &lt;html id='preHtml'&gt;
+                &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
+                        &lt;g&gt;  
+                        &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;line id="x-axis" x1="850"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
+                    
+                             &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="850" y="95" class="year"&gt;850 &lt;/text&gt;
+                        
+                             &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="900" y="95" class="year"&gt;900 &lt;/text&gt;
+                        
+                             &lt;line  x1="950" y1="0" x2="950" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="950" y="95" class="year"&gt;950 &lt;/text&gt;
+                        
+                             &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1000" y="95" class="year"&gt;1000 &lt;/text&gt;
+                        
+                             &lt;line  x1="1050" y1="0" x2="1050" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1050" y="95" class="year"&gt;1050 &lt;/text&gt;
+                        
+                             &lt;line  x1="1100" y1="0" x2="1100" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
+                       &lt;text x="1100" y="95" class="year"&gt;1100 &lt;/text&gt;
+                         
+                        &lt;/g&gt;&lt;g&gt; 
+                        
+        &lt;g&gt;
+        &lt;rect x="1031" y="12" width="16" height="45" class="box-abfassung" style="fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;/g&gt;
+                    
+                          &lt;/g&gt; 
+                           &lt;g&gt; 
+                
+        &lt;g&gt;
+        &lt;rect x="900" y="26" width="144" height="45" class="box-bericht" style="fill-opacity:0.9;"/&gt;
+        
+        
+        &lt;text x="900" y="70" class="label" style="color: #bfff80; text-anchor: end"&gt;900&lt;/text&gt;
+        &lt;text x="1044" y="70" class="label" style="color: #bfff80; text-anchor: start"&gt;1044&lt;/text&gt;
+        &lt;/g&gt;
+                              
+                          &lt;/g&gt; 
+                          &lt;g&gt; 
+           
+        &lt;g&gt;
+        &lt;rect x="936" y="26" width="37" height="37"
+        label="Quelle 0001: 936-973" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="972" y="26" width="1" height="37"
+        label="Quelle 0002: 972/973" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="973" y="26" width="1" height="37"
+        label="Quelle 0002: 972/973" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="929" y="26" width="32" height="37"
+        label="Quelle 0003: 929-961" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="978" y="26" width="24" height="37"
+        label="Quelle 0003: 978-1002" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1000" y="26" width="2" height="37"
+        label="Quelle 0004: 1000-1002" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="995" y="26" width="7" height="37"
+        label="Quelle 0005: Mai/Juni um 1000-1002" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1010" y="26" width="1" height="37"
+        label="Quelle 0006: 1010" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1032" y="26" width="3" height="37"
+        label="Quelle 0007: 1032-1035" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+        &lt;g&gt;
+        &lt;rect x="1002" y="26" width="1" height="37"
+        label="Quelle 0008: 1002" class="box-aufgenommen"	style="stroke:black;stroke-width:0.1;opacity:1;"/&gt;
+        &lt;/g&gt;
+    
+                        &lt;/g&gt; 
+                            &lt;/svg&gt;&lt;/html&gt;&lt;/div&gt;                 
+                    
+                        
+{{Template:Werk-Datierung-2}}
+{{#set:
+Sarazenenbezug=ja
+ |gnd_id=1088021387
+}}
+                    
+                    
+=== Zitationshinweis ===
+{{Template:Zitation}}
+
+                    
+                     {{#subobject:
+ AbfassungszeitraumBeginn=1031 |AbfassungszeitraumEnde=1047}}
+            
+ __SHOWFACTBOX__
+[[Kategorie: Werk]]  
+                        </text>
+         <sha1/>
+      </revision>
+   </page><page>
+      <title>Annales Bertiniani</title>
+      <ns>0</ns>
+      <id>3002</id>
+      <revision>
+         <id>3002</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -64,11 +250,11 @@ Annales de Saint-Bertin, ed. Felix Grat – Jeanne Vieilliard – Suzanne Cléme
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="700" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="710" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="855" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="865" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="865" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="700" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="710" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="700"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -272,10 +458,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Hludovici Pii imperatoris</title>
       <ns>0</ns>
-      <id>3002</id>
+      <id>3003</id>
       <revision>
-         <id>3002</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3003</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -335,11 +521,11 @@ Astronomus, Vita Hludowici imperatoris, hg. und übers. v. Ernst Tremp, in: Theg
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="750  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="750" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="760" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="905" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="915" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="915" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="750" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="760" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="750"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -527,10 +713,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Gesta Karoli</title>
       <ns>0</ns>
-      <id>3003</id>
+      <id>3004</id>
       <revision>
-         <id>3003</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3004</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -590,11 +776,11 @@ Notker der Stammler, Taten Kaiser Karls des Grossen, ed. Hans F. Haefele (MGH SS
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="700" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="710" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="855" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="865" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="865" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="700" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="710" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="700"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -683,10 +869,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Hildesheimenses</title>
       <ns>0</ns>
-      <id>3004</id>
+      <id>3005</id>
       <revision>
-         <id>3004</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3005</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -746,11 +932,11 @@ Annales Hildesheimenses, ed. Georg Waitz (MGH SS rer. Germ. [8]), Hannover 1878.
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -890,10 +1076,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales regni Francorum</title>
       <ns>0</ns>
-      <id>3005</id>
+      <id>3006</id>
       <revision>
-         <id>3005</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3006</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -953,11 +1139,11 @@ Annales regni Francorum inde ab a. 741 usque ad a. 829, qui dicuntur Annales Lau
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="700" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="710" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="855" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="865" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="865" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="700" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="710" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="700"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -1178,10 +1364,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Altahenses</title>
       <ns>0</ns>
-      <id>3006</id>
+      <id>3007</id>
       <revision>
-         <id>3006</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3007</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1241,11 +1427,11 @@ Annales Altahenses maiores, ed. Wilhelm Giesebrecht – Edmund von Oefele (MGH S
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -1364,10 +1550,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Lamperti Hersfeldensis Annales</title>
       <ns>0</ns>
-      <id>3007</id>
+      <id>3008</id>
       <revision>
-         <id>3007</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3008</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1427,11 +1613,11 @@ Lamperti monachi Hersfeldensis opera, ed. Oswald Holder-Egger (MGH SS rer. Germ.
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -1551,10 +1737,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales qui dicuntur Einhardi</title>
       <ns>0</ns>
-      <id>3008</id>
+      <id>3009</id>
       <revision>
-         <id>3008</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3009</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1614,11 +1800,11 @@ Annales regni Francorum inde ab a. 741 usque ad a. 829, qui dicuntur Annales Lau
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="700" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="710" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="855" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="865" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="865" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="700" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="710" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="700"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -1721,10 +1907,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Gesta Hludovici imperatoris</title>
       <ns>0</ns>
-      <id>3009</id>
+      <id>3010</id>
       <revision>
-         <id>3009</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3010</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1784,11 +1970,11 @@ Thegan, Gesta Hludovici imperatoris, hg. und übers. v. Ernst Tremp, in: Thegan.
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -1862,10 +2048,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales qui dicuntur Xantenses</title>
       <ns>0</ns>
-      <id>3010</id>
+      <id>3011</id>
       <revision>
-         <id>3010</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3011</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -1925,11 +2111,11 @@ Annales Xantenses qui dicuntur, ed. Berhard von Simson, in: MGH SS rer. Germ. [1
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="600  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="600" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="610" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="610" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="755" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="765" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="765" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="600" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="610" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="610" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="600"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="600" y1="0" x2="600" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -2056,10 +2242,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Bernoldi Chronicon</title>
       <ns>0</ns>
-      <id>3011</id>
+      <id>3012</id>
       <revision>
-         <id>3011</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3012</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2119,11 +2305,11 @@ Bernoldi chronicon 1-1100, ed. Georg Heinrich Pertz, in: MGH SS 5, Hannover 1844
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -2328,10 +2514,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti</title>
       <ns>0</ns>
-      <id>3012</id>
+      <id>3013</id>
       <revision>
-         <id>3012</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3013</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2391,11 +2577,11 @@ Carmen elegiacum in honorem Hludovici christianissimi Caesaris Augusti, hg. von 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="750  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="750" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="760" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="905" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="915" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="915" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="750" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="760" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="750"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -2488,10 +2674,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historia Langobardorum</title>
       <ns>0</ns>
-      <id>3013</id>
+      <id>3014</id>
       <revision>
-         <id>3013</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3014</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2551,11 +2737,11 @@ Paulus Diaconus, Historia Langobardorum, ed. Georg Waitz (MGH SS rer. Germ. [48]
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -2692,10 +2878,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon de sex aetatibus mundi</title>
       <ns>0</ns>
-      <id>3014</id>
+      <id>3015</id>
       <revision>
-         <id>3014</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3015</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -2755,11 +2941,11 @@ Hermanni Augiensis Chronicon, ed. Georg Heinrich Pertz, in: MGH SS 5, Hannover 1
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -2951,10 +3137,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Versus ad pueros</title>
       <ns>0</ns>
-      <id>3015</id>
+      <id>3016</id>
       <revision>
-         <id>3015</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3016</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3014,11 +3200,11 @@ Versus ad pueros, hg. von Ernst Dümmler, in: MGH Poetae 2, Berlin 1884, S. 92-9
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="750  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="750" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="760" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="905" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="915" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="915" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="750" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="760" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="750"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -3086,10 +3272,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historia Ottonis</title>
       <ns>0</ns>
-      <id>3016</id>
+      <id>3017</id>
       <revision>
-         <id>3016</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3017</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3149,11 +3335,11 @@ Liudprand von Cremona, Historia Ottonis, in: Die Werke Liudprands von Cremona, e
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="900  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="900" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="910" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="910" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1055" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1065" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1065" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="900" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="910" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="910" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="900"  y1="80" x2="1000" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -3218,10 +3404,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Relatio de legatione Constantinopolitana</title>
       <ns>0</ns>
-      <id>3017</id>
+      <id>3018</id>
       <revision>
-         <id>3017</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3018</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3281,11 +3467,11 @@ Liudprand von Cremona, Legatio, in: Die Werke Liudprands von Cremona, ed. Joseph
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="900  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="900" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="910" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="910" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1055" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1065" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1065" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="900" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="910" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="910" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="900"  y1="80" x2="1000" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="900" y1="0" x2="900" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -3400,10 +3586,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Gesta Hammaburgensis ecclesiae pontificum</title>
       <ns>0</ns>
-      <id>3018</id>
+      <id>3019</id>
       <revision>
-         <id>3018</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3019</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3463,11 +3649,11 @@ Adam von Bremen, Gesta Hammaburgensis ecclesiae pontificum, ed. Bernhard Schmeid
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="750  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="750" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="760" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="905" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="915" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="915" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="750" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="760" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="750"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -3560,10 +3746,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Quedlinburgenses</title>
       <ns>0</ns>
-      <id>3019</id>
+      <id>3020</id>
       <revision>
-         <id>3019</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3020</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3623,11 +3809,11 @@ Die Annales Quedlinburgenses, ed. Martina Giese (MGH SS rer. Germ. 72), Hannover
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -3739,10 +3925,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>sog. Fredegar-Chronik mit Fortsetzung</title>
       <ns>0</ns>
-      <id>3020</id>
+      <id>3021</id>
       <revision>
-         <id>3020</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3021</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -3802,11 +3988,11 @@ Chronicon qui dicuntur Fredegarii Scholastici Libri IV cum continuationibus, ed.
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -3943,10 +4129,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Laureshamenses</title>
       <ns>0</ns>
-      <id>3021</id>
+      <id>3022</id>
       <revision>
-         <id>3021</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3022</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4006,11 +4192,11 @@ Annales Laureshamenses, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -4111,10 +4297,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales S. Amandi</title>
       <ns>0</ns>
-      <id>3022</id>
+      <id>3023</id>
       <revision>
-         <id>3022</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3023</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4174,11 +4360,11 @@ Annales Sancti Amandi, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S.
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -4270,10 +4456,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Tiliani</title>
       <ns>0</ns>
-      <id>3023</id>
+      <id>3024</id>
       <revision>
-         <id>3023</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3024</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4333,11 +4519,11 @@ Annales Tiliani, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 6, 8,
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -4442,10 +4628,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Alamannici</title>
       <ns>0</ns>
-      <id>3024</id>
+      <id>3025</id>
       <revision>
-         <id>3024</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3025</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4505,11 +4691,11 @@ Annales Alamannici, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 22
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="1000" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -4609,10 +4795,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Passio Sancti Pelagii</title>
       <ns>0</ns>
-      <id>3025</id>
+      <id>3026</id>
       <revision>
-         <id>3025</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3026</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4672,11 +4858,11 @@ Passio Sancti Pelagii Preciosissimi Martiris, Qui Nostris Temporisbus In Corduba
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="1000" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -4756,10 +4942,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historiarum libri quattuor</title>
       <ns>0</ns>
-      <id>3026</id>
+      <id>3027</id>
       <revision>
-         <id>3026</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3027</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4819,11 +5005,11 @@ Nithardi Historiarum libri IIII, ed. Georg Heinrich Pertz (MGH SS rer. Germ. [44
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="750  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="750" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="760" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="905" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="915" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="915" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="750" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="760" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="760" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="750"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="750" y1="0" x2="750" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -4891,10 +5077,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Bertholdi Chronicon</title>
       <ns>0</ns>
-      <id>3027</id>
+      <id>3028</id>
       <revision>
-         <id>3027</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3028</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -4954,11 +5140,11 @@ Die Chroniken Bertholds von Reichenau und Bernolds von Konstanz 1054-1100, ed. I
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="1000  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="1000" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1010" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="1010" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1155" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1165" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1165" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="1000" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1010" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="1010" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="1000"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="1000" y1="0" x2="1000" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -5026,10 +5212,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Gesta Dagoberti I. regis Francorum</title>
       <ns>0</ns>
-      <id>3028</id>
+      <id>3029</id>
       <revision>
-         <id>3028</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3029</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5089,11 +5275,11 @@ Gesta Dagoberti I. regis Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="600  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="600" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="610" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="610" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="755" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="765" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="765" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="600" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="610" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="610" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="600"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="600" y1="0" x2="600" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -5175,10 +5361,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Sangallenses maiores</title>
       <ns>0</ns>
-      <id>3029</id>
+      <id>3030</id>
       <revision>
-         <id>3029</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3030</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5238,11 +5424,11 @@ Annales Sangallenses, ed. Carl Henking, in: Die annalistischen Aufzeichnungen de
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -5372,10 +5558,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Gesta sanctorum patrum Fontanellensis coenobii</title>
       <ns>0</ns>
-      <id>3030</id>
+      <id>3031</id>
       <revision>
-         <id>3030</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3031</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5435,11 +5621,11 @@ Chronique des Abbés de Fontenelle (Saint-Wandrille), ed. Pascal Pradié (Les Cl
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="600  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="600" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="610" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="610" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="755" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="765" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="765" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="600" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="610" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="610" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="600"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="600" y1="0" x2="600" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -5536,10 +5722,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Corduba Parisios</title>
       <ns>0</ns>
-      <id>3031</id>
+      <id>3032</id>
       <revision>
-         <id>3031</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3032</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5599,11 +5785,11 @@ De translatione ss. martyrium Georgii monachi, Aurelii et Nathaliae ex urbe Cord
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="800  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="800" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="810" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="810" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="955" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="965" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="965" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="800" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="810" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="810" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="800"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="800" y1="0" x2="800" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -5711,10 +5897,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon in aetates sex divisum</title>
       <ns>0</ns>
-      <id>3032</id>
+      <id>3033</id>
       <revision>
-         <id>3032</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3033</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5774,11 +5960,11 @@ S. Adonis Viennesis Chronicon in aetates sex divisum, ed. Jacques Paul Migne (Pa
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -5930,10 +6116,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Lobienses</title>
       <ns>0</ns>
-      <id>3033</id>
+      <id>3034</id>
       <revision>
-         <id>3033</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3034</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -5993,11 +6179,11 @@ Annales Lobienses, ed. Georg Waitz, in: MGH SS 13, Hannover 1881, S. 224-235. [h
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -6126,10 +6312,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Gesta episcoporum Mettensium</title>
       <ns>0</ns>
-      <id>3034</id>
+      <id>3035</id>
       <revision>
-         <id>3034</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3035</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6189,11 +6375,11 @@ Paulus Warnefridus, Liber de episcopis Mettensibus, ed. Georg Heinrich Pertz, in
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -6275,10 +6461,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Besuenses</title>
       <ns>0</ns>
-      <id>3035</id>
+      <id>3036</id>
       <revision>
-         <id>3035</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3036</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6338,11 +6524,11 @@ Annales Besuenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 247
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -6432,10 +6618,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>De temporum ratione liber</title>
       <ns>0</ns>
-      <id>3036</id>
+      <id>3037</id>
       <revision>
-         <id>3036</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3037</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6495,11 +6681,11 @@ Beda Venerabilis, De temporum ratione liber, ed. Charles William Jones (CCSL 123
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="800" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -6593,10 +6779,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Adbreviatio de gestis Langobardorum</title>
       <ns>0</ns>
-      <id>3037</id>
+      <id>3038</id>
       <revision>
-         <id>3037</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3038</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6656,11 +6842,11 @@ Adbreviatio de gestis Langobardorum, ed. Waitz, in: MGH SS rer Lang. [1], Hannov
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="700" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="710" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="855" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="865" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="865" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="700" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="710" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="700"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -6739,10 +6925,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Barenses</title>
       <ns>0</ns>
-      <id>3038</id>
+      <id>3039</id>
       <revision>
-         <id>3038</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3039</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6802,11 +6988,11 @@ Annales Barenses, ed. Georg Pertz, in: MGH SS 5, Hannover 1844, S. 51-63. [http:
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -6923,10 +7109,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historia Gothorum Wandalorum Sueborum</title>
       <ns>0</ns>
-      <id>3039</id>
+      <id>3040</id>
       <revision>
-         <id>3039</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3040</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -6986,11 +7172,11 @@ Isidor, Historia Gothorum Wandalorum Sueborum, ed. Theodor Mommsen, in: MGH Auct
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="700" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -7058,10 +7244,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Cronicae Sancti Benedicti Casinensis</title>
       <ns>0</ns>
-      <id>3040</id>
+      <id>3041</id>
       <revision>
-         <id>3040</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3041</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7121,11 +7307,11 @@ Cronicae Sancti Benedicti Casinensis, ed. Luigi Andrea Berto (Edizione nazionale
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -7299,10 +7485,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historia Langobardorum Beneventanorum</title>
       <ns>0</ns>
-      <id>3041</id>
+      <id>3042</id>
       <revision>
-         <id>3041</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3042</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7362,11 +7548,11 @@ Erchemperto, Piccola Storia dei Longobardi di Benevento, ed. Luigi Andrea Berto 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="700  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="700" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="710" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="855" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="865" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="865" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="700" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="710" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="710" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="700"  y1="80" x2="950" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="700" y1="0" x2="700" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -7620,10 +7806,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronica Byzantina-Arabica</title>
       <ns>0</ns>
-      <id>3042</id>
+      <id>3043</id>
       <revision>
-         <id>3042</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3043</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7683,11 +7869,11 @@ Chronica Byzantia-Arabica, ed. Juan Gil, in: Corpus Scriptorum Muzarabicorum 1, 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="800" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -7891,10 +8077,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Petaviani</title>
       <ns>0</ns>
-      <id>3043</id>
+      <id>3044</id>
       <revision>
-         <id>3043</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3044</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -7954,11 +8140,11 @@ Annales Petaviani, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S. 3-1
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -8044,10 +8230,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Flodoardi</title>
       <ns>0</ns>
-      <id>3044</id>
+      <id>3045</id>
       <revision>
-         <id>3044</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3045</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8107,11 +8293,11 @@ Les Annales de Flodoard, ed. Philippe Lauer (Collection de Textes pour servir a 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -8232,10 +8418,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita des Johannes von Gorze</title>
       <ns>0</ns>
-      <id>3045</id>
+      <id>3046</id>
       <revision>
-         <id>3045</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3046</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8295,11 +8481,11 @@ Die Geschichte vom Leben des Johannes, Abt des Klosters Gorze / Hystoria de vita
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -8370,10 +8556,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Symeonis Achivi</title>
       <ns>0</ns>
-      <id>3046</id>
+      <id>3047</id>
       <revision>
-         <id>3046</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3047</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8433,11 +8619,11 @@ Vita Symeonis Achivi, ed. Theo Klüppel – Walter Berschin, in: Die Abtei Reich
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -8518,10 +8704,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Etymologiae</title>
       <ns>0</ns>
-      <id>3047</id>
+      <id>3048</id>
       <revision>
-         <id>3047</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3048</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8581,11 +8767,11 @@ Isidori Hispalensis Episcopi Etymologiarum sive Originum Libri XX, ed. Wallace M
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="700" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -8640,10 +8826,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Sancti Udalrici</title>
       <ns>0</ns>
-      <id>3048</id>
+      <id>3049</id>
       <revision>
-         <id>3048</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3049</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8703,11 +8889,11 @@ Gerhard von Augsburg, Vita Sancti Uodalrici. Die älteste Lebensbeschreibung des
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -8783,10 +8969,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita sancti Maioli</title>
       <ns>0</ns>
-      <id>3049</id>
+      <id>3050</id>
       <revision>
-         <id>3049</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3050</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8846,11 +9032,11 @@ Vita sancti Maioli auctore S. Odilo Abbate et S. Maijoli successore, in: Acta Sa
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -8929,10 +9115,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Sancti Maioli</title>
       <ns>0</ns>
-      <id>3050</id>
+      <id>3051</id>
       <revision>
-         <id>3050</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3051</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -8992,11 +9178,11 @@ Ex Syri Vita S. Maioli, ed. Georg Waitz, in: MGH SS 4, Hannover 1841, S. 649-655
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -9072,10 +9258,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Sancti Willibaldi</title>
       <ns>0</ns>
-      <id>3051</id>
+      <id>3052</id>
       <revision>
-         <id>3051</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3052</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9135,11 +9321,11 @@ Vita Willibaldi episcopi Eichstetensis, ed. Oswald Holder-Egger, in: MGH SS 15, 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="850" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -9250,10 +9436,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita S. Maioli</title>
       <ns>0</ns>
-      <id>3052</id>
+      <id>3053</id>
       <revision>
-         <id>3052</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3053</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9313,11 +9499,11 @@ Vita sancti Maioli ex prolixoribus coaevorum actis a Nalgodo monacho post sequi 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -9398,10 +9584,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historia Remensis ecclesiae</title>
       <ns>0</ns>
-      <id>3053</id>
+      <id>3054</id>
       <revision>
-         <id>3053</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3054</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9461,11 +9647,11 @@ Flodoard von Reims, Die Geschichte der Reimser Kirche, ed. Martina Stratmann (MG
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1000" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -9566,10 +9752,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Mariani Scotti Chronicon</title>
       <ns>0</ns>
-      <id>3054</id>
+      <id>3055</id>
       <revision>
-         <id>3054</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3055</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9629,11 +9815,11 @@ Mariani Scotti Chronicon, ed. Georg Waitz, in: MGH SS 5, Hannover 1844, S. 481-5
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -9798,10 +9984,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Fuldense antiquissimi</title>
       <ns>0</ns>
-      <id>3055</id>
+      <id>3056</id>
       <revision>
-         <id>3055</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3056</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9862,10 +10048,10 @@ Annales Fuldenses Antiquissimi, ed. Friedrich Kurze, in: MGH SS rer. Germ. [7], 
    </page><page>
       <title>Annales Vedastini</title>
       <ns>0</ns>
-      <id>3056</id>
+      <id>3057</id>
       <revision>
-         <id>3056</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3057</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9926,10 +10112,10 @@ Annales Vedastini, ed. Bernhard von Simson, in: MGH SS rer. Germ. [12], Hannover
    </page><page>
       <title>Carmina duo in honorem gloriosissimi Pippini regis</title>
       <ns>0</ns>
-      <id>3057</id>
+      <id>3058</id>
       <revision>
-         <id>3057</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3058</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -9990,10 +10176,10 @@ Carmen Nigelli Ermoldi exulis in laudem gloriosissimi Pippini regis, ed. Ernst D
    </page><page>
       <title>Epitaphium Adelheidae Imperatricis</title>
       <ns>0</ns>
-      <id>3058</id>
+      <id>3059</id>
       <revision>
-         <id>3058</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3059</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10057,10 +10243,10 @@ Epitaphium Adalheidae imperatricis auctore Odilone, ed. Georg Heinrich Pertz, in
    </page><page>
       <title>Miracula s. Willehadi</title>
       <ns>0</ns>
-      <id>3059</id>
+      <id>3060</id>
       <revision>
-         <id>3059</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3060</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10121,10 +10307,10 @@ Anskarii Vita sancti Willehadi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
    </page><page>
       <title>Primordia coenobii Gandersheimensis</title>
       <ns>0</ns>
-      <id>3060</id>
+      <id>3061</id>
       <revision>
-         <id>3060</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3061</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10185,10 +10371,10 @@ Primordia coenobii Gandersheimensis, ed. Walter Berschin, in: Hrotsvit, Opera Om
    </page><page>
       <title>Saxonicum bellum</title>
       <ns>0</ns>
-      <id>3061</id>
+      <id>3062</id>
       <revision>
-         <id>3061</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3062</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10249,10 +10435,10 @@ Brunos Buch vom Sachsenkrieg, ed. Hans-Eberhard Lohmann (MGH Dt. MA 2), Leipzig 
    </page><page>
       <title>Translatio s. Alexandri</title>
       <ns>0</ns>
-      <id>3062</id>
+      <id>3063</id>
       <revision>
-         <id>3062</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3063</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10313,10 +10499,10 @@ Translatio s. Alexandri auctoribus Ruodolfo et Meginharto, ed. Georg Heinrich Pe
    </page><page>
       <title>Translatio s. Liborii</title>
       <ns>0</ns>
-      <id>3063</id>
+      <id>3064</id>
       <revision>
-         <id>3063</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3064</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10377,10 +10563,10 @@ Erconrad Translatio s. Liborii. Eine wiederentdeckte Geschichtsquelle der Karoli
    </page><page>
       <title>Vita Anskarii</title>
       <ns>0</ns>
-      <id>3064</id>
+      <id>3065</id>
       <revision>
-         <id>3064</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3065</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10444,10 +10630,10 @@ Vita sancti Anskarii. A Rimberto et alio discipulo Anskarii conscripta, ed. Chri
    </page><page>
       <title>Vita Bernwardi episcopi Hildesheimensis</title>
       <ns>0</ns>
-      <id>3065</id>
+      <id>3066</id>
       <revision>
-         <id>3065</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3066</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10508,10 +10694,10 @@ Vita Bernwardi episcopi Hildesheimensis auctore Thangmaro, ed. Georg Heinrich Pe
    </page><page>
       <title>Vita Brunonis archiepiscopi Coloniensis</title>
       <ns>0</ns>
-      <id>3066</id>
+      <id>3067</id>
       <revision>
-         <id>3066</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3067</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10572,10 +10758,10 @@ Ruotgeri vita Brunonis archiepiscopi Coloniensis, ed. Irene Ott (MGH SS rer. Ger
    </page><page>
       <title>Vita et obitus Hathumodae primae abbatissae Gandersheimensis</title>
       <ns>0</ns>
-      <id>3067</id>
+      <id>3068</id>
       <revision>
-         <id>3067</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3068</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10636,10 +10822,10 @@ Agii vita et obitus Hathumodae, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover
    </page><page>
       <title>Vita Gregorii abbatis Traiectensis</title>
       <ns>0</ns>
-      <id>3068</id>
+      <id>3069</id>
       <revision>
-         <id>3068</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3069</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10700,10 +10886,10 @@ Liudgeri vita Gregorii abbatis Traiectensis, ed. Oswald Holder-Egger, in: MGH SS
    </page><page>
       <title>Annales Brunwilarenses</title>
       <ns>0</ns>
-      <id>3069</id>
+      <id>3070</id>
       <revision>
-         <id>3069</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3070</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10764,10 +10950,10 @@ Annales Brunwilarenses, ed. Georg Heinrich Pertz, in: MGH SS 16, Hannover 1859, 
    </page><page>
       <title>Annales Floriacenses</title>
       <ns>0</ns>
-      <id>3070</id>
+      <id>3071</id>
       <revision>
-         <id>3070</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3071</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10828,10 +11014,10 @@ Annales Floriacenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Annales Lemovicenses</title>
       <ns>0</ns>
-      <id>3071</id>
+      <id>3072</id>
       <revision>
-         <id>3071</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3072</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10892,10 +11078,10 @@ Annales Lemovicenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Annales qui dicuntur Alcuini</title>
       <ns>0</ns>
-      <id>3072</id>
+      <id>3073</id>
       <revision>
-         <id>3072</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3073</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -10956,10 +11142,10 @@ Annales ut videtur Alcuini, ed. Georg Heinrich Pertz, in: MGH SS 4, Hannover 184
    </page><page>
       <title>Annales S. Amandi breves</title>
       <ns>0</ns>
-      <id>3073</id>
+      <id>3074</id>
       <revision>
-         <id>3073</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3074</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11020,10 +11206,10 @@ Annales S. Amandi breves, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829,
    </page><page>
       <title>Annales S. Bavonis Gandensis</title>
       <ns>0</ns>
-      <id>3074</id>
+      <id>3075</id>
       <revision>
-         <id>3074</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3075</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11084,10 +11270,10 @@ Annales S. Bavonis Gandensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1
    </page><page>
       <title>Annales S. Maximini Trevirensis</title>
       <ns>0</ns>
-      <id>3075</id>
+      <id>3076</id>
       <revision>
-         <id>3075</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3076</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11148,10 +11334,10 @@ Annales Sancti Maximini Trevirensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Han
    </page><page>
       <title>Bella Parisicae urbis</title>
       <ns>0</ns>
-      <id>3076</id>
+      <id>3077</id>
       <revision>
-         <id>3076</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3077</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11212,10 +11398,10 @@ Abbonis bella Parisiacae urbis, ed. Paul von Winterfeld, in: MGH Poeta 4,1, Berl
    </page><page>
       <title>Breviarium regum Francorum</title>
       <ns>0</ns>
-      <id>3077</id>
+      <id>3078</id>
       <revision>
-         <id>3077</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3078</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11279,10 +11465,10 @@ Erchanberti breviarium regum Francorum, ed. Georg Heinrich Pertz, in: MGH SS 2, 
    </page><page>
       <title>Carmen de gestis Oddonis I imperatoris</title>
       <ns>0</ns>
-      <id>3078</id>
+      <id>3079</id>
       <revision>
-         <id>3078</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3079</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11343,10 +11529,10 @@ Gesta Ottonis, ed. Walter Berschin, in: Hrotsvit, Opera Omnia, Leipzig – Münc
    </page><page>
       <title>Carmen de Carolo Magno</title>
       <ns>0</ns>
-      <id>3079</id>
+      <id>3080</id>
       <revision>
-         <id>3079</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3080</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11407,10 +11593,10 @@ Angilberti carmen de Karolo Magno, ed. Georg Heinrich Pertz, in: MGH SS 2, Hanno
    </page><page>
       <title>Casus S. Galli</title>
       <ns>0</ns>
-      <id>3080</id>
+      <id>3081</id>
       <revision>
-         <id>3080</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3081</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11471,10 +11657,10 @@ Casus S. Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 59-74  Rat
    </page><page>
       <title>Casuum S. Galli continuatio secunda</title>
       <ns>0</ns>
-      <id>3081</id>
+      <id>3082</id>
       <revision>
-         <id>3081</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3082</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11535,10 +11721,10 @@ Casuum S. Galli contiuatio II, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829
    </page><page>
       <title>Casuum S. Galli continuatio tertia</title>
       <ns>0</ns>
-      <id>3082</id>
+      <id>3083</id>
       <revision>
-         <id>3082</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3083</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11599,10 +11785,10 @@ Casuum S. Galli contiuatio III auctore Conrado de Fabaria, ed. Ildefons von Arx,
    </page><page>
       <title>Liber historiae Francorum</title>
       <ns>0</ns>
-      <id>3083</id>
+      <id>3084</id>
       <revision>
-         <id>3083</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3084</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11663,10 +11849,10 @@ Liber historiae Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 
    </page><page>
       <title>Historia Daretis Frigii de origine Francorum</title>
       <ns>0</ns>
-      <id>3084</id>
+      <id>3085</id>
       <revision>
-         <id>3084</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3085</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11727,10 +11913,10 @@ Historia Daretis Frigii de origine Francorum, ed. Bruno Krusch, in: MGH SS rer. 
    </page><page>
       <title>Vita Leobae</title>
       <ns>0</ns>
-      <id>3085</id>
+      <id>3086</id>
       <revision>
-         <id>3085</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3086</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11791,10 +11977,10 @@ Vita Leobae abbatissae Bischofesheimensis auctore Rudolfo Fuldensi, ed. Georg Wa
    </page><page>
       <title>Vita Mathildis reginae</title>
       <ns>0</ns>
-      <id>3086</id>
+      <id>3087</id>
       <revision>
-         <id>3086</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3087</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11858,10 +12044,10 @@ Die Lebensbeschreibungen der Königin Mathilde, ed. Bernd Schütte (MGH SS rer. 
    </page><page>
       <title>Vita s. Adalhardi abbatis Corbeiensis</title>
       <ns>0</ns>
-      <id>3087</id>
+      <id>3088</id>
       <revision>
-         <id>3087</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3088</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11922,10 +12108,10 @@ Ex vita Adalhard, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 524-
    </page><page>
       <title>Vita s. Arnulfi Suessionensis</title>
       <ns>0</ns>
-      <id>3088</id>
+      <id>3089</id>
       <revision>
-         <id>3088</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3089</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -11986,10 +12172,10 @@ Ex vita Arnulfi episcope Suessionensis auct. Hariulfo abate Aldenburgensi, ed. O
    </page><page>
       <title>Vita s. Bennonis II episcopi Osnabrugensis</title>
       <ns>0</ns>
-      <id>3089</id>
+      <id>3090</id>
       <revision>
-         <id>3089</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3090</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12050,10 +12236,10 @@ Vita Bennonis II. episcopi Osnabrvgensis avctore Nortberto abbate Ibvrgensi, ed.
    </page><page>
       <title>Vita s. Eigilis abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3090</id>
+      <id>3091</id>
       <revision>
-         <id>3090</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3091</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12114,10 +12300,10 @@ Vita Eigilis abbatis Fuldensis auctore Candido, ed. Georg Waitz, in: MGH SS 15,1
    </page><page>
       <title>Vita s. Hugonis abbatis</title>
       <ns>0</ns>
-      <id>3091</id>
+      <id>3092</id>
       <revision>
-         <id>3091</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3092</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12178,10 +12364,10 @@ Ex vita Hugonis auctore Rainaldo, ed. Lothar von Heinemann, in: MGH SS 15,2, Han
    </page><page>
       <title>Vita s. Lebuini</title>
       <ns>0</ns>
-      <id>3092</id>
+      <id>3093</id>
       <revision>
-         <id>3092</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3093</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12242,10 +12428,10 @@ Ex vita sancti Lebuini auctore Hucbaldo monacho s. Armandi, ed. Georg Heinrich P
    </page><page>
       <title>Vita s. Liudgeri episcopi Mimigardenfordensis</title>
       <ns>0</ns>
-      <id>3093</id>
+      <id>3094</id>
       <revision>
-         <id>3093</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3094</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12306,10 +12492,10 @@ Altfridi vita sancti Liudgeri, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 
    </page><page>
       <title>Vita s. Sturmi abbatis Fuldensis</title>
       <ns>0</ns>
-      <id>3094</id>
+      <id>3095</id>
       <revision>
-         <id>3094</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3095</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12370,10 +12556,10 @@ Eigilis vita sancit Sturmi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 182
    </page><page>
       <title>Vita s. Godehardi</title>
       <ns>0</ns>
-      <id>3095</id>
+      <id>3096</id>
       <revision>
-         <id>3095</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3096</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12437,10 +12623,10 @@ Wolferi vita Godehardi episcopi piror, ed. Georg Heinrich Pertz, in: MGH SS 11, 
    </page><page>
       <title>Vita s. Leudegardi</title>
       <ns>0</ns>
-      <id>3096</id>
+      <id>3097</id>
       <revision>
-         <id>3096</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3097</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12501,10 +12687,10 @@ Passio Leudegarii episcopi Augustodunensis auctore Ursino, ed. Bruno Krusch, in:
    </page><page>
       <title>Vita s. Otmari</title>
       <ns>0</ns>
-      <id>3097</id>
+      <id>3098</id>
       <revision>
-         <id>3097</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3098</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12565,10 +12751,10 @@ Walafride Strabonis vita sancti Otmari abbatis Sangallensis, ed. Ildefons von Ar
    </page><page>
       <title>Relatio de miraculis sancti Othmari</title>
       <ns>0</ns>
-      <id>3098</id>
+      <id>3099</id>
       <revision>
-         <id>3098</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3099</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12629,10 +12815,10 @@ Ysonis de miraculis s. Otmari libri II, ed. Ildefons von Arx, in: MGH SS 2, Hann
    </page><page>
       <title>Rhythmi de sancto Otmaro</title>
       <ns>0</ns>
-      <id>3099</id>
+      <id>3100</id>
       <revision>
-         <id>3099</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3100</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12693,10 +12879,10 @@ Rhythmi de sancto Otmaro, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 
    </page><page>
       <title>Vita sancti Willibrordi Traiectensis episcopi</title>
       <ns>0</ns>
-      <id>3100</id>
+      <id>3101</id>
       <revision>
-         <id>3100</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3101</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12757,10 +12943,10 @@ Vita Willibrordi archiepiscopi Traiectensis auctore Alcuino, ed. Hans-Joachim Re
    </page><page>
       <title>Vita s. Galli</title>
       <ns>0</ns>
-      <id>3101</id>
+      <id>3102</id>
       <revision>
-         <id>3101</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3102</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12821,10 +13007,10 @@ Vita sancti Galli, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S. 1-21  G
    </page><page>
       <title>Epistola ad Grimoldum abbatem, archicapellanum Ludovici imperatoris</title>
       <ns>0</ns>
-      <id>3102</id>
+      <id>3103</id>
       <revision>
-         <id>3102</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3103</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12885,10 +13071,10 @@ Ermenrici coenobitae Augiensis tentamen vitae s. Galli adornandae in prosa et me
    </page><page>
       <title>Chronica de sex aetatibus mundi</title>
       <ns>0</ns>
-      <id>3103</id>
+      <id>3104</id>
       <revision>
-         <id>3103</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3104</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -12949,10 +13135,10 @@ Chronica de sex aetatibus mundi, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannove
    </page><page>
       <title>Abbatum s. Galli catalogus</title>
       <ns>0</ns>
-      <id>3104</id>
+      <id>3105</id>
       <revision>
-         <id>3104</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3105</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13013,10 +13199,10 @@ Abbatum s. Galli catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hannover 1829, S
    </page><page>
       <title>Abbates monasterii Augensis catalogus</title>
       <ns>0</ns>
-      <id>3105</id>
+      <id>3106</id>
       <revision>
-         <id>3105</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3106</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13077,10 +13263,10 @@ Abbatum monasterii Augensis catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
    </page><page>
       <title>Episcoporum Constantiensium catalogus</title>
       <ns>0</ns>
-      <id>3106</id>
+      <id>3107</id>
       <revision>
-         <id>3106</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3107</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13141,10 +13327,10 @@ Episcoporum Constantiensium catalogus, ed. Ildefons von Arx, in: MGH SS 2, Hanno
    </page><page>
       <title>Vita s. Bonifatii</title>
       <ns>0</ns>
-      <id>3107</id>
+      <id>3108</id>
       <revision>
-         <id>3107</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3108</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13205,10 +13391,10 @@ Vita s. Bonifatii archiepiscopi auctore Willibaldo presbytero, ed. Georg Heinric
    </page><page>
       <title>Chronicon Aquitanicum</title>
       <ns>0</ns>
-      <id>3108</id>
+      <id>3109</id>
       <revision>
-         <id>3108</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3109</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13269,10 +13455,10 @@ Chronicon Aquitanicum, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S.
    </page><page>
       <title>Vita s. Idae</title>
       <ns>0</ns>
-      <id>3109</id>
+      <id>3110</id>
       <revision>
-         <id>3109</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3110</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13333,10 +13519,10 @@ Ex vita s. Idae auctore Uffingo monacho Werthiniensi, ed. Georg Heinrich Pertz, 
    </page><page>
       <title>Vita sanctae Chrothildis</title>
       <ns>0</ns>
-      <id>3110</id>
+      <id>3111</id>
       <revision>
-         <id>3110</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3111</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13397,10 +13583,10 @@ Vita sanctae Chrothildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1
    </page><page>
       <title>Vita sancti Arnulfi</title>
       <ns>0</ns>
-      <id>3111</id>
+      <id>3112</id>
       <revision>
-         <id>3111</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3112</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13461,10 +13647,10 @@ Vita sancti Arnulfi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 1888, 
    </page><page>
       <title>Genealogia regum Francorum</title>
       <ns>0</ns>
-      <id>3112</id>
+      <id>3113</id>
       <revision>
-         <id>3112</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3113</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13525,10 +13711,10 @@ Regum Francorum genealogiae, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 18
    </page><page>
       <title>Vitae sanctorum Columbani</title>
       <ns>0</ns>
-      <id>3113</id>
+      <id>3114</id>
       <revision>
-         <id>3113</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3114</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13589,10 +13775,10 @@ Vitae Columbani abbatis discipulorumque eius libri II, ed. Bruno Krusch, in: MGH
    </page><page>
       <title>Chronicon sancti Martini Coloniensis</title>
       <ns>0</ns>
-      <id>3114</id>
+      <id>3115</id>
       <revision>
-         <id>3114</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3115</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13653,10 +13839,10 @@ Chronicon Sancti Martini Coloniensis, ed. Georg Heinrich Pertz, in: MGH SS 2, Ha
    </page><page>
       <title>Annales breves Fuldenses</title>
       <ns>0</ns>
-      <id>3115</id>
+      <id>3116</id>
       <revision>
-         <id>3115</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3116</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13717,10 +13903,10 @@ Annales breves Fuldenses ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, 
    </page><page>
       <title>Vita S. Rimberti archiepiscopi Hammaburgensis</title>
       <ns>0</ns>
-      <id>3116</id>
+      <id>3117</id>
       <revision>
-         <id>3116</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3117</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13781,10 +13967,10 @@ Vita s. Rimberti ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S. 764-7
    </page><page>
       <title>Translatio s. Pusinnae</title>
       <ns>0</ns>
-      <id>3117</id>
+      <id>3118</id>
       <revision>
-         <id>3117</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3118</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13845,10 +14031,10 @@ Ex historia translationis sanctae Pusinnae ed. Georg Heinrich Pertz, in: MGH SS 
    </page><page>
       <title>Historia translationis s. Viti</title>
       <ns>0</ns>
-      <id>3118</id>
+      <id>3119</id>
       <revision>
-         <id>3118</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3119</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13909,10 +14095,10 @@ Historia translationis s. Viti, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover
    </page><page>
       <title>Passio sancti Sigismundi regis</title>
       <ns>0</ns>
-      <id>3119</id>
+      <id>3120</id>
       <revision>
-         <id>3119</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3120</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -13973,10 +14159,10 @@ Passio sancti Sigismundi regis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hann
    </page><page>
       <title>Gesta Theoderici regis. Vita ex Aimoino hausta</title>
       <ns>0</ns>
-      <id>3120</id>
+      <id>3121</id>
       <revision>
-         <id>3120</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3121</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14037,10 +14223,10 @@ Gesta Theoderici regis. Vita ex Aimoino hausta, ed. Bruno Krusch, in: MGH SS rer
    </page><page>
       <title>Vita s. Radegundis</title>
       <ns>0</ns>
-      <id>3121</id>
+      <id>3122</id>
       <revision>
-         <id>3121</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3122</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14101,10 +14287,10 @@ De vita sanctae Radegundis libri duo, ed. Bruno Krusch, in: MGH SS rer. Merov. 2
    </page><page>
       <title>Vita sancti Chlodovaldi</title>
       <ns>0</ns>
-      <id>3122</id>
+      <id>3123</id>
       <revision>
-         <id>3122</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3123</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14165,10 +14351,10 @@ Vita sancti Chlodovaldi, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita s. Geretrudis</title>
       <ns>0</ns>
-      <id>3123</id>
+      <id>3124</id>
       <revision>
-         <id>3123</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3124</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14229,10 +14415,10 @@ Vita sanctae Geretrudis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita sanctae Balthildis</title>
       <ns>0</ns>
-      <id>3124</id>
+      <id>3125</id>
       <revision>
-         <id>3124</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3125</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14293,10 +14479,10 @@ Vita sanctae Balthildis, ed. Bruno Krusch, in: MGH SS rer. Merov. 2, Hannover 18
    </page><page>
       <title>Vita Dagoberti III. regis Francorum</title>
       <ns>0</ns>
-      <id>3125</id>
+      <id>3126</id>
       <revision>
-         <id>3125</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3126</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14357,10 +14543,10 @@ Vita Dagoberti III. regis Francorum, ed. Bruno Krusch, in: MGH SS rer. Merov. 2,
    </page><page>
       <title>Annales S. Albani Moguntini</title>
       <ns>0</ns>
-      <id>3126</id>
+      <id>3127</id>
       <revision>
-         <id>3126</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3127</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14421,10 +14607,10 @@ Annales Wirziburgenses, ed. Georg Heinrich Pertz, in: MGH SS 2, Hannover 1829, S
    </page><page>
       <title>Gesta Theoderici regis. Vita Fuldensis</title>
       <ns>0</ns>
-      <id>3127</id>
+      <id>3128</id>
       <revision>
-         <id>3127</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3128</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14485,10 +14671,10 @@ Gesta Theoderici regis. Vita Fuldensis, ed. Bruno Krusch, in: MGH SS rer. Merov.
    </page><page>
       <title>Historiae Francorum libri quatuor</title>
       <ns>0</ns>
-      <id>3128</id>
+      <id>3129</id>
       <revision>
-         <id>3128</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3129</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14549,11 +14735,11 @@ Aimoini historiae Francorum libri quatuor, ed. Jacques-Paul Migne, in: PL 139, P
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -14652,10 +14838,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon Novaliciense</title>
       <ns>0</ns>
-      <id>3129</id>
+      <id>3130</id>
       <revision>
-         <id>3129</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3130</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14715,11 +14901,11 @@ Chronicon Novaliciense, ed. Ludwig Konrad Bethmann, in: MGH SS 7, Hannover 1846,
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -14877,10 +15063,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronicon Moissiacense</title>
       <ns>0</ns>
-      <id>3130</id>
+      <id>3131</id>
       <revision>
-         <id>3130</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3131</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -14940,11 +15126,11 @@ Chronicon Moissiacense, ed. Georg Heinrich Pertz, in: MGH SS 1, Hannover 1826, S
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -15088,10 +15274,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Historiarum libri IV</title>
       <ns>0</ns>
-      <id>3131</id>
+      <id>3132</id>
       <revision>
-         <id>3131</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3132</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -15151,11 +15337,11 @@ Richer von Saint-Remi, Historiarum libri IV ed. Hartmut Hoffmann (MGH SS 38), Ha
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1050" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -15236,10 +15422,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Chronica Muzarabica</title>
       <ns>0</ns>
-      <id>3132</id>
+      <id>3133</id>
       <revision>
-         <id>3132</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3133</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -15300,11 +15486,11 @@ Abfassungszeit=um 754
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="550  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="550" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="560" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="705" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="715" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="715" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="550" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="560" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="560" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="550"  y1="80" x2="800" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="550" y1="0" x2="550" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -15668,10 +15854,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Gregorii abbatis prior</title>
       <ns>0</ns>
-      <id>3133</id>
+      <id>3134</id>
       <revision>
-         <id>3133</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3134</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -15732,11 +15918,11 @@ Vita Gregorii abbatis prior, ed. Oswald Holder-Egger, in: MGH SS 15,2, Hannover 
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1100" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -15810,10 +15996,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Vita Gregorii abbatis porcetensis posterior</title>
       <ns>0</ns>
-      <id>3134</id>
+      <id>3135</id>
       <revision>
-         <id>3134</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3135</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -15873,11 +16059,11 @@ Vita Gregorii abbatis porcetensis posterior, ed. Oswald Holder-Egger, in: MGH SS
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="850  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="850" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="860" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="1005" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="1015" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="1015" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="850" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="860" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="860" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="850"  y1="80" x2="1150" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="850" y1="0" x2="850" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
@@ -15954,10 +16140,10 @@ Sarazenenbezug=ja
    </page><page>
       <title>Annales Mettenses priores</title>
       <ns>0</ns>
-      <id>3135</id>
+      <id>3136</id>
       <revision>
-         <id>3135</id>
-         <timestamp>2021-03-25T18:38:27Z</timestamp>
+         <id>3136</id>
+         <timestamp>2021-03-26T18:06:41Z</timestamp>
          <contributor>
             <username>Administrator</username>
             <id>1</id>
@@ -16017,11 +16203,11 @@ Annales Mettenses priores, ed. Bernhard von Simson (MGH SS rer. Germ. [10]), Han
                 &lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="650  0 900 150" &gt;
                         &lt;g&gt;  
                         &lt;rect x="650" y="96" width="8" height="8" class="box-legende box-bericht" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="105" class="legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
+                        &lt;text x="660" y="105" class="svg-legende" id="text-bericht" &gt;Berichtszeitraum des Werks &lt;/text&gt;
                         &lt;rect x="805" y="96" width="8" height="8"  class="box-legende box-abfassung" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="815" y="105" class="legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
+                        &lt;text x="815" y="105" class="svg-legende" id="text-abfassung"&gt;Abfassungszeitraum des Werks &lt;/text&gt;                        
                         &lt;rect x="650" y="111" width="8" height="8" class="box-legende box-aufgenommen" style="fill-opacity:0.9;"/&gt;
-                        &lt;text x="660" y="120" class="legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
+                        &lt;text x="660" y="120" class="svg-legende" id="text-aufgenommen"&gt; ins Repertorium aufgenommene Bericht &lt;/text&gt;
                         &lt;line id="x-axis" x1="650"  y1="80" x2="900" y2="80" stroke="black" stroke-width="2" stroke-linecap="butt"/&gt;
                     
                              &lt;line  x1="650" y1="0" x2="650" y2="80" stroke="grey" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="4"/&gt;      
