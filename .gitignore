@@ -4,9 +4,6 @@ deprecated
 .idea
 temp
 SaxonHE9-9-0-2J
-wiki
-afs/timeline/*
-afs/extensions/*
 files/old
 output/*.xml
 output/single/*.xml
