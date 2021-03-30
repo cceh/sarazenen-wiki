@@ -54,6 +54,27 @@ Die linke Spalte defeniert welche Dokumente abgefragt werden sollen und verfeine
 
 ## Installation ##
 ### Mediawiki ###
+Mediawiki herunterladen
+https://releases.wikimedia.org/mediawiki/1.31/mediawiki-1.31.12.zip
+
+Die genutzte Version ist `1.31`.
+
+__UNVOLLSTÄNDIG__
+
+Mediawiki herunterladen
+
+LocalSettings.php anpassen
+
+install ausführen
+
+composer ausführen(?)
+
+AFS Dateien hochladen, LocalSettings.php überschreiben
+
+update.php ausführen (?)
+
+Import ausführen
+
 #### composer ####
 ausführen von composer
 #### LocalSettings.php ####
@@ -89,22 +110,28 @@ wfLoadExtension('SemanticResultFormats');
 enableSemantics( 'saraceni.uni-koeln.de' );
 wfLoadExtension( 'CategoryTree' );
 
+## Matomo / piwik Einstellungen ##
+wfLoadExtension( 'Matomo' );
+$wgMatomoURL = "https://webstats.cceh.uni-koeln.de";
+$wgMatomoIDSite = "26";
+
 ```
 
 #### Herunterzuladene Inhalte 
 
-https://www.mediawiki.org/wiki/Extension:Admin_Links
-https://www.mediawiki.org/wiki/Extension:CategorySortHeaders
-https://www.mediawiki.org/wiki/Extension:Data_Transfer
-https://www.mediawiki.org/wiki/Extension:External_Data
-https://www.mediawiki.org/wiki/Extension:Page_Schemas
-https://www.mediawiki.org/wiki/Extension:Semantic_Compound_Queries
-https://www.mediawiki.org/wiki/Extension:Semantic_Drilldown
-https://www.mediawiki.org/wiki/Extension:Semantic_Internal_Objects
-https://www.mediawiki.org/wiki/Extension:HTML_Tags
-https://www.mediawiki.org/wiki/Extension:TextExtracts
-https://www.mediawiki.org/wiki/Extension:PageImages
-https://www.mediawiki.org/wiki/Extension:Popups
+- https://www.mediawiki.org/wiki/Extension:Admin_Links
+- https://www.mediawiki.org/wiki/Extension:CategorySortHeaders
+- https://www.mediawiki.org/wiki/Extension:Data_Transfer
+- https://www.mediawiki.org/wiki/Extension:External_Data
+- https://www.mediawiki.org/wiki/Extension:Page_Schemas
+- https://www.mediawiki.org/wiki/Extension:Semantic_Compound_Queries
+- https://www.mediawiki.org/wiki/Extension:Semantic_Drilldown
+- https://www.mediawiki.org/wiki/Extension:Semantic_Internal_Objects
+- https://www.mediawiki.org/wiki/Extension:HTML_Tags
+- https://www.mediawiki.org/wiki/Extension:TextExtracts
+- https://www.mediawiki.org/wiki/Extension:PageImages
+- https://www.mediawiki.org/wiki/Extension:Popups
+- https://www.mediawiki.org/wiki/Extension:Matomo
 
 ### AFS ###
 #### htaccess ####
