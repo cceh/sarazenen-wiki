@@ -82,7 +82,7 @@
 </xsl:for-each>
         </mediawiki>
     </xsl:template>
-    <xsl:template match="div | pre | noinclude | onlyinclude | h2 | h3 | p | tr | td | table" xml:space="default">
+    <xsl:template match="div | pre | noinclude | onlyinclude | h2 | h3 | p | tr | td | table | nowiki | code | categorytree" xml:space="default">
         <xsl:choose>
 <xsl:when test="exists(./attribute())">
 &lt;<xsl:value-of select="name()"/><xsl:text> </xsl:text><xsl:for-each select="./attribute()"><xsl:value-of select="name()"/>=&quot;<xsl:value-of select="."/>&quot; </xsl:for-each>&gt;
